@@ -1,3 +1,19 @@
+// Copyright (c) 2023 Symbol Not Found L.L.C.
+//
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+//
+//     http://www.apache.org/licenses/LICENSE-2.0
+//
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
+//
+// github:SymbolNotFound/ggp-site/gamewiki/gameinfo.go
+
 package gamewiki
 
 type GamesList struct {
@@ -34,14 +50,21 @@ type GameInfo struct {
 
 	// Local path where the game's rule definition can be found (if it exists).
 	Rulesheet string `json:"rulesheet,omitempty"`
+
 	// Additional notes I was making when first compiling this list.
 	ExtraNotes []string `json:"notes,omitempty"`
 
 	// The measurable features of this game.
-	Measures GameMeasures `json:"measures,omitempty"`
+	Complexity GameComplexity `json:"complexity,omitempty"`
+
+	// The measurable features of this game.
+	LegacyComplexity GameComplexity `json:"measures,omitempty"`
 
 	// Comparative values for this game relative to other games.
-	Scores GameScores `json:"scores,omitempty"`
+	LegacyMeasures GameMeasures `json:"scores,omitempty"`
+
+	// Comparative values for this game relative to other games.
+	Measures GameMeasures `json:"measures,omitempty"`
 }
 
 type GameStatus string
@@ -66,7 +89,7 @@ const (
 type GameComplexity struct {
 	BoardUsage           float32 `json:"Board Usage"`
 	MinMatchLength       uint    `json:"min(Match Length)"`
-	MaxMatchLength       uint		 `json:"max(Match Length)"`
+	MaxMatchLength       uint    `json:"max(Match Length)"`
 	RuleComplexity       float32 `json:"Rule Complexity"`
 	EquipmentComplexity  float32 `json:"Equipment Complexity"`
 	BranchingFactor      float32 `json:"Branching Factor"`
@@ -80,10 +103,10 @@ type GameComplexity struct {
 // Measurements based on the complexity scores above, attempting to model the
 // qualities of a game relative to other (similar and different) games.
 type GameMeasures struct {
-	Simplicity    float32 `json:"Simplicity"`
-	Clarity       float32 `json:"Clarity"`
-	Efficiency    float32 `json:"Efficiency"`
-	Depth         float32 `json:"Relative Depth"`
-	Elegance      float32 `json:"Elegance"`
-	Shibui        float32 `json:"Shibui"`
+	Simplicity float32 `json:"Simplicity"`
+	Clarity    float32 `json:"Clarity"`
+	Efficiency float32 `json:"Efficiency"`
+	RelDepth   float32 `json:"Relative Depth"`
+	Elegance   float32 `json:"Elegance"`
+	Shibui     float32 `json:"Shibui"`
 }
