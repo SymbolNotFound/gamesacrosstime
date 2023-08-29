@@ -57,12 +57,6 @@ type GameInfo struct {
 	// The measurable features of this game.
 	Complexity GameComplexity `json:"complexity,omitempty"`
 
-	// The measurable features of this game.
-	LegacyComplexity GameComplexity `json:"measures,omitempty"`
-
-	// Comparative values for this game relative to other games.
-	LegacyMeasures GameMeasures `json:"scores,omitempty"`
-
 	// Comparative values for this game relative to other games.
 	Measures GameMeasures `json:"measures,omitempty"`
 }
