@@ -1,0 +1,253 @@
+{id:"roles/competitive",name:"Competitive Game"}
+{id:"roles/cooperative",name:"Cooperative Game"}
+{id:"roles/teams",name:"Team-Based Game"}
+{id:"roles/solo",name:"Solo Game"}
+{id:"roles/semi-coop",name:"Semi-Cooperative Game"}
+{id:"roles/single-loser",name:"Single-Loser Game"}
+{id:"roles/traitor",name:"Traitor Game"}
+{id:"roles/mission",name:"Scenario / Mission / Campaign"}
+{id:"roles/storytelling",name:"Storytelling"}
+{id:"roles/role-playing",name:"Role Playing"}
+{id:"roles/score-reset",name:"Score-and-Reset Game"}
+{id:"roles/legacy",name:"Legacy Games"}
+{id:"turns/fixed-order",name:"Fixed Turn Order"}
+{id:"turns/stat-order",name:"Statistical Turn Order"}
+{id:"turns/bid-order",name:"Bidded Turn Order"}
+{id:"turns/progressive",name:"Progressive Turn Order"}
+{id:"turns/claim",name:"Claim Turn Order"}
+{id:"turns/pass",name:"Pass Turn Order"}
+{id:"turns/simultaneous",name:"Simultaneous Action Selection"}
+{id:"turns/realtime",name:"Real-Time Action"}
+{id:"turns/phased-realtime",name:"Phased Realtime"}
+{id:"turns/role-order",name:"Role-based Turn Order"}
+{id:"turns/random",name:"Random Turn Order"}
+{id:"turns/timer",name:"Action Timer"}
+{id:"turns/time-track",name:"Time Track"}
+{id:"turns/order-markers",name:"Order Markers"}
+{id:"turns/action-token",name:"Passed Action Token"}
+{id:"turns/phased-interleaved",name:"Interleaved Action Phases (Meta-Turn)"}
+{id:"turns/phased-sequential",name:"Sequential Action Phases (Meta-Turn)"}
+{id:"turns/lose-a-turn",name:"Lose a Turn"}
+{id:"turns/interrupts",name:"Interrupts"}
+{id:"actions/points",name:"Action Points"}
+{id:"actions/drafting",name:"Action Drafting"}
+{id:"actions/retrieval",name:"Action Retrieval"}
+{id:"actions/event-option",name:"Action or Event"}
+{id:"actions/command",name:"Command Cards"}
+{id:"actions/battle-card",name:"Actions by Battle Cards"}
+{id:"actions/punishment",name:"Direct Conflict / Punishment"}
+{id:"actions/queue",name:"Action Queue"}
+{id:"actions/shared-queue",name:"Shared Action Queue"}
+{id:"actions/follow",name:"Action Following"}
+{id:"actions/order-tokens",name:"Action Order Tokens"}
+{id:"actions/rondel",name:"Rondel"}
+{id:"actions/restricted",name:"Action Selection Restrictions"}
+{id:"actions/variable-powers",name:"Variable Player Powers"}
+{id:"actions/single-use",name:"Once-per-Game Abilities"}
+{id:"actions/advantage",name:"Advantage Token"}
+{id:"actions/gating-unlocking",name:"Gating and Unlocking"}
+{id:"actions/tech-progress",name:"Tech Trees / Tracks / Bonuses"}
+{id:"actions/tableau",name:"Tableau Building"}
+{id:"actions/events",name:"Events"}
+{id:"actions/choice",name:"Narrative Choice"}
+{id:"actions/bingo",name:"Bingo"}
+{id:"actions/layering",name:"Action Layering"}
+{id:"actions/pickup-deliver",name:"Pick-Up and Deliver"}
+{id:"actions/slide-push",name:"Slide / Push"}
+{id:"actions/physical-removal",name:"Physical Removal"}
+{id:"actions/matching",name:"Matching"}
+{id:"actions/drawing",name:"Drawing (Pictures)"}
+{id:"actions/line-drawing",name:"Line Drawing"}
+{id:"resolve/high-value",name:"High Value Resolution"}
+{id:"resolve/stat-check",name:"Stat Check Resolution"}
+{id:"resolve/critical",name:"Critical Hits and Failures"}
+{id:"resolve/table",name:"Result Table Resolution"}
+{id:"resolve/simulation",name:"Simulation"}
+{id:"resolve/icon-dice",name:"Icon Dice Resolution"}
+{id:"resolve/cube-tower",name:"Cube Tower"}
+{id:"resolve/card-play",name:"Card Play Resolution"}
+{id:"resolve/janken",name:"Rock / Paper / Scissors"}
+{id:"resolve/prisoners-dilemma",name:"Prisoner's Dilemma"}
+{id:"resolve/physical-action",name:"Physical Action Resolution"}
+{id:"resolve/static-capture",name:"Static Capture"}
+{id:"resolve/enclosure",name:"Enclosure"}
+{id:"resolve/minimap",name:"Minimap Resolution"}
+{id:"resolve/force-commit",name:"Force Commitment"}
+{id:"resolve/voting",name:"Voting"}
+{id:"resolve/player-judge",name:"Player Judgement Resolution"}
+{id:"resolve/targeted-clues",name:"Targeted Clues"}
+{id:"resolve/tiebreaking",name:"Tie-breaking Resolution"}
+{id:"resolve/select-dice",name:"Dice Selection Resolution"}
+{id:"resolve/action-speed",name:"Action Speed Resolution"}
+{id:"resolve/dice-reroll-lock",name:"Re-rolling and Locking"}
+{id:"resolve/kill-steal",name:"Kill Stealing"}
+{id:"resolve/hot-potato",name:"Hot Potato (Timing Resolution)"}
+{id:"resolve/flicking",name:"Flicking"}
+{id:"resolve/stack-balance",name:"Stacking and Balancing"}
+{id:"resolve/neighbor-scope",name:"Neighbor Scope Resolution"}
+{id:"victory/victory-state",name:"Victory Points from Game State"}
+{id:"victory/victory-actions",name:"Victory Points from Player Actions"}
+{id:"victory/temporary-points",name:"Temporary Victory Points"}
+{id:"victory/permanent-points",name:"Permanent Victory Points"}
+{id:"victory/points-resource",name:"Victory Points as a Resource"}
+{id:"victory/points-hidden",name:"Hidden Victory Points"}
+{id:"victory/points-exposed",name:"Exposed Victory Points"}
+{id:"victory/goal-bonuses",name:"End-Game Bonuses"}
+{id:"victory/goal-race",name:"Victory by Racing"}
+{id:"victory/elimination",name:"Victory by Elimination"}
+{id:"victory/fixed-rounds",name:"Fixed Number of Rounds"}
+{id:"victory/exhaustion",name:"Victory by Resource Exhaustion"}
+{id:"victory/objectives",name:"Victory by Completing Objectives"}
+{id:"victory/fixed-events",name:"Fixed Number of Events"}
+{id:"victory/elapsed-realtime",name:"Elapsed Real-Time Termination"}
+{id:"victory/connections",name:"Victory by Connections"}
+{id:"victory/sudden-death",name:"Sudden Death / Circuit Breaker"}
+{id:"victory/finale",name:"End-Game Finale"}
+{id:"victory/king-hill",name:"King of the Hill"}
+{id:"victory/catch-leader",name:"Catch the Leader"}
+{id:"victory/tug-of-war",name:"Tug of War"}
+{id:"victory/highest-lowest",name:"Highest-Lowest Value"}
+{id:"victory/ordering",name:"Object Ordering Objective"}
+{id:"victory/arrangement",name:"Object Arrangement Objective"}
+{id:"victory/recognition",name:"Pattern Recognition Objective"}
+{id:"uncertain/betting-bluffing",name:"Betting and Bluffing"}
+{id:"uncertain/luck-pressure",name:"Luck Pressure"}
+{id:"uncertain/memory",name:"Memory"}
+{id:"uncertain/hidden-roles",name:"Hidden Roles"}
+{id:"uncertain/secret-unit",name:"Secret Unit Deployment"}
+{id:"uncertain/chit-pull",name:"Chit-Pull System"}
+{id:"uncertain/asymmetric-info",name:"Asymmetric Information"}
+{id:"uncertain/comm-limits",name:"Communication Limits"}
+{id:"uncertain/unknown-info",name:"Unknown Information"}
+{id:"uncertain/hidden-info",name:"Hidden Information"}
+{id:"uncertain/fog-of-war",name:"Fog of War"}
+{id:"uncertain/probability-mgmt",name:"Probability Management"}
+{id:"uncertain/variable-setup",name:"Variable Setup"}
+{id:"uncertain/hidden-control",name:"Hidden Control"}
+{id:"uncertain/deduction",name:"Deduction"}
+{id:"uncertain/induction",name:"Induction"}
+{id:"uncertain/question-answer",name:"Questions and Answers"}
+{id:"economic/exchanging",name:"Exchanging Value"}
+{id:"economic/trading",name:"Trading Value"}
+{id:"economic/market",name:"Market"}
+{id:"economic/stock-holding",name:"Stock Holding"}
+{id:"economic/commodities",name:"Commodity Speculation"}
+{id:"economic/delay-purchase",name:"Delayed Purchase"}
+{id:"economic/income",name:"Income"}
+{id:"economic/idle-growth",name:"Automatic Resource Growth"}
+{id:"economic/random-production",name:"Random Production"}
+{id:"economic/loans",name:"Loans"}
+{id:"economic/purchase-available",name:"Always Available Purchase"}
+{id:"economic/cake-cutting",name:"I Cut, You Choose"}
+{id:"economic/discounts",name:"Discounts"}
+{id:"economic/upgrades",name:"Upgrades"}
+{id:"economic/investment",name:"Investment"}
+{id:"economic/ownership",name:"Ownership"}
+{id:"economic/contracts",name:"Contracts"}
+{id:"economic/bribery",name:"Bribery"}
+{id:"economic/unchosen-value",name:"Increase Value of Unchosen Resources"}
+{id:"economic/negotiation",name:"Negotiation"}
+{id:"economic/alliances",name:"Forming Alliances"}
+{id:"economic/resource-queue",name:"Resource Queue"}
+{id:"auction/open",name:"Open Auction"}
+{id:"auction/english",name:"English Auction"}
+{id:"auction/turn-until-pass",name:"Turn Order Until Pass Auction"}
+{id:"auction/sealed-bid",name:"Sealed-Bid Auction"}
+{id:"auction/sealed-cancelable",name:"Sealed-Bid with Cancellation"}
+{id:"auction/constrained",name:"Constrained Bidding"}
+{id:"auction/once-around",name:"Once-Around Auction"}
+{id:"auction/dutch",name:"Dutch Auction"}
+{id:"auction/second-bid",name:"Second-Bid Auction"}
+{id:"auction/selection-order",name:"Selection Order Bid"}
+{id:"auction/multiple-lot",name:"Multiple-Lot Auction"}
+{id:"auction/closed-economy",name:"Closed-Economy Auction"}
+{id:"auction/predictive",name:"Predictive Bid"}
+{id:"auction/reverse",name:"Reverse Auction"}
+{id:"auction/dexterity",name:"Dexterity Auction"}
+{id:"auction/fixed-placement",name:"Fixed-Placement Auction"}
+{id:"auction/dutch-priority",name:"Dutch Priority Auction"}
+{id:"auction/bidding-wager",name:"Bids as Wagers"}
+{id:"auction/compensation",name:"Auction Compensation"}
+{id:"workers/standard-placement",name:"Standard Worker Placement"}
+{id:"workers/varying-types",name:"Workers of Varying Types"}
+{id:"workers/acquire-depart",name:"Acquiring and Departing Workers"}
+{id:"workers/workers-as-dice",name:"Workers-as-Dice"}
+{id:"workers/building-control",name:"Adding and Blocking Buildings"}
+{id:"workers/single",name:"Single Workers"}
+{id:"workers/building-rewards",name:"Building Actions and Rewards"}
+{id:"workers/turn-order",name:"Worker-Driven Turn Order"}
+{id:"workers/resolution-order",name:"Worker-Driven Resolution Order"}
+{id:"move/grid",name:"Grid Movement"}
+{id:"move/graph",name:"Point-to-Point Movement"}
+{id:"move/area",name:"Area Movement"}
+{id:"move/third-dimension",name:"Three Dimensional Movement"}
+{id:"move/roll",name:"Roll and Move"}
+{id:"move/varying-dice",name:"Varying Dice"}
+{id:"move/pattern",name:"Pattern Movement"}
+{id:"move/points",name:"Movement Points"}
+{id:"move/resource",name:"Resource to Move"}
+{id:"move/measurement",name:"Measurement"}
+{id:"move/drift",name:"Drift"}
+{id:"move/impulse",name:"Impulse Movement"}
+{id:"move/programmed",name:"Programmed Movement"}
+{id:"move/relative",name:"Relative Movement"}
+{id:"move/mancala",name:"Mancala Movement"}
+{id:"move/chaining",name:"Movement Chaining"}
+{id:"move/bias",name:"Movement Bias"}
+{id:"move/multi-unit",name:"Moving Multiple Units"}
+{id:"move/through-deck",name:"Move Through Deck"}
+{id:"move/template",name:"Movement Template"}
+{id:"move/pieces-as-map",name:"Pieces as Map"}
+{id:"move/shorcuts",name:"Shortcuts"}
+{id:"move/hidden",name:"Hidden Movement"}
+{id:"board/path",name:"Path Movement"}
+{id:"board/track",name:"Track Movement"}
+{id:"board/spiral",name:"Spiral Path"}
+{id:"board/rect-grid",name:"Rectangular Grid"}
+{id:"board/hex-grid",name:"Hexagonal Grid"}
+{id:"board/octo-grid",name:"Octagonal Grid"}
+{id:"board/tri-grid",name:"Triangular Grid"}
+{id:"board/modular",name:"Modular Board"}
+{id:"board/multi-map",name:"Multiple Maps"}
+{id:"board/paper-pencil",name:"Paper and Pencil"}
+{id:"board/crayon-rail",name:"Crayon Rail System"}
+{id:"board/map-addition",name:"Map Addition"}
+{id:"board/map-reduction",name:"Map Reduction"}
+{id:"board/map-deforming",name:"Map Deformation"}
+{id:"capture/approach",name:"Approach Capture"}
+{id:"capture/bashni",name:"Bashni / Stacking Capture"}
+{id:"capture/othello",name:"Othello / N-Piece Capture"}
+{id:"capture/flying",name:"Flying Capture"}
+{id:"capture/huffing",name:"Huffing Capture"}
+{id:"capture/intercept",name:"Interception Capture"}
+{id:"capture/intervention",name:"Intervention Capture"}
+{id:"capture/short-leap",name:"Short Leap Capture"}
+{id:"capture/long-leap",name:"Long Leap Capture"}
+{id:"capture/push",name:"Push Capture"}
+{id:"capture/replace",name:"Replacement Capture"}
+{id:"capture/withdraw",name:"Withdrawal Capture"}
+{id:"area/absolute-control",name:"Absolute Control"}
+{id:"area/influence",name:"Area Majority / Influence"}
+{id:"area/troop-types",name:"Troop Types Area Control"}
+{id:"area/territories-regions",name:"Territories and Regions"}
+{id:"area/parameters",name:"Area Parameters"}
+{id:"area/force-project",name:"Force Projection"}
+{id:"area/zone-control",name:"Zone of Control"}
+{id:"area/line-of-sight",name:"Line of Sight"}
+{id:"area/impulse",name:"Area-Impulse"}
+{id:"sets/valuation",name:"Set Valuation"}
+{id:"sets/tile-placement",name:"Tile Placement"}
+{id:"sets/speed-match",name:"Speed Matching"}
+{id:"sets/grid-coverage",name:"Grid Coverage"}
+{id:"sets/network-building",name:"Network Building"}
+{id:"sets/combo-abilities",name:"Combo Abilities"}
+{id:"cards/trick-taking",name:"Trick Taking"}
+{id:"cards/ladder-climbing",name:"Ladder Climbing"}
+{id:"cards/melding",name:"Melding"}
+{id:"cards/deck-manage",name:"Deck Draw, Limits, Exhaustion"}
+{id:"cards/construction",name:"Deck Construction"}
+{id:"cards/assemble",name:"Deck Building"}
+{id:"cards/hand-manage",name:"Hand Management"}
+{id:"cards/drafting",name:"Card Drafting"}
+{id:"cards/multi-use",name:"Multi-Use Cards"}
+{id:"cards/tags",name:"Card Tags"}

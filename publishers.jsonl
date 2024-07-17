@@ -1,0 +1,1828 @@
+{"id":"unknown","name":"(Unknown)"}
+{"id":"public-domain","name":"(Public Domain)"}
+{"id":"self-published","name":"(Self-Published)"}
+{"id":"looking-for-a-publisher","name":"(Looking for a publisher)"}
+{"id":"web-published","name":"(Web published)"}
+{"id":"homoludicus","name":"HomoLudicus"}
+{"id":"leder-games","name":"Leder Games"}
+{"id":"tri-ang","name":"Tri-ang"}
+{"id":"la-haute-roche","name":"La Haute Roche"}
+{"id":"pestalozzi-verlag","name":"Pestalozzi-Verlag"}
+{"id":"rbm-studio","name":"RBM Studio"}
+{"id":"abysse-corp","name":"Abysse Corp."}
+{"id":"war-storm-series","name":"War Storm Series"}
+{"id":"selecta-spel-en-hobby","name":"Selecta Spel en Hobby"}
+{"id":"falomir-juegos","name":"Falomir Juegos"}
+{"id":"matagot","name":"Matagot"}
+{"id":"kuznia-gier","name":"Kuźnia Gier"}
+{"id":"ten-days-games","name":"テンデイズゲームズ (Ten Days Games)"}
+{"id":"hersch-company","name":"Hersch and Company"}
+{"id":"stancraft-products","name":"Stancraft Products"}
+{"id":"ludodelire","name":"Ludodélire"}
+{"id":"l2-design-group","name":"L2 Design Group"}
+{"id":"games-research-design","name":"Games Research/Design (GR/D)"}
+{"id":"brotherwise-games","name":"Brotherwise Games"}
+{"id":"delta-vision-publishing","name":"Delta Vision Publishing"}
+{"id":"cse-games","name":"CSE Games"}
+{"id":"hangom-games","name":"Hangom Games"}
+{"id":"publijuego","name":"Publijuego"}
+{"id":"bananagrams-inc","name":"Bananagrams, Inc."}
+{"id":"lets-play-games-llc","name":"Let's Play Games! LLC"}
+{"id":"eclipse-editorial","name":"Eclipse Editorial"}
+{"id":"kidultgame","name":"Kidultgame"}
+{"id":"pencil-first-games-llc","name":"Pencil First Games, LLC"}
+{"id":"queen-games","name":"Queen Games"}
+{"id":"boite-de-jeu","name":"La Boîte de Jeu"}
+{"id":"boardgame-mall","name":"Boardgame Mall"}
+{"id":"reveal-entertainment-inc","name":"Reveal Entertainment, Inc."}
+{"id":"playmonster","name":"PlayMonster"}
+{"id":"juegos-ya-sl","name":"Juegos Ya S.L."}
+{"id":"17wanzy-yihu-bg","name":"17wanzy (Yihu BG)"}
+{"id":"wilder-manufacturing-co","name":"Wilder Manufacturing Co"}
+{"id":"immortal-eyes-games","name":"Immortal Eyes Games"}
+{"id":"cheatwell-games","name":"Cheatwell Games"}
+{"id":"dragon","name":"Dragon"}
+{"id":"galakta","name":"Galakta"}
+{"id":"idw-games","name":"IDW Games"}
+{"id":"die-spiegelburg","name":"Die Spiegelburg"}
+{"id":"engames","name":"Engames"}
+{"id":"pleasant-company-games","name":"Pleasant Company Games"}
+{"id":"bello-games-new-york-inc","name":"Bello Games New York, Inc."}
+{"id":"john-sands-pty-ltd","name":"John Sands Pty Ltd"}
+{"id":"clementoni","name":"Clementoni"}
+{"id":"go-games","name":"Go! Games"}
+{"id":"battlefront-miniatures-ltd","name":"Battlefront Miniatures Ltd"}
+{"id":"dv-games","name":"dV Giochi"}
+{"id":"pensamento-coletivo","name":"Pensamento Coletivo"}
+{"id":"jing-studio","name":"Jing Studio"}
+{"id":"asylum-games-board-games","name":"Asylum Games (Board Games)"}
+{"id":"plasmart","name":"PlaSmart"}
+{"id":"dont-panic-games","name":"Don't Panic Games"}
+{"id":"fisher-price","name":"Fisher Price"}
+{"id":"unikatoy","name":"Unikatoy"}
+{"id":"bewitched-spiele","name":"BeWitched Spiele"}
+{"id":"blue-panther","name":"Blue Panther"}
+{"id":"pendragon-game-studio","name":"Pendragon Game Studio"}
+{"id":"li-he-studio","name":"Li-He Studio"}
+{"id":"late-for-the-sky-production-company","name":"Late for the Sky Production Company"}
+{"id":"funko-games","name":"Funko Games"}
+{"id":"steve-jackson-games","name":"Steve Jackson Games"}
+{"id":"gaga-games","name":"GaGa Games"}
+{"id":"deutscher-taschenbuch-verlag","name":"dtv (Deutscher Taschenbuch Verlag)"}
+{"id":"moskito-spiele","name":"Moskito Spiele"}
+{"id":"playskool","name":"Playskool"}
+{"id":"holy-grail-games","name":"Holy Grail Games"}
+{"id":"jelly-jelly-games","name":"Jelly Jelly Games"}
+{"id":"gameworks-sarl","name":"GameWorks SàRL"}
+{"id":"michael-stanfield","name":"Michael Stanfield"}
+{"id":"time-life","name":"Time Life"}
+{"id":"revolution-games-ii","name":"Revolution Games (II)"}
+{"id":"tactic","name":"Tactic"}
+{"id":"chessex","name":"Chessex"}
+{"id":"wotan-games","name":"Wotan Games"}
+{"id":"sovranti","name":"Sovranti"}
+{"id":"ad-astra-games","name":"Ad Astra Games"}
+{"id":"nuts-publishing","name":"Nuts! Publishing"}
+{"id":"tlama-games","name":"TLAMA games"}
+{"id":"smirk-laughter-games","name":"Smirk \u0026 Laughter Games"}
+{"id":"cactus-game-design","name":"Cactus Game Design"}
+{"id":"grimspire","name":"Grimspire"}
+{"id":"mondadori-giochi","name":"Mondadori Giochi"}
+{"id":"3w-world-wide-wargames","name":"3W (World Wide Wargames)"}
+{"id":"decipher","name":"Decipher"}
+{"id":"kadon-enterprises","name":"Kadon Enterprises"}
+{"id":"lagoon-games","name":"Lagoon Games"}
+{"id":"pressman-toy-corp","name":"Pressman Toy Corp."}
+{"id":"super-meeple","name":"Super Meeple"}
+{"id":"u3","name":"U3"}
+{"id":"krimsus-krimskrams-kiste","name":"Krimsus Krimskrams-Kiste"}
+{"id":"quality-beast","name":"Quality Beast"}
+{"id":"kaleidosgames","name":"KaleidosGames"}
+{"id":"cryptozoic-entertainment","name":"Cryptozoic Entertainment"}
+{"id":"5th-street-games","name":"5th Street Games"}
+{"id":"breaking-games","name":"Breaking Games"}
+{"id":"heinrich-schwarz-co","name":"Heinrich Schwarz \u0026 Co"}
+{"id":"white-dog-games","name":"White Dog Games"}
+{"id":"garphill-games","name":"Garphill Games"}
+{"id":"miro-company","name":"Miro Company"}
+{"id":"fanfor-verlag","name":"Fanfor-Verlag"}
+{"id":"hobby-products-gmbh","name":"Hobby Products GmbH"}
+{"id":"bambus-spieleverlag","name":"Bambus Spieleverlag"}
+{"id":"play-win","name":"Play \u0026 Win"}
+{"id":"western-publishing-company","name":"Western Publishing Company"}
+{"id":"irwin-games","name":"IRWIN Games"}
+{"id":"koplow-games","name":"Koplow Games"}
+{"id":"puremco","name":"Puremco"}
+{"id":"yes-papa-games","name":"Yes Papa Games"}
+{"id":"walter-mullers-spielewerkstatt","name":"Walter Müller's Spielewerkstatt"}
+{"id":"rexhry","name":"REXhry"}
+{"id":"origames","name":"Origames"}
+{"id":"avstudiogames","name":"AVStudioGames"}
+{"id":"winning-solutions","name":"Winning Solutions (WS Game Company)"}
+{"id":"schwager-steinlein","name":"Schwager \u0026 Steinlein"}
+{"id":"poketto","name":"Poketto"}
+{"id":"corax-games","name":"Corax Games"}
+{"id":"white-wind","name":"White Wind"}
+{"id":"djeco","name":"Djeco"}
+{"id":"agema","name":"AGEMA"}
+{"id":"all-in-games","name":"All In Games"}
+{"id":"woodstock-spiele","name":"Woodstock Spiele"}
+{"id":"lanlalen","name":"Lanlalen"}
+{"id":"john-waddington-ltd","name":"John Waddington Ltd."}
+{"id":"jklm-games","name":"JKLM Games"}
+{"id":"ventonuovo-games","name":"VentoNuovo Games"}
+{"id":"deep-print-games","name":"Deep Print Games"}
+{"id":"schylling","name":"Schylling"}
+{"id":"funbot","name":"funbot"}
+{"id":"forbidden-games","name":"Forbidden Games"}
+{"id":"mts-games","name":"MTS Games"}
+{"id":"croner","name":"Croner"}
+{"id":"europa-simulazioni","name":"Europa Simulazioni"}
+{"id":"good-games-publishing","name":"Good Games Publishing"}
+{"id":"cadaco","name":"Cadaco"}
+{"id":"pixie-games","name":"Pixie Games"}
+{"id":"dal-tenda","name":"Dal Tenda"}
+{"id":"games-workshop-ltd","name":"Games Workshop Ltd."}
+{"id":"ystari-games","name":"Ystari Games"}
+{"id":"chris-lawson","name":"Chris Lawson"}
+{"id":"bv-leisure-ltd","name":"BV Leisure Ltd"}
+{"id":"cardinal","name":"Cardinal"}
+{"id":"crisloid","name":"Crisloid"}
+{"id":"neskucnye-igry","name":"Нескучные игры"}
+{"id":"studio-tomahawk","name":"Studio Tomahawk"}
+{"id":"board-game-rookie","name":"Board Game Rookie"}
+{"id":"millenium","name":"Millenium"}
+{"id":"nathan","name":"Nathan"}
+{"id":"fridgeplay","name":"FridgePlay"}
+{"id":"ace-studios","name":"Ace Studios"}
+{"id":"hopwood-games","name":"Hopwood Games"}
+{"id":"filosofia-editions","name":"Filosofia Éditions"}
+{"id":"kitfix-swallow-group","name":"Kitfix Swallow Group"}
+{"id":"granna","name":"Granna"}
+{"id":"hape-international","name":"HaPe International"}
+{"id":"gj-hayter-co-ltd","name":"G. J. Hayter \u0026 Co, Ltd."}
+{"id":"yuhodo-inc","name":"Yuhodo, Inc."}
+{"id":"shanghai-creative-tree","name":"Shanghai Creative Tree Cultural Spreading Co. LTD."}
+{"id":"murfett","name":"Murfett"}
+{"id":"ideal","name":"Ideal"}
+{"id":"gen-x-games","name":"Gen-X Games"}
+{"id":"paille-editions","name":"Païlle Editions"}
+{"id":"ms-jogos","name":"MS Jogos"}
+{"id":"green-board-game-co","name":"Green Board Game Co."}
+{"id":"rawstone","name":"Rawstone"}
+{"id":"elfinwerks","name":"ElfinWerks"}
+{"id":"stolitsa-design-group","name":"Stolitsa Design Group"}
+{"id":"dr-finns-games","name":"Dr. Finn's Games"}
+{"id":"board-dice","name":"Board\u0026Dice"}
+{"id":"soso-studio","name":"Soso Studio"}
+{"id":"out-of-the-box-publishing","name":"Out of the Box Publishing"}
+{"id":"sphinx-spieleverlag","name":"Sphinx Spieleverlag"}
+{"id":"studio-supernova","name":"Studio Supernova"}
+{"id":"brio-ab","name":"Brio AB"}
+{"id":"devil-pig-games","name":"Devil Pig Games"}
+{"id":"holzinsel","name":"Holzinsel"}
+{"id":"g3","name":"G3"}
+{"id":"diset-s-a","name":"Diset S. A."}
+{"id":"takara","name":"Takara"}
+{"id":"isold-ehf","name":"Ísöld ehf."}
+{"id":"l-p-septimio","name":"L. P. Septímio"}
+{"id":"smart-toys-games-inc","name":"Smart Toys and Games, Inc."}
+{"id":"nazca-games","name":"Nazca Games"}
+{"id":"alley-cat-games","name":"Alley Cat Games"}
+{"id":"cosmic-games","name":"Cosmic Games"}
+{"id":"family-games-inc","name":"Family Games, Inc."}
+{"id":"mercurio","name":"Mercurio"}
+{"id":"otto-maier-benelux-bv","name":"Otto Maier Benelux B.V."}
+{"id":"toy-vault-inc","name":"Toy Vault, Inc."}
+{"id":"prolific-games","name":"Prolific Games"}
+{"id":"fabryka-gier-historycznych","name":"Fabryka Gier Historycznych"}
+{"id":"spielworxx","name":"Spielworxx"}
+{"id":"merit","name":"Merit"}
+{"id":"creativamente","name":"CreativaMente"}
+{"id":"paletti","name":"Paletti"}
+{"id":"aristospel","name":"Aristospel"}
+{"id":"dexker-games","name":"Dexker Games"}
+{"id":"game-knight","name":"פרש משחקים - Game Knight"}
+{"id":"tcg-factory","name":"TCG Factory"}
+{"id":"hanall-m-c","name":"HANALL M\u0026C"}
+{"id":"fat-messiah-games","name":"Fat Messiah Games"}
+{"id":"land-of-beautiful-mind","name":"Land of Beautiful Mind (سرزمین ذهن زیبا)"}
+{"id":"invicta-games","name":"Invicta Games"}
+{"id":"alcyoncreative","name":"AlcyonCreative"}
+{"id":"walt-disney-productions","name":"Walt Disney Productions"}
+{"id":"pfifficus-spiele","name":"Pfifficus Spiele"}
+{"id":"galapagos-jogos","name":"Galápagos Jogos"}
+{"id":"thomas-salter-ltd","name":"Thomas Salter Ltd"}
+{"id":"simba-toys","name":"Simba Toys"}
+{"id":"megacon-games","name":"MegaCon Games"}
+{"id":"fragor-games","name":"Fragor Games"}
+{"id":"thistroy-games","name":"Thistroy Games"}
+{"id":"cathay","name":"Cathay"}
+{"id":"hp-gibson-sons","name":"H. P. Gibson \u0026 Sons"}
+{"id":"pepys-castell-brothers","name":"Pepys (Castell Brothers)"}
+{"id":"comic-images","name":"Comic Images"}
+{"id":"feelindigo","name":"Feelindigo"}
+{"id":"si-si-spiele","name":"Si-Si-Spiele"}
+{"id":"fotorama-usa","name":"Fotorama USA"}
+{"id":"amo-oy","name":"Amo Oy"}
+{"id":"side-room-games","name":"Side Room Games"}
+{"id":"saashi-and-saashi","name":"Saashi \u0026 Saashi"}
+{"id":"mobius-games","name":"Möbius Games"}
+{"id":"alga","name":"Alga"}
+{"id":"franjos-spieleverlag","name":"franjos Spieleverlag"}
+{"id":"japon-brand","name":"Japon Brand"}
+{"id":"worldwise-imports-llc","name":"WorldWise Imports, LLC"}
+{"id":"abalone-games","name":"Abalone Games"}
+{"id":"wingnut-games","name":"Wingnut Games"}
+{"id":"idea-edizioni","name":"Idea Edizioni"}
+{"id":"plan-b-games","name":"Plan B Games"}
+{"id":"artana","name":"Artana"}
+{"id":"sharp-point-publishing","name":"Sharp Point Publishing"}
+{"id":"iello","name":"IELLO"}
+{"id":"ludens-spirit","name":"Ludens Spirit"}
+{"id":"globe-series-of-games","name":"Globe Series of Games"}
+{"id":"mp-juegos","name":"MP Juegos"}
+{"id":"hallmark-games","name":"Hallmark Games"}
+{"id":"spika-gmbh","name":"SPIKA GmbH"}
+{"id":"jeux-rexton","name":"Jeux Rexton"}
+{"id":"outland","name":"Outland"}
+{"id":"m-agnes","name":"M-Ágnes"}
+{"id":"jactalea","name":"Jactalea"}
+{"id":"tasty-minstrel-games","name":"Tasty Minstrel Games"}
+{"id":"bragelonne-games","name":"Bragelonne Games"}
+{"id":"lui-meme","name":"Lui-même"}
+{"id":"rebel-sp-z-oo","name":"Rebel Sp. z o.o."}
+{"id":"espenlaub","name":"Espenlaub"}
+{"id":"galt-toys","name":"Galt Toys"}
+{"id":"gege-co-ltd","name":"GeGe Co. Ltd."}
+{"id":"gorilla-games","name":"Gorilla Games"}
+{"id":"play-with-us-design","name":"Play With Us Design (玩聚設計)"}
+{"id":"whsmith","name":"WHSmith"}
+{"id":"cogitate-games","name":"Cogitate Games"}
+{"id":"histoire-collections","name":"Histoire \u0026 Collections"}
+{"id":"green-couch-games","name":"Green Couch Games"}
+{"id":"skor-mor","name":"Skor-Mor"}
+{"id":"third-world-games","name":"Third World Games"}
+{"id":"pico-pao-juegos-antiguedad","name":"PICO PAO / Juegos de la Antigüedad"}
+{"id":"ganesha-games","name":"Ganesha Games"}
+{"id":"zvezda","name":"Zvezda"}
+{"id":"salagames","name":"Salagames"}
+{"id":"wyvern-gaming","name":"Wyvern Gaming"}
+{"id":"chaosium","name":"Chaosium"}
+{"id":"cutiaro","name":"cutia.ro"}
+{"id":"oriental-trading-company","name":"Oriental Trading Company"}
+{"id":"ninja-division","name":"Ninja Division"}
+{"id":"jack-darwid-games","name":"Jack Darwid Games"}
+{"id":"boardm-factory","name":"BoardM Factory"}
+{"id":"pin-intl","name":"Pin International"}
+{"id":"kilovolt-design","name":"Kilovolt Design"}
+{"id":"quantum-printing","name":"Quantum Printing"}
+{"id":"smart-troll-games","name":"Smart Troll Games"}
+{"id":"grimaud","name":"Grimaud"}
+{"id":"ludonova","name":"Ludonova"}
+{"id":"goldmerk","name":"Goldmerk"}
+{"id":"pleasantime-games","name":"Pleasantime Games"}
+{"id":"specialty-board-games-inc","name":"Specialty Board Games, Inc."}
+{"id":"vainglorious-games","name":"Vainglorious Games"}
+{"id":"gotha-games","name":"Gotha Games"}
+{"id":"vennerod-forlag-as","name":"Vennerød Forlag AS"}
+{"id":"blue-beard-entertainment","name":"Blue Beard Entertainment"}
+{"id":"spielefaible","name":"Spielefaible"}
+{"id":"top-toys","name":"Top Toys"}
+{"id":"brybelly","name":"Brybelly"}
+{"id":"man-indo","name":"Man-indo"}
+{"id":"gamut-of-games","name":"Gamut of Games"}
+{"id":"czech-board-games","name":"Czech Board Games"}
+{"id":"van-ryder-games","name":"Van Ryder Games"}
+{"id":"gem-klub-kft","name":"Gém Klub Kft."}
+{"id":"vr-distribution","name":"VR Distribution"}
+{"id":"oy-lollipop-ab","name":"Oy Lollipop Ab"}
+{"id":"casus-belli","name":"Casus Belli"}
+{"id":"united-states-playing-card-company","name":"The United States Playing Card Company"}
+{"id":"citadel-uk","name":"Citadel UK"}
+{"id":"zygomatic","name":"Zygomatic"}
+{"id":"winsome-games","name":"Winsome Games"}
+{"id":"knight-works-llc","name":"Knight Works, LLC"}
+{"id":"placentia-games","name":"Placentia Games"}
+{"id":"task-force-games","name":"Task Force Games"}
+{"id":"spiele-aus-timbuktu","name":"Spiele aus Timbuktu"}
+{"id":"altar-games","name":"Altar Games"}
+{"id":"blatz","name":"Blatz"}
+{"id":"worthington-publishing-llc","name":"Worthington Publishing, LLC"}
+{"id":"mysterious-island-games","name":"Mysterious Island Games"}
+{"id":"snowdale-design","name":"Snowdale Design"}
+{"id":"jet-games-studio","name":"Jet Games Studio"}
+{"id":"analog-lunchbox","name":"analog lunchbox (アナログランチボックス)"}
+{"id":"nestorgames","name":"nestorgames"}
+{"id":"ee-fairchild-corporation","name":"E. E. Fairchild Corporation"}
+{"id":"battles-magazine","name":"Battles Magazine"}
+{"id":"boardbros","name":"BoardBros"}
+{"id":"maranda-games","name":"Maranda Games"}
+{"id":"hasbro","name":"Hasbro"}
+{"id":"huki","name":"Huki"}
+{"id":"oriflam","name":"Oriflam"}
+{"id":"gokids","name":"GoKids 玩樂小子"}
+{"id":"heritage-usa","name":"Heritage USA"}
+{"id":"recreation-group-plc","name":"Re:creation Group Plc"}
+{"id":"formosa-force-games","name":"Formosa Force Games"}
+{"id":"smart-ltd","name":"Smart Ltd"}
+{"id":"bezier-games","name":"Bézier Games"}
+{"id":"recent-toys-international","name":"Recent Toys International"}
+{"id":"giga-mech-games","name":"Giga Mech Games"}
+{"id":"dire-wolf","name":"Dire Wolf"}
+{"id":"werner-schumann","name":"Werner \u0026 Schumann"}
+{"id":"jewish-educational-toys","name":"Jewish Educational Toys"}
+{"id":"red-raven-games","name":"Red Raven Games"}
+{"id":"stratelibri","name":"Stratelibri"}
+{"id":"king-international","name":"King International"}
+{"id":"gentosha-education","name":"Gentosha Education"}
+{"id":"cefa-celulosa-fabril-sa","name":"CEFA (Celulosa Fabril S. A.)"}
+{"id":"cosmodrome-games","name":"Cosmodrome Games"}
+{"id":"starling-games-ii","name":"Starling Games (II)"}
+{"id":"amarillo-design-bureau-inc","name":"Amarillo Design Bureau, Inc."}
+{"id":"neotroy-games","name":"NeoTroy Games"}
+{"id":"aristoplay","name":"Aristoplay"}
+{"id":"brain-picnic","name":"Brain Picnic"}
+{"id":"divercentro","name":"Divercentro"}
+{"id":"braincrack-games","name":"Braincrack Games"}
+{"id":"ragnar-brothers","name":"Ragnar Brothers"}
+{"id":"drechsler","name":"Drechsler"}
+{"id":"unipart-verlag","name":"Unipart Verlag"}
+{"id":"mindtwister-usa","name":"Mindtwister USA"}
+{"id":"ventura-games","name":"Ventura Games"}
+{"id":"gaminbiz","name":"Gam'inBIZ"}
+{"id":"six-angles","name":"Six Angles"}
+{"id":"precedence-publishing","name":"Precedence Publishing"}
+{"id":"melmac-games","name":"Melmac Games"}
+{"id":"burley-games","name":"Burley Games"}
+{"id":"hurrican","name":"Hurrican"}
+{"id":"ogry-games","name":"Ogry Games"}
+{"id":"karnan","name":"Kärnan"}
+{"id":"galison","name":"Galison"}
+{"id":"wd-ho-wills","name":"W. D. \u0026 H. O. Wills"}
+{"id":"mind-the-move","name":"Mind the Move"}
+{"id":"monkey-pod-games","name":"Monkey Pod Games"}
+{"id":"pierre-belvedere","name":"Pierre Belvédère"}
+{"id":"pretzel-games","name":"Pretzel Games"}
+{"id":"grail-games","name":"Grail Games"}
+{"id":"group-sne","name":"Group SNE"}
+{"id":"asyncron-games","name":"ASYNCRON games"}
+{"id":"simpubs-ltd","name":"Simpubs Ltd."}
+{"id":"hobby-base","name":"Hobby Base"}
+{"id":"games-puzzles-magazine","name":"Games and Puzzles (magazine)"}
+{"id":"hodin","name":"Hodin"}
+{"id":"stuff-by-bez","name":"Stuff By Bez"}
+{"id":"laurin-verlag","name":"Laurin Verlag"}
+{"id":"efko","name":"Efko"}
+{"id":"palitoy-ltd","name":"Palitoy Ltd."}
+{"id":"deep-thought-games-llc","name":"Deep Thought Games, LLC"}
+{"id":"screenlife-llc","name":"Screenlife, LLC"}
+{"id":"next-move-games","name":"Next Move Games"}
+{"id":"origame","name":"Origame"}
+{"id":"abacusspiele","name":"ABACUSSPIELE"}
+{"id":"daemon-editora","name":"Daemon Editora"}
+{"id":"indie-boards-cards","name":"Indie Boards \u0026 Cards"}
+{"id":"action-phase-games","name":"Action Phase Games"}
+{"id":"your-move-games","name":"Your Move Games"}
+{"id":"lex-games","name":"Lex Games"}
+{"id":"play-factory","name":"Play Factory"}
+{"id":"muduko","name":"Muduko"}
+{"id":"asmodee-china","name":"Asmodee China"}
+{"id":"game-publications-group","name":"Game Publications Group"}
+{"id":"dmz-games","name":"DMZ Games"}
+{"id":"kozak-games","name":"KOZAK Games"}
+{"id":"sostrene-grene","name":"Søstrene Grene"}
+{"id":"wargames-research-group","name":"Wargames Research Group"}
+{"id":"gp-gamers-paradise","name":"GP (Gamers Paradise)"}
+{"id":"avalon-hill-game-co","name":"The Avalon Hill Game Co"}
+{"id":"osprey-publishing","name":"Osprey Publishing"}
+{"id":"kaissa-chess-games","name":"Kaissa Chess \u0026 Games"}
+{"id":"capcom-co-ltd","name":"Capcom Co., Ltd."}
+{"id":"berwicks-toy-co-ltd","name":"Berwick's Toy Co. Ltd."}
+{"id":"heartbreaker","name":"Heartbreaker"}
+{"id":"jack-dire-studios","name":"Jack Dire Studios"}
+{"id":"stockinger-morsack","name":"Stockinger \u0026 Morsack"}
+{"id":"lps-inc","name":"LPS, Inc."}
+{"id":"music-games","name":"Music Games"}
+{"id":"eye-level-entertainment-llp","name":"Eye-Level Entertainment, LLP"}
+{"id":"hutter-trade-gmbh-plus-co-kg","name":"Hutter Trade GmbH + Co KG"}
+{"id":"winning-moves-france","name":"Winning Moves France"}
+{"id":"foxmind","name":"FoxMind"}
+{"id":"kocchiya","name":"こっち屋 (Kocchiya)"}
+{"id":"2tomatoes-games","name":"2Tomatoes Games"}
+{"id":"cheapass-games","name":"Cheapass Games"}
+{"id":"calamity-games","name":"Calamity Games"}
+{"id":"inter-hobby-co-ltd","name":"Inter Hobby Co., Ltd."}
+{"id":"logis","name":"LOGIS"}
+{"id":"danspil","name":"danspil"}
+{"id":"holdsworth-thos-sons","name":"Holdsworth Thos \u0026 Sons"}
+{"id":"studio71","name":"Studio71"}
+{"id":"emperor-s4","name":"EmperorS4"}
+{"id":"griggling-games","name":"Griggling Games, Inc."}
+{"id":"jolly-thinkers","name":"Jolly Thinkers"}
+{"id":"ddd-verlag-gmbh","name":"DDD Verlag GmbH"}
+{"id":"edition-erlkonig","name":"Edition Erlkönig"}
+{"id":"double-o-games","name":"Double-O Games"}
+{"id":"cubiko-games","name":"Cubiko Games"}
+{"id":"fun-connection","name":"Fun Connection"}
+{"id":"catalyst-game-labs","name":"Catalyst Game Labs"}
+{"id":"conflict-games","name":"Conflict Games"}
+{"id":"journeyman-press","name":"Journeyman Press"}
+{"id":"axel","name":"Axel"}
+{"id":"capsicum-games","name":"Capsicum Games"}
+{"id":"goliath-games","name":"Goliath Games"}
+{"id":"lion-rampant-imports","name":"Lion Rampant Imports"}
+{"id":"ludofy-creative","name":"Ludofy Creative"}
+{"id":"interhit","name":"InterHit"}
+{"id":"yoka-games","name":"YOKA Games"}
+{"id":"estrela","name":"Estrela"}
+{"id":"esdevium","name":"Esdevium"}
+{"id":"twilight-creations-inc","name":"Twilight Creations, Inc."}
+{"id":"wm-f-drueke-sons-inc","name":"Wm F. Drueke \u0026 Sons, Inc."}
+{"id":"cardchess-international","name":"CardChess International"}
+{"id":"gateongames","name":"GateOnGames"}
+{"id":"fantasy-games-unlimited","name":"Fantasy Games Unlimited"}
+{"id":"hazgaard-editions","name":"Hazgaard Editions"}
+{"id":"all-aboard-games","name":"All-Aboard Games"}
+{"id":"microgame-design-group","name":"Microgame Design Group"}
+{"id":"legion-wargames-llc","name":"Legion Wargames LLC"}
+{"id":"manifest-destiny","name":"Manifest Destiny"}
+{"id":"coca-cola","name":"Coca-Cola"}
+{"id":"roseart","name":"RoseArt"}
+{"id":"toysmith","name":"Toysmith"}
+{"id":"tomland","name":"Tomland"}
+{"id":"grand-gamers-guild","name":"Grand Gamers Guild"}
+{"id":"perner-produktions-gmbh","name":"Perner Produktions GmbH"}
+{"id":"ridleys-games","name":"Ridley's Games"}
+{"id":"okazu-brand","name":"OKAZU Brand"}
+{"id":"overworld-games","name":"Overworld Games"}
+{"id":"falcon-games-i","name":"Falcon Games (I)"}
+{"id":"bellwether-games","name":"Bellwether Games"}
+{"id":"milton-bradley","name":"Milton Bradley"}
+{"id":"amigo","name":"AMIGO"}
+{"id":"tsukuda-hobby","name":"Tsukuda Hobby"}
+{"id":"maldito-games","name":"Maldito Games"}
+{"id":"kronos-games-krogam","name":"Kronos Games (Krogam)"}
+{"id":"3m","name":"3M"}
+{"id":"kuvataide","name":"Kuvataide"}
+{"id":"papita","name":"Papita"}
+{"id":"mark-steere-games","name":"Mark Steere Games"}
+{"id":"mika","name":"MIKA"}
+{"id":"nilco-sa","name":"Nilco S.A."}
+{"id":"adlung-spiele","name":"Adlung-Spiele"}
+{"id":"paizo-publishing","name":"Paizo Publishing"}
+{"id":"all-things-equal-inc","name":"All Things Equal, Inc."}
+{"id":"sam-mustafa-publishing-llc","name":"Sam Mustafa Publishing LLC"}
+{"id":"mindwarrior-games","name":"Mindwarrior Games"}
+{"id":"reiss-games","name":"Reiss Games"}
+{"id":"guild-publishing","name":"Guild Publishing"}
+{"id":"play-time","name":"play time"}
+{"id":"skellig-games","name":"Skellig Games"}
+{"id":"warfrog-games","name":"Warfrog Games"}
+{"id":"inovac-rima-sa","name":"Inovac Rima SA"}
+{"id":"crowd-games","name":"CrowD Games"}
+{"id":"bartl","name":"Bartl"}
+{"id":"national-games-inc","name":"National Games, Inc."}
+{"id":"sabertooth-games","name":"Sabertooth Games"}
+{"id":"simplyfun","name":"SimplyFun"}
+{"id":"game-master-bv","name":"The Game Master BV"}
+{"id":"word-forge-games","name":"Word Forge Games"}
+{"id":"igroljub","name":"Igroljub"}
+{"id":"pelikan","name":"Pelikan"}
+{"id":"udo-grebe-gamedesign","name":"Udo Grebe Gamedesign"}
+{"id":"mb-spel","name":"MB spel"}
+{"id":"grandpa-becks-games","name":"Grandpa Beck's Games"}
+{"id":"cephalofair-games","name":"Cephalofair Games"}
+{"id":"nekocorp","name":"NekoCorp"}
+{"id":"irwin-toy-ltd","name":"Irwin Toy Ltd."}
+{"id":"fantasiapelit","name":"Fantasiapelit"}
+{"id":"surprised-stare-games-ltd","name":"Surprised Stare Games Ltd"}
+{"id":"hema","name":"HEMA"}
+{"id":"foxgames","name":"FoxGames"}
+{"id":"talicor-aristoplay","name":"Talicor/Aristoplay"}
+{"id":"uproarious-games","name":"Uproarious Games"}
+{"id":"peoples-war-games","name":"People's War Games"}
+{"id":"lumberjacks-studio","name":"Lumberjacks Studio"}
+{"id":"kentaiki","name":"倦怠期 (Kentaiki)"}
+{"id":"oink-games","name":"Oink Games"}
+{"id":"regionalia-verlag-gmbh","name":"Regionalia Verlag GmbH"}
+{"id":"sala","name":"Sala"}
+{"id":"ludonaute","name":"Ludonaute"}
+{"id":"panda-game-manufacturing-pandagm","name":"Panda Game Manufacturing (PandaGM)"}
+{"id":"homosapiens-lab","name":"Homosapiens Lab"}
+{"id":"vesuvius-media","name":"Vesuvius Media"}
+{"id":"fryxgames","name":"FryxGames"}
+{"id":"catch-up-games","name":"Catch Up Games"}
+{"id":"lost-battalion-games","name":"Lost Battalion Games"}
+{"id":"moroz-dev-studio","name":"Moroz Dev Studio"}
+{"id":"clash-of-arms-games","name":"Clash of Arms Games"}
+{"id":"timjim-games","name":"TimJim Games"}
+{"id":"four-generations","name":"Four Generations"}
+{"id":"floodgate-games","name":"Floodgate Games"}
+{"id":"cocktail-games","name":"Cocktail Games"}
+{"id":"ergo-ludo-editions","name":"Ergo Ludo Editions"}
+{"id":"avalanche-press-ltd","name":"Avalanche Press Ltd."}
+{"id":"roxley","name":"Roxley"}
+{"id":"strawberry-studio","name":"Strawberry Studio"}
+{"id":"grand-trunk-games","name":"Grand Trunk Games"}
+{"id":"darwin-project","name":"Darwin Project"}
+{"id":"repos-production","name":"Repos Production"}
+{"id":"days-of-wonder","name":"Days of Wonder"}
+{"id":"ulisses-spiele","name":"Ulisses Spiele"}
+{"id":"target-games","name":"Target Games"}
+{"id":"xtr-corp","name":"XTR Corp"}
+{"id":"white-wolf-entertainment-ab","name":"White Wolf Entertainment AB"}
+{"id":"mosaico-jogos","name":"Mosaico Jogos"}
+{"id":"nurnberger-spielkarten-verlag","name":"Nürnberger-Spielkarten-Verlag"}
+{"id":"techno-source","name":"Techno Source"}
+{"id":"too-fat-lardies","name":"Too Fat Lardies"}
+{"id":"hobbity-eu","name":"hobbity.eu"}
+{"id":"hidden-industries-gmbh","name":"Hidden Industries GmbH"}
+{"id":"pacific-game-company","name":"Pacific Game Company"}
+{"id":"veb-plastspielwaren-berlin","name":"VEB Plastspielwaren Berlin"}
+{"id":"sunset-games","name":"Sunset Games"}
+{"id":"consim-press","name":"Consim Press"}
+{"id":"k-e-leg","name":"K.E.Leg"}
+{"id":"geronimo-games","name":"Geronimo Games"}
+{"id":"piatnik","name":"Piatnik"}
+{"id":"elzra","name":"Elzra (Elzra Corp.)"}
+{"id":"monolith-edition","name":"Monolith Edition (Monolith Board Games)"}
+{"id":"cromola","name":"Crómola"}
+{"id":"face2face-games","name":"Face2Face Games"}
+{"id":"ariel-productions-ltd","name":"Ariel Productions Ltd"}
+{"id":"sanoma-pro","name":"Sanoma Pro"}
+{"id":"flying-frog-productions","name":"Flying Frog Productions"}
+{"id":"enigma-bergsala-enigma","name":"Bergsala Enigma (Enigma)"}
+{"id":"sandtimer","name":"SandTimer"}
+{"id":"greenbrier-games","name":"Greenbrier Games"}
+{"id":"light-n-games-inc","name":"Light N Games Inc."}
+{"id":"victory-spelen","name":"Victory Spelen"}
+{"id":"playthisone","name":"PLAYthisONE"}
+{"id":"nevermore-games","name":"Nevermore Games"}
+{"id":"lemada-light-industries","name":"Lemada Light Industries"}
+{"id":"haba","name":"HABA"}
+{"id":"bellica-third-generation","name":"Bellica Third Generation"}
+{"id":"quantuum-magic","name":"Quantuum Magic"}
+{"id":"g-rrr","name":"G\u0026RRR"}
+{"id":"act-in-games","name":"Act in games"}
+{"id":"nyt-nordisk-forlag","name":"Nyt Nordisk Forlag"}
+{"id":"dude-games","name":"Dude Games"}
+{"id":"jax-ltd","name":"Jax, Ltd."}
+{"id":"rba-libros-sa","name":"RBA Libros S.A."}
+{"id":"pacific-rim-publishing","name":"Pacific Rim Publishing"}
+{"id":"mame-games","name":"La Mame Games"}
+{"id":"twoplus-games","name":"TWOPLUS Games"}
+{"id":"franz-schmidt","name":"Franz Schmidt"}
+{"id":"pair-of-dice-games","name":"Pair-of-Dice Games"}
+{"id":"eon","name":"Eon"}
+{"id":"old-time-games","name":"Old Time Games"}
+{"id":"coleco-industries-inc","name":"Coleco Industries, Inc."}
+{"id":"compass-games","name":"Compass Games"}
+{"id":"sunrise-tornado-game-studio","name":"Sunrise Tornado Game Studio"}
+{"id":"action-gt","name":"Action GT"}
+{"id":"basic-fun-inc","name":"Basic Fun, Inc."}
+{"id":"arcane-wonders","name":"Arcane Wonders"}
+{"id":"nskn-games","name":"NSKN Games"}
+{"id":"bankiiiz-editions","name":"Bankiiiz Editions"}
+{"id":"condor","name":"Condor"}
+{"id":"altap","name":"Altap"}
+{"id":"midwest-research","name":"Midwest Research"}
+{"id":"petroglyph","name":"Petroglyph"}
+{"id":"somerville-ltd","name":"Somerville Ltd."}
+{"id":"sesam","name":"Sesam"}
+{"id":"sinonis","name":"SINONIS"}
+{"id":"nestle","name":"Nestlé"}
+{"id":"mesaboardgames","name":"MESAboardgames"}
+{"id":"purple-brain-creations","name":"Purple Brain Creations"}
+{"id":"games-4-gamers","name":"Games 4 Gamers"}
+{"id":"tresham-games","name":"Tresham Games"}
+{"id":"battleline","name":"Battleline"}
+{"id":"russimco-games","name":"Russimco Games"}
+{"id":"pavilion","name":"Pavilion"}
+{"id":"quined-games","name":"Quined Games"}
+{"id":"karto","name":"Karto"}
+{"id":"grounding","name":"Grounding"}
+{"id":"one-small-step","name":"One Small Step"}
+{"id":"plaay","name":"PLAAY"}
+{"id":"fx-schmid","name":"F.X. Schmid"}
+{"id":"aurum-inc","name":"AURUM, Inc."}
+{"id":"arrow-games-ltd","name":"Arrow Games Ltd"}
+{"id":"grimpeur","name":"Grimpeur"}
+{"id":"bradspel-se","name":"Brädspel.se"}
+{"id":"hobby-game-mall","name":"Hobby Game Mall"}
+{"id":"flying-turtle-games","name":"Flying Turtle Games"}
+{"id":"tower-tactic-games","name":"Tower Tactic Games"}
+{"id":"helvetia-games","name":"Helvetia Games"}
+{"id":"mind-fitness-games","name":"Mind Fitness Games"}
+{"id":"subquark-llc","name":"subQuark, LLC"}
+{"id":"yoka-by-tsume","name":"Yoka by Tsume"}
+{"id":"play-smart","name":"Play Smart"}
+{"id":"ultra-pro","name":"Ultra PRO"}
+{"id":"ludicus","name":"Ludicus"}
+{"id":"perplext","name":"Perplext"}
+{"id":"jeux-opla","name":"Jeux Opla"}
+{"id":"brain-games","name":"Brain Games"}
+{"id":"jumbo","name":"Jumbo"}
+{"id":"spin-master-ltd","name":"Spin Master Ltd."}
+{"id":"golden","name":"Golden"}
+{"id":"patch-products","name":"Patch Products"}
+{"id":"horn-abbot-ltd","name":"Horn Abbot Ltd."}
+{"id":"transogram","name":"Transogram"}
+{"id":"gemenot","name":"Gemenot"}
+{"id":"homas-spelen","name":"Homas Spelen"}
+{"id":"eva-games","name":"EVA GAMES"}
+{"id":"stratamax-games","name":"StrataMax Games"}
+{"id":"blue-opal","name":"Blue Opal"}
+{"id":"golden-spike-games","name":"Golden Spike Games"}
+{"id":"jedko-games","name":"Jedko Games"}
+{"id":"smeets-schippers","name":"Smeets \u0026 Schippers"}
+{"id":"kanga-games","name":"Kanga Games"}
+{"id":"victory-point-games","name":"Victory Point Games"}
+{"id":"flying-tiger-copenhagen","name":"Flying Tiger Copenhagen"}
+{"id":"captain-macaque","name":"Captain Macaque"}
+{"id":"cranium-inc","name":"Cranium, Inc."}
+{"id":"drei-magier-spiele","name":"Drei Magier Spiele"}
+{"id":"vic-toy","name":"Vic-Toy"}
+{"id":"nederlandse-spellenfabriek","name":"Nederlandse Spellenfabriek B.V. Amsterdam"}
+{"id":"devil-dice-games","name":"Devil Dice Games"}
+{"id":"verlag-schmidt-zwiebelturme","name":"Verlag Schmidt Zwiebeltürme"}
+{"id":"rebel-studio","name":"Rebel Studio"}
+{"id":"kohner-bros","name":"Kohner Bros."}
+{"id":"giant-roc","name":"Giant Roc"}
+{"id":"lautapelitfi","name":"Lautapelit.fi"}
+{"id":"grow-jogos-e-brinquedos","name":"Grow Jogos e Brinquedos"}
+{"id":"phoenix-enterprises-limited","name":"Phoenix Enterprises Limited"}
+{"id":"warren-company","name":"Warren Company"}
+{"id":"boosterbox-nl","name":"Boosterbox.nl"}
+{"id":"sorry-we-are-french","name":"Sorry We Are French"}
+{"id":"big-g-creative","name":"Big G Creative"}
+{"id":"giseh-verlag","name":"Giseh Verlag"}
+{"id":"kawasaki-factory","name":"Kawasaki Factory"}
+{"id":"lucrum-games","name":"Lucrum Games"}
+{"id":"adc-blackfire-entertainment-gmbh","name":"ADC Blackfire Entertainment GmbH"}
+{"id":"xyz-game-labs-inc","name":"XYZ Game Labs, Inc"}
+{"id":"adrenaline-brush-ltd","name":"Adrenaline Brush Ltd"}
+{"id":"asterion-press","name":"Asterion Press"}
+{"id":"bombyx","name":"Bombyx"}
+{"id":"tiny-battle-publishing","name":"Tiny Battle Publishing"}
+{"id":"playmix","name":"Playmix"}
+{"id":"super-impulse","name":"Super Impulse"}
+{"id":"avalon-hill","name":"Avalon Hill Games, Inc."}
+{"id":"smirk-dagger-games","name":"Smirk \u0026 Dagger Games"}
+{"id":"book-ranger","name":"Book Ranger"}
+{"id":"usborne","name":"Usborne"}
+{"id":"ceji","name":"CEJI"}
+{"id":"ja-ru-inc","name":"JA-RU Inc."}
+{"id":"funiverse","name":"Funiverse"}
+{"id":"brainteasers","name":"Brainteasers"}
+{"id":"game-salute","name":"Game Salute"}
+{"id":"flying-pig-games","name":"Flying Pig Games"}
+{"id":"soda-pop-miniatures","name":"Soda Pop Miniatures"}
+{"id":"interlude","name":"Interlude"}
+{"id":"meeple-br","name":"MeepleBR"}
+{"id":"marigo","name":"Marigó"}
+{"id":"toyco","name":"ToyCo"}
+{"id":"cwali","name":"Cwali"}
+{"id":"cube-factory-of-ideas","name":"Cube Factory of Ideas"}
+{"id":"nekomado","name":"Nekomado"}
+{"id":"baldar","name":"Baldar"}
+{"id":"horn-abbot-intl","name":"Horn Abbot International"}
+{"id":"fasa","name":"FASA"}
+{"id":"kronberger-spiele","name":"Kronberger Spiele"}
+{"id":"stronghold-games","name":"Stronghold Games"}
+{"id":"de-la-rue","name":"De La Rue"}
+{"id":"new-venture-games","name":"New Venture Games"}
+{"id":"histogame","name":"Histogame"}
+{"id":"mega-brands","name":"Mega Brands"}
+{"id":"one-draw","name":"One Draw"}
+{"id":"crazy-pawn-games","name":"Crazy Pawn Games"}
+{"id":"synapses-games","name":"Synapses Games"}
+{"id":"educa-sallent-sa","name":"Educa Sallent SA"}
+{"id":"editions-atlas","name":"Editions ATLAS"}
+{"id":"codeg","name":"Codeg"}
+{"id":"pavana-games","name":"Pavana Games"}
+{"id":"stupor-mundi","name":"Stupor Mundi"}
+{"id":"2f-spiele","name":"2F-Spiele"}
+{"id":"challenge-master-game-co-ltd","name":"Challenge Master Game Co Ltd"}
+{"id":"parker-spiele","name":"Parker Spiele"}
+{"id":"us-games-systems-inc","name":"U.S. Games Systems, Inc."}
+{"id":"mb-spellen","name":"MB Spellen"}
+{"id":"sandstorm-productions-llc","name":"Sandstorm Productions LLC"}
+{"id":"schmidt-france","name":"Schmidt France"}
+{"id":"ideal-board-games","name":"Ideal Board Games"}
+{"id":"wizards-of-the-coast","name":"Wizards of the Coast"}
+{"id":"doris-frank","name":"Doris \u0026 Frank"}
+{"id":"foxtrot-games","name":"Foxtrot Games"}
+{"id":"games-by-bicycle","name":"Games by Bicycle"}
+{"id":"endless-games-i","name":"Endless Games (I)"}
+{"id":"plasticart","name":"Plasticart"}
+{"id":"air-nothingness-press","name":"Air and Nothingness Press"}
+{"id":"regio-jatek","name":"REGIO Játék"}
+{"id":"zacatrus","name":"Zacatrus"}
+{"id":"blue-cocker-games","name":"Blue Cocker Games"}
+{"id":"catan-studio","name":"Catan Studio"}
+{"id":"last-level","name":"Last Level"}
+{"id":"skybound-tabletop","name":"Skybound Tabletop"}
+{"id":"tdc-games-inc","name":"TDC Games, Inc."}
+{"id":"mindtwister-ab","name":"Mindtwister AB"}
+{"id":"tyto-games","name":"Tyto Games"}
+{"id":"spi","name":"SPI (Simulations Publications, Inc.)"}
+{"id":"pro-ludo","name":"Pro Ludo"}
+{"id":"egel-spelen","name":"Egel-Spelen"}
+{"id":"gametime-games","name":"Gametime Games"}
+{"id":"fame-products","name":"Fame Products"}
+{"id":"vae-victis","name":"Vae Victis"}
+{"id":"slugfest-games","name":"SlugFest Games"}
+{"id":"lavka-games","name":"Lavka Games"}
+{"id":"game-office","name":"Game Office"}
+{"id":"vendetta","name":"Vendetta"}
+{"id":"arclight-games","name":"Arclight"}
+{"id":"maldon","name":"Maldón"}
+{"id":"hub-games","name":"Hub Games"}
+{"id":"catan-gmbh","name":"Catan GmbH"}
+{"id":"eggertspiele","name":"eggertspiele"}
+{"id":"sunny-games","name":"Sunny Games"}
+{"id":"ludoart-verlag","name":"LudoArt Verlag"}
+{"id":"grok-games","name":"Grok Games"}
+{"id":"gammon-games","name":"Gammon Games"}
+{"id":"eskifell-hf","name":"Eskifell hf."}
+{"id":"nabita-world-co-ltd","name":"Nabita World co., Ltd."}
+{"id":"tomy","name":"Tomy"}
+{"id":"bizak","name":"Bizak"}
+{"id":"top-game","name":"Top-Game"}
+{"id":"delirium-games","name":"Delirium Games"}
+{"id":"ludosentinel","name":"LudoSentinel"}
+{"id":"iron-crown-enterprises","name":"Iron Crown Enterprises"}
+{"id":"cafe-games","name":"Cafe Games"}
+{"id":"educa-korea","name":"Educa Korea"}
+{"id":"leading-edge-games","name":"Leading Edge Games"}
+{"id":"prestel-verlag","name":"Prestel Verlag"}
+{"id":"ion-game-design","name":"Ion Game Design"}
+{"id":"berliner-spielkarten","name":"Berliner Spielkarten"}
+{"id":"sfera","name":"Sfera"}
+{"id":"selchow-righter","name":"Selchow \u0026 Righter"}
+{"id":"planplay","name":"Planplay"}
+{"id":"joc-internacional","name":"Joc Internacional"}
+{"id":"ferti","name":"Ferti"}
+{"id":"gay-play","name":"Gay-Play"}
+{"id":"haywire-group","name":"Haywire Group"}
+{"id":"divedice","name":"Divedice"}
+{"id":"coiledspring-games","name":"Coiledspring Games"}
+{"id":"eden-studios","name":"Eden Studios"}
+{"id":"dwarfstar-games","name":"Dwarfstar Games"}
+{"id":"oxygame","name":"Oxygame"}
+{"id":"lindop","name":"Lindop (William Lindop LTD)"}
+{"id":"glevum-games","name":"Glevum Games"}
+{"id":"vakko","name":"VAKKO"}
+{"id":"r-r-games","name":"R\u0026R Games"}
+{"id":"runadrake","name":"Runadrake"}
+{"id":"asmadi-games","name":"Asmadi Games"}
+{"id":"dino-toys-s-r-o","name":"Dino Toys s. r. o."}
+{"id":"khyber-pass-games","name":"Khyber Pass Games"}
+{"id":"editrice-giochi","name":"Editrice Giochi"}
+{"id":"w-nostheide-verlag-gmbh","name":"W. Nostheide Verlag GmbH"}
+{"id":"asmodee-korea","name":"Asmodee Korea"}
+{"id":"lay-waste-games","name":"Lay Waste Games"}
+{"id":"mobi","name":"MoBi"}
+{"id":"saenggak-plus-edu","name":"Saenggak Plus Edu"}
+{"id":"le-joueur","name":"Le Joueur"}
+{"id":"thin-red-line-games","name":"Thin Red Line Games"}
+{"id":"geeks-n-orcs","name":"Geeks N' Orcs"}
+{"id":"hausemann-hotte-nv","name":"Hausemann \u0026 Hötte N.V."}
+{"id":"wydawnictwo-mag","name":"Wydawnictwo MAG"}
+{"id":"games-factory-publishing","name":"Games Factory Publishing"}
+{"id":"halloween-concept","name":"Halloween Concept"}
+{"id":"little-rocket-games","name":"Little Rocket Games"}
+{"id":"clem-toys","name":"Clem Toys"}
+{"id":"simtac","name":"SIMTAC"}
+{"id":"tenkigames","name":"TENKIGAMES"}
+{"id":"mosigra","name":"Mosigra"}
+{"id":"strohmann-games","name":"Strohmann Games"}
+{"id":"carlit","name":"Carlit"}
+{"id":"splotter-spellen","name":"Splotter Spellen"}
+{"id":"brain-games-germany","name":"Brain Games Germany"}
+{"id":"blast-city-games","name":"Blast City Games"}
+{"id":"hanayama","name":"Hanayama"}
+{"id":"past-times","name":"Past Times"}
+{"id":"wattsalpoag-games","name":"Wattsalpoag Games"}
+{"id":"playfun-games","name":"Playfun Games"}
+{"id":"game-factory","name":"Game Factory"}
+{"id":"megableu","name":"Megableu"}
+{"id":"jeux-du-griffon","name":"Les Jeux du Griffon"}
+{"id":"ludus-magnus-studio","name":"Ludus Magnus Studio"}
+{"id":"games-magazine","name":"GAMES Magazine"}
+{"id":"bruckner-spiele","name":"Brückner Spiele"}
+{"id":"nike-cooper-espanola-sa","name":"Nike and Cooper Española, S.A."}
+{"id":"hugendubel-verlag","name":"Hugendubel Verlag"}
+{"id":"remoundo","name":"Remoundo"}
+{"id":"litas-spil","name":"Litas Spil"}
+{"id":"talon-strikes-studios-llc","name":"Talon Strikes Studios LLC"}
+{"id":"oni-games-i","name":"Oni Games (I)"}
+{"id":"holdson","name":"Holdson"}
+{"id":"chh-games","name":"CHH Games"}
+{"id":"fabrika-igr","name":"Fabrika Igr"}
+{"id":"joker","name":"Joker"}
+{"id":"square-enix-co-ltd","name":"Square Enix Co., Ltd."}
+{"id":"k-c-ltd","name":"K \u0026 C Ltd"}
+{"id":"phalanx-games-deutschland","name":"Phalanx Games Deutschland"}
+{"id":"tyco","name":"Tyco"}
+{"id":"randolph","name":"Randolph"}
+{"id":"bakafire-party","name":"BakaFire Party"}
+{"id":"copag-cards","name":"Copag Cards"}
+{"id":"gigantoskop","name":"Gigantoskop"}
+{"id":"medusa-games","name":"Medusa Games"}
+{"id":"sir-chester-cobblepot","name":"Sir Chester Cobblepot"}
+{"id":"damm-egmont","name":"Damm / Egmont"}
+{"id":"masters-games","name":"Masters Games"}
+{"id":"evrikus","name":"Evrikus"}
+{"id":"silver-stars-publishing","name":"Silver Stars Publishing"}
+{"id":"brohm-parker-spiele","name":"Brohm-Parker-Spiele"}
+{"id":"lumenaris-group-inc","name":"The Lumenaris Group, Inc."}
+{"id":"backspindle-games-ltd","name":"Backspindle Games Ltd."}
+{"id":"weird-giraffe-games","name":"Weird Giraffe Games"}
+{"id":"mar-ludico","name":"Mar Lúdico"}
+{"id":"inside-up-games","name":"Inside Up Games"}
+{"id":"monkey-time","name":"Monkey Time"}
+{"id":"philmar","name":"Philmar"}
+{"id":"clemens-gerhards","name":"Clemens Gerhards"}
+{"id":"keymaster-games","name":"Keymaster Games"}
+{"id":"board-game-circus","name":"Board Game Circus"}
+{"id":"gamewright","name":"Gamewright"}
+{"id":"kokusai-tsushin-co-ltd","name":"Kokusai-Tsushin Co., Ltd. (国際通信社)"}
+{"id":"playgo-ltd-hong-kong","name":"Playgo Ltd (Hong Kong)"}
+{"id":"fractal-juegos","name":"Fractal Juegos"}
+{"id":"sophisticated-games","name":"Sophisticated Games"}
+{"id":"sierra-madre-games","name":"Sierra Madre Games"}
+{"id":"playagame-edizioni","name":"Playagame Edizioni"}
+{"id":"westside-fun-games","name":"Westside Fun Games"}
+{"id":"studio-gg","name":"Studio GG"}
+{"id":"ediciones-masqueoca","name":"Ediciones MasQueOca"}
+{"id":"discovery-toys","name":"Discovery Toys"}
+{"id":"kadabra","name":"KADABRA"}
+{"id":"kuraki-mura-bg-studio","name":"Kuraki Mura B.G. Studio"}
+{"id":"cambridge-games-factory","name":"Cambridge Games Factory"}
+{"id":"fun-to-11","name":"Fun to 11"}
+{"id":"lotus-frog-games","name":"Lotus Frog Games"}
+{"id":"mixlore","name":"Mixlore"}
+{"id":"beverly-enterprises-inc","name":"Beverly Enterprises, Inc."}
+{"id":"winning-moves-games-usa","name":"Winning Moves Games (USA)"}
+{"id":"bonaparte","name":"Bonaparte"}
+{"id":"sweet-games","name":"Sweet Games"}
+{"id":"flatlined-games","name":"Flatlined Games"}
+{"id":"winning-moves-uk-ltd","name":"Winning Moves UK Ltd."}
+{"id":"tiki-editions","name":"TIKI Editions"}
+{"id":"rex-games","name":"Rex Games"}
+{"id":"rackham","name":"Rackham"}
+{"id":"f-w-woolworth-company","name":"F. W. Woolworth Company"}
+{"id":"ht-publishers","name":"HT Publishers"}
+{"id":"borras-plana-sa","name":"Borras Plana S.A."}
+{"id":"quined-white-goblin-games","name":"Quined White Goblin Games"}
+{"id":"habourdin-intl","name":"Habourdin International"}
+{"id":"corfix","name":"Corfix"}
+{"id":"copp-clark-publishing-company","name":"Copp Clark Publishing Company"}
+{"id":"mj-games","name":"MJ Games"}
+{"id":"kanai-factory","name":"Kanai Factory"}
+{"id":"international-games","name":"International Games"}
+{"id":"global-partner","name":"Global Partner"}
+{"id":"tailor-games","name":"Tailor Games"}
+{"id":"kod-kod","name":"Kod Kod"}
+{"id":"dourios","name":"Dourios"}
+{"id":"gabriel","name":"Gabriel"}
+{"id":"minden-games","name":"Minden Games"}
+{"id":"kids-table-bg","name":"Kids Table BG"}
+{"id":"oya","name":"Oya"}
+{"id":"mancalamaro","name":"Mancalamaro"}
+{"id":"briarpatch","name":"Briarpatch"}
+{"id":"jasco-games","name":"Jasco Games"}
+{"id":"russell-manufacturing-company","name":"Russell Manufacturing Company"}
+{"id":"calliope-games","name":"Calliope Games"}
+{"id":"story-factory","name":"Story Factory"}
+{"id":"just-play-games","name":"Just Play Games"}
+{"id":"poptoy","name":"Poptoy"}
+{"id":"barnes-noble","name":"Barnes \u0026 Noble"}
+{"id":"winning-moves-germany","name":"Winning Moves Germany"}
+{"id":"space-cowboys","name":"Space Cowboys"}
+{"id":"el-greco","name":"El Greco"}
+{"id":"winning-moves-intl-ltd","name":"Winning Moves International Ltd."}
+{"id":"yaquinto","name":"Yaquinto"}
+{"id":"cardlords","name":"CardLords"}
+{"id":"disenos-orbitales","name":"Diseños Orbitales"}
+{"id":"international-playthings-inc","name":"International Playthings, Inc."}
+{"id":"teepe-sportverlag","name":"Teepe Sportverlag"}
+{"id":"minimalgames","name":"minimalGames"}
+{"id":"ms-edizioni","name":"MS Edizioni"}
+{"id":"devious-weasel-games","name":"Devious Weasel Games"}
+{"id":"tm-spiele","name":"TM Spiele"}
+{"id":"sirius-products","name":"Sirius Products"}
+{"id":"artipia-games","name":"Artipia Games"}
+{"id":"robert-burke-games","name":"Robert Burke Games"}
+{"id":"lego","name":"LEGO"}
+{"id":"rose-poison","name":"Rose \u0026 Poison"}
+{"id":"meanbook-games","name":"Meanbook Games"}
+{"id":"phalanx","name":"PHALANX"}
+{"id":"resonym","name":"Resonym"}
+{"id":"research-games-inc","name":"Research Games, Inc. / Athol / RGI / ARC"}
+{"id":"hangman-games","name":"Hangman Games"}
+{"id":"trixy-games","name":"Trixy Games"}
+{"id":"jos-scholz","name":"Jos. Scholz"}
+{"id":"delight","name":"Delight"}
+{"id":"happy-meeple-games","name":"Happy meeple games"}
+{"id":"mybg-co-ltd","name":"MYBG Co., Ltd."}
+{"id":"underdog-games-ii","name":"Underdog Games (II)"}
+{"id":"purple-cow","name":"The Purple Cow"}
+{"id":"set-enterprises-inc","name":"Set Enterprises, Inc."}
+{"id":"kds-distribuzione-italy","name":"KDS Distribuzione (Italy)"}
+{"id":"palet-spil","name":"Palet spil"}
+{"id":"verlag-fur-lehrmittel-possneck","name":"Verlag für Lehrmittel Pössneck"}
+{"id":"intellect-games","name":"Intellect Games"}
+{"id":"war-drum-games","name":"War Drum Games"}
+{"id":"hexagonal","name":"Hexagonal"}
+{"id":"ces","name":"CES"}
+{"id":"ilopeli","name":"Ilopeli"}
+{"id":"albi-polska","name":"Albi Polska"}
+{"id":"robin-red-games","name":"Robin Red Games"}
+{"id":"hexy-studio","name":"Hexy Studio"}
+{"id":"r-d-games","name":"R\u0026D Games"}
+{"id":"phalanx-games-bv","name":"Phalanx Games B.V."}
+{"id":"standard-games-publications-ltd","name":"Standard Games and Publications, Ltd."}
+{"id":"clown-games","name":"Clown Games"}
+{"id":"taverna-ludica-games","name":"Taverna Ludica Games"}
+{"id":"ludens-planet","name":"Ludens Planet"}
+{"id":"edition-perlhuhn","name":"Edition Perlhuhn (Göttinger Spiele)"}
+{"id":"creative-child-games","name":"Creative Child Games"}
+{"id":"sit-down","name":"Sit Down!"}
+{"id":"dicetree-games","name":"DiceTree Games"}
+{"id":"neptuno-games","name":"Neptuno Games"}
+{"id":"magellan","name":"Magellan"}
+{"id":"mandala-jogos","name":"Mandala Jogos"}
+{"id":"swan-panasia-co-ltd","name":"Swan Panasia Co., Ltd."}
+{"id":"guau","name":"Guau"}
+{"id":"limpense-radical","name":"L'Impensé Radical"}
+{"id":"to-kalo-paikhnidi-ae","name":"Το Καλό Παιχνίδι Α.Ε."}
+{"id":"identity-games-international-b-v","name":"Identity Games International B.V."}
+{"id":"ag-muller","name":"AG Müller (AGMüller)"}
+{"id":"gametrade-distribuzione","name":"Gametrade Distribuzione"}
+{"id":"ditoys","name":"Ditoys"}
+{"id":"treetato-studio","name":"Treetato Studio"}
+{"id":"heidelberger-spieleverlag","name":"Heidelberger Spieleverlag"}
+{"id":"1-2-3-games-editions","name":"1-2-3-Games Éditions"}
+{"id":"dlp-games","name":"dlp games"}
+{"id":"player-ten","name":"Player Ten"}
+{"id":"pelito","name":"Pelito"}
+{"id":"eclipse-editions","name":"Eclipse Editions"}
+{"id":"switch-games","name":"Switch Games"}
+{"id":"spiele-offensive-de","name":"Spiele-Offensive.de"}
+{"id":"olsen","name":"Olsen"}
+{"id":"editions-gladius-international-inc","name":"Éditions Gladius International, Inc."}
+{"id":"koi-games","name":"KOI Games"}
+{"id":"nordic-games-gmbh","name":"Nordic Games GmbH"}
+{"id":"columbia-games","name":"Columbia Games"}
+{"id":"chieftain-products","name":"Chieftain Products"}
+{"id":"more-fun-co-ltd","name":"More Fun Co., Ltd."}
+{"id":"bright-world-games","name":"Bright World Games"}
+{"id":"raven-distribution","name":"Raven Distribution"}
+{"id":"week-end-games","name":"Week End Games"}
+{"id":"ajax-games","name":"Ajax Games"}
+{"id":"general-mills","name":"General Mills"}
+{"id":"crosscut-games","name":"CrossCut Games"}
+{"id":"king-racoon-games","name":"King Racoon Games"}
+{"id":"valley-games-inc","name":"Valley Games, Inc."}
+{"id":"otto-maier-verlag","name":"Otto Maier Verlag"}
+{"id":"juegos-crone","name":"Juegos Crone"}
+{"id":"marks-spencer","name":"Marks \u0026 Spencer"}
+{"id":"borderline-editions","name":"Borderline Editions"}
+{"id":"five-rings-publishing-group","name":"Five Rings Publishing Group"}
+{"id":"2geeks","name":"2Geeks"}
+{"id":"helvetiq","name":"Helvetiq"}
+{"id":"hollandspiele","name":"Hollandspiele"}
+{"id":"dynamic-games-dynamic-design","name":"Dynamic Games / Dynamic Design Industries"}
+{"id":"serious-poulp","name":"Serious Poulp"}
+{"id":"gale-force-nine-llc","name":"Gale Force Nine, LLC"}
+{"id":"atalia","name":"Atalia"}
+{"id":"drawlab-entertainment","name":"Drawlab Entertainment"}
+{"id":"drumond-park-ltd","name":"Drumond Park Ltd."}
+{"id":"great-american-puzzle-factory","name":"Great American Puzzle Factory"}
+{"id":"pandasaurus-games","name":"Pandasaurus Games"}
+{"id":"smiling-monster-games","name":"Smiling Monster Games"}
+{"id":"gamelyn-games","name":"Gamelyn Games"}
+{"id":"final-frontier-games","name":"Final Frontier Games"}
+{"id":"mandoo-games","name":"Mandoo Games"}
+{"id":"giochi-preziosi","name":"Giochi Preziosi"}
+{"id":"productief-bv","name":"Productief BV"}
+{"id":"aurora","name":"Aurora"}
+{"id":"ludically","name":"Ludically"}
+{"id":"awaken-realms","name":"Awaken Realms"}
+{"id":"facade-games","name":"Facade Games"}
+{"id":"ninja-star-games","name":"Ninja Star Games"}
+{"id":"white-goblin-games","name":"White Goblin Games"}
+{"id":"mayday-games","name":"Mayday Games"}
+{"id":"studio100","name":"Studio100"}
+{"id":"funbox-jogos","name":"FunBox Jogos"}
+{"id":"marabunta","name":"Marabunta"}
+{"id":"cosaic","name":"cosaic"}
+{"id":"game-works-inc","name":"The Game Works, Inc."}
+{"id":"tiger-electronics","name":"Tiger Electronics"}
+{"id":"bioviva","name":"Bioviva"}
+{"id":"watkins-strathmore","name":"Watkins Strathmore"}
+{"id":"top-toy","name":"Top-Toy"}
+{"id":"king-cards","name":"King Cards"}
+{"id":"reiver-games","name":"Reiver Games"}
+{"id":"john-jaques-of-london","name":"John Jaques of London"}
+{"id":"majora","name":"Majora"}
+{"id":"sio","name":"Sio"}
+{"id":"buro","name":"Buró"}
+{"id":"fata-morgana-spiele","name":"Fata Morgana Spiele"}
+{"id":"melissa-doug","name":"Melissa \u0026 Doug"}
+{"id":"intrafin-games","name":"Intrafin Games"}
+{"id":"multi-man-publishing","name":"Multi-Man Publishing"}
+{"id":"nelostuote-oy","name":"Nelostuote Oy"}
+{"id":"albe-pavo","name":"Albe Pavo"}
+{"id":"das-spiel","name":"Das Spiel"}
+{"id":"alsip-and-co","name":"Alsip and Co."}
+{"id":"family-pastimes","name":"Family Pastimes"}
+{"id":"passport-game-studios","name":"Passport Game Studios"}
+{"id":"kobold-spieleverlag","name":"Kobold Spieleverlag"}
+{"id":"mitra","name":"Mitra"}
+{"id":"nosolorol-ediciones","name":"Nosolorol Ediciones"}
+{"id":"pearl-games","name":"Pearl Games"}
+{"id":"big-fun-games-board-game","name":"Big Fun Games (Board Game)"}
+{"id":"wizkids-i","name":"WizKids (I)"}
+{"id":"hausser","name":"Hausser"}
+{"id":"cartamundi","name":"Cartamundi"}
+{"id":"hartland-trefoil-ltd","name":"Hartland Trefoil Ltd."}
+{"id":"hartung-spiele","name":"Hartung-Spiele"}
+{"id":"dal-negro","name":"Dal Negro"}
+{"id":"funskool-games","name":"Funskool Games"}
+{"id":"bookmark-verlag","name":"Bookmark Verlag"}
+{"id":"st-games","name":"ST Games"}
+{"id":"kenner","name":"Kenner"}
+{"id":"knc","name":"KnC"}
+{"id":"grey-gnome-games","name":"Grey Gnome Games"}
+{"id":"everything-epic-games","name":"Everything Epic Games"}
+{"id":"greenbrier-intl-inc","name":"Greenbrier International, Inc."}
+{"id":"green-feet-games","name":"Green Feet Games"}
+{"id":"superheated-neurons","name":"SuperHeated Neurons"}
+{"id":"game-harbor","name":"Game Harbor"}
+{"id":"gamefield","name":"GameField"}
+{"id":"litor","name":"Litor"}
+{"id":"kilogames","name":"Kilogames"}
+{"id":"toi-toys-bv","name":"Toi-Toys BV"}
+{"id":"sugorokuya","name":"Sugorokuya"}
+{"id":"geek-attitude-games","name":"Geek Attitude Games"}
+{"id":"superlude-editions","name":"Superlude Éditions"}
+{"id":"herder-spiele","name":"Herder Spiele"}
+{"id":"game-journal","name":"Game Journal"}
+{"id":"ape-games","name":"APE Games"}
+{"id":"red-joker","name":"The Red Joker"}
+{"id":"chara-games","name":"Chara Games"}
+{"id":"bonsai-games","name":"Bonsai Games"}
+{"id":"yetem-sa","name":"Yetem S.A."}
+{"id":"john-adams-ideal","name":"John Adams (IDEAL)"}
+{"id":"grubbe-media-gmbh","name":"Grubbe Media GmbH"}
+{"id":"rightgames-rbg-sia","name":"Rightgames RBG SIA"}
+{"id":"ares-games","name":"Ares Games"}
+{"id":"mb-spil-danish","name":"MB spil (Danish)"}
+{"id":"morning","name":"Morning"}
+{"id":"steamforged-games-ltd","name":"Steamforged Games Ltd."}
+{"id":"game-brewer","name":"Game Brewer"}
+{"id":"vzroslye-deti","name":"Взрослые дети"}
+{"id":"airfix","name":"Airfix"}
+{"id":"eight-foot-llama","name":"Eight Foot Llama"}
+{"id":"arrakis-games","name":"Arrakis Games"}
+{"id":"new-england-simulations","name":"New England Simulations"}
+{"id":"impact-miniatures","name":"Impact! Miniatures"}
+{"id":"ginger-fox-ltd","name":"Ginger Fox Ltd."}
+{"id":"gut-bustin-games","name":"Gut Bustin' Games"}
+{"id":"frosted-games","name":"Frosted Games"}
+{"id":"rule-make","name":"Rule \u0026 Make"}
+{"id":"chad-valley-co-ltd","name":"Chad Valley Co Ltd."}
+{"id":"john-n-hansen-co-inc","name":"John N. Hansen Co., Inc."}
+{"id":"la-meche-rebelle-editions","name":"La Mèche Rebelle Editions"}
+{"id":"ikea","name":"IKEA"}
+{"id":"hans-im-gluck","name":"Hans im Glück"}
+{"id":"hakubia","name":"HaKubia"}
+{"id":"peri-spiele","name":"Peri Spiele"}
+{"id":"canada-games-company-lmt","name":"Canada Games"}
+{"id":"lambourne-games","name":"Lambourne Games"}
+{"id":"chas-goodall-sons-ltd","name":"Chas Goodall \u0026 Sons Ltd"}
+{"id":"ghenos-games","name":"Ghenos Games"}
+{"id":"chip-theory-games","name":"Chip Theory Games"}
+{"id":"kikigagne","name":"Kikigagne?"}
+{"id":"as-company","name":"AS Company"}
+{"id":"grunspan-spiele","name":"Grünspan-Spiele"}
+{"id":"capiepa","name":"Capiépa - Jeux Éducatifs"}
+{"id":"leikkien-group","name":"Leikkien Group"}
+{"id":"bucephalus-games","name":"Bucephalus Games"}
+{"id":"mucke-spiele","name":"Mücke Spiele"}
+{"id":"e-s-lowe-company-inc","name":"E.S. Lowe"}
+{"id":"rigoler","name":"リゴレ (rigoler)"}
+{"id":"daily-magic-games","name":"Daily Magic Games"}
+{"id":"pravi-junak","name":"Pravi Junak"}
+{"id":"mb-spiele","name":"MB Spiele"}
+{"id":"sd-games","name":"SD Games"}
+{"id":"dondorf","name":"Dondorf"}
+{"id":"editora-abril","name":"Editora Abril"}
+{"id":"tau-leader-games","name":"Tau Leader Games"}
+{"id":"peter-pan-playthings","name":"Peter Pan Playthings"}
+{"id":"dream-pod-9","name":"Dream Pod 9"}
+{"id":"jeux-stella","name":"Jeux Stella"}
+{"id":"mga-entertainment","name":"MGA Entertainment"}
+{"id":"hexagames-i","name":"Hexagames (I)"}
+{"id":"creative-crafthouse","name":"Creative Crafthouse"}
+{"id":"colour-of-strategy-ltd","name":"Colour of Strategy, Ltd."}
+{"id":"novedades-montecarlo","name":"Novedades Montecarlo"}
+{"id":"abba-games","name":"ABBA Games"}
+{"id":"piecekeeper-games","name":"PieceKeeper Games"}
+{"id":"mage-company","name":"MAGE Company"}
+{"id":"quick-simple-fun-games","name":"Quick Simple Fun Games"}
+{"id":"super-accord","name":"Super Accord"}
+{"id":"educational-insights","name":"Educational Insights"}
+{"id":"lock-n-load-publishing-llc","name":"Lock 'n Load Publishing, LLC."}
+{"id":"wood-expressions","name":"Wood Expressions"}
+{"id":"forlago-ab","name":"förlAgo AB"}
+{"id":"nova-game-designs","name":"Nova Game Designs"}
+{"id":"lynnvander-studios","name":"Lynnvander Studios"}
+{"id":"gabinete-ludico","name":"Gabinete Lúdico"}
+{"id":"syu-creation","name":"SYU Creation"}
+{"id":"3dtotal-games","name":"3DTotal Games"}
+{"id":"deep-water-games","name":"Deep Water Games"}
+{"id":"toy-brokers-ltd","name":"Toy Brokers Ltd"}
+{"id":"mantic-games","name":"Mantic Games"}
+{"id":"stonemaier-games","name":"Stonemaier Games"}
+{"id":"joen","name":"Joen"}
+{"id":"gazebo-games-uk-ltd","name":"Gazebo Games UK Ltd."}
+{"id":"midgaard-games","name":"Midgaard Games"}
+{"id":"abra","name":"ABRA"}
+{"id":"nurburg-spiele","name":"Nürburg Spiele"}
+{"id":"butehorn-spiele","name":"Bütehorn Spiele (Buchholz Verlag)"}
+{"id":"dyskami-publishing-company","name":"Dyskami Publishing Company"}
+{"id":"hyperbole-games","name":"Hyperbole Games"}
+{"id":"runes-editions","name":"RUNES Editions"}
+{"id":"sweet-lemon-publishing","name":"Sweet Lemon Publishing"}
+{"id":"ruibal-hermanos-sa","name":"Ruibal Hermanos S.A."}
+{"id":"formal-ferret-games","name":"Formal Ferret Games"}
+{"id":"warlord-games","name":"Warlord Games"}
+{"id":"deinko-games","name":"Deinko Games"}
+{"id":"dice-realm","name":"Dice Realm"}
+{"id":"games-adults-play","name":"Games Adults Play"}
+{"id":"oetinger-spiele","name":"Oetinger Spiele"}
+{"id":"national-geographic-society","name":"National Geographic Society"}
+{"id":"dg-associates","name":"DG Associates"}
+{"id":"mb-spill","name":"MB spill"}
+{"id":"orda-industries-ltd","name":"Orda Industries Ltd."}
+{"id":"philos","name":"Philos"}
+{"id":"random-house-inc","name":"Random House, Inc."}
+{"id":"sirlin-games","name":"Sirlin Games"}
+{"id":"czacha-games","name":"Czacha Games"}
+{"id":"cubicle-7-entertainment","name":"Cubicle 7 Entertainment"}
+{"id":"dragon-azul","name":"El Dragón Azul"}
+{"id":"playte","name":"Playte"}
+{"id":"bard-centrum-gier","name":"Bard Centrum Gier"}
+{"id":"oy-fenno-alga-ab","name":"Oy Fenno-Alga Ab"}
+{"id":"game-inventors","name":"Game InVentorS"}
+{"id":"pridemage-games","name":"Pridemage Games"}
+{"id":"black-box-adventures","name":"Black Box Adventures"}
+{"id":"schilmil-games-ltd","name":"SchilMil Games, Ltd."}
+{"id":"inside-the-box-board-games-llp-itb","name":"Inside the Box Board Games LLP (ITB)"}
+{"id":"marbles-the-brain-store","name":"Marbles: The Brain Store"}
+{"id":"simulation-design-inc","name":"Simulation Design, Inc."}
+{"id":"peaceable-kingdom","name":"Peaceable Kingdom"}
+{"id":"clever-mojo-games","name":"Clever Mojo Games"}
+{"id":"mindware","name":"MindWare"}
+{"id":"cosi","name":"CoSi"}
+{"id":"educa-borras","name":"Educa Borras"}
+{"id":"funbox-editora","name":"Funbox Editora"}
+{"id":"adams-apple-games-llc","name":"Adam's Apple Games, LLC"}
+{"id":"adc-blackfire-entertainment","name":"ADC Blackfire Entertainment"}
+{"id":"angelo-porazzi-games","name":"Angelo Porazzi Games"}
+{"id":"neca","name":"NECA"}
+{"id":"mindclash-games","name":"Mindclash Games"}
+{"id":"shoot-again-games","name":"Shoot Again Games"}
+{"id":"lemeco","name":"Lemeco"}
+{"id":"abel-klinger","name":"Abel Klinger"}
+{"id":"novina","name":"Novina"}
+{"id":"scorpion-masque","name":"Le Scorpion Masqué"}
+{"id":"editoy","name":"Editoy"}
+{"id":"czech-games-edition","name":"Czech Games Edition"}
+{"id":"looping-games","name":"Looping Games"}
+{"id":"fever-games","name":"Fever Games"}
+{"id":"eveil-jeux","name":"Éveil \u0026 Jeux"}
+{"id":"grapet","name":"Grapet"}
+{"id":"whitman","name":"Whitman"}
+{"id":"smethport-specialty-co","name":"Smethport Specialty Co."}
+{"id":"argentum-verlag","name":"Argentum Verlag"}
+{"id":"magic-meeple-games","name":"Magic Meeple Games"}
+{"id":"excalibre-games-inc","name":"Excalibre Games, Inc."}
+{"id":"marx-toys","name":"Marx Toys"}
+{"id":"quarterdeck-games","name":"Quarterdeck Games"}
+{"id":"whats-your-game","name":"What's Your Game?"}
+{"id":"gigamic","name":"Gigamic"}
+{"id":"ancient-chess","name":"Ancient Chess"}
+{"id":"mb-peli","name":"MB peli"}
+{"id":"juegosdemesa-com-ar","name":"JuegosdeMesa.com.ar"}
+{"id":"hot-games","name":"HOT Games"}
+{"id":"osprey-games","name":"Osprey Games"}
+{"id":"stein-day","name":"Stein and Day"}
+{"id":"toy-box-games","name":"Toy Box Games"}
+{"id":"ed-u-cards-mfg","name":"ED-U-Cards Mfg"}
+{"id":"samatli","name":"Samatli"}
+{"id":"bielefelder-spielkarten","name":"Bielefelder Spielkarten"}
+{"id":"big-potato-games","name":"Big Potato"}
+{"id":"dujardin","name":"Dujardin"}
+{"id":"alea","name":"alea"}
+{"id":"ass-altenburger-spielkarten","name":"ASS Altenburger Spielkarten"}
+{"id":"deuce","name":"Deuce"}
+{"id":"waddingtons","name":"Waddingtons"}
+{"id":"murmel-spielwerkstatt-verlag-ag","name":"Murmel Spielwerkstatt und Verlag AG"}
+{"id":"attactix-adventure-games","name":"Attactix Adventure Games"}
+{"id":"ankama","name":"Ankama"}
+{"id":"bisonte","name":"Bisonte"}
+{"id":"gamesformotion","name":"Gamesformotion"}
+{"id":"anomia-press","name":"Anomia Press"}
+{"id":"game-designers-workshop","name":"Game Designers' Workshop (GDW Games)"}
+{"id":"tf1-games","name":"TF1 Games"}
+{"id":"northwest-corner-inc","name":"Northwest Corner, Inc."}
+{"id":"underdog-games-i","name":"Underdog Games (I)"}
+{"id":"games-gang-ltd","name":"The Games Gang, LTD"}
+{"id":"adolph-holst-as","name":"Adolph Holst A/S"}
+{"id":"thunderworks-games","name":"Thunderworks Games"}
+{"id":"cmyk","name":"CMYK"}
+{"id":"asmodee-italia","name":"Asmodee Italia"}
+{"id":"closet-nerd-games","name":"Closet Nerd Games"}
+{"id":"loki","name":"LOKI"}
+{"id":"road-to-infamy-games","name":"Road To Infamy Games (R2i Games)"}
+{"id":"spw-schroeder-publishing-wargames","name":"SPW (Schroeder Publishing \u0026 Wargames)"}
+{"id":"popcorn-games","name":"Popcorn Games"}
+{"id":"gemblo-company","name":"Gemblo, Inc."}
+{"id":"pinnacle-entertainment-group","name":"Pinnacle Entertainment Group"}
+{"id":"sports-illustrated","name":"Sports Illustrated"}
+{"id":"critical-hit-inc","name":"Critical Hit, Inc."}
+{"id":"against-the-odds","name":"Against the Odds"}
+{"id":"adventureland-games","name":"Adventureland Games"}
+{"id":"giochix-it","name":"Giochix.it"}
+{"id":"spartan-games","name":"Spartan Games"}
+{"id":"tilsit","name":"Tilsit"}
+{"id":"red-glove","name":"Red Glove"}
+{"id":"zito","name":"Zito! Ώρα για παιχνίδι"}
+{"id":"bell","name":"Bell"}
+{"id":"ducosim","name":"Ducosim"}
+{"id":"o-capturador","name":"O Capturador"}
+{"id":"viravi-edicions","name":"Viravi Edicions"}
+{"id":"sterling-games","name":"Sterling Games"}
+{"id":"ubo-cnc","name":"UBO CnC"}
+{"id":"great-american-trading-company","name":"Great American Trading Company"}
+{"id":"popcornedu","name":"PopcornEdu"}
+{"id":"pegasus-spiele","name":"Pegasus Spiele"}
+{"id":"perro-loko-games","name":"Perro Loko Games"}
+{"id":"new-games-order-llc","name":"New Games Order, LLC"}
+{"id":"lakeside","name":"Lakeside"}
+{"id":"igames","name":"IGAMES"}
+{"id":"cerigo-editions","name":"Cérigo Editions"}
+{"id":"guidon-games","name":"Guidon Games"}
+{"id":"uchibacoya","name":"uchibacoya"}
+{"id":"shoptaugh-games","name":"Shoptaugh Games"}
+{"id":"overlord-games","name":"Overlord Games"}
+{"id":"flick-game-studio","name":"Flick Game Studio"}
+{"id":"wiggins-teape","name":"Wiggins Teape"}
+{"id":"gdm-games","name":"GDM Games"}
+{"id":"hobby-japan","name":"Hobby Japan"}
+{"id":"playtoy-industries","name":"Playtoy Industries"}
+{"id":"heye-verlag","name":"Heye Verlag"}
+{"id":"strat-o-matic-game-company","name":"Strat-O-Matic Game Company"}
+{"id":"competo-marektoy","name":"Competo / Marektoy"}
+{"id":"mcloughlin-brothers","name":"McLoughlin Brothers"}
+{"id":"parker-brothers","name":"Parker Brothers"}
+{"id":"wyrd-games","name":"Wyrd Games (Wyrd Miniatures)"}
+{"id":"el-dorado-games","name":"El Dorado Games"}
+{"id":"playroom-entertainment","name":"Playroom Entertainment"}
+{"id":"world-games","name":"World Games"}
+{"id":"pd-verlag","name":"PD-Verlag"}
+{"id":"card-castle","name":"Card Castle"}
+{"id":"stragoo-games","name":"Stragoo Games"}
+{"id":"toltoys","name":"Toltoys"}
+{"id":"muller-ltd-co-kg","name":"Müller Ltd. \u0026 Co. KG"}
+{"id":"watilliaux","name":"Watilliaux"}
+{"id":"papergames-iii","name":"PaperGames (III)"}
+{"id":"pintoy","name":"Pintoy"}
+{"id":"binary-arts","name":"Binary Arts"}
+{"id":"gripping-beast","name":"Gripping Beast"}
+{"id":"mondo-games","name":"Mondo Games"}
+{"id":"origem","name":"Origem"}
+{"id":"nolisogyisesang","name":"놀이속의세상"}
+{"id":"hcm-kinzel","name":"HCM Kinzel"}
+{"id":"wbs-games","name":"WBS Games"}
+{"id":"dilemma-games","name":"Dilemma Games"}
+{"id":"offason","name":"Offason"}
+{"id":"igiari","name":"Igiari"}
+{"id":"gen42-games","name":"Gen42 Games"}
+{"id":"boom-boom-games","name":"Boom Boom Games"}
+{"id":"idventure","name":"iDventure"}
+{"id":"hall-or-nothing-productions","name":"Hall or Nothing Productions"}
+{"id":"redimp-games","name":"REDIMP GAMES"}
+{"id":"zafty-games","name":"Zafty Games (Zafty)"}
+{"id":"outset-media","name":"Outset Media"}
+{"id":"canadian-group","name":"The Canadian Group"}
+{"id":"dubreq","name":"Dübreq"}
+{"id":"vivid-imaginations","name":"Vivid Imaginations"}
+{"id":"fanpro","name":"Fanpro"}
+{"id":"hall-games","name":"Hall Games"}
+{"id":"horrible-guild","name":"Horrible Guild"}
+{"id":"palm-court","name":"Palm Court"}
+{"id":"boardcubator","name":"Boardcubator"}
+{"id":"happy-baobab","name":"Happy Baobab"}
+{"id":"skybound-games","name":"Skybound Games"}
+{"id":"moaideas-game-design","name":"Moaideas Game Design"}
+{"id":"itten","name":"itten"}
+{"id":"keep-exploring-games","name":"Keep Exploring Games"}
+{"id":"12-singes","name":"Les 12 Singes"}
+{"id":"edition-spielwiese","name":"Edition Spielwiese"}
+{"id":"mercury-games","name":"Mercury Games"}
+{"id":"worthington-games","name":"Worthington Games"}
+{"id":"eurogames","name":"Eurogames"}
+{"id":"prism-games","name":"Prism Games"}
+{"id":"black-monk","name":"Black Monk"}
+{"id":"jolly-roger-games","name":"Jolly Roger Games"}
+{"id":"chronicle-games-board-game","name":"Chronicle Games (Board Game)"}
+{"id":"junk-spirit-games","name":"Junk Spirit Games"}
+{"id":"descartes-editeur","name":"Descartes Editeur"}
+{"id":"john-lewis","name":"John Lewis"}
+{"id":"river-horse-games","name":"River Horse (Europe) Ltd."}
+{"id":"korona-games","name":"Korona Games"}
+{"id":"igromag","name":"Ігромаг"}
+{"id":"asmodee-spain","name":"Asmodee Spain"}
+{"id":"ponva-doo","name":"Ponva d.o.o."}
+{"id":"japanime-games","name":"Japanime Games"}
+{"id":"thundergryph-games","name":"ThunderGryph Games"}
+{"id":"igrology","name":"Igrology"}
+{"id":"uplayit-edizioni","name":"uplay.it edizioni"}
+{"id":"carrom-art","name":"Carrom Art"}
+{"id":"lonny-games","name":"Lonny Games"}
+{"id":"psc-games","name":"PSC Games"}
+{"id":"osterreichisches-spiele","name":"Österreichisches Spiele Museum e.V."}
+{"id":"ludicreations","name":"LudiCreations"}
+{"id":"25th-century-games","name":"25th Century Games"}
+{"id":"gameland-cn","name":"Gameland 游戏大陆"}
+{"id":"clifford-toys","name":"Clifford Toys"}
+{"id":"funforge","name":"Funforge"}
+{"id":"gp-games","name":"GP Games"}
+{"id":"welt-der-spiele","name":"Welt der Spiele"}
+{"id":"leonardo-games","name":"Leonardo Games"}
+{"id":"pythagoras","name":"PYTHAGORAS"}
+{"id":"cacahuete-games","name":"Cacahuete Games"}
+{"id":"alary-games","name":"Alary Games"}
+{"id":"wolf-fang-ph","name":"Wolf Fang P.H."}
+{"id":"takamagahara","name":"Takamagahara"}
+{"id":"korea-boardgames","name":"Korea Boardgames Co., Ltd."}
+{"id":"planet-finska","name":"Planet Finska"}
+{"id":"cmon-global-limited","name":"CMON Global Limited"}
+{"id":"fantasmagoria","name":"Fantasmagoria"}
+{"id":"penny-arcade","name":"Penny Arcade"}
+{"id":"take-aim-designs","name":"Take Aim Designs"}
+{"id":"oz-editions","name":"Ôz Editions"}
+{"id":"spears-games","name":"Spear's Games"}
+{"id":"bezzerwizzer-aps","name":"Bezzerwizzer ApS (Bezzerwizzer Studio)"}
+{"id":"2d6-ee-side-quest-games","name":"2D6.EE (Side Quest Games)"}
+{"id":"wise-wizard-games","name":"Wise Wizard Games"}
+{"id":"don-co","name":"Don \u0026 Co."}
+{"id":"cool-mini-or-not","name":"Cool Mini Or Not"}
+{"id":"mythic-games","name":"Mythic Games"}
+{"id":"certifiable-studios","name":"Certifiable Studios"}
+{"id":"upstarts","name":"Upstarts"}
+{"id":"minion-games","name":"Minion Games"}
+{"id":"ludocom","name":"Ludocom"}
+{"id":"modiphius-entertainment","name":"Modiphius Entertainment"}
+{"id":"david-westnedge","name":"David Westnedge"}
+{"id":"flair-games","name":"Flair Games"}
+{"id":"vagabund","name":"Vagabund"}
+{"id":"medieval-lords","name":"Medieval Lords"}
+{"id":"rio-grande-games","name":"Rio Grande Games"}
+{"id":"geoludie","name":"Geoludie"}
+{"id":"dragon-dawn-productions","name":"Dragon Dawn Productions"}
+{"id":"treefrog-games","name":"Treefrog Games"}
+{"id":"bucaneiros-jogos","name":"Bucaneiros Jogos"}
+{"id":"studio-h","name":"Studio H"}
+{"id":"flying-games","name":"The Flying Games"}
+{"id":"ubik","name":"Ubik"}
+{"id":"flying-buffalo-inc","name":"Flying Buffalo, Inc. (FBI)"}
+{"id":"tonka-corporation","name":"Tonka Corporation"}
+{"id":"scribabs","name":"Scribabs"}
+{"id":"schmidt-intl","name":"Schmidt International"}
+{"id":"early-learning-centre","name":"Early Learning Centre"}
+{"id":"blue-orange-eu","name":"Blue Orange (EU)"}
+{"id":"hexasim","name":"Hexasim"}
+{"id":"crown-andrews-ltd","name":"Crown \u0026 Andrews Ltd."}
+{"id":"button-shy","name":"Button Shy"}
+{"id":"ramsons","name":"Ramsons"}
+{"id":"gallimard","name":"Gallimard"}
+{"id":"galleryplay","name":"Galleryplay"}
+{"id":"iuvi-games","name":"IUVI Games"}
+{"id":"wicked-vision","name":"Wicked Vision"}
+{"id":"surfin-meeple-china","name":"Surfin' Meeple China"}
+{"id":"baksha-games","name":"Baksha Games"}
+{"id":"ayatsurare-ningyoukan","name":"Ayatsurare Ningyoukan"}
+{"id":"mb-juegos","name":"MB Juegos"}
+{"id":"blacksands-games","name":"BlackSands Games"}
+{"id":"archona-games","name":"Archona Games"}
+{"id":"barrett-publishing","name":"Barrett Publishing"}
+{"id":"lifestyle-boardgames-ltd","name":"Lifestyle Boardgames Ltd"}
+{"id":"pigphone","name":"Pigphone"}
+{"id":"denys-fisher-toys","name":"Denys Fisher Toys"}
+{"id":"mad-mans-magic","name":"Mad Man's Magic"}
+{"id":"fantasy-flight-games","name":"Fantasy Flight Games"}
+{"id":"magnetic-poetry-inc","name":"Magnetic Poetry Inc"}
+{"id":"harlesden-games","name":"Harlesden Games"}
+{"id":"terra-nova-games","name":"Terra Nova Games"}
+{"id":"friendly-games-inc","name":"Friendly Games, Inc."}
+{"id":"klee","name":"Klee"}
+{"id":"abc-nurnberg","name":"ABC Nürnberg"}
+{"id":"paladone","name":"Paladone"}
+{"id":"mighty-boards","name":"Mighty Boards"}
+{"id":"rock-manor-games","name":"Rock Manor Games"}
+{"id":"mirakulus","name":"Mirakulus"}
+{"id":"tablestar-games","name":"TableStar Games"}
+{"id":"blam","name":"BLAM !"}
+{"id":"funnyfox","name":"Funnyfox"}
+{"id":"yellow-box","name":"YellowBOX"}
+{"id":"mizo-games","name":"Mizo Games"}
+{"id":"sylex","name":"Sylex"}
+{"id":"wargames-club-publishing","name":"Wargames Club Publishing"}
+{"id":"mayfair-games","name":"Mayfair Games"}
+{"id":"atlas-games","name":"Atlas Games"}
+{"id":"stratus-games","name":"Stratus Games"}
+{"id":"buly-games","name":"Buly Games"}
+{"id":"fishbone-games","name":"Fishbone Games"}
+{"id":"b-b-games-studio","name":"B\u0026B Games Studio"}
+{"id":"openn-play","name":"OPEN'N PLAY"}
+{"id":"huch","name":"HUCH!"}
+{"id":"tesco","name":"Tesco"}
+{"id":"marshal-enterprises","name":"Marshal Enterprises"}
+{"id":"meeple","name":"MEEPLE"}
+{"id":"kogekogedo","name":"KogeKogeDo"}
+{"id":"exploding-kittens","name":"Exploding Kittens"}
+{"id":"chronicle-books","name":"Chronicle Books"}
+{"id":"aporta-games","name":"Aporta Games"}
+{"id":"warhammer-historical-wargames-ltd","name":"Warhammer Historical Wargames Ltd"}
+{"id":"wiggity-bang-games","name":"Wiggity Bang Games"}
+{"id":"academy-games-inc","name":"Academy Games, Inc."}
+{"id":"sherlock-sa","name":"Sherlock S.A."}
+{"id":"vilac","name":"Vilac"}
+{"id":"ediciones-primigenio","name":"Primigenio (formerly Ediciones Primigenio)"}
+{"id":"bloom-games-i","name":"Bloom Games (Korean)"}
+{"id":"enigma-studio","name":"Enigma Studio"}
+{"id":"tuonela-productions-ltd","name":"Tuonela Productions Ltd."}
+{"id":"numbskull-games","name":"Numbskull Games"}
+{"id":"house-martin","name":"House Martin"}
+{"id":"mebo-games","name":"MEBO Games"}
+{"id":"bojeux-inc","name":"Bojeux, Inc."}
+{"id":"studio-9-incorporated","name":"Studio 9 Incorporated"}
+{"id":"laboratory-games","name":"Laboratory Games"}
+{"id":"looney-labs","name":"Looney Labs"}
+{"id":"piet-hein-as","name":"Piet Hein A/S"}
+{"id":"decision-games-i","name":"Decision Games (I)"}
+{"id":"temple-games-inc","name":"Temple Games, Inc."}
+{"id":"kheper-games","name":"Kheper Games"}
+{"id":"edge-entertainment","name":"Edge Entertainment"}
+{"id":"spilbraetdk","name":"Spilbræt.dk"}
+{"id":"volume-one-products","name":"Volume-One Products"}
+{"id":"mulder","name":"Mulder"}
+{"id":"modiano","name":"Modiano"}
+{"id":"golden-egg-games","name":"Golden Egg Games"}
+{"id":"letiman-games","name":"Letiman Games"}
+{"id":"a-games-board-game","name":"A-games (Board Game)"}
+{"id":"second-gate-games","name":"Second Gate Games"}
+{"id":"kosmos","name":"KOSMOS"}
+{"id":"gmt-games","name":"GMT Games"}
+{"id":"paradigm-games-ltd","name":"Paradigm Games Ltd"}
+{"id":"rather-dashing-games","name":"Rather Dashing Games"}
+{"id":"house-of-marbles","name":"House of Marbles"}
+{"id":"nasza-ksiegarnia","name":"Nasza Księgarnia"}
+{"id":"jordan-draper-games","name":"Jordan Draper Games"}
+{"id":"elf-creek-games","name":"Elf Creek Games"}
+{"id":"studio-woe","name":"Studio Woe"}
+{"id":"old-school-wargames","name":"Old School Wargames"}
+{"id":"games-team-ltd","name":"The Games Team Ltd."}
+{"id":"xeno-games","name":"Xeno Games"}
+{"id":"eeboo","name":"eeBoo"}
+{"id":"new-board-game-party","name":"新ボードゲーム党 (New Board Game Party)"}
+{"id":"siam-board-games","name":"Siam Board Games"}
+{"id":"goldsieber-spiele","name":"Goldsieber Spiele"}
+{"id":"funagain","name":"Funagain"}
+{"id":"schaper","name":"Schaper"}
+{"id":"staupe-spiele","name":"Staupe Spiele"}
+{"id":"playford-games","name":"Playford Games"}
+{"id":"rocks-games","name":"Rocks Games"}
+{"id":"savant-garde-entertainment","name":"Savant Garde Entertainment"}
+{"id":"enjoy-game","name":"Enjoy Game"}
+{"id":"californian-products","name":"Californian Products"}
+{"id":"conquistador-games-inc","name":"Conquistador Games, Inc."}
+{"id":"venice-connection","name":"Venice Connection"}
+{"id":"university-games","name":"University Games"}
+{"id":"redbox-editora","name":"Redbox Editora (Redbox)"}
+{"id":"heraclio-fournier","name":"Heraclio Fournier"}
+{"id":"cd-projekt-red","name":"CD Projekt RED"}
+{"id":"uberplay","name":"Überplay"}
+{"id":"the-gamers","name":"The Gamers"}
+{"id":"canons-en-carton","name":"Canons en Carton"}
+{"id":"yayoi-the-dreamer","name":"Yayoi The Dreamer"}
+{"id":"imago","name":"Imago"}
+{"id":"toys-pure","name":"Toys Pure"}
+{"id":"dust-games","name":"Dust Games"}
+{"id":"saien","name":"Saien"}
+{"id":"jolly-games","name":"Jolly Games"}
+{"id":"guillotine-games","name":"Guillotine Games"}
+{"id":"ostia-spiele","name":"OSTIA Spiele"}
+{"id":"playhouse-ltd","name":"Playhouse Ltd"}
+{"id":"fantasy-shop","name":"Fantasy Shop"}
+{"id":"hilco-corporation","name":"Hilco Corporation"}
+{"id":"mont-taber","name":"Mont Tàber"}
+{"id":"games-warehouse","name":"Games Warehouse"}
+{"id":"suki-games","name":"数寄ゲームズ (Suki Games)"}
+{"id":"heidelbar-games","name":"HeidelBÄR Games"}
+{"id":"kenzer-and-company","name":"Kenzer and Company"}
+{"id":"built-rite","name":"Built-Rite"}
+{"id":"999-games","name":"999 Games"}
+{"id":"op-games","name":"The Op"}
+{"id":"games7days","name":"Games7Days"}
+{"id":"kolossal-games","name":"Kolossal Games"}
+{"id":"belleville","name":"Бельвіль"}
+{"id":"trefl-joker-line","name":"Trefl Joker Line"}
+{"id":"grafix-travel-games","name":"Grafix Travel Games"}
+{"id":"irongames","name":"Irongames"}
+{"id":"west-end-games","name":"West End Games"}
+{"id":"libellud","name":"Libellud"}
+{"id":"capstone-hk-ltd","name":"Capstone HK Ltd."}
+{"id":"teeturtle","name":"TeeTurtle"}
+{"id":"blizzard-entertainment","name":"Blizzard Entertainment"}
+{"id":"square-root-games","name":"Square Root Games"}
+{"id":"board-game-box","name":"Board Game Box"}
+{"id":"lord-of-boards","name":"Lord of Boards"}
+{"id":"print-play-productions","name":"Print \u0026 Play Productions"}
+{"id":"surfin-meeple","name":"Surfin' Meeple"}
+{"id":"anvandbart-litet-foretag","name":"Användbart Litet Företag"}
+{"id":"fire-on-board-jogos","name":"Fire on Board Jogos"}
+{"id":"3-emme-games","name":"3 Emme Games"}
+{"id":"luduscience","name":"LuduScience"}
+{"id":"magic-store-srl","name":"Magic Store Srl"}
+{"id":"clipper","name":"Clipper"}
+{"id":"paul-lamond-games-ltd","name":"Paul Lamond Games Ltd"}
+{"id":"marchant","name":"Marchant"}
+{"id":"spiral-galaxy-games","name":"Spiral Galaxy Games"}
+{"id":"gamma-two-games","name":"Gamma Two Games"}
+{"id":"tobar-ltd","name":"Tobar Ltd"}
+{"id":"phalanx-games-polska","name":"Phalanx Games Polska"}
+{"id":"dph-games-inc","name":"DPH Games Inc"}
+{"id":"albi","name":"Albi"}
+{"id":"laser-plus","name":"Laser plus"}
+{"id":"pictionary-inc","name":"Pictionary, Inc."}
+{"id":"stone-blade-entertainment","name":"Stone Blade Entertainment"}
+{"id":"egmont-polska","name":"Egmont Polska"}
+{"id":"bandai","name":"Bandai"}
+{"id":"goki","name":"Goki"}
+{"id":"dover-publications","name":"Dover Publications"}
+{"id":"sleuth-publications","name":"Sleuth Publications"}
+{"id":"unstable-games","name":"Unstable Games"}
+{"id":"fundex","name":"Fundex"}
+{"id":"corvus-belli","name":"Corvus Belli"}
+{"id":"instytut-pamieci-narodowej","name":"Instytut Pamięci Narodowej (IPN)"}
+{"id":"atheris-games","name":"Atheris Games"}
+{"id":"mindok","name":"MINDOK"}
+{"id":"morapiaf","name":"Morapiaf"}
+{"id":"hemz-universal-games-co-ltd","name":"Hemz Universal Games Co. Ltd."}
+{"id":"compayahu-gamer-cafe-kft","name":"Compaya.hu - Gamer Café Kft."}
+{"id":"oficina-do-aprendiz","name":"Oficina do Aprendiz"}
+{"id":"one-moment-games","name":"One Moment Games"}
+{"id":"chili-spiele","name":"Chili Spiele"}
+{"id":"mattel-inc","name":"Mattel, Inc."}
+{"id":"funfair","name":"FunFair"}
+{"id":"ludifolie-editions","name":"Ludifolie Editions"}
+{"id":"azure-wish-enterprise","name":"Azure Wish Enterprise (AWE)"}
+{"id":"foxmind-israel","name":"FoxMind Israel"}
+{"id":"moses-verlag-gmbh","name":"moses. Verlag GmbH"}
+{"id":"level-99-games","name":"Level 99 Games"}
+{"id":"small-box-games","name":"Small Box Games"}
+{"id":"restoration-games","name":"Restoration Games"}
+{"id":"fagus","name":"Fagus"}
+{"id":"legendary-games-inc","name":"Legendary Games, Inc."}
+{"id":"draco-ideas","name":"Draco Ideas"}
+{"id":"fullcap-games","name":"Fullcap Games"}
+{"id":"covenant-communications-inc","name":"Covenant Communications, Inc."}
+{"id":"tas-devri-oyuncak","name":"Taş Devrı Oyuncak"}
+{"id":"nexus-editrice","name":"Nexus Editrice"}
+{"id":"longfield-games","name":"Longfield Games"}
+{"id":"nelospelit","name":"Nelospelit"}
+{"id":"mb-giochi","name":"MB Giochi"}
+{"id":"hobby-world","name":"Hobby World"}
+{"id":"genius-games","name":"Genius Games"}
+{"id":"tesla-games","name":"Tesla Games"}
+{"id":"victory-games-i","name":"Victory Games (I)"}
+{"id":"wow-what-a-world-of-entertainment-ab","name":"WOW! What a World of Entertainment AB"}
+{"id":"8th-summit","name":"8th Summit"}
+{"id":"turning-point-simulations","name":"Turning Point Simulations"}
+{"id":"emperors-of-eternal-evil","name":"Emperors of Eternal Evil"}
+{"id":"tranjis-games","name":"Tranjis Games"}
+{"id":"blackrock-games","name":"Blackrock Games"}
+{"id":"druid-city-games","name":"Druid City Games"}
+{"id":"zonnespel","name":"Zonnespel"}
+{"id":"gonggan27","name":"Gonggan27"}
+{"id":"i-can-do-that-games","name":"I Can Do That Games"}
+{"id":"asobition","name":"Asobition (アソビション)"}
+{"id":"steffen-spiele","name":"Steffen-Spiele"}
+{"id":"spieltrieb","name":"Spieltrieb"}
+{"id":"imagination-games","name":"Imagination Games"}
+{"id":"angry-lion-games","name":"Angry Lion Games"}
+{"id":"zhiyanjia","name":"Zhiyanjia"}
+{"id":"channel-craft","name":"Channel Craft"}
+{"id":"giochi-uniti","name":"Giochi Uniti"}
+{"id":"greater-than-games-llc","name":"Greater Than Games, LLC"}
+{"id":"zontik-games","name":"Zontik Games"}
+{"id":"bureau-de-juegos","name":"Bureau de Juegos"}
+{"id":"ps-games","name":"PS-Games"}
+{"id":"spaghetti-western-games","name":"Spaghetti Western Games"}
+{"id":"djama-games","name":"Djama Games"}
+{"id":"innovakids-gmbh","name":"Innovakids GmbH"}
+{"id":"platinum-dragon-productions","name":"Platinum Dragon Productions"}
+{"id":"mongoose-publishing","name":"Mongoose Publishing"}
+{"id":"apba-intl","name":"APBA International"}
+{"id":"wood-games","name":"The Wood Games"}
+{"id":"five24-labs","name":"Five24 Labs"}
+{"id":"makaka-editions","name":"Makaka Editions"}
+{"id":"maple-toys","name":"Maple Toys"}
+{"id":"feuerland-spiele","name":"Feuerland Spiele"}
+{"id":"cheeky-parrot-games","name":"Cheeky Parrot Games"}
+{"id":"salt-pepper-games","name":"Salt \u0026 Pepper Games"}
+{"id":"historien-spiele-galerie","name":"Historien Spiele Galerie (Historien Spielegalerie)"}
+{"id":"truant-spiele","name":"Truant Spiele"}
+{"id":"z-man-games","name":"Z-Man Games"}
+{"id":"three-wishes","name":"Three Wishes"}
+{"id":"eagle-gryphon-games","name":"Eagle-Gryphon Games"}
+{"id":"front-porch-classics","name":"Front Porch Classics"}
+{"id":"xvgames","name":"XVgames"}
+{"id":"rocket-toys-games","name":"Rocket Toys and Games"}
+{"id":"thing-12-games","name":"Thing 12 Games"}
+{"id":"doit-games","name":"Do it games"}
+{"id":"hutchinson","name":"Hutchinson"}
+{"id":"asmodee","name":"Asmodee"}
+{"id":"zobmondo-entertainment-llc","name":"Zobmondo!! Entertainment LLC"}
+{"id":"touch","name":"[touch]"}
+{"id":"cayro-the-games","name":"Cayro, the games"}
+{"id":"lucky-duck-games","name":"Lucky Duck Games"}
+{"id":"desyllas-games","name":"Desyllas Games"}
+{"id":"evertide-games","name":"Evertide Games"}
+{"id":"renegade-game-studios","name":"Renegade Game Studios"}
+{"id":"colon-arc","name":"COLON ARC"}
+{"id":"casper","name":"Casper"}
+{"id":"hobby","name":"Hobby"}
+{"id":"kik-textilien-non-food-gmbh","name":"KiK Textilien und Non-Food GmbH"}
+{"id":"paper-iyagi","name":"Paper Iyagi"}
+{"id":"h-baron","name":"H. Baron"}
+{"id":"international-team-i","name":"International Team"}
+{"id":"heritage-models-inc","name":"Heritage Models, Inc."}
+{"id":"lansay","name":"Lansay"}
+{"id":"ludilo","name":"Lúdilo"}
+{"id":"games-factory","name":"Games Factory"}
+{"id":"playmobil-interactive","name":"PlayMobil Interactive"}
+{"id":"mr-b-games","name":"Mr. B Games"}
+{"id":"bibelot-games","name":"Bibelot Games"}
+{"id":"selecta-spielzeug","name":"Selecta Spielzeug"}
+{"id":"pier-1-imports","name":"Pier 1 Imports"}
+{"id":"tsr-tactical-studies-rules","name":"TSR (Tactical Studies Rules)"}
+{"id":"black-book-editions","name":"Black Book Éditions"}
+{"id":"action-games-toys-ltd","name":"Action Games and Toys Ltd"}
+{"id":"post-scriptum","name":"Post Scriptum"}
+{"id":"excalibur-electronics","name":"Excalibur Electronics"}
+{"id":"geekach-games","name":"Geekach Games"}
+{"id":"zoch-verlag","name":"Zoch Verlag"}
+{"id":"arxon","name":"Arxon"}
+{"id":"abraxas","name":"Abraxas"}
+{"id":"carrom-company","name":"Carrom Company"}
+{"id":"xanadu-leisure-ltd","name":"Xanadu Leisure, Ltd."}
+{"id":"rombol","name":"ROMBOL"}
+{"id":"fireside-games","name":"Fireside Games"}
+{"id":"fowers-games","name":"Fowers Games"}
+{"id":"sternenschimmermeer","name":"sternenschimmermeer"}
+{"id":"embossing-company","name":"The Embossing Company"}
+{"id":"new-entertainment-ltd","name":"New Entertainment Ltd"}
+{"id":"four-esses","name":"Four Esses"}
+{"id":"norsker-games","name":"Norsker Games"}
+{"id":"titanic-games","name":"Titanic Games"}
+{"id":"weico-produkte-gmbh","name":"Weico Produkte GmbH"}
+{"id":"dice-hate-me-games","name":"Dice Hate Me Games"}
+{"id":"crash-games","name":"Crash Games"}
+{"id":"broadway-toys-ltd","name":"Broadway Toys LTD"}
+{"id":"osg-operational-studies-group","name":"OSG (Operational Studies Group)"}
+{"id":"oldchap-editions","name":"OldChap Editions"}
+{"id":"jolly-dutch-productions","name":"Jolly Dutch Productions"}
+{"id":"dr-wood-challenge-centre","name":"Dr. Wood Challenge Centre"}
+{"id":"martinex","name":"Martinex (Peliko)"}
+{"id":"macgregor-historic-games","name":"MacGregor Historic Games"}
+{"id":"sababa-toys-inc","name":"Sababa Toys, Inc."}
+{"id":"kirjalito","name":"Kirjalito"}
+{"id":"theta","name":"Theta"}
+{"id":"dan-verssen-games-dvg","name":"Dan Verssen Games (DVG)"}
+{"id":"jumping-turtle-games","name":"Jumping Turtle Games"}
+{"id":"moments-in-history","name":"Moments in History"}
+{"id":"histeria-games","name":"HISTERIA GAMES"}
+{"id":"boardgametables-com","name":"BoardGameTables.com"}
+{"id":"tabula-games","name":"Tabula Games"}
+{"id":"northstar-game-studio","name":"North Star Games"}
+{"id":"portal-dragon","name":"Portal Dragon"}
+{"id":"magazzini-salani","name":"Magazzini Salani"}
+{"id":"alchemicus-pl","name":"Alchemicus.pl"}
+{"id":"sparkworks","name":"Sparkworks"}
+{"id":"tgg-games","name":"TGG Games"}
+{"id":"cranio-creations","name":"Cranio Creations"}
+{"id":"spiel-spass","name":"Spiel Spass"}
+{"id":"as-manufacturas","name":"AS Manufacturas"}
+{"id":"enginuity","name":"Enginuity"}
+{"id":"clicker-spiele","name":"Clicker Spiele"}
+{"id":"moonster-games","name":"Moonster Games"}
+{"id":"portal-games","name":"Portal Games"}
+{"id":"lacerta","name":"Lacerta"}
+{"id":"buchclub","name":"Buchclub"}
+{"id":"marflow-games","name":"Marflow Games"}
+{"id":"arrco-playing-card-co","name":"Arrco Playing Card Co."}
+{"id":"australian-design-group","name":"Australian Design Group"}
+{"id":"waddy-production","name":"Waddy Production"}
+{"id":"kenbill","name":"株式会社ケンビル (KenBill)"}
+{"id":"noris-spiele","name":"Noris Spiele"}
+{"id":"wiggles-3d","name":"Wiggles 3D"}
+{"id":"petersen-games","name":"Petersen Games"}
+{"id":"oliphante","name":"Oliphante"}
+{"id":"admagic","name":"AdMagic (Ad Magic Games)"}
+{"id":"magpie-korean-co","name":"Magpie (Korean Co)"}
+{"id":"conclave-editora","name":"Conclave Editora"}
+{"id":"hoyle-products","name":"Hoyle Products"}
+{"id":"sekkoia","name":"Sekkoia"}
+{"id":"three-crowns-games","name":"Three Crowns Games"}
+{"id":"wild-card-games-board-game","name":"Wild Card Games (Board Game)"}
+{"id":"db-spiele","name":"db-Spiele"}
+{"id":"buffalo-games","name":"Buffalo Games"}
+{"id":"wwf","name":"WWF"}
+{"id":"beacon-multimedia-sa","name":"Beacon Multimedia S.A."}
+{"id":"dk-simulations","name":"DK Simulations"}
+{"id":"ravensburger","name":"Ravensburger"}
+{"id":"popular-de-juguetes","name":"Popular de Juguetes"}
+{"id":"trefl","name":"Trefl"}
+{"id":"golden-bell-games","name":"Golden Bell Games"}
+{"id":"cappelen","name":"Cappelen"}
+{"id":"blue-orange-games","name":"Blue Orange Games"}
+{"id":"devir","name":"Devir"}
+{"id":"plotmaker-games","name":"Plotmaker Games"}
+{"id":"mb-jeux","name":"MB Jeux"}
+{"id":"fresno-gaming-association","name":"Fresno Gaming Association"}
+{"id":"evil-hat-productions","name":"Evil Hat Productions"}
+{"id":"room-17-games","name":"Room 17 Games"}
+{"id":"peliko-oy","name":"Peliko Oy"}
+{"id":"2-pionki","name":"2 Pionki"}
+{"id":"game-crafter-llc","name":"The Game Crafter, LLC"}
+{"id":"alderac-entertainment-group","name":"Alderac Entertainment Group"}
+{"id":"klopffleisch","name":"Klopffleisch"}
+{"id":"reflexshop","name":"Reflexshop"}
+{"id":"disney-pixar","name":"Disney/Pixar"}
+{"id":"shuffle","name":"Shuffle"}
+{"id":"privateer-press","name":"Privateer Press"}
+{"id":"two-hour-wargames","name":"Two Hour Wargames (THW Game Design)"}
+{"id":"nauvoo-games","name":"Nauvoo Games"}
+{"id":"vini-spil","name":"Vini-Spil"}
+{"id":"alexander","name":"Alexander"}
+{"id":"upper-deck-entertainment","name":"Upper Deck Entertainment"}
+{"id":"grey-fox-games","name":"Grey Fox Games"}
+{"id":"red-omega-studio","name":"Red Omega Studio"}
+{"id":"taktyka-i-strategia","name":"Taktyka i Strategia"}
+{"id":"rudolf-forkel-kg","name":"Rudolf Forkel KG"}
+{"id":"laurence-king-publishing-ltd","name":"Laurence King Publishing Ltd"}
+{"id":"lifetime-games","name":"Lifetime Games"}
+{"id":"smart-zone-games","name":"Smart Zone Games"}
+{"id":"lookout-games","name":"Lookout Games"}
+{"id":"wonder-forge","name":"Wonder Forge"}
+{"id":"krok-nik-douil-editions","name":"Krok Nik Douil editions"}
+{"id":"capstone-games","name":"Capstone Games"}
+{"id":"drei-hasen-in-der-abendsonne","name":"Drei Hasen in der Abendsonne"}
+{"id":"bomba-games","name":"Bomba Games"}
+{"id":"neroulia","name":"Neroulia"}
+{"id":"warm-acre","name":"Warm Acre"}
+{"id":"thinkfun","name":"ThinkFun"}
+{"id":"fox-in-the-box","name":"Fox in the Box"}
+{"id":"krealudik","name":"Krealudik"}
+{"id":"banana-games","name":"Banana Games"}
+{"id":"plaid-hat-games","name":"Plaid Hat Games"}
+{"id":"shafir-games","name":"Shafir Games (המשחקים של חיים שפיר)"}
+{"id":"waddington-sanders-ltd","name":"Waddington Sanders Ltd."}
+{"id":"summon-games","name":"Summon Games"}
+{"id":"creativity-hub","name":"The Creativity Hub"}
+{"id":"delicious-games","name":"Delicious Games"}
+{"id":"graphic-novel-adventures","name":"Graphic Novel Adventures"}
+{"id":"fred-distribution-inc","name":"FRED Distribution, Inc."}
+{"id":"schwerkraft-verlag","name":"Schwerkraft-Verlag"}
+{"id":"schmidt-spiele","name":"Schmidt Spiele"}
+{"id":"classic-games","name":"Classic Games"}
+{"id":"nintendo-co-ltd","name":"Nintendo Co., Ltd."}
+{"id":"comas","name":"Comas"}
+{"id":"oxford-games-ltd","name":"Oxford Games, Ltd."}
+{"id":"orchard-toys","name":"Orchard Toys"}
+{"id":"boardgame-space","name":"Boardgame Space"}
+{"id":"good-little-games","name":"Good Little Games"}
+{"id":"gibsons","name":"Gibsons"}
+{"id":"encore","name":"Encore"}
+{"id":"metagaming","name":"Metagaming"}
+{"id":"cbs-electronics","name":"CBS Electronics"}

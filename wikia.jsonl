@@ -1,0 +1,3005 @@
+{ id: "azul", name: "Azul"}
+{ id: "patchwork", name: "Patchwork"}
+{ id: "war-chest", name: "War Chest"}
+{ id: "azul-summer-pavilion", name: "Azul: Summer Pavilion"}
+{ id: "go", name: "Go"}
+{ id: "calico", name: "Calico"}
+{ id: "yinsh", name: "YINSH"}
+{ id: "santorini-2016", name: "Santorini"}
+{ id: "samurai-1998", name: "Samurai"}
+{ id: "hive", name: "Hive"}
+{ id: "onitama", name: "Onitama"}
+{ id: "the-king-is-dead-second-edition", name: "The King Is Dead: Second Edition"}
+{ id: "tiny-towns", name: "Tiny Towns"}
+{ id: "azul-stained-glass-of-sintra", name: "Azul: Stained Glass of Sintra"}
+{ id: "project-l", name: "Project L"}
+{ id: "chess", name: "Chess"}
+{ id: "ingenious", name: "Ingenious"}
+{ id: "tzaar", name: "TZAAR"}
+{ id: "nova-luna", name: "Nova Luna"}
+{ id: "through-the-desert", name: "Through the Desert"}
+{ id: "dvonn", name: "DVONN"}
+{ id: "photosynthesis", name: "Photosynthesis"}
+{ id: "taluva", name: "Taluva"}
+{ id: "torres", name: "Torres"}
+{ id: "mexica", name: "Mexica"}
+{ id: "tash-kalar-arena-of-legends", name: "Tash-Kalar: Arena of Legends"}
+{ id: "dragon-castle", name: "Dragon Castle"}
+{ id: "new-york-zoo", name: "New York Zoo"}
+{ id: "reef", name: "Reef"}
+{ id: "blokus", name: "Blokus"}
+{ id: "the-duke", name: "The Duke"}
+{ id: "ricochet-robots", name: "Ricochet Robots"}
+{ id: "paris-la-cite-de-la-lumiere", name: "Paris: La Cité de la Lumière"}
+{ id: "blue-lagoon", name: "Blue Lagoon"}
+{ id: "zertz", name: "ZÈRTZ"}
+{ id: "mahjong", name: "Mahjong"}
+{ id: "tak", name: "Tak"}
+{ id: "qwirkle", name: "Qwirkle"}
+{ id: "azul-queens-garden", name: "Azul: Queen's Garden"}
+{ id: "orchard-a-9-card-solitaire-game", name: "Orchard: A 9 card solitaire game"}
+{ id: "cottage-garden", name: "Cottage Garden"}
+{ id: "hey-thats-my-fish", name: "Hey, That's My Fish!"}
+{ id: "nmbr-9", name: "NMBR 9"}
+{ id: "quarto-1991", name: "Quarto"}
+{ id: "zendo", name: "Zendo"}
+{ id: "tsuro", name: "Tsuro"}
+{ id: "gipf", name: "GIPF"}
+{ id: "blokus-duo", name: "Blokus Duo"}
+{ id: "spirits-of-the-wild", name: "Spirits of the Wild"}
+{ id: "medina", name: "Medina"}
+{ id: "kahuna", name: "Kahuna"}
+{ id: "botanik", name: "Botanik"}
+{ id: "barony", name: "Barony"}
+{ id: "aton", name: "Aton"}
+{ id: "medina-second-edition", name: "Medina (Second Edition)"}
+{ id: "quoridor", name: "Quoridor"}
+{ id: "shobu", name: "SHŌBU"}
+{ id: "kodama-the-tree-spirits", name: "Kodama: The Tree Spirits"}
+{ id: "blokus-3d", name: "Blokus 3D"}
+{ id: "carolus-magnus", name: "Carolus Magnus"}
+{ id: "backgammon", name: "Backgammon"}
+{ id: "blokus-trigon", name: "Blokus Trigon"}
+{ id: "the-rose-king", name: "The Rose King"}
+{ id: "pueblo", name: "Pueblo"}
+{ id: "indian-summer", name: "Indian Summer"}
+{ id: "indigo", name: "Indigo"}
+{ id: "ingenious-travel-edition", name: "Ingenious: Travel Edition"}
+{ id: "miyabi", name: "Miyabi"}
+{ id: "the-climbers", name: "The Climbers"}
+{ id: "overboss-a-boss-monster-adventure", name: "Overboss: A Boss Monster Adventure"}
+{ id: "shogi", name: "Shogi"}
+{ id: "kingdoms-1994", name: "Kingdoms"}
+{ id: "iwari", name: "Iwari"}
+{ id: "kamisado", name: "Kamisado"}
+{ id: "battle-sheep", name: "Battle Sheep"}
+{ id: "la-boca", name: "La Boca"}
+{ id: "spirits-of-the-forest", name: "Spirits of the Forest"}
+{ id: "clans", name: "Clans"}
+{ id: "a-game-of-thrones-hand-of-the-king", name: "A Game of Thrones: Hand of the King"}
+{ id: "tsuro-of-the-seas", name: "Tsuro of the Seas"}
+{ id: "the-bridges-of-shangri-la", name: "The Bridges of Shangri-La"}
+{ id: "noctiluca", name: "Noctiluca"}
+{ id: "rummikub", name: "Rummikub"}
+{ id: "lyngk", name: "LYNGK"}
+{ id: "xiangqi", name: "Xiangqi"}
+{ id: "abalone", name: "Abalone"}
+{ id: "qin", name: "Qin"}
+{ id: "spring-meadow", name: "Spring Meadow"}
+{ id: "seikatsu", name: "Seikatsu"}
+{ id: "chakra-2019", name: "Chakra"}
+{ id: "glux", name: "Glüx"}
+{ id: "sagani", name: "Sagani"}
+{ id: "bosk", name: "Bosk"}
+{ id: "confusion-espionage-and-deception-in-the-cold-war", name: "Confusion:  Espionage and Deception in the Cold War"}
+{ id: "take-it-easy", name: "Take it Easy!"}
+{ id: "pente", name: "Pente"}
+{ id: "ta-yu", name: "Ta Yü"}
+{ id: "river-dragons", name: "River Dragons"}
+{ id: "cathedral", name: "Cathedral"}
+{ id: "punct", name: "PÜNCT"}
+{ id: "mercado-de-lisboa", name: "Mercado de Lisboa"}
+{ id: "gods-love-dinosaurs", name: "Gods Love Dinosaurs"}
+{ id: "twixt", name: "Twixt"}
+{ id: "dokmus", name: "Dokmus"}
+{ id: "mandala-stones", name: "Mandala Stones"}
+{ id: "khet-the-laser-game", name: "Khet: The Laser Game"}
+{ id: "tao-long-the-way-of-the-dragon", name: "Tao Long: The Way of the Dragon"}
+{ id: "gemblo", name: "Gemblo"}
+{ id: "great-plains", name: "Great Plains"}
+{ id: "aqualin", name: "Aqualin"}
+{ id: "pentago", name: "Pentago"}
+{ id: "android-mainframe", name: "Android: Mainframe"}
+{ id: "voluspa", name: "Völuspá"}
+{ id: "patchwork-doodle", name: "Patchwork Doodle"}
+{ id: "okiya", name: "Okiya"}
+{ id: "tamsk", name: "TAMSK"}
+{ id: "songbirds", name: "Songbirds"}
+{ id: "beez", name: "Beez"}
+{ id: "gobblet", name: "Gobblet"}
+{ id: "rheinlander", name: "Rheinländer"}
+{ id: "portobello-market", name: "Portobello Market"}
+{ id: "that-time-you-killed-me", name: "That Time You Killed Me"}
+{ id: "rumble-nation", name: "Rumble Nation"}
+{ id: "tiki-topple", name: "Tiki Topple"}
+{ id: "kerala-the-way-of-the-elephant", name: "Kerala: The Way of the Elephant"}
+{ id: "bazaar", name: "Bazaar"}
+{ id: "illimat", name: "Illimat"}
+{ id: "the-blood-of-an-englishman", name: "The Blood of an Englishman"}
+{ id: "kohaku", name: "Kōhaku"}
+{ id: "topiary", name: "Topiary"}
+{ id: "patchwork-express", name: "Patchwork Express"}
+{ id: "shadows-in-kyoto", name: "Shadows in Kyoto"}
+{ id: "grove-a-9-card-solitaire-game", name: "GROVE: A 9 card solitaire game"}
+{ id: "gorinto", name: "Gorinto"}
+{ id: "ninja-camp", name: "Ninja Camp"}
+{ id: "kluster", name: "Kluster"}
+{ id: "riichi-mahjong", name: "Riichi Mahjong"}
+{ id: "hnefatafl", name: "Hnefatafl"}
+{ id: "bumuntu", name: "Bumúntú"}
+{ id: "eko", name: "Ekö"}
+{ id: "othello", name: "Othello"}
+{ id: "fire-tower", name: "Fire Tower"}
+{ id: "billabong", name: "Billabong"}
+{ id: "qwirkle-cubes", name: "Qwirkle Cubes"}
+{ id: "bullfrogs", name: "Bullfrogs"}
+{ id: "lucky-numbers", name: "Lucky Numbers"}
+{ id: "haru-ichiban", name: "Haru Ichiban"}
+{ id: "cafe-international", name: "Café International"}
+{ id: "tantrix", name: "Tantrix"}
+{ id: "arimaa", name: "Arimaa"}
+{ id: "remember-our-trip", name: "Remember Our Trip"}
+{ id: "sequence-1982", name: "Sequence"}
+{ id: "my-shelfie", name: "My Shelfie"}
+{ id: "taluva-deluxe", name: "Taluva Deluxe"}
+{ id: "mythic-mischief", name: "Mythic Mischief"}
+{ id: "apotheca", name: "Apotheca"}
+{ id: "crystallo", name: "Crystallo"}
+{ id: "tuki", name: "Tuki"}
+{ id: "keltis-das-orakel", name: "Keltis: Das Orakel"}
+{ id: "aqua-romana", name: "Aqua Romana"}
+{ id: "realm-of-sand", name: "Realm of Sand"}
+{ id: "arraial", name: "Arraial"}
+{ id: "kulami", name: "Kulami"}
+{ id: "micropul", name: "Micropul"}
+{ id: "pylos", name: "Pylos"}
+{ id: "breaking-away", name: "Breaking Away"}
+{ id: "navia-dratp", name: "Navia Dratp"}
+{ id: "nanga-parbat", name: "Nanga Parbat"}
+{ id: "maharani", name: "Maharani"}
+{ id: "beowulf-the-movie-board-game", name: "Beowulf: The Movie Board Game"}
+{ id: "ponte-del-diavolo", name: "Ponte del Diavolo"}
+{ id: "shifting-stones", name: "Shifting Stones"}
+{ id: "ur", name: "Ur"}
+{ id: "seven-dragons", name: "Seven Dragons"}
+{ id: "the-one-hundred-torii", name: "The One Hundred Torii"}
+{ id: "animal-kingdoms", name: "Animal Kingdoms"}
+{ id: "laser-chess", name: "Laser Chess"}
+{ id: "mijnlieff", name: "Mijnlieff"}
+{ id: "lines-of-action", name: "Lines of Action"}
+{ id: "sheepland", name: "Sheepland"}
+{ id: "holi-festival-of-colors", name: "Holi: Festival of Colors"}
+{ id: "jurassic-snack", name: "Jurassic Snack"}
+{ id: "astra", name: "Astra"}
+{ id: "big-points", name: "Big Points"}
+{ id: "fealty", name: "Fealty"}
+{ id: "katamino", name: "Katamino"}
+{ id: "siam", name: "Siam"}
+{ id: "small-samurai-empires", name: "Small Samurai Empires"}
+{ id: "sumeria", name: "Sumeria"}
+{ id: "butterfly-2019", name: "Butterfly"}
+{ id: "kalah", name: "Kalah"}
+{ id: "flowerpower", name: "Flowerpower"}
+{ id: "the-duke-lords-legacy", name: "The Duke: Lord's Legacy"}
+{ id: "santorini-new-york", name: "Santorini: New York"}
+{ id: "chartae", name: "Chartae"}
+{ id: "gipsy-king", name: "Gipsy King"}
+{ id: "bughouse-chess", name: "Bughouse Chess"}
+{ id: "starving-artists", name: "Starving Artists"}
+{ id: "succulent", name: "Succulent"}
+{ id: "fairy-tale-inn", name: "Fairy Tale Inn"}
+{ id: "lets-catch-the-lion", name: "Let's Catch the Lion!"}
+{ id: "armadora", name: "Armadöra"}
+{ id: "hex-1942", name: "Hex"}
+{ id: "iota", name: "IOTA"}
+{ id: "day-night", name: "Day &amp; Night"}
+{ id: "rat-hot", name: "Rat Hot"}
+{ id: "tsukuyumi-full-moon-down-second-edition", name: "Tsukuyumi: Full Moon Down (Second Edition)"}
+{ id: "frogriders", name: "Frogriders"}
+{ id: "mapmaker-the-gerrymandering-game", name: "Mapmaker: The Gerrymandering Game"}
+{ id: "tatsu", name: "Tatsu"}
+{ id: "sellswords", name: "Sellswords"}
+{ id: "pick-pack", name: "Pick &amp; Pack"}
+{ id: "rumis", name: "Rumis+"}
+{ id: "the-gardens-of-the-alhambra", name: "The Gardens of the Alhambra"}
+{ id: "passtally", name: "Passtally"}
+{ id: "vye-the-card-game-of-capture-and-control", name: "Vye: The Card Game of Capture and Control"}
+{ id: "icehouse", name: "Icehouse"}
+{ id: "forum-romanum", name: "Forum Romanum"}
+{ id: "jarl-the-vikings-tile-laying-game", name: "Jarl: The Vikings Tile-Laying Game"}
+{ id: "tac", name: "TAC"}
+{ id: "majolica", name: "Majolica"}
+{ id: "santorini-2004", name: "Santorini"}
+{ id: "tutankhamen", name: "Tutankhamen"}
+{ id: "dreamwell", name: "Dreamwell"}
+{ id: "take-it-to-the-limit", name: "Take It to the Limit!"}
+{ id: "latice", name: "Latice"}
+{ id: "robber-knights", name: "Robber Knights"}
+{ id: "coin-age", name: "Coin Age"}
+{ id: "aquarius", name: "Aquarius"}
+{ id: "tintas", name: "Tintas"}
+{ id: "twin-tin-bots", name: "Twin Tin Bots"}
+{ id: "adas-library", name: "Ada's Library"}
+{ id: "die-dolmengotter", name: "Die Dolmengötter"}
+{ id: "amazons", name: "Amazons"}
+{ id: "framework", name: "Framework"}
+{ id: "tholos", name: "Tholos"}
+{ id: "ebbe-flut", name: "Ebbe &amp; Flut"}
+{ id: "fae", name: "Fae"}
+{ id: "minerals", name: "Minerals"}
+{ id: "feudal", name: "Feudal"}
+{ id: "this-town-aint-big-enough-for-the-2-4-of-us", name: "This Town Ain't Big Enough for the 2-4 of Us"}
+{ id: "ninja-versus-ninja", name: "Ninja Versus Ninja"}
+{ id: "codinca", name: "Codinca"}
+{ id: "one-zero-one", name: "One Zero One"}
+{ id: "agamemnon", name: "Agamemnon"}
+{ id: "terrace", name: "Terrace"}
+{ id: "kauchuk", name: "Kauchuk"}
+{ id: "zoo-ography", name: "Zoo-ography"}
+{ id: "tsuro-phoenix-rising", name: "Tsuro: Phoenix Rising"}
+{ id: "casa-grande", name: "Casa Grande"}
+{ id: "sugar-gliders", name: "Sugar Gliders"}
+{ id: "town-center", name: "Town Center"}
+{ id: "octi", name: "Octi"}
+{ id: "epigo", name: "Epigo"}
+{ id: "paco-sako", name: "Paco Ŝako"}
+{ id: "rune", name: "Rune"}
+{ id: "mouse-guard-swords-strongholds", name: "Mouse Guard: Swords &amp; Strongholds"}
+{ id: "carnac", name: "Carnac"}
+{ id: "crescent-moon", name: "Crescent Moon"}
+{ id: "kumo-hogosha", name: "KUMO Hogosha"}
+{ id: "swordcrafters", name: "Swordcrafters"}
+{ id: "oware", name: "Oware"}
+{ id: "xe-queo", name: "Xe Queo!"}
+{ id: "cappuccino", name: "Cappuccino"}
+{ id: "on-the-dot", name: "On the Dot"}
+{ id: "martian-chess", name: "Martian Chess"}
+{ id: "robotory", name: "Robotory"}
+{ id: "feurio", name: "Feurio!"}
+{ id: "havannah", name: "Havannah"}
+{ id: "stone-garden", name: "Stone Garden"}
+{ id: "army-of-frogs", name: "Army of Frogs"}
+{ id: "linja", name: "Linja"}
+{ id: "tutankhamun", name: "Tutankhamun"}
+{ id: "chickapig", name: "Chickapig"}
+{ id: "tasso", name: "Tasso"}
+{ id: "adios-calavera", name: "¡Adiós Calavera!"}
+{ id: "42", name: "42"}
+{ id: "maze-racers", name: "Maze Racers"}
+{ id: "kigi", name: "Kigi"}
+{ id: "nut", name: "Nut"}
+{ id: "catchup", name: "Catchup"}
+{ id: "neue-spiele-im-alten-rom", name: "Neue Spiele im alten Rom"}
+{ id: "camden", name: "Camden"}
+{ id: "thud", name: "Thud"}
+{ id: "koom-valley-thud", name: "Koom Valley Thud"}
+{ id: "fire-and-ice", name: "Fire and Ice"}
+{ id: "octiles", name: "Octiles"}
+{ id: "katarenga", name: "Katarenga"}
+{ id: "tyler-sigmans-crows", name: "Tyler Sigman's Crows"}
+{ id: "kings-cribbage", name: "Kings Cribbage"}
+{ id: "karesansui", name: "Karesansui"}
+{ id: "squadro", name: "Squadro"}
+{ id: "ominoes", name: "Ominoes"}
+{ id: "easter-island", name: "Easter Island"}
+{ id: "barragoon", name: "Barragoon"}
+{ id: "hounded", name: "Hounded"}
+{ id: "for-crown-kingdom", name: "For Crown &amp; Kingdom"}
+{ id: "kamisado-max", name: "Kamisado Max"}
+{ id: "avignon-a-clash-of-popes", name: "Avignon: A Clash of Popes"}
+{ id: "thrive", name: "Thrive"}
+{ id: "nouvelle-france", name: "Nouvelle-France"}
+{ id: "chess960", name: "Chess960"}
+{ id: "cogz", name: "COGZ"}
+{ id: "mixtour", name: "Mixtour"}
+{ id: "bauhaus", name: "Bauhaus"}
+{ id: "push-fight", name: "Push Fight"}
+{ id: "stratego-waterloo", name: "Stratego Waterloo"}
+{ id: "resistor", name: "Resistor_"}
+{ id: "clacks-a-discworld-board-game", name: "Clacks: A Discworld Board Game"}
+{ id: "stratego-lord-of-the-rings-trilogy-edition", name: "Stratego: Lord of the Rings Trilogy Edition"}
+{ id: "black-box", name: "Black Box +"}
+{ id: "hyle", name: "Hyle"}
+{ id: "pocket-invaders", name: "Pocket Invaders"}
+{ id: "pizza-theory", name: "Pizza Theory"}
+{ id: "wrong-chemistry", name: "Wrong Chemistry"}
+{ id: "k3", name: "K3"}
+{ id: "latice-hawaii", name: "Latice Hawai'i"}
+{ id: "cornerstone-essential", name: "Cornerstone Essential"}
+{ id: "koi-pond-a-coy-card-game", name: "Koi Pond: A Coy Card Game"}
+{ id: "ploy", name: "Ploy"}
+{ id: "umbra-via", name: "Umbra Via"}
+{ id: "ultimate-mastermind", name: "Ultimate Mastermind"}
+{ id: "zatre", name: "Zatre"}
+{ id: "kilt-castle", name: "Kilt Castle"}
+{ id: "isis-osiris", name: "Isis &amp; Osiris"}
+{ id: "icetowers", name: "IceTowers"}
+{ id: "tank-chess", name: "Tank Chess"}
+{ id: "moon", name: "MOON"}
+{ id: "kodama-3d", name: "Kodama 3D"}
+{ id: "epaminondas", name: "Epaminondas"}
+{ id: "cat-box", name: "Cat Box"}
+{ id: "moon-base", name: "Moon Base"}
+{ id: "oshi", name: "Oshi"}
+{ id: "burrows", name: "Burrows"}
+{ id: "block-ness", name: "Block Ness"}
+{ id: "rummikub-twist", name: "Rummikub Twist"}
+{ id: "little-big-fish", name: "Little Big Fish"}
+{ id: "element-silver", name: "Element: Silver"}
+{ id: "veggies", name: "Veggies"}
+{ id: "starbase-jeff", name: "Starbase Jeff"}
+{ id: "international-checkers", name: "International Checkers"}
+{ id: "siesta", name: "Siesta"}
+{ id: "ramparts", name: "Ramparts"}
+{ id: "columba", name: "Columba"}
+{ id: "slither", name: "Slither"}
+{ id: "entrapment", name: "Entrapment"}
+{ id: "micro-dojo", name: "Micro Dojo"}
+{ id: "totemo", name: "Totemo"}
+{ id: "bloom", name: "Bloom"}
+{ id: "wind-river", name: "Wind River"}
+{ id: "score-four", name: "Score Four"}
+{ id: "247-the-game", name: "24/7: The Game"}
+{ id: "equinox-2012", name: "Equinox"}
+{ id: "the-royal-game-of-ur", name: "The Royal Game of Ur"}
+{ id: "the-maiden-in-the-forest", name: "The Maiden in the Forest"}
+{ id: "7-steps", name: "7 Steps"}
+{ id: "cityscape", name: "Cityscape"}
+{ id: "abalone-quattro", name: "Abalone Quattro"}
+{ id: "gym", name: "GYM"}
+{ id: "hermetica", name: "Hermetica"}
+{ id: "cannon", name: "Cannon"}
+{ id: "muscat", name: "Muscat"}
+{ id: "harry-potter-hogwarts", name: "Harry Potter Hogwarts"}
+{ id: "twinkle", name: "Twinkle"}
+{ id: "senshi", name: "Senshi"}
+{ id: "hypergrid", name: "Hypergrid"}
+{ id: "quoridor-kid", name: "Quoridor Kid"}
+{ id: "baron-voodoo", name: "Baron Voodoo"}
+{ id: "avalam", name: "Avalam"}
+{ id: "mexican-train", name: "Mexican Train"}
+{ id: "adaptoid", name: "Adaptoid"}
+{ id: "stratego-star-wars", name: "Stratego: Star Wars"}
+{ id: "tara-irelands-royal-board-game", name: "Tara: Ireland's Royal Board Game"}
+{ id: "go-moku", name: "Go-Moku"}
+{ id: "no-return", name: "No Return"}
+{ id: "samurai-gardener", name: "Samurai Gardener"}
+{ id: "the-game-of-y", name: "The Game of Y"}
+{ id: "5ive-straight", name: "5ive Straight"}
+{ id: "jungle-rumble", name: "Jungle Rumble"}
+{ id: "fanorona", name: "Fanorona"}
+{ id: "grand-conquest", name: "Grand Conquest"}
+{ id: "murus-gallicus", name: "Murus Gallicus"}
+{ id: "batik", name: "Batik"}
+{ id: "quinamid", name: "Quinamid"}
+{ id: "homeworlds", name: "Homeworlds"}
+{ id: "gnostica", name: "Gnostica"}
+{ id: "axio-rota", name: "Axio Rota"}
+{ id: "cloomba", name: "Cloomba"}
+{ id: "art-of-war-the-card-game", name: "Art of War: The Card Game"}
+{ id: "itchy-monkey", name: "Itchy Monkey"}
+{ id: "offboard", name: "Offboard"}
+{ id: "valknut", name: "Valknut"}
+{ id: "murano-light-masters", name: "Murano: Light Masters"}
+{ id: "soulgivers", name: "Soulgivers"}
+{ id: "coral", name: "Coral"}
+{ id: "circle-of-life", name: "Circle of Life"}
+{ id: "sisimizi", name: "Sisimizi"}
+{ id: "fendo", name: "Fendo"}
+{ id: "the-phantom-society", name: "The Phantom Society"}
+{ id: "new-corp-order", name: "New Corp Order"}
+{ id: "pelican-bay", name: "Pelican Bay"}
+{ id: "volo", name: "Volo"}
+{ id: "mosquito-show", name: "Mosquito Show"}
+{ id: "stomple", name: "Stomple"}
+{ id: "upon-a-fable", name: "Upon a Fable"}
+{ id: "inside", name: "Inside"}
+{ id: "the-generals", name: "The Generals"}
+{ id: "dream-catchers", name: "Dream Catchers"}
+{ id: "talat", name: "Talat"}
+{ id: "stratego-4", name: "Stratego 4"}
+{ id: "space-lunch", name: "Space Lunch"}
+{ id: "wizards-garden", name: "Wizard's Garden"}
+{ id: "nonaga", name: "Nonaga"}
+{ id: "blooms", name: "Blooms"}
+{ id: "take-it-higher", name: "Take it Higher!"}
+{ id: "treehouse", name: "Treehouse"}
+{ id: "sorcerer-stones", name: "Sorcerer &amp; Stones"}
+{ id: "shuuro", name: "Shuuro"}
+{ id: "telepathy", name: "Telepathy"}
+{ id: "tetris-link", name: "Tetris Link"}
+{ id: "ars-universalis", name: "Ars Universalis"}
+{ id: "tactiki", name: "TacTiki"}
+{ id: "kodama-forest", name: "Kodama Forest"}
+{ id: "zoollywood", name: "Zoollywood"}
+{ id: "triovision", name: "Triovision"}
+{ id: "tonari", name: "Tonari"}
+{ id: "dolmen", name: "Dolmen"}
+{ id: "dust-in-the-wings", name: "Dust in the Wings"}
+{ id: "less-like-chess-but-less", name: "Less: Like Chess but Less!"}
+{ id: "vikingdoms", name: "Vikingdoms"}
+{ id: "buffalo-chess", name: "Buffalo Chess"}
+{ id: "bao", name: "Bao"}
+{ id: "sellswords-olympus", name: "Sellswords: Olympus"}
+{ id: "exxit", name: "Exxit"}
+{ id: "dicke-damonen", name: "Dicke Dämonen"}
+{ id: "connect6", name: "Connect6"}
+{ id: "lots-a-competitive-tower-building-game", name: "LOTS: A Competitive Tower Building Game"}
+{ id: "changgi", name: "Changgi"}
+{ id: "the-penguin-ultimatum", name: "The Penguin Ultimatum"}
+{ id: "cultivate", name: "CULTivate"}
+{ id: "subulata", name: "Subulata"}
+{ id: "plazing-parawany-w-dlon", name: "Plażing: parawany w dłoń"}
+{ id: "ordo", name: "Ordo"}
+{ id: "feudo", name: "Feudo"}
+{ id: "recto-verso", name: "Recto Verso"}
+{ id: "abande", name: "Abande"}
+{ id: "efemeris", name: "Efemeris"}
+{ id: "space-walk", name: "Space Walk"}
+{ id: "repello", name: "Repello"}
+{ id: "no-stress-chess", name: "No Stress Chess"}
+{ id: "suzume-jong", name: "Suzume-Jong"}
+{ id: "alien-city", name: "Alien City"}
+{ id: "kraby", name: "Kraby"}
+{ id: "soulaween", name: "Soulaween"}
+{ id: "glyph-chess", name: "Glyph Chess"}
+{ id: "bug", name: "Bug"}
+{ id: "upstream", name: "Upstream"}
+{ id: "ragnarocks", name: "Ragnarocks"}
+{ id: "dragons-of-kir", name: "Dragons of Kir"}
+{ id: "circular-reasoning-the-well-of-power", name: "Circular Reasoning: The Well of Power"}
+{ id: "atlanteon", name: "Atlanteon"}
+{ id: "tablut", name: "Tablut"}
+{ id: "convert", name: "Convert"}
+{ id: "black-elephant", name: "Black Elephant"}
+{ id: "team-up", name: "Team UP!"}
+{ id: "go-west", name: "Go West!"}
+{ id: "square-on-sale", name: "Square on Sale"}
+{ id: "crab-stack", name: "Crab Stack"}
+{ id: "yoxii", name: "Yoxii"}
+{ id: "qbitz", name: "Q•bitz"}
+{ id: "insert", name: "INSERT"}
+{ id: "telepathy-magic-minds", name: "Telepathy: Magic Minds"}
+{ id: "kardinal", name: "Kardinal"}
+{ id: "shibumi", name: "Shibumi"}
+{ id: "turin-market", name: "Turin Market"}
+{ id: "border-states", name: "Border States"}
+{ id: "china-moon", name: "China Moon"}
+{ id: "plateau", name: "Plateau"}
+{ id: "martian-coasters", name: "Martian Coasters"}
+{ id: "brothers", name: "Brothers"}
+{ id: "american-mah-jongg", name: "American Mah Jongg"}
+{ id: "san-ta-si", name: "San Ta Si"}
+{ id: "ultimate-stratego", name: "Ultimate Stratego"}
+{ id: "senet", name: "Senet"}
+{ id: "verona-twist", name: "Verona Twist"}
+{ id: "tara-seat-of-kings", name: "Tara, Seat of Kings"}
+{ id: "4-player-chess", name: "4 Player Chess"}
+{ id: "mana", name: "Mana"}
+{ id: "bestiary-of-sigillum", name: "Bestiary of Sigillum"}
+{ id: "armymals", name: "Armymals"}
+{ id: "jurassic-brunch", name: "Jurassic Brunch"}
+{ id: "lacuna", name: "Lacuna"}
+{ id: "warp-6", name: "Warp 6"}
+{ id: "pikemen", name: "Pikemen"}
+{ id: "knot-dice", name: "Knot Dice"}
+{ id: "bismarck-solitaire", name: "Bismarck Solitaire"}
+{ id: "abstract-academy", name: "Abstract Academy"}
+{ id: "yucata", name: "Yucata'"}
+{ id: "stratopolis", name: "Stratopolis"}
+{ id: "red", name: "RED"}
+{ id: "dameo", name: "Dameo"}
+{ id: "knockabout", name: "Knockabout"}
+{ id: "otto-game-over", name: "Otto Game Over"}
+{ id: "akros", name: "Akros"}
+{ id: "hexpanse", name: "Hexpanse"}
+{ id: "hooop", name: "Hooop!"}
+{ id: "palago", name: "Palago"}
+{ id: "triangoli", name: "Triangoli"}
+{ id: "tiki", name: "Tiki"}
+{ id: "ablaze", name: "Ablaze!"}
+{ id: "callisto", name: "Callisto"}
+{ id: "roborama", name: "RoboRama"}
+{ id: "lumis-der-pfad-des-feuers", name: "Lumis: Der Pfad des Feuers"}
+{ id: "ni-ju", name: "Ni-Ju"}
+{ id: "otrio", name: "Otrio"}
+{ id: "gartenbau", name: "Gartenbau"}
+{ id: "diaballik", name: "Diaballik"}
+{ id: "moeraki-kemu", name: "Moeraki: Kemu"}
+{ id: "led-logica-estrategia-deduccion", name: "LED: Lógica – Estrategia – Deducción"}
+{ id: "the-fog-escape-from-paradise", name: "The Fog: Escape from Paradise"}
+{ id: "monolith-the-strategy-game", name: "Monolith: The Strategy Game"}
+{ id: "hokito", name: "Hokito"}
+{ id: "card-capture", name: "Card Capture"}
+{ id: "multiplayer-pentago", name: "Multiplayer Pentago"}
+{ id: "stratego-legends", name: "Stratego Legends"}
+{ id: "bagh-chal", name: "Bagh Chal"}
+{ id: "bunte-runde", name: "Bunte Runde"}
+{ id: "intelle", name: "Intelle"}
+{ id: "libraria", name: "Libraria"}
+{ id: "envyra", name: "Envyra"}
+{ id: "lino", name: "Lino"}
+{ id: "caminos", name: "Caminos"}
+{ id: "share-it", name: "Share it!"}
+{ id: "tile-chess", name: "Tile Chess"}
+{ id: "kombo-klash", name: "Kombo Klash!"}
+{ id: "battle-of-lits", name: "Battle of LITS"}
+{ id: "pent-up", name: "Pent-Up"}
+{ id: "balance-duels", name: "Balance Duels"}
+{ id: "wizards-of-the-grimoire", name: "Wizards of the Grimoire"}
+{ id: "stonehenge", name: "Stonehenge"}
+{ id: "glik", name: "Glik"}
+{ id: "fragile", name: "Fragile"}
+{ id: "zark-city", name: "Zark City"}
+{ id: "pirate-versus-pirate", name: "Pirate Versus Pirate"}
+{ id: "hiroba", name: "Hiroba"}
+{ id: "the-aztec-market", name: "The Aztec Market"}
+{ id: "skippity", name: "Skippity"}
+{ id: "jiguan-the-eastern-mechanist", name: "Jigūan: The Eastern Mechanist"}
+{ id: "taiji", name: "TAIJI"}
+{ id: "fillit", name: "FILLIT"}
+{ id: "schachen", name: "Schachen"}
+{ id: "skybridge", name: "Skybridge"}
+{ id: "for-the-win", name: "For The Win"}
+{ id: "kaliko", name: "Kaliko"}
+{ id: "lot", name: "LOT"}
+{ id: "diam", name: "Diam"}
+{ id: "kendo", name: "Kendo"}
+{ id: "skyline-express", name: "Skyline Express"}
+{ id: "goro-goro-dobutsu-shogi", name: "Goro-Goro Dōbutsu Shōgi"}
+{ id: "genial-spezial", name: "Genial Spezial"}
+{ id: "ignis", name: "Ignis"}
+{ id: "27", name: "27"}
+{ id: "wayfinder", name: "Wayfinder"}
+{ id: "mod-x", name: "MOD X"}
+{ id: "symphony", name: "Symphony"}
+{ id: "cabale", name: "Cabale"}
+{ id: "copa", name: "Copa"}
+{ id: "big-bang-137", name: "Big Bang 13.7"}
+{ id: "kuba", name: "Kuba"}
+{ id: "morelli", name: "Morelli"}
+{ id: "magnolia", name: "Magnolia (マグノリア)"}
+{ id: "rummikub-xp", name: "Rummikub XP"}
+{ id: "mini-fits", name: "Mini FITS"}
+{ id: "neuroriders", name: "Neuroriders"}
+{ id: "c-cross", name: "C-Cross"}
+{ id: "mole-hill", name: "Mole Hill"}
+{ id: "coup-1975", name: "Coup"}
+{ id: "wadi", name: "Wadi"}
+{ id: "karo", name: "Karo"}
+{ id: "kamon", name: "Kamon"}
+{ id: "ekonos-second-edition", name: "EKONOS (Second Edition)"}
+{ id: "magnet", name: "Magnet"}
+{ id: "linkage", name: "Linkage"}
+{ id: "connection-games", name: "Connection Games"}
+{ id: "12-patrols", name: "12 Patrols"}
+{ id: "splut", name: "Splut!"}
+{ id: "eriantys", name: "Eriantys"}
+{ id: "the-stars-align", name: "The Stars Align"}
+{ id: "domain", name: "Domain"}
+{ id: "breakthru", name: "Breakthru"}
+{ id: "ortus", name: "Ortus"}
+{ id: "sector-6", name: "Sector 6"}
+{ id: "honeycombs", name: "Honeycombs"}
+{ id: "twisty", name: "Twisty"}
+{ id: "sleepers", name: "Sleepers"}
+{ id: "the-shadow-planet-the-board-game", name: "The Shadow Planet: The Board Game"}
+{ id: "spinner-dominoes", name: "Spinner Dominoes"}
+{ id: "dragonstone-mine", name: "DragonStone Mine!"}
+{ id: "avignon-pilgrimage", name: "Avignon: Pilgrimage"}
+{ id: "flipout", name: "FlipOut"}
+{ id: "eco-coral-reef", name: "ECO: Coral Reef"}
+{ id: "akron", name: "Akron"}
+{ id: "dragon-face", name: "Dragon Face"}
+{ id: "kingpin", name: "Kingpin"}
+{ id: "star", name: "*Star"}
+{ id: "rise", name: "Rise!"}
+{ id: "chinagold", name: "Chinagold"}
+{ id: "attangle", name: "Attangle"}
+{ id: "cairo-corridor", name: "Cairo Corridor"}
+{ id: "gauss", name: "Gauss"}
+{ id: "shiftago", name: "Shiftago"}
+{ id: "sovereign-chess", name: "Sovereign Chess"}
+{ id: "coerceo", name: "Coerceo"}
+{ id: "dominion", name: "Dominion"}
+{ id: "deblockle", name: "Deblockle"}
+{ id: "qyshinsu-mystery-of-the-way", name: "Qyshinsu: Mystery of the Way"}
+{ id: "constructo", name: "Constructo"}
+{ id: "droles-de-zebres", name: "Drôles de Zèbres"}
+{ id: "help-me", name: "Help Me!"}
+{ id: "saikoro", name: "Saikoro"}
+{ id: "veletas", name: "Veletas"}
+{ id: "unlur", name: "Unlur"}
+{ id: "kogworks", name: "Kogworks"}
+{ id: "make-make", name: "Make Make"}
+{ id: "cubulus", name: "Cubulus"}
+{ id: "mastermind", name: "Mastermind"}
+{ id: "the-legend-of-landlock", name: "The Legend of Landlock"}
+{ id: "brain-freeze", name: "Brain Freeze"}
+{ id: "hoyles-games", name: "Hoyle's Games"}
+{ id: "gembloq", name: "GembloQ"}
+{ id: "gute-nachbarn", name: "Gute Nachbarn"}
+{ id: "mixup", name: "MixUp"}
+{ id: "wiener-walzer", name: "Wiener Walzer"}
+{ id: "coral-islands", name: "Coral Islands"}
+{ id: "brawling-battleships", name: "Brawling Battleships"}
+{ id: "bosworth", name: "Bosworth"}
+{ id: "djambi", name: "Djambi"}
+{ id: "nika", name: "Nika"}
+{ id: "pepper-carrot-the-potion-contest", name: "Pepper &amp; Carrot: The Potion Contest"}
+{ id: "oklahoma-boomers", name: "Oklahoma Boomers"}
+{ id: "mini-shogi", name: "Mini Shogi"}
+{ id: "zaubertrank-der-vier-elemente", name: "Zaubertrank der vier Elemente"}
+{ id: "chessplus-combine-conquer", name: "Chessplus: Combine &amp; Conquer"}
+{ id: "land-6", name: "Land 6"}
+{ id: "christmas-lights-a-card-game", name: "Christmas Lights: A Card Game"}
+{ id: "get-to-da-checkpoint", name: "Get to da Checkpoint"}
+{ id: "qango", name: "QANGO"}
+{ id: "quantik", name: "Quantik"}
+{ id: "le-plateau", name: "Le Plateau"}
+{ id: "kiwara", name: "Kiwara"}
+{ id: "chocoly", name: "Chocoly"}
+{ id: "furry-foodies", name: "Furry Foodies"}
+{ id: "greener", name: "Greener"}
+{ id: "electronic-stratego", name: "Electronic Stratego"}
+{ id: "guerrilla-checkers", name: "Guerrilla Checkers"}
+{ id: "colour-chess-lure", name: "Colour Chess + Lure"}
+{ id: "einstein-wurfelt-nicht", name: "EinStein würfelt nicht!"}
+{ id: "uncle-chestnuts-table-gype", name: "Uncle Chestnut's Table Gype"}
+{ id: "omega-chess", name: "Omega Chess"}
+{ id: "wyps", name: "WYPS"}
+{ id: "ido", name: "Ido"}
+{ id: "kings-creatures", name: "Kings &amp; Creatures"}
+{ id: "gnomes-at-midnight", name: "Gnomes at Midnight"}
+{ id: "sensei", name: "Senseï"}
+{ id: "90-grad", name: "90 Grad"}
+{ id: "ingenious-extreme", name: "Ingenious Extreme"}
+{ id: "squirrel-or-die", name: "Squirrel or Die"}
+{ id: "paletto", name: "Paletto"}
+{ id: "kaito", name: "KAITŌ"}
+{ id: "hippos-crocodiles", name: "Hippos &amp; Crocodiles"}
+{ id: "iro", name: "Iro"}
+{ id: "laska", name: "Laska"}
+{ id: "grackles", name: "Grackles"}
+{ id: "four", name: "Four"}
+{ id: "gekitai", name: "Gekitai"}
+{ id: "inner-compass", name: "Inner Compass"}
+{ id: "oh-wah-ree", name: "Oh-Wah-Ree"}
+{ id: "margo", name: "Margo"}
+{ id: "burgoo", name: "Burgoo"}
+{ id: "clever", name: "CLEVER"}
+{ id: "paras", name: "Paras"}
+{ id: "9tka", name: "9tka"}
+{ id: "centrix", name: "Centrix"}
+{ id: "major-general-duel-of-time", name: "Major General: Duel of Time"}
+{ id: "voldetour", name: "Voldétour"}
+{ id: "meeple-towers", name: "Meeple Towers"}
+{ id: "ayanu", name: "Ayanu"}
+{ id: "cubeo", name: "Cubeo"}
+{ id: "hirth-the-viking-game-of-royal-conflict", name: "HIRÞ: The Viking Game of Royal Conflict"}
+{ id: "chu-shogi", name: "Chu Shogi"}
+{ id: "caro", name: "Caro"}
+{ id: "quantum-1984", name: "Quantum"}
+{ id: "euronimoes", name: "Euronimoes"}
+{ id: "birth", name: "Birth"}
+{ id: "nanahoshi", name: "Nanahoshi"}
+{ id: "ctrl", name: "Ctrl"}
+{ id: "gempacked-cards", name: "GemPacked Cards"}
+{ id: "hekla", name: "Hekla"}
+{ id: "taurus", name: "Taurus"}
+{ id: "simplicity", name: "Simplicity"}
+{ id: "caldera", name: "Caldera"}
+{ id: "hens", name: "Hens"}
+{ id: "40", name: "40"}
+{ id: "crosshairs", name: "Crosshairs"}
+{ id: "control-v", name: "Control V"}
+{ id: "gridstones", name: "Gridstones"}
+{ id: "trexo", name: "TREXO"}
+{ id: "shogun", name: "Shogun"}
+{ id: "carrossel", name: "Carrossel"}
+{ id: "mentalis", name: "Mentalis"}
+{ id: "tumbleweed", name: "Tumbleweed"}
+{ id: "meltscape", name: "Meltscape"}
+{ id: "makruk", name: "Makruk"}
+{ id: "twin-win", name: "Twin Win"}
+{ id: "zaic", name: "Zaic"}
+{ id: "bladder", name: "Bladder"}
+{ id: "to-unlimited-and-beyond", name: "To Unlimited, and Beyond"}
+{ id: "blokus-junior", name: "Blokus Junior"}
+{ id: "101-le-match", name: "101: le match"}
+{ id: "el-switcher", name: "El Switcher"}
+{ id: "3-stones", name: "3 Stones"}
+{ id: "onager", name: "Onager"}
+{ id: "neutron", name: "Neutron"}
+{ id: "brix", name: "Brix"}
+{ id: "limit", name: "Limit"}
+{ id: "jackal-archipelago", name: "Jackal Archipelago"}
+{ id: "blume", name: "Blume"}
+{ id: "expedition-luxor", name: "Expedition Luxor"}
+{ id: "5x15", name: "5x15"}
+{ id: "chickenfoot", name: "ChickenFoot"}
+{ id: "sensor-ghosts", name: "Sensor Ghosts"}
+{ id: "pegs-and-jokers", name: "Pegs and Jokers"}
+{ id: "the-damsels-tale", name: "The Damsel's Tale"}
+{ id: "squirrel-rush", name: "Squirrel Rush"}
+{ id: "vol-de-nuit", name: "Vol de nuit"}
+{ id: "mediterraneo", name: "Mediterráneo"}
+{ id: "hexx-hopp", name: "Hexx &amp; Hopp"}
+{ id: "wu-hsing", name: "Wu Hsing"}
+{ id: "aztec", name: "Aztec"}
+{ id: "new-mastermind", name: "New Mastermind"}
+{ id: "zarcana", name: "Zarcana"}
+{ id: "attakube", name: "Attakube"}
+{ id: "monkey-dash", name: "Monkey Dash"}
+{ id: "stratego-marvel-heroes", name: "Stratego: Marvel Heroes"}
+{ id: "conex", name: "CONEX"}
+{ id: "heptalion", name: "Heptalion"}
+{ id: "colorku", name: "Colorku"}
+{ id: "kapadokya", name: "Kapadokya"}
+{ id: "gemlok", name: "Gemlok"}
+{ id: "kings-ransom", name: "King's Ransom"}
+{ id: "ray-master", name: "Ray Master"}
+{ id: "quivive", name: "Quivive"}
+{ id: "booo", name: "Booo!"}
+{ id: "casino-yahtzee", name: "Casino Yahtzee"}
+{ id: "kamisado-schnupperspiel", name: "Kamisado Schnupperspiel"}
+{ id: "atacama", name: "Atacama"}
+{ id: "elementos", name: "Elementos"}
+{ id: "doce", name: "DOCE"}
+{ id: "pacru", name: "Pacru"}
+{ id: "renju", name: "Renju"}
+{ id: "mem", name: "MeM"}
+{ id: "color-wheel", name: "Color Wheel"}
+{ id: "above", name: "Above"}
+{ id: "mini-mastermind", name: "Mini Mastermind"}
+{ id: "start-11-the-board-game", name: "Start 11!  The Board Game"}
+{ id: "cvetris", name: "Цветрис"}
+{ id: "creeper", name: "Creeper"}
+{ id: "uno-rummy-up", name: "UNO Rummy-Up"}
+{ id: "eynsteyn", name: "Eynsteyn"}
+{ id: "stac", name: "Stac"}
+{ id: "radioactive-bees", name: "Radioactive Bees"}
+{ id: "duell", name: "Duell"}
+{ id: "mississippi", name: "Mississippi"}
+{ id: "shuttles", name: "Shuttles"}
+{ id: "nxs", name: "NXS"}
+{ id: "polyssimo-challenge", name: "Polyssimo Challenge"}
+{ id: "ransom", name: "Ransom"}
+{ id: "got-em", name: "Got 'Em!"}
+{ id: "kings-valley", name: "King's Valley"}
+{ id: "cooking-rumble", name: "Cooking Rumble"}
+{ id: "dinosaur-chess", name: "Dinosaur Chess"}
+{ id: "cuboro-tricky-ways", name: "Cuboro Tricky Ways"}
+{ id: "bloqs", name: "Bloqs"}
+{ id: "mondriaan-2020", name: "Mondriaan 2020"}
+{ id: "columns", name: "Columns"}
+{ id: "gardens-of-mars", name: "Gardens of Mars"}
+{ id: "zodiac-clash", name: "Zodiac Clash"}
+{ id: "pyrga", name: "Pyrga"}
+{ id: "invers", name: "Invers"}
+{ id: "poison-pot", name: "Poison Pot"}
+{ id: "isaac", name: "Isaac"}
+{ id: "colonial-space-wars-new-horizons", name: "Colonial Space Wars: New Horizons"}
+{ id: "arabana-ikibiti", name: "Arabana-Ikibiti"}
+{ id: "elven-castle", name: "Elven Castle"}
+{ id: "tiku", name: "Tiku"}
+{ id: "auf-kurs", name: "Auf Kurs"}
+{ id: "pentalath", name: "Pentalath"}
+{ id: "pyramidis", name: "Pyramidis"}
+{ id: "paiko", name: "Paiko"}
+{ id: "pusher", name: "Pusher"}
+{ id: "rubiks-cage", name: "Rubik's Cage"}
+{ id: "bolets", name: "Bolets"}
+{ id: "bashni", name: "Bashni"}
+{ id: "crosswise", name: "CrossWise"}
+{ id: "quintillions", name: "Quintillions"}
+{ id: "paimiahhh", name: "PaiMiahhh"}
+{ id: "volterra", name: "Volterra"}
+{ id: "brettfussball", name: "Brettfußball"}
+{ id: "tantrix-gobble", name: "Tantrix Gobble"}
+{ id: "bollox", name: "Bollox"}
+{ id: "4mation", name: "4Mation"}
+{ id: "ragnarok-aesir-and-jotunn", name: "Ragnarök: Aesir and Jötunn"}
+{ id: "dragon-lance-mage-stones", name: "Dragon Lance Mage Stones"}
+{ id: "botanists", name: "Botanists"}
+{ id: "de-stijl", name: "De Stijl"}
+{ id: "fibonacci", name: "Fibonacci"}
+{ id: "strands", name: "Strands"}
+{ id: "brandubh", name: "Brandubh"}
+{ id: "chess-2-the-sequel", name: "Chess 2: The Sequel"}
+{ id: "wabanti", name: "Wabanti"}
+{ id: "no-dice", name: "No Dice"}
+{ id: "momentum", name: "Momentum"}
+{ id: "graveyards-ghosts-haunted-houses", name: "Graveyards, Ghosts &amp; Haunted Houses"}
+{ id: "silk-road-maker", name: "Silk Road Maker"}
+{ id: "gonnect", name: "Gonnect"}
+{ id: "sprouts", name: "Sprouts"}
+{ id: "blam", name: "Blam!"}
+{ id: "element", name: "Element"}
+{ id: "hatflings", name: "Hatflings!"}
+{ id: "alpha-playing-cards", name: "Alpha Playing Cards"}
+{ id: "rincala", name: "Rincala"}
+{ id: "thoughtwave", name: "Thoughtwave"}
+{ id: "paradisio", name: "Paradisio"}
+{ id: "essentia", name: "Essentia"}
+{ id: "dragon-chess", name: "Dragon Chess"}
+{ id: "fish-stix", name: "Fish Stix"}
+{ id: "king-me", name: "King Me!"}
+{ id: "chinese-chess", name: "Chinese Chess"}
+{ id: "spring-on-a-string", name: "Spring on a String"}
+{ id: "rolit", name: "Rolit"}
+{ id: "sheep-dogs-and-wolves", name: "Sheep, Dogs and Wolves"}
+{ id: "mamba", name: "Mamba"}
+{ id: "moonshell", name: "Moonshell"}
+{ id: "my-kind-of-town", name: "My Kind of Town"}
+{ id: "niwa", name: "Niwa"}
+{ id: "terra-turrium", name: "Terra Turrium"}
+{ id: "clash-of-the-ardennes", name: "Clash of the Ardennes"}
+{ id: "isi", name: "Isi"}
+{ id: "retsami", name: "Retsami"}
+{ id: "feed-the-ducks", name: "Feed the ducks"}
+{ id: "tokyo-jidohanbaiki", name: "TOKYO JIDOHANBAIKI"}
+{ id: "art-of-war", name: "Art of War"}
+{ id: "straszydla", name: "Straszydła"}
+{ id: "caprice", name: "Caprice"}
+{ id: "army-ants", name: "Army Ants"}
+{ id: "koi-garden", name: "Koi Garden"}
+{ id: "raise", name: "Raise"}
+{ id: "kang", name: "Kang"}
+{ id: "lielow", name: "Lielow"}
+{ id: "deckchairs-on-the-titanic", name: "Deckchairs On The Titanic"}
+{ id: "hus", name: "Hus"}
+{ id: "floriado", name: "Floriado"}
+{ id: "3-man-chess", name: "3 Man Chess"}
+{ id: "castle-danger", name: "Castle Danger"}
+{ id: "mirror-mirror", name: "Mirror, Mirror"}
+{ id: "joker-marbles", name: "Joker Marbles"}
+{ id: "blokus-dice-game", name: "Blokus Dice Game"}
+{ id: "aronda", name: "Aronda"}
+{ id: "proteus", name: "Proteus"}
+{ id: "rr", name: "RR"}
+{ id: "knight-moves", name: "Knight Moves"}
+{ id: "dvorak", name: "Dvorak"}
+{ id: "all-queens-chess", name: "All Queens Chess"}
+{ id: "towers-of-the-sun", name: "Towers of the Sun"}
+{ id: "ilios", name: "ILIOS"}
+{ id: "nuba", name: "Nuba"}
+{ id: "isolation", name: "Isolation"}
+{ id: "quandary", name: "Quandary"}
+{ id: "fruit-picking", name: "Fruit Picking"}
+{ id: "tasso-safari", name: "Tasso Safari"}
+{ id: "kuniumi", name: "KuniUmi"}
+{ id: "castle-builders", name: "Castle Builders"}
+{ id: "sign", name: "Sign"}
+{ id: "aether", name: "Aether"}
+{ id: "zodiac-war", name: "Zodiac War"}
+{ id: "fenix", name: "Fenix"}
+{ id: "katoiz", name: "Katoiz"}
+{ id: "galaktico", name: "Galaktico"}
+{ id: "surakarta", name: "Surakarta"}
+{ id: "topology", name: "Topology"}
+{ id: "bantu", name: "Bantu"}
+{ id: "the-high-kings-of-tara", name: "The High Kings of Tara"}
+{ id: "bobail", name: "Bobail"}
+{ id: "aether-captains-the-search", name: "Aether Captains: The Search"}
+{ id: "assaultous", name: "Assaultous"}
+{ id: "magia-cum-laude", name: "Magia Cum Laude"}
+{ id: "line-or-colour", name: "Line or Colour"}
+{ id: "taiwan-monsters-brawl", name: "Taiwan Monsters Brawl"}
+{ id: "plateau-x", name: "Plateau X"}
+{ id: "connect-4x4", name: "Connect 4x4"}
+{ id: "sceptre-1027-ad", name: "Sceptre 1027 A.D."}
+{ id: "vault", name: "Vault"}
+{ id: "quartile", name: "Quartile"}
+{ id: "elefantenparade", name: "Elefantenparade"}
+{ id: "swatch-the-abstract-game-of-art", name: "Swatch: the abstract game of art"}
+{ id: "skogen", name: "Skogen"}
+{ id: "shadow-blocks", name: "Shadow Blocks"}
+{ id: "malawi", name: "Malawi"}
+{ id: "tridom", name: "Tridom"}
+{ id: "rat-attack", name: "Rat Attack"}
+{ id: "medieval-battle", name: "Medieval Battle"}
+{ id: "small-warehouse", name: "Small Warehouse"}
+{ id: "barca", name: "Barca"}
+{ id: "kai-zen", name: "Kai-Zen"}
+{ id: "ronda-magica", name: "Ronda Magica"}
+{ id: "vault-a-solitaire-dice-game", name: "Vault: A Solitaire Dice Game"}
+{ id: "tokami", name: "Tokami"}
+{ id: "stratego-tournament", name: "Stratego Tournament"}
+{ id: "noueni", name: "Noueni"}
+{ id: "darter", name: "Darter"}
+{ id: "boom-zoom-second-edition", name: "Boom &amp; Zoom (Second Edition)"}
+{ id: "berrymandering", name: "Berrymandering"}
+{ id: "rubiks-illusion", name: "Rubik's Illusion"}
+{ id: "konane", name: "Konane"}
+{ id: "rushi", name: "Rushi"}
+{ id: "corona", name: "Corona"}
+{ id: "chroma-cubes", name: "Chroma Cubes"}
+{ id: "coatl-the-card-game", name: "Cóatl: The Card Game"}
+{ id: "lancelot", name: "Lancelot"}
+{ id: "stratego-the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe", name: "Stratego: The Chronicles of Narnia – The Lion, The Witch, and The Wardrobe"}
+{ id: "lex-in-lemniscate", name: "Lex in Lemniscate"}
+{ id: "clustered", name: "Clustered"}
+{ id: "dizios", name: "Dizios"}
+{ id: "spectrangle", name: "Spectrangle"}
+{ id: "wykersham", name: "Wykersham"}
+{ id: "espresso-doppio", name: "Espresso Doppio"}
+{ id: "salta", name: "Salta"}
+{ id: "crop-rotation", name: "Crop Rotation"}
+{ id: "attila", name: "Attila"}
+{ id: "kaleido", name: "Kaleido"}
+{ id: "nowhere-to-go", name: "Nowhere to Go"}
+{ id: "organic-soup", name: "Organic Soup"}
+{ id: "rubiks-flip", name: "Rubik's Flip"}
+{ id: "pixel", name: "Pixel"}
+{ id: "pantarei", name: "Pantareï"}
+{ id: "esagek", name: "Esagek"}
+{ id: "kozo", name: "KOZO"}
+{ id: "ringgz", name: "Ringgz"}
+{ id: "triominos-challenge", name: "Triominos Challenge"}
+{ id: "fano330-r-morris", name: "Fano330-R-Morris"}
+{ id: "baubylon", name: "Baubylon"}
+{ id: "ninja-arena", name: "Ninja Arena"}
+{ id: "trippples", name: "Trippples"}
+{ id: "gaudi", name: "Gaudí"}
+{ id: "timeline-2003", name: "TimeLine"}
+{ id: "cartography", name: "Cartography"}
+{ id: "moguli", name: "Moguli"}
+{ id: "connections", name: "Connections"}
+{ id: "siegestones", name: "SiegeStones"}
+{ id: "terrace-6x6", name: "Terrace 6x6"}
+{ id: "spangles", name: "Spangles"}
+{ id: "loka-a-game-of-elemental-strategy", name: "LOKA: A Game of Elemental Strategy"}
+{ id: "fish-chips", name: "Fish &amp; Chips"}
+{ id: "towers-of-amharb", name: "Towers of Am'harb"}
+{ id: "hong-kong", name: "Hong Kong"}
+{ id: "blood-of-the-northmen", name: "Blood of the Northmen"}
+{ id: "kings-of-artifice", name: "Kings of Artifice"}
+{ id: "amis-cube", name: "Amis Cube"}
+{ id: "khan-tsin", name: "Khan Tsin"}
+{ id: "logan-stones", name: "Logan Stones"}
+{ id: "1-stein-co", name: "1 Stein + Co."}
+{ id: "the-arctic", name: "The Arctic"}
+{ id: "knights-poker", name: "Knights Poker"}
+{ id: "sequence-states-capitals", name: "Sequence: States &amp; Capitals"}
+{ id: "ataxx", name: "Ataxx"}
+{ id: "trending-kittens", name: "Trending Kittens"}
+{ id: "doubles-wild", name: "Doubles Wild"}
+{ id: "story-time-chess", name: "Story Time Chess"}
+{ id: "sly", name: "Sly"}
+{ id: "tilting-at-windmills", name: "Tilting at Windmills"}
+{ id: "mine-shift", name: "Mine Shift"}
+{ id: "ten", name: "Ten"}
+{ id: "wizards-towers", name: "Wizards' Towers"}
+{ id: "nanobot-battle-arena", name: "NanoBot Battle Arena"}
+{ id: "perigon", name: "Perigon"}
+{ id: "aquatika", name: "Aquatika"}
+{ id: "bots-up", name: "Bots Up"}
+{ id: "ultimate-tic-tac-toe", name: "Ultimate Tic-Tac-Toe"}
+{ id: "last-front-the-strategy-card-game", name: "Last Front: The Strategy Card Game"}
+{ id: "bloody-sands-dice", name: "Bloody Sands Dice"}
+{ id: "through-the-ages-a-new-story-of-civilization", name: "Through the Ages: A New Story of Civilization", mechanic: "Cards" }
+{ id: "7-wonders-duel", name: "7 Wonders Duel", mechanic: "Cards" }
+{ id: "wingspan", name: "Wingspan", mechanic: "Cards" }
+{ id: "arkham-horror-the-card-game", name: "Arkham worror: The Card Game", mechanic: "Cards" }
+{ id: "everdell", name: "Everdell", mechanic: "Cards" }
+{ id: "the-crew-mission-deep-sea", name: "The Crew: Mission Deep Sea", mechanic: "Cards" }
+{ id: "marvel-champions-the-card-game", name: "Marvel Champions: The Card Game", mechanic: "Cards" }
+{ id: "underwater-cities", name: "Underwater Cities", mechanic: "Cards" }
+{ id: "the-crew-the-quest-for-planet-nine", name: "The Crew: The Quest for Planet Nine", mechanic: "Cards" }
+{ id: "grand-austria-hotel", name: "Grand Austria Hotel", mechanic: "Cards" }
+{ id: "android-netrunner", name: "Android: Netrunner", mechanic: "Cards" }
+{ id: "race-for-the-galaxy", name: "Race for the Galaxy", mechanic: "Cards" }
+{ id: "aeons-end", name: "Aeon's End", mechanic: "Cards" }
+{ id: "7-wonders", name: "7 Wonders", mechanic: "Cards" }
+{ id: "the-7th-continent", name: "The 7th Continent", mechanic: "Cards" }
+{ id: "inis", name: "Inis", mechanic: "Cards" }
+{ id: "dominion-intrigue", name: "Dominion: Intrigue", mechanic: "Cards" }
+{ id: "aeons-end-war-eternal", name: "Aeon's End: War Eternal", mechanic: "Cards" }
+{ id: "dominion-2008", name: "Dominion", mechanic: "Cards" }
+{ id: "codenames", name: "Codenames", mechanic: "Cards" }
+{ id: "res-arcana", name: "Res Arcana", mechanic: "Cards" }
+{ id: "targi", name: "Targi", mechanic: "Cards" }
+{ id: "star-realms", name: "Star Realms", mechanic: "Cards" }
+{ id: "its-a-wonderful-world", name: "It's a Wonderful World", mechanic: "Cards" }
+{ id: "legendary-encounters-an-alien-deck-building-game", name: "Legendary Encounters: An Alien Deck Building Game", mechanic: "Cards" }
+{ id: "terraforming-mars-ares-expedition", name: "Terraforming Mars: Ares Expedition", mechanic: "Cards" }
+{ id: "the-lord-of-the-rings-the-card-game", name: "The Lord of the Rings: The Card Game", mechanic: "Cards" }
+{ id: "watergate-2019", name: "Watergate", mechanic: "Cards" }
+{ id: "magic-the-gathering", name: "Magic: The Gathering", mechanic: "Cards" }
+{ id: "jaipur", name: "Jaipur", mechanic: "Cards" }
+{ id: "unmatched-cobble-fog", name: "Unmatched: Cobble & Fog", mechanic: "Cards" }
+{ id: "the-resistance-avalon", name: "The Resistance: Avalon", mechanic: "Cards" }
+{ id: "splendor", name: "Splendor", mechanic: "Cards" }
+{ id: "paleo-2020", name: "Paleo", mechanic: "Cards" }
+{ id: "star-realms-colony-wars", name: "Star Realms: Colony Wars", mechanic: "Cards" }
+{ id: "tichu", name: "Tichu", mechanic: "Cards" }
+{ id: "nations", name: "Nations", mechanic: "Cards" }
+{ id: "modern-art", name: "Modern Art", mechanic: "Cards" }
+{ id: "splendor-duel", name: "Splendor Duel", mechanic: "Cards" }
+{ id: "codenames-duet", name: "Codenames: Duet", mechanic: "Cards" }
+{ id: "secret-hitler", name: "Secret Hitler", mechanic: "Cards" }
+{ id: "legendary-a-marvel-deck-building-game", name: "Legendary: A Marvel Deck Building Game", mechanic: "Cards" }
+{ id: "hanamikoji", name: "Hanamikoji", mechanic: "Cards" }
+{ id: "the-taverns-of-tiefenthal", name: "The Taverns of Tiefenthal", mechanic: "Cards" }
+{ id: "century-golem-edition", name: "Century: Golem Edition", mechanic: "Cards" }
+{ id: "aeons-end-legacy", name: "Aeon's End: Legacy", mechanic: "Cards" }
+{ id: "sushi-go-party", name: "Sushi Go Party!", mechanic: "Cards" }
+{ id: "unmatched-battle-of-legends-volume-one", name: "Unmatched: Battle of Legends, Volume One", mechanic: "Cards" }
+{ id: "fantasy-realms", name: "Fantasy Realms", mechanic: "Cards" }
+{ id: "hero-realms", name: "Hero Realms", mechanic: "Cards" }
+{ id: "glory-to-rome", name: "Glory to Rome", mechanic: "Cards" }
+{ id: "scout", name: "SCOUT", mechanic: "Cards" }
+{ id: "battle-line-2000", name: "Battle Line", mechanic: "Cards" }
+{ id: "dixit-odyssey", name: "Dixit: Odyssey", mechanic: "Cards" }
+{ id: "seasons", name: "Seasons", mechanic: "Cards" }
+{ id: "7-wonders-second-edition", name: "7 Wonders (Second Edition)", mechanic: "Cards" }
+{ id: "anno-1800", name: "Anno 1800", mechanic: "Cards" }
+{ id: "meadow", name: "Meadow", mechanic: "Cards" }
+{ id: "dominion-second-edition", name: "Dominion (Seconw Edition)", mechanic: "Cards" }
+{ id: "radlands", name: "Radlands", mechanic: "Cards" }
+{ id: "star-realms-frontiers", name: "Star Realms: Frontiers", mechanic: "Cards" }
+{ id: "marvel-united", name: "Marvel United", mechanic: "Cards" }
+{ id: "dice-throne-season-two-battle-chest", name: "Dice Throne: Season Two - Battle Chest", mechanic: "Cards" }
+{ id: "monikers", name: "Monikers", mechanic: "Cards" }
+{ id: "imperial-settlers", name: "Imperial Settlers", mechanic: "Cards" }
+{ id: "wyrmspan", name: "Wyrmspan", mechanic: "Cards" }
+{ id: "summoner-wars-master-set", name: "Summoner Wars: Master Set", mechanic: "Cards" }
+{ id: "century-spice-road", name: "Century: Spice Road", mechanic: "Cards" }
+{ id: "bruges", name: "Bruges", mechanic: "Cards" }
+{ id: "love-letter-2012", name: "Love Letter", mechanic: "Cards" }
+{ id: "aeons-end-the-new-age", name: "Aeon's End: The New Age", mechanic: "Cards" }
+{ id: "for-sale", name: "For Sale", mechanic: "Cards" }
+{ id: "awkward-guests", name: "Awkward Guests", mechanic: "Cards" }
+{ id: "lost-cities", name: "Lost Cities", mechanic: "Cards" }
+{ id: "arboretum", name: "Arboretum", mechanic: "Cards" }
+{ id: "dixit", name: "Dixit", mechanic: "Cards" }
+{ id: "harry-potter-hogwarts-battle", name: "Harry Potter: Hogwarts Battle", mechanic: "Cards" }
+{ id: "51st-state-master-set", name: "51st State: Master Set", mechanic: "Cards" }
+{ id: "the-resistance", name: "The Resistance", mechanic: "Cards" }
+{ id: "innovation", name: "Innovation", mechanic: "Cards" }
+{ id: "abyss-2014", name: "Abyss", mechanic: "Cards" }
+{ id: "gizmos", name: "Gizmos", mechanic: "Cards" }
+{ id: "mage-wars-arena", name: "Mage Wars Arena", mechanic: "Cards" }
+{ id: "imperium-classics", name: "Imperium: Classics", mechanic: "Cards" }
+{ id: "san-juan", name: "San Juan", mechanic: "Cards" }
+{ id: "blood-bowl-team-manager-the-card-game", name: "Blood Bowl: Team Manager - The Card Game", mechanic: "Cards" }
+{ id: "skull-king", name: "Skull King", mechanic: "Cards" }
+{ id: "furnace", name: "Furnace", mechanic: "Cards" }
+{ id: "love-letter", name: "Love Letter", mechanic: "Cards" }
+{ id: "evolution-climate", name: "Evolution: Climate", mechanic: "Cards" }
+{ id: "saint-petersburg", name: "Saint Petersburg", mechanic: "Cards" }
+{ id: "schotten-totten", name: "Schotten Totten", mechanic: "Cards" }
+{ id: "london-second-edition", name: "London (Second Edition)", mechanic: "Cards" }
+{ id: "san-juan-second-edition", name: "San Juan (Second Edition)", mechanic: "Cards" }
+{ id: "codenames-pictures", name: "Codenames: Pictures", mechanic: "Cards" }
+{ id: "sprawlopolis", name: "Sprawlopolis", mechanic: "Cards" }
+{ id: "skull-2011", name: "Skull", mechanic: "Cards" }
+{ id: "summoner-wars-second-edition", name: "Summoner Wars (Second Edition)", mechanic: "Cards" }
+{ id: "mythic-battles-pantheon", name: "Mythic Battles: Pantheon", mechanic: "Cards" }
+{ id: "unmatched-robin-hood-vs-bigfoot", name: "Unmatched: Robin Hood vs. Bigfoot", mechanic: "Cards" }
+{ id: "biblios", name: "Biblios", mechanic: "Cards" }
+{ id: "thunderstone-quest", name: "Thunderstone Quest", mechanic: "Cards" }
+{ id: "oathsworn-into-the-deepwood", name: "Oathsworn: Into the Deepwood", mechanic: "Cards" }
+{ id: "millennium-blades", name: "Millennium Blades", mechanic: "Cards" }
+{ id: "imperial-settlers-empires-of-the-north", name: "Imperial Settlers: Empires of the North", mechanic: "Cards" }
+{ id: "a-few-acres-of-snow", name: "A Few Acres of Snow", mechanic: "Cards" }
+{ id: "point-salad", name: "Point Salad", mechanic: "Cards" }
+{ id: "mystic-vale", name: "Mystic Vale", mechanic: "Cards" }
+{ id: "canvas-2021", name: "Canvas", mechanic: "Cards" }
+{ id: "citadels", name: "Citadels"}, mechanic: "Cards" 
+{ id: "sheriff-of-nottingham", name: "Sheriff of Nottingham", mechanic: "Cards" }
+{ id: "no-thanks", name: "No Thanks!", mechanic: "Cards" }
+{ id: "oceans", name: "Oceans", mechanic: "Cards" }
+{ id: "hanabi", name: "Hanabi", mechanic: "Cards" }
+{ id: "fantastic-factories", name: "Fantastic Factories", mechanic: "Cards" }
+{ id: "star-wars-the-deckbuilding-game", name: "Star Wars: The Deckbuilding Game", mechanic: "Cards" }
+{ id: "friday", name: "Friday", mechanic: "Cards" }
+{ id: "air-land-and-sea", name: "Air, Land, and Sea", mechanic: "Cards" }
+{ id: "bohnanza", name: "Bohnanza", mechanic: "Cards" }
+{ id: "mindbug-first-contact", name: "Mindbug: First Contact", mechanic: "Cards" }
+{ id: "air-land-sea", name: "Air, Land, &amp; Sea", mechanic: "Cards" }
+{ id: "cat-in-the-box-deluxe-edition", name: "Cat in the Box: Deluxe Edition", mechanic: "Cards" }
+{ id: "port-royal-2014", name: "Port Royal", mechanic: "Cards" }
+{ id: "black-rose-wars", name: "Black Rose Wars", mechanic: "Cards" }
+{ id: "first-class-all-aboard-the-orient-express", name: "First Class: All Aboard the Orient Express!", mechanic: "Cards" }
+{ id: "the-grizzled", name: "The Grizzled", mechanic: "Cards" }
+{ id: "libertalia", name: "Libertalia", mechanic: "Cards" }
+{ id: "the-fox-in-the-forest", name: "The Fox in the Forest", mechanic: "Cards" }
+{ id: "high-society", name: "High Society", mechanic: "Cards" }
+{ id: "elysium", name: "Elysium", mechanic: "Cards" }
+{ id: "sushi-go", name: "Sushi Go!", mechanic: "Cards" }
+{ id: "discworld-ankh-morpork", name: "Discworld: Ankh-Morpork", mechanic: "Cards" }
+{ id: "one-night-ultimate-werewolf", name: "One Night Ultimate Werewolf", mechanic: "Cards" }
+{ id: "sentinels-of-the-multiverse", name: "Sentinels of the Multiverse", mechanic: "Cards" }
+{ id: "battlecon-devastation-of-indines", name: "BattleCON: Devastation of Indines", mechanic: "Cards" }
+{ id: "love-letter-premium", name: "Love Letter Premium", mechanic: "Cards" }
+{ id: "last-will", name: "Last Will", mechanic: "Cards" }
+{ id: "valeria-card-kingdoms", name: "Valeria: Card Kingdoms", mechanic: "Cards" }
+{ id: "baseball-highlights-2045", name: "Baseball Highlights: 2045", mechanic: "Cards" }
+{ id: "pathfinder-adventure-card-game-rise-of-the-runelords-base-set", name: "Pathfinder Adventure Card Game: Rise of the Runelords – Base Set", mechanic: "Cards" }
+{ id: "aquatica", name: "Aquatica", mechanic: "Cards" }
+{ id: "pax-porfiriana", name: "Pax Porfiriana", mechanic: "Cards" }
+{ id: "imperium-legends", name: "Imperium: Legends", mechanic: "Cards" }
+{ id: "paperback", name: "Paperback", mechanic: "Cards" }
+{ id: "dice-throne-season-one", name: "Dice Throne: Season One", mechanic: "Cards" }
+{ id: "evolution-2014", name: "Evolution", mechanic: "Cards" }
+{ id: "star-wars-destiny", name: "Star Wars: Destiny", mechanic: "Cards" }
+{ id: "coup-2012", name: "Coup", mechanic: "Cards" }
+{ id: "unlock-heroic-adventures", name: "Unlock!: Heroic Adventures", mechanic: "Cards" }
+{ id: "a-game-of-thrones-the-card-game-second-edition", name: "A Game of Thrones: The Card Game (Second Edition)", mechanic: "Cards" }
+{ id: "6-nimmt", name: "6 nimmt!", mechanic: "Cards" }
+{ id: "coloretto-2003", name: "Coloretto", mechanic: "Cards" }
+{ id: "shards-of-infinity", name: "Shards of Infinity", mechanic: "Cards" }
+{ id: "splendor-marvel", name: "Splendor: Marvel", mechanic: "Cards" }
+{ id: "one-night-ultimate-werewolf-daybreak", name: "One Night Ultimate Werewolf: Daybreak", mechanic: "Cards" }
+{ id: "keyforge-call-of-the-archons", name: "KeyForge: Call of the Archons", mechanic: "Cards" }
+{ id: "fort", name: "Fort", mechanic: "Cards" }
+{ id: "disney-villainous-wicked-to-the-core", name: "Disney Villainous: Wicked to the Core", mechanic: "Cards" }
+{ id: "summoner-wars", name: "Summoner Wars", mechanic: "Cards" }
+{ id: "elder-sign", name: "Elder Sign", mechanic: "Cards" }
+{ id: "regicide-2020", name: "Regicide", mechanic: "Cards" }
+{ id: "dixit-journey", name: "Dixit: Journey", mechanic: "Cards" }
+{ id: "cribbage", name: "Cribbage", mechanic: "Cards" }
+{ id: "disney-villainous-evil-comes-prepared", name: "Disney Villainous: Evil Comes Prepared", mechanic: "Cards" }
+{ id: "smash-up-awesome-level-9000", name: "Smash Up: Awesome Level 9000", mechanic: "Cards" }
+{ id: "ascension-deckbuilding-game", name: "Ascension: Deckbuilding Game", mechanic: "Cards" }
+{ id: "tash-kalar-arena-of-legends", name: "Tash-Kalar: Arena of Legends", mechanic: "Cards" }
+{ id: "love-letter-batman", name: "Love Letter: Batman", mechanic: "Cards" }
+{ id: "onirim-second-edition", name: "Onirim (Second Edition)", mechanic: "Cards" }
+{ id: "oh-my-goods", name: "Oh My Goods!", mechanic: "Cards" }
+{ id: "marvel-united-x-men", name: "Marvel United: X-Men", mechanic: "Cards" }
+{ id: "space-hulk-death-angel-the-card-game", name: "Space Hulk: Death Angel - The Card Game", mechanic: "Cards" }
+{ id: "thunderstone-advance-towers-of-ruin", name: "Thunderstone Advance: Towers of Ruin", mechanic: "Cards" }
+{ id: "ashes-reborn-rise-of-the-phoenixborn", name: "Ashes Reborn: Rise of the Phoenixborn", mechanic: "Cards" }
+{ id: "warhammer-quest-the-adventure-card-game", name: "Warhammer Quest: The Adventure Card Game", mechanic: "Cards" }
+{ id: "villagers", name: "Villagers", mechanic: "Cards" }
+{ id: "disney-villainous", name: "Disney Villainous", mechanic: "Cards" }
+{ id: "unlock-timeless-adventures", name: "Unlock!: Timeless Adventures", mechanic: "Cards" }
+{ id: "the-bloody-inn", name: "The Bloody Inn", mechanic: "Cards" }
+{ id: "eminent-domain", name: "Eminent Domain", mechanic: "Cards" }
+{ id: "unmatched-jurassic-park-ingen-vs-raptors", name: "Unmatched: Jurassic Park - InGen vs Raptors", mechanic: "Cards" }
+{ id: "the-shipwreck-arcana", name: "The Shipwreck Arcana", mechanic: "Cards" }
+{ id: "warhammer-invasion", name: "Warhammer: Invasion", mechanic: "Cards" }
+{ id: "kanagawa", name: "Kanagawa", mechanic: "Cards" }
+{ id: "saint-petersburg-second-edition", name: "Saint Petersburg (Second Edition)", mechanic: "Cards" }
+{ id: "unmatched-little-red-riding-hood-vs-beowulf", name: "Unmatched: Little Red Riding Hood vs. Beowulf", mechanic: "Cards" }
+{ id: "up-front", name: "Up Front", mechanic: "Cards" }
+{ id: "unfair", name: "Unfair", mechanic: "Cards" }
+{ id: "among-the-stars", name: "Among the Stars", mechanic: "Cards" }
+{ id: "jambo", name: "Jambo", mechanic: "Cards" }
+{ id: "red7", name: "Red7", mechanic: "Cards" }
+{ id: "fugitive", name: "Fugitive", mechanic: "Cards" }
+{ id: "not-alone", name: "Not Alone", mechanic: "Cards" }
+{ id: "disney-villainous-perfectly-wretched", name: "Disney Villainous: Perfectly Wretched", mechanic: "Cards" }
+{ id: "wizard-1984", name: "Wizard", mechanic: "Cards" }
+{ id: "dale-of-merchants", name: "Dale of Merchants", mechanic: "Cards" }
+{ id: "one-deck-dungeon", name: "One Deck Dungeon", mechanic: "Cards" }
+{ id: "celestia-2015", name: "Celestia", mechanic: "Cards" }
+{ id: "star-wars-the-card-game", name: "Star Wars: The Card Game", mechanic: "Cards" }
+{ id: "morels", name: "Morels", mechanic: "Cards" }
+{ id: "letter-jam", name: "Letter Jam", mechanic: "Cards" }
+{ id: "detective-club", name: "Detective Club", mechanic: "Cards" }
+{ id: "summoner-wars-alliances-master-set", name: "Summoner Wars: Alliances Master Set", mechanic: "Cards" }
+{ id: "the-lost-expedition", name: "The Lost Expedition", mechanic: "Cards" }
+{ id: "parade-2007", name: "Parade", mechanic: "Cards" }
+{ id: "the-loop", name: "The LOOP", mechanic: "Cards" }
+{ id: "the-mind", name: "The Mind", mechanic: "Cards" }
+{ id: "thunderstone", name: "Thunderstone", mechanic: "Cards" }
+{ id: "red-rising", name: "Red Rising", mechanic: "Cards" }
+{ id: "lovecraft-letter", name: "Lovecraft Letter", mechanic: "Cards" }
+{ id: "palm-island", name: "Palm Island", mechanic: "Cards" }
+{ id: "ohanami", name: "Ohanami", mechanic: "Cards" }
+{ id: "call-to-adventure", name: "Call to Adventure", mechanic: "Cards" }
+{ id: "unlock-epic-adventures", name: "Unlock!: Epic Adventures", mechanic: "Cards" }
+{ id: "tragedy-looper", name: "Tragedy Looper", mechanic: "Cards" }
+{ id: "bridge", name: "Bridge", mechanic: "Cards" }
+{ id: "summoner-wars-phoenix-elves-vs-tundra-orcs", name: "Summoner Wars: Phoenix Elves vs Tundra Orcs", mechanic: "Cards" }
+{ id: "warhammer-underworlds-shadespire", name: "Warhammer Underworlds: Shadespire", mechanic: "Cards" }
+{ id: "louis-xiv", name: "Louis XIV", mechanic: "Cards" }
+{ id: "legendary-a-marvel-deck-building-game-villains", name: "Legendary: A Marvel Deck Building Game – Villains", mechanic: "Cards" }
+{ id: "core-worlds", name: "Core Worlds", mechanic: "Cards" }
+{ id: "caper-europe", name: "Caper: Europe", mechanic: "Cards" }
+{ id: "smash-up-science-fiction-double-feature", name: "Smash Up: Science Fiction Double Feature", mechanic: "Cards" }
+{ id: "orchard-a-9-card-solitaire-game", name: "Orchard: A 9 card solitaire game", mechanic: "Cards" }
+{ id: "condottiere", name: "Condottiere", mechanic: "Cards" }
+{ id: "the-castles-of-burgundy-the-card-game", name: "The Castles of Burgundy: The Card Game", mechanic: "Cards" }
+{ id: "5-minute-dungeon", name: "5-Minute Dungeon", mechanic: "Cards" }
+{ id: "fabled-fruit", name: "Fabled Fruit", mechanic: "Cards" }
+{ id: "ascension-storm-of-souls", name: "Ascension: Storm of Souls", mechanic: "Cards" }
+{ id: "legacy-the-testament-of-duke-de-crecy", name: "Legacy: The Testament of Duke de Crecy", mechanic: "Cards" }
+{ id: "summoner-wars-guild-dwarves-vs-cave-goblins", name: "Summoner Wars: Guild Dwarves vs Cave Goblins", mechanic: "Cards" }
+{ id: "dc-comics-deck-building-game", name: "DC Comics Deck-Building Game", mechanic: "Cards" }
+{ id: "living-forest", name: "Living Forest", mechanic: "Cards" }
+{ id: "cat-lady", name: "Cat Lady", mechanic: "Cards" }
+{ id: "herbaceous", name: "Herbaceous", mechanic: "Cards" }
+{ id: "rivals-for-catan", name: "Rivals for Catan", mechanic: "Cards" }
+{ id: "ascension-return-of-the-fallen", name: "Ascension: Return of the Fallen", mechanic: "Cards" }
+{ id: "flamecraft", name: "Flamecraft", mechanic: "Cards" }
+{ id: "brian-boru-high-king-of-ireland", name: "Brian Boru: High King of Ireland", mechanic: "Cards" }
+{ id: "legendary-encounters-a-predator-deck-building-game", name: "Legendary Encounters: A Predator Deck Building Game", mechanic: "Cards" }
+{ id: "cockroach-poker", name: "Cockroach Poker", mechanic: "Cards" }
+{ id: "majesty-for-the-realm", name: "Majesty: For the Realm", mechanic: "Cards" }
+{ id: "archaeology-the-new-expedition", name: "Archaeology: The New Expedition", mechanic: "Cards" }
+{ id: "mint-works", name: "Mint Works", mechanic: "Cards" }
+{ id: "fields-of-green", name: "Fields of Green", mechanic: "Cards" }
+{ id: "valley-of-the-kings", name: "Valley of the Kings", mechanic: "Cards" }
+{ id: "smash-up-pretty-pretty-smash-up", name: "Smash Up: Pretty Pretty Smash Up", mechanic: "Cards" }
+{ id: "warhammer-40000-conquest", name: "Warhammer 40,000: Conquest", mechanic: "Cards" }
+{ id: "paper-tales", name: "Paper Tales", mechanic: "Cards" }
+{ id: "cubirds", name: "CuBirds", mechanic: "Cards" }
+{ id: "haggis", name: "Haggis", mechanic: "Cards" }
+{ id: "the-prodigals-club", name: "The Prodigals Club", mechanic: "Cards" }
+{ id: "mottainai", name: "Mottainai", mechanic: "Cards" }
+{ id: "tales-games-the-hare-the-tortoise", name: "Tales &amp; Games: The Hare &amp; the Tortoise", mechanic: "Cards" }
+{ id: "linko", name: "Linko!", mechanic: "Cards" }
+{ id: "unlock-escape-adventures-squeek-sausage", name: "Unlock!: Escape Adventures – Squeek &amp; Sausage", mechanic: "Cards" }
+{ id: "the-big-book-of-madness", name: "The Big Book of Madness", mechanic: "Cards" }
+{ id: "two-rooms-and-a-boom", name: "Two Rooms and a Boom", mechanic: "Cards" }
+{ id: "set-a-watch", name: "Set a Watch", mechanic: "Cards" }
+{ id: "smash-up-monster-smash", name: "Smash Up: Monster Smash", mechanic: "Cards" }
+{ id: "jump-drive", name: "Jump Drive", mechanic: "Cards" }
+{ id: "hardback", name: "Hardback", mechanic: "Cards" }
+{ id: "smash-up", name: "Smash Up", mechanic: "Cards" }
+{ id: "catan-card-game", name: "Catan Card Game", mechanic: "Cards" }
+{ id: "caylus-magna-carta", name: "Caylus Magna Carta", mechanic: "Cards" }
+{ id: "dream-home", name: "Dream Home", mechanic: "Cards" }
+{ id: "thunderstone-dragonspire", name: "Thunderstone: Dragonspire", mechanic: "Cards" }
+{ id: "legend-of-the-five-rings-the-card-game", name: "Legend of the Five Rings: The Card Game", mechanic: "Cards" }
+{ id: "netrunner", name: "Netrunner", mechanic: "Cards" }
+{ id: "vikings-gone-wild", name: "Vikings Gone Wild", mechanic: "Cards" }
+{ id: "conspiracy-abyss-universe", name: "Conspiracy: Abyss Universe", mechanic: "Cards" }
+{ id: "pathfinder-adventure-card-game-skull-shackles-base-set", name: "Pathfinder Adventure Card Game: Skull &amp; Shackles – Base Set", mechanic: "Cards" }
+{ id: "duelosaur-island", name: "Duelosaur Island", mechanic: "Cards" }
+{ id: "shadow-hunters", name: "Shadow Hunters", mechanic: "Cards" }
+{ id: "the-game", name: "The Game", mechanic: "Cards" }
+{ id: "rise-of-augustus", name: "Rise of Augustus", mechanic: "Cards" }
+{ id: "fairy-tale", name: "Fairy Tale", mechanic: "Cards" }
+{ id: "cockroach-poker-royal", name: "Cockroach Poker Royal", mechanic: "Cards" }
+{ id: "colossal-arena", name: "Colossal Arena", mechanic: "Cards" }
+{ id: "battlecon-war-of-indines", name: "BattleCON: War of Indines", mechanic: "Cards" }
+{ id: "oriflamme", name: "Oriflamme", mechanic: "Cards" }
+{ id: "circle-the-wagons", name: "Circle the Wagons", mechanic: "Cards" }
+{ id: "stick-em", name: "Stick 'Em", mechanic: "Cards" }
+{ id: "diamonds-second-edition", name: "Diamonds: Second Edition", mechanic: "Cards" }
+{ id: "shadowrun-crossfire", name: "Shadowrun: Crossfire", mechanic: "Cards" }
+{ id: "street-masters", name: "Street Masters", mechanic: "Cards" }
+{ id: "spicy", name: "Spicy", mechanic: "Cards" }
+{ id: "final-girl", name: "Final Girl", mechanic: "Cards" }
+{ id: "honshu", name: "Honshū", mechanic: "Cards" }
+{ id: "poker", name: "Poker", mechanic: "Cards" }
+{ id: "the-lord-of-the-rings-the-card-game-revised-core-set", name: "The Lord of the Rings: The Card Game – Revised Core Set", mechanic: "Cards" }
+{ id: "medieval-academy", name: "Medieval Academy", mechanic: "Cards" }
+{ id: "war-of-the-ring-the-card-game", name: "War of the Ring: The Card Game", mechanic: "Cards" }
+{ id: "ultimate-werewolf-ultimate-edition", name: "Ultimate Werewolf: Ultimate Edition", mechanic: "Cards" }
+{ id: "a-game-of-thrones-the-card-game", name: "A Game of Thrones: The Card Game", mechanic: "Cards" }
+{ id: "smash-up-its-your-fault", name: "Smash Up: It's Your Fault!", mechanic: "Cards" }
+{ id: "unmatched-game-system", name: "Unmatched Game System", mechanic: "Cards" }
+{ id: "trains-rising-sun", name: "Trains: Rising Sun", mechanic: "Cards" }
+{ id: "hostage-negotiator", name: "Hostage Negotiator", mechanic: "Cards" }
+{ id: "odins-ravens-second-edition", name: "Odin's Ravens (Second Edition)", mechanic: "Cards" }
+{ id: "fog-of-love", name: "Fog of Love", mechanic: "Cards" }
+{ id: "viceroy", name: "Viceroy", mechanic: "Cards" }
+{ id: "guildhall", name: "Guildhall", mechanic: "Cards" }
+{ id: "dead-mans-draw", name: "Dead Man's Draw", mechanic: "Cards" }
+{ id: "fleet-2012", name: "Fleet", mechanic: "Cards" }
+{ id: "timeline-inventions", name: "Timeline: Inventions", mechanic: "Cards" }
+{ id: "sylvion", name: "Sylvion", mechanic: "Cards" }
+{ id: "codex-naturalis", name: "Codex Naturalis", mechanic: "Cards" }
+{ id: "dale-of-merchants-2", name: "Dale of Merchants 2", mechanic: "Cards" }
+{ id: "maximum-apocalypse", name: "Maximum Apocalypse", mechanic: "Cards" }
+{ id: "ghost-blitz", name: "Ghost Blitz", mechanic: "Cards" }
+{ id: "saboteur", name: "Saboteur", mechanic: "Cards" }
+{ id: "keyforge-age-of-ascension", name: "KeyForge: Age of Ascension", mechanic: "Cards" }
+{ id: "one-deck-dungeon-forest-of-shadows", name: "One Deck Dungeon: Forest of Shadows", mechanic: "Cards" }
+{ id: "wings-of-war-famous-aces", name: "Wings of War: Famous Aces", mechanic: "Cards" }
+{ id: "tussie-mussie", name: "Tussie Mussie", mechanic: "Cards" }
+{ id: "starship-catan", name: "Starship Catan", mechanic: "Cards" }
+{ id: "carnival-of-monsters", name: "Carnival of Monsters", mechanic: "Cards" }
+{ id: "mystery-rummy-jack-the-ripper", name: "Mystery Rummy: Jack the Ripper", mechanic: "Cards" }
+{ id: "tournay", name: "Tournay", mechanic: "Cards" }
+{ id: "villages-of-valeria", name: "Villages of Valeria", mechanic: "Cards" }
+{ id: "welcome-to-the-dungeon", name: "Welcome to the Dungeon", mechanic: "Cards" }
+{ id: "xenoshyft-onslaught", name: "XenoShyft: Onslaught", mechanic: "Cards" }
+{ id: "aeons-end-outcasts", name: "Aeon's End: Outcasts", mechanic: "Cards" }
+{ id: "jekyll-vs-hyde", name: "Jekyll vs. Hyde", mechanic: "Cards" }
+{ id: "unlock-escape-adventures-the-formula", name: "Unlock!: Escape Adventures – The Formula", mechanic: "Cards" }
+{ id: "museum", name: "Museum", mechanic: "Cards" }
+{ id: "heroes-of-terrinoth", name: "Heroes of Terrinoth", mechanic: "Cards" }
+{ id: "the-fox-in-the-forest-duet", name: "The Fox in the Forest Duet", mechanic: "Cards" }
+{ id: "gloom-of-kilforth-a-fantasy-quest-game", name: "Gloom of Kilforth: A Fantasy Quest Game", mechanic: "Cards" }
+{ id: "gravwell-escape-from-the-9th-dimension", name: "Gravwell: Escape from the 9th Dimension", mechanic: "Cards" }
+{ id: "escape-tales-the-awakening", name: "Escape Tales: The Awakening", mechanic: "Cards" }
+{ id: "walking-in-burano", name: "Walking in Burano", mechanic: "Cards" }
+{ id: "timeline-events", name: "Timeline: Events", mechanic: "Cards" }
+{ id: "turn-the-tide", name: "Turn the Tide", mechanic: "Cards" }
+{ id: "balloon-cup", name: "Balloon Cup", mechanic: "Cards" }
+{ id: "dice-throne", name: "Dice Throne", mechanic: "Cards" }
+{ id: "blue-moon", name: "Blue Moon", mechanic: "Cards" }
+{ id: "valley-of-the-kings-afterlife", name: "Valley of the Kings: Afterlife", mechanic: "Cards" }
+{ id: "solenia", name: "Solenia", mechanic: "Cards" }
+{ id: "mindbug", name: "Mindbug", mechanic: "Cards" }
+{ id: "rune-age", name: "Rune Age", mechanic: "Cards" }
+{ id: "canopy", name: "Canopy", mechanic: "Cards" }
+{ id: "dc-comics-deck-building-game-heroes-unite", name: "DC Comics Deck-Building Game: Heroes Unite", mechanic: "Cards" }
+{ id: "cah-n-gun", name: "Ca$h 'n Gun$", mechanic: "Cards" }
+{ id: "vampire-the-eternal-struggle", name: "Vampire: The Eternal Struggle", mechanic: "Cards" }
+{ id: "wild-space", name: "Wild Space", mechanic: "Cards" }
+{ id: "tides-of-time", name: "Tides of Time", mechanic: "Cards" }
+{ id: "escape-the-dark-castle", name: "Escape the Dark Castle", mechanic: "Cards" }
+{ id: "agropolis", name: "Agropolis", mechanic: "Cards" }
+{ id: "its-a-wonderful-kingdom", name: "It's a Wonderful Kingdom", mechanic: "Cards" }
+{ id: "star-wars-unlock", name: "Star Wars: Unlock!", mechanic: "Cards" }
+{ id: "kodama-the-tree-spirits", name: "Kodama: The Tree Spirits", mechanic: "Cards" }
+{ id: "yukon-airways", name: "Yukon Airways", mechanic: "Cards" }
+{ id: "onirim", name: "Onirim", mechanic: "Cards" }
+{ id: "spot-it-2009", name: "Spot it!", mechanic: "Cards" }
+{ id: "similo", name: "Similo", mechanic: "Cards" }
+{ id: "beasty-bar", name: "Beasty Bar", mechanic: "Cards" }
+{ id: "infinity-gauntlet-a-love-letter-game", name: "Infinity Gauntlet: A Love Letter Game", mechanic: "Cards" }
+{ id: "the-7th-continent-classic-edition", name: "The 7th Continent: Classic Edition", mechanic: "Cards" }
+{ id: "tides-of-madness", name: "Tides of Madness", mechanic: "Cards" }
+{ id: "illusion", name: "Illusion", mechanic: "Cards" }
+{ id: "la-cosa-nostra-2014", name: "La Cosa Nostra", mechanic: "Cards" }
+{ id: "bargain-quest", name: "Bargain Quest", mechanic: "Cards" }
+{ id: "unmatched-battle-of-legends-volume-two", name: "Unmatched: Battle of Legends, Volume Two", mechanic: "Cards" }
+{ id: "timeline-general-interest", name: "Timeline: General Interest", mechanic: "Cards" }
+{ id: "traders-of-osaka", name: "Traders of Osaka", mechanic: "Cards" }
+{ id: "middle-earth", name: "Middle-earth", mechanic: "Cards" }
+{ id: "challengers", name: "Challengers", mechanic: "Cards" }
+{ id: "yomi", name: "Yomi", mechanic: "Cards" }
+{ id: "sleuth", name: "Sleuth", mechanic: "Cards" }
+{ id: "omen-a-reign-of-war", name: "Omen: A Reign of War", mechanic: "Cards" }
+{ id: "coup-rebellion-g54", name: "Coup: Rebellion G54", mechanic: "Cards" }
+{ id: "battle-line-medieval", name: "Battle Line: Medieval", mechanic: "Cards" }
+{ id: "riftforce", name: "Riftforce", mechanic: "Cards" }
+{ id: "kashgar-merchants-of-the-silk-road", name: "Kashgar: Merchants of the Silk Road", mechanic: "Cards" }
+{ id: "pixel-tactics", name: "Pixel Tactics", mechanic: "Cards" }
+{ id: "mascarade-2013", name: "Mascarade", mechanic: "Cards" }
+{ id: "havana", name: "Havana", mechanic: "Cards" }
+{ id: "aerion", name: "Aerion", mechanic: "Cards" }
+{ id: "bang-2002", name: "BANG!", mechanic: "Cards" }
+{ id: "doomtown-reloaded", name: "Doomtown: Reloaded", mechanic: "Cards" }
+{ id: "neanderthal", name: "Neanderthal", mechanic: "Cards" }
+{ id: "welcome-back-to-the-dungeon", name: "Welcome Back to the Dungeon", mechanic: "Cards" }
+{ id: "ascension-immortal-heroes", name: "Ascension: Immortal Heroes", mechanic: "Cards" }
+{ id: "codex-card-time-strategy-deluxe-set", name: "Codex: Card-Time Strategy – Deluxe Set", mechanic: "Cards" }
+{ id: "mu-more", name: "Mü &amp; More", mechanic: "Cards" }
+{ id: "stella-dixit-universe", name: "Stella: Dixit Universe", mechanic: "Cards" }
+{ id: "cv", name: "CV", mechanic: "Cards" }
+{ id: "ten-2021", name: "TEN", mechanic: "Cards" }
+{ id: "bloodborne-the-card-game", name: "Bloodborne: The Card Game", mechanic: "Cards" }
+{ id: "skulls-of-sedlec", name: "Skulls of Sedlec", mechanic: "Cards" }
+{ id: "unlock-mythic-adventures", name: "Unlock!: Mythic Adventures", mechanic: "Cards" }
+{ id: "unlock-secret-adventures-the-adventurers-of-oz", name: "Unlock!: Secret Adventures – The Adventurers of Oz", mechanic: "Cards" }
+{ id: "tortuga-1667", name: "Tortuga 1667", mechanic: "Cards" }
+{ id: "the-red-dragon-inn-2", name: "The Red Dragon Inn 2", mechanic: "Cards" }
+{ id: "call-of-cthulhu-the-card-game", name: "Call of Cthulhu: The Card Game", mechanic: "Cards" }
+{ id: "tempel-des-schreckens", name: "Tempel des Schreckens", mechanic: "Cards" }
+{ id: "thanos-rising-avengers-infinity-war", name: "Thanos Rising: Avengers Infinity War", mechanic: "Cards" }
+{ id: "the-bottle-imp", name: "The Bottle Imp", mechanic: "Cards" }
+{ id: "arctic-scavengers", name: "Arctic Scavengers", mechanic: "Cards" }
+{ id: "the-great-dalmuti", name: "The Great Dalmuti", mechanic: "Cards" }
+{ id: "human-punishment-social-deduction-20", name: "Human Punishment: Social Deduction 2.0", mechanic: "Cards" }
+{ id: "campy-creatures", name: "Campy Creatures", mechanic: "Cards" }
+{ id: "here-to-slay", name: "Here to Slay", mechanic: "Cards" }
+{ id: "warfighter-the-tactical-special-forces-card-game", name: "Warfighter: The Tactical Special Forces Card Game", mechanic: "Cards" }
+{ id: "the-new-era", name: "The New Era", mechanic: "Cards" }
+{ id: "puzzle-strike-third-edition", name: "Puzzle Strike: Third Edition", mechanic: "Cards" }
+{ id: "timeline-discoveries", name: "Timeline: Discoveries", mechanic: "Cards" }
+{ id: "set", name: "SET", mechanic: "Cards" }
+{ id: "6-nimmt-25-jahre", name: "6 nimmt! 25 Jahre", mechanic: "Cards" }
+{ id: "harry-potter-hogwarts-battle-defence-against-the-dark-arts", name: "Harry Potter: Hogwarts Battle – Defence Against the Dark Arts", mechanic: "Cards" }
+{ id: "artifacts-inc", name: "Artifacts, Inc.", mechanic: "Cards" }
+{ id: "city-of-iron", name: "City of Iron", mechanic: "Cards" }
+{ id: "unlock-mystery-adventures-the-house-on-the-hill", name: "Unlock!: Mystery Adventures – The House on the Hill", mechanic: "Cards" }
+{ id: "jungle-speed", name: "Jungle Speed", mechanic: "Cards" }
+{ id: "legendary-encounters-a-firefly-deck-building-game", name: "Legendary Encounters: A Firefly Deck Building Game", mechanic: "Cards" }
+{ id: "51st-state", name: "51st State", mechanic: "Cards" }
+{ id: "capital-lux", name: "Capital Lux", mechanic: "Cards" }
+{ id: "key-flow", name: "Key Flow", mechanic: "Cards" }
+{ id: "bruxelles-1897", name: "Bruxelles 1897", mechanic: "Cards" }
+{ id: "love-letter-adventure-time", name: "Love Letter: Adventure Time", mechanic: "Cards" }
+{ id: "ascension-rise-of-vigil", name: "Ascension: Rise of Vigil", mechanic: "Cards" }
+{ id: "the-great-heartland-hauling-co", name: "The Great Heartland Hauling Co.", mechanic: "Cards" }
+{ id: "food-chain-island", name: "Food Chain Island", mechanic: "Cards" }
+{ id: "sluff-off", name: "Sluff Off!", mechanic: "Cards" }
+{ id: "smash-up-the-obligatory-cthulhu-set", name: "Smash Up: The Obligatory Cthulhu Set", mechanic: "Cards" }
+{ id: "feed-the-kraken", name: "Feed the Kraken", mechanic: "Cards" }
+{ id: "sheriff-of-nottingham-2nd-edition", name: "Sheriff of Nottingham: 2nd Edition", mechanic: "Cards" }
+{ id: "the-red-dragon-inn", name: "The Red Dragon Inn", mechanic: "Cards" }
+{ id: "timeline-music-cinema", name: "Timeline: Music &amp; Cinema", mechanic: "Cards" }
+{ id: "trambahn", name: "Trambahn", mechanic: "Cards" }
+{ id: "altar-quest", name: "Altar Quest", mechanic: "Cards" }
+{ id: "piepmatz-2018", name: "Piepmatz", mechanic: "Cards" }
+{ id: "dice-throne-season-two-gunslinger-v-samurai", name: "Dice Throne: Season Two – Gunslinger v. Samurai", mechanic: "Cards" }
+{ id: "unlock-mystery-adventures-the-tonipals-treasure", name: "Unlock!: Mystery Adventures – The Tonipal's Treasure", mechanic: "Cards" }
+{ id: "felicity-the-cat-in-the-sack", name: "Felicity: The Cat in the Sack", mechanic: "Cards" }
+{ id: "a-game-of-thrones-hand-of-the-king", name: "A Game of Thrones: Hand of the King", mechanic: "Cards" }
+{ id: "dungeon-mayhem", name: "Dungeon Mayhem", mechanic: "Cards" }
+{ id: "smash-up-cease-and-desist", name: "Smash Up: Cease and Desist", mechanic: "Cards" }
+{ id: "masters-of-renaissance-lorenzo-il-magnifico-the-card-game", name: "Masters of Renaissance: Lorenzo il Magnifico – The Card Game", mechanic: "Cards" }
+{ id: "abandon-all-artichokes", name: "Abandon All Artichokes", mechanic: "Cards" }
+{ id: "love-letter-the-hobbit-the-battle-of-the-five-armies", name: "Love Letter: The Hobbit – The Battle of the Five Armies", mechanic: "Cards" }
+{ id: "odins-ravens", name: "Odin's Ravens", mechanic: "Cards" }
+{ id: "cat-in-the-box-second-edition", name: "Cat in the Box (Second edition)", mechanic: "Cards" }
+{ id: "holmes-sherlock-mycroft", name: "Holmes: Sherlock &amp; Mycroft", mechanic: "Cards" }
+{ id: "floriferous", name: "Floriferous", mechanic: "Cards" }
+{ id: "cold-war-cia-vs-kgb", name: "Cold War: CIA vs KGB", mechanic: "Cards" }
+{ id: "legend-of-the-five-rings", name: "Legend of the Five Rings", mechanic: "Cards" }
+{ id: "rummikub", name: "Rummikub", mechanic: "Cards" }
+{ id: "pax-pamir", name: "Pax Pamir", mechanic: "Cards" }
+{ id: "treasure-hunter-2015", name: "Treasure Hunter", mechanic: "Cards" }
+{ id: "nyet", name: "Nyet!", mechanic: "Cards" }
+{ id: "the-red-dragon-inn-3", name: "The Red Dragon Inn 3", mechanic: "Cards" }
+{ id: "5-minute-marvel", name: "5-Minute Marvel", mechanic: "Cards" }
+{ id: "thunderstone-advance-numenera", name: "Thunderstone Advance: Numenera", mechanic: "Cards" }
+{ id: "arena-roma-ii", name: "Arena: Roma II", mechanic: "Cards" }
+{ id: "dale-of-merchants-collection", name: "Dale of Merchants Collection", mechanic: "Cards" }
+{ id: "warhammer-underworlds-nightvault", name: "Warhammer Underworlds: Nightvault", mechanic: "Cards" }
+{ id: "the-hunger", name: "The Hunger", mechanic: "Cards" }
+{ id: "coal-baron-the-great-card-game", name: "Coal Baron: The Great Card Game", mechanic: "Cards" }
+{ id: "memoarrr", name: "Memoarrr!", mechanic: "Cards" }
+{ id: "mamma-mia", name: "Mamma Mia!", mechanic: "Cards" }
+{ id: "cthulhu-realms", name: "Cthulhu Realms", mechanic: "Cards" }
+{ id: "samurai-sword", name: "Samurai Sword", mechanic: "Cards" }
+{ id: "tournament-at-camelot", name: "Tournament at Camelot", mechanic: "Cards" }
+{ id: "show-manager", name: "Show Manager", mechanic: "Cards" }
+{ id: "llama-2019", name: "L.L.A.M.A.", mechanic: "Cards" }
+{ id: "ascension-realms-unraveled", name: "Ascension: Realms Unraveled", mechanic: "Cards" }
+{ id: "archaeology-the-card-game", name: "Archaeology: The Card Game", mechanic: "Cards" }
+{ id: "franks-zoo", name: "Frank's Zoo", mechanic: "Cards" }
+{ id: "wildlife-safari", name: "Wildlife Safari", mechanic: "Cards" }
+{ id: "cutthroat-caverns", name: "Cutthroat Caverns", mechanic: "Cards" }
+{ id: "disney-villainous-despicable-plots", name: "Disney Villainous: Despicable Plots", mechanic: "Cards" }
+{ id: "euchre", name: "Euchre", mechanic: "Cards" }
+{ id: "harbour", name: "Harbour", mechanic: "Cards" }
+{ id: "tranquility", name: "Tranquility", mechanic: "Cards" }
+{ id: "bob-ross-art-of-chill-game", name: "Bob Ross: Art of Chill Game", mechanic: "Cards" }
+{ id: "salem-1692", name: "Salem 1692", mechanic: "Cards" }
+{ id: "boss-monster-2-the-next-level", name: "Boss Monster 2: The Next Level", mechanic: "Cards" }
+{ id: "ganymede", name: "Ganymede", mechanic: "Cards" }
+{ id: "the-dresden-files-cooperative-card-game", name: "The Dresden Files Cooperative Card Game", mechanic: "Cards" }
+{ id: "youre-bluffing", name: "You're Bluffing!", mechanic: "Cards" }
+{ id: "pathfinder-adventure-card-game-wrath-of-the-righteous-base-set", name: "Pathfinder Adventure Card Game: Wrath of the Righteous – Base Set", mechanic: "Cards" }
+{ id: "palastgefluster", name: "Palastgeflüster", mechanic: "Cards" }
+{ id: "sorcerer", name: "Sorcerer", mechanic: "Cards" }
+{ id: "impulse", name: "Impulse", mechanic: "Cards" }
+{ id: "wings-of-war-watch-your-back", name: "Wings of War: Watch Your Back!", mechanic: "Cards" }
+{ id: "warfighter-the-wwii-tactical-combat-card-game", name: "Warfighter: The WWII Tactical Combat Card Game", mechanic: "Cards" }
+{ id: "keyforge-worlds-collide", name: "KeyForge: Worlds Collide", mechanic: "Cards" }
+{ id: "pit", name: "Pit", mechanic: "Cards" }
+{ id: "quests-of-valeria", name: "Quests of Valeria", mechanic: "Cards" }
+{ id: "ribbit", name: "Ribbit", mechanic: "Cards" }
+{ id: "the-flow-of-history", name: "The Flow of History", mechanic: "Cards" }
+{ id: "after-the-virus", name: "After The Virus", mechanic: "Cards" }
+{ id: "stellar", name: "Stellar", mechanic: "Cards" }
+{ id: "belratti", name: "Belratti", mechanic: "Cards" }
+{ id: "the-boss-2010", name: "The Boss", mechanic: "Cards" }
+{ id: "xenoshyft-dreadmire", name: "XenoShyft: Dreadmire", mechanic: "Cards" }
+{ id: "dragonwood", name: "Dragonwood", mechanic: "Cards" }
+{ id: "spades", name: "Spades", mechanic: "Cards" }
+{ id: "once-upon-a-time-the-storytelling-card-game", name: "Once Upon a Time: The Storytelling Card Game", mechanic: "Cards" }
+{ id: "timeline-challenge", name: "Timeline Challenge", mechanic: "Cards" }
+{ id: "dealt", name: "Dealt!", mechanic: "Cards" }
+{ id: "snake-oil-2010", name: "Snake Oil", mechanic: "Cards" }
+{ id: "good-cop-bad-cop", name: "Good Cop Bad Cop", mechanic: "Cards" }
+{ id: "custom-heroes", name: "Custom Heroes", mechanic: "Cards" }
+{ id: "campaign-manager-2008", name: "Campaign Manager 2008", mechanic: "Cards" }
+{ id: "the-builders-middle-ages", name: "The Builders: Middle Ages", mechanic: "Cards" }
+{ id: "skyjo", name: "Skyjo", mechanic: "Cards" }
+{ id: "thunderstone-advance-worlds-collide", name: "Thunderstone Advance: Worlds Collide", mechanic: "Cards" }
+{ id: "star-wars-jabbas-palace-a-love-letter-game", name: "Star Wars: Jabba's Palace – A Love Letter Game", mechanic: "Cards" }
+{ id: "dutch-blitz", name: "Dutch Blitz", mechanic: "Cards" }
+{ id: "tanto-cuore", name: "Tanto Cuore", mechanic: "Cards" }
+{ id: "oltre-mare", name: "Oltre Mare", mechanic: "Cards" }
+{ id: "timebomb", name: "Timebomb", mechanic: "Cards" }
+{ id: "monster-lands", name: "Monster Lands", mechanic: "Cards" }
+{ id: "wings-of-war-deluxe-set", name: "Wings of War: Deluxe Set", mechanic: "Cards" }
+{ id: "heart-of-crown", name: "Heart of Crown", mechanic: "Cards" }
+{ id: "battlecon-fate-of-indines", name: "BattleCON: Fate of Indines", mechanic: "Cards" }
+{ id: "last-aurora", name: "Last Aurora", mechanic: "Cards" }
+{ id: "lotus-2016", name: "Lotus", mechanic: "Cards" }
+{ id: "thunder-lightning", name: "Thunder &amp; Lightning", mechanic: "Cards" }
+{ id: "copycat", name: "Copycat", mechanic: "Cards" }
+{ id: "circus-flohcati", name: "Circus Flohcati", mechanic: "Cards" }
+{ id: "pagan-fate-of-roanoke", name: "Pagan: Fate of Roanoke", mechanic: "Cards" }
+{ id: "the-chameleon", name: "The Chameleon", mechanic: "Cards" }
+{ id: "cabo", name: "Cabo", mechanic: "Cards" }
+{ id: "gloom", name: "Gloom", mechanic: "Cards" }
+{ id: "hearts", name: "Hearts", mechanic: "Cards" }
+{ id: "android-infiltration", name: "Android: Infiltration", mechanic: "Cards" }
+{ id: "taco-cat-goat-cheese-pizza", name: "Taco Cat Goat Cheese Pizza", mechanic: "Cards" }
+{ id: "codenames-deep-undercover", name: "Codenames: Deep Undercover", mechanic: "Cards" }
+{ id: "medium", name: "Medium", mechanic: "Cards" }
+{ id: "dice-throne-season-two-cursed-pirate-v-artificer", name: "Dice Throne: Season Two – Cursed Pirate v. Artificer", mechanic: "Cards" }
+{ id: "dc-comics-deck-building-game-forever-evil", name: "DC Comics Deck-Building Game: Forever Evil", mechanic: "Cards" }
+{ id: "chronicle", name: "Chronicle", mechanic: "Cards" }
+{ id: "dragonheart", name: "Dragonheart", mechanic: "Cards" }
+{ id: "the-ravens-of-thri-sahashri", name: "The Ravens of Thri Sahashri", mechanic: "Cards" }
+{ id: "wings-of-war-burning-drachens", name: "Wings of War: Burning Drachens", mechanic: "Cards" }
+{ id: "atlantic-star", name: "Atlantic Star", mechanic: "Cards" }
+{ id: "dice-throne-season-two-tactician-v-huntress", name: "Dice Throne: Season Two – Tactician v. Huntress", mechanic: "Cards" }
+{ id: "mythotopia", name: "Mythotopia", mechanic: "Cards" }
+{ id: "claim-2", name: "Claim 2", mechanic: "Cards" }
+{ id: "shadowrift", name: "Shadowrift", mechanic: "Cards" }
+{ id: "silver", name: "Silver", mechanic: "Cards" }
+{ id: "nightfall", name: "Nightfall", mechanic: "Cards" }
+{ id: "master-of-orion-the-board-game", name: "Master of Orion: The Board Game", mechanic: "Cards" }
+{ id: "mille-fiori", name: "Mille Fiori", mechanic: "Cards" }
+{ id: "fuji-flush", name: "Fuji Flush", mechanic: "Cards" }
+{ id: "deckscape-test-time", name: "Deckscape: Test Time", mechanic: "Cards" }
+{ id: "lost-legacy-the-starship", name: "Lost Legacy: The Starship", mechanic: "Cards" }
+{ id: "mage-wars-academy", name: "Mage Wars Academy", mechanic: "Cards" }
+{ id: "oddville", name: "OddVille", mechanic: "Cards" }
+{ id: "codenames-disney-family-edition", name: "Codenames: Disney – Family Edition", mechanic: "Cards" }
+{ id: "lords-of-scotland", name: "Lords of Scotland", mechanic: "Cards" }
+{ id: "anomia-party-edition", name: "Anomia: Party Edition", mechanic: "Cards" }
+{ id: "edel-stein-reich", name: "Edel, Stein &amp; Reich", mechanic: "Cards" }
+{ id: "star-wars-customizable-card-game", name: "Star Wars Customizable Card Game", mechanic: "Cards" }
+{ id: "sea-of-clouds", name: "Sea of Clouds", mechanic: "Cards" }
+{ id: "friday-the-13th", name: "Friday the 13th", mechanic: "Cards" }
+{ id: "alien-artifacts", name: "Alien Artifacts", mechanic: "Cards" }
+{ id: "iron-curtain", name: "Iron Curtain", mechanic: "Cards" }
+{ id: "funfair-2021", name: "Funfair", mechanic: "Cards" }
+{ id: "ascension-darkness-unleashed", name: "Ascension: Darkness Unleashed", mechanic: "Cards" }
+{ id: "bohnanza-the-duel", name: "Bohnanza: The Duel", mechanic: "Cards" }
+{ id: "pick-picknic", name: "Pick Picknic", mechanic: "Cards" }
+{ id: "hidden-leaders", name: "Hidden Leaders", mechanic: "Cards" }
+{ id: "asante", name: "Asante", mechanic: "Cards" }
+{ id: "dice-throne-season-two-seraph-v-vampire-lord", name: "Dice Throne: Season Two – Seraph v. Vampire Lord", mechanic: "Cards" }
+{ id: "sunset-over-water", name: "Sunset Over Water", mechanic: "Cards" }
+{ id: "unlock-secret-adventures-a-noside-story", name: "Unlock!: Secret Adventures – A Noside Story", mechanic: "Cards" }
+{ id: "hera-and-zeus", name: "Hera and Zeus", mechanic: "Cards" }
+{ id: "ohne-furcht-und-adel", name: "Ohne Furcht und Adel", mechanic: "Cards" }
+{ id: "machi-koro-bright-lights-big-city", name: "Machi Koro: Bright Lights, Big City", mechanic: "Cards" }
+{ id: "sobek", name: "Sobek", mechanic: "Cards" }
+{ id: "the-grizzled-armistice-edition", name: "The Grizzled: Armistice Edition", mechanic: "Cards" }
+{ id: "caesar-cleopatra", name: "Caesar &amp; Cleopatra", mechanic: "Cards" }
+{ id: "the-lord-of-the-rings-trading-card-game", name: "The Lord of the Rings Trading Card Game", mechanic: "Cards" }
+{ id: "marvel-villainous-infinite-power", name: "Marvel Villainous: Infinite Power", mechanic: "Cards" }
+{ id: "verrater", name: "Verräter", mechanic: "Cards" }
+{ id: "r-eco", name: "R-Eco", mechanic: "Cards" }
+{ id: "bandido", name: "Bandido", mechanic: "Cards" }
+{ id: "skat-1810", name: "Skat", mechanic: "Cards" }
+{ id: "royal-visit", name: "Royal Visit", mechanic: "Cards" }
+{ id: "unlock-escape-adventures-the-island-of-doctor-goorse", name: "Unlock!: Escape Adventures – The Island of Doctor Goorse", mechanic: "Cards" }
+{ id: "guildhall-job-faire", name: "Guildhall: Job Faire", mechanic: "Cards" }
+{ id: "pathfinder-adventure-card-game-core-set", name: "Pathfinder Adventure Card Game: Core Set", mechanic: "Cards" }
+{ id: "boss-monster-the-dungeon-building-card-game", name: "Boss Monster: The Dungeon Building Card Game", mechanic: "Cards" }
+{ id: "epic-card-game", name: "Epic Card Game", mechanic: "Cards" }
+{ id: "isle-of-trains", name: "Isle of Trains", mechanic: "Cards" }
+{ id: "tybor-the-builder", name: "Tybor the Builder", mechanic: "Cards" }
+{ id: "enchanters", name: "Enchanters", mechanic: "Cards" }
+{ id: "muse", name: "Muse", mechanic: "Cards" }
+{ id: "perry-rhodan-the-cosmic-league", name: "Perry Rhodan: The Cosmic League", mechanic: "Cards" }
+{ id: "boomtown", name: "Boomtown", mechanic: "Cards" }
+{ id: "godzilla-tokyo-clash", name: "Godzilla: Tokyo Clash", mechanic: "Cards" }
+{ id: "gang-of-four", name: "Gang of Four", mechanic: "Cards" }
+{ id: "one-night-ultimate-vampire", name: "One Night Ultimate Vampire", mechanic: "Cards" }
+{ id: "power-grid-the-card-game", name: "Power Grid: The Card Game", mechanic: "Cards" }
+{ id: "dungeon-mayhem-monster-madness", name: "Dungeon Mayhem: Monster Madness", mechanic: "Cards" }
+{ id: "space-explorers", name: "Space Explorers", mechanic: "Cards" }
+{ id: "modern-art-card-game", name: "Modern Art Card Game", mechanic: "Cards" }
+{ id: "lawyer-up", name: "Lawyer Up", mechanic: "Cards" }
+{ id: "sleeping-queens", name: "Sleeping Queens", mechanic: "Cards" }
+{ id: "ghost-blitz-2", name: "Ghost Blitz 2", mechanic: "Cards" }
+{ id: "funny-friends", name: "Funny Friends", mechanic: "Cards" }
+{ id: "volfyirion", name: "Volfyirion", mechanic: "Cards" }
+{ id: "greed-2014", name: "Greed", mechanic: "Cards" }
+{ id: "shamans", name: "Shamans", mechanic: "Cards" }
+{ id: "crypt-2018", name: "Crypt", mechanic: "Cards" }
+{ id: "evolution-the-beginning", name: "Evolution: The Beginning", mechanic: "Cards" }
+{ id: "the-game-extreme", name: "The Game: Extreme", mechanic: "Cards" }
+{ id: "dont-mess-with-cthulhu", name: "Don't Mess with Cthulhu", mechanic: "Cards" }
+{ id: "deckscape-heist-in-venice", name: "Deckscape: Heist in Venice", mechanic: "Cards" }
+{ id: "doppelkopf", name: "Doppelkopf", mechanic: "Cards" }
+{ id: "dragons-gold", name: "Dragon's Gold", mechanic: "Cards" }
+{ id: "legendary-encounters-the-x-files-deck-building-game", name: "Legendary Encounters: The X-Files Deck Building Game", mechanic: "Cards" }
+{ id: "puzzle-strike", name: "Puzzle Strike", mechanic: "Cards" }
+{ id: "famiglia", name: "Famiglia", mechanic: "Cards" }
+{ id: "monopoly-deal-card-game", name: "Monopoly Deal Card Game", mechanic: "Cards" }
+{ id: "chronicles-of-drunagor-age-of-darkness", name: "Chronicles of Drunagor: Age of Darkness", mechanic: "Cards" }
+{ id: "sierra-west", name: "Sierra West", mechanic: "Cards" }
+{ id: "cheating-moth", name: "Cheating Moth", mechanic: "Cards" }
+{ id: "puzzle-strike-shadows", name: "Puzzle Strike Shadows", mechanic: "Cards" }
+{ id: "cabo-second-edition", name: "CABO (Second Edition)", mechanic: "Cards" }
+{ id: "xenon-profiteer", name: "Xenon Profiteer", mechanic: "Cards" }
+{ id: "unmatched-buffy-the-vampire-slayer", name: "Unmatched: Buffy the Vampire Slayer", mechanic: "Cards" }
+{ id: "pixel-tactics-2", name: "Pixel Tactics 2", mechanic: "Cards" }
+{ id: "sentinels-of-the-multiverse-definitive-edition", name: "Sentinels of the Multiverse: Definitive Edition", mechanic: "Cards" }
+{ id: "mundus-novus", name: "Mundus Novus", mechanic: "Cards" }
+{ id: "the-city", name: "The City", mechanic: "Cards" }
+{ id: "daytona-500", name: "Daytona 500", mechanic: "Cards" }
+{ id: "pandemic-contagion", name: "Pandemic: Contagion", mechanic: "Cards" }
+{ id: "divinare", name: "Divinare", mechanic: "Cards" }
+{ id: "funemployed", name: "Funemployed", mechanic: "Cards" }
+{ id: "cosmic-encounter-1991", name: "Cosmic Encounter", mechanic: "Cards" }
+{ id: "valhalla", name: "Valhalla", mechanic: "Cards" }
+{ id: "oh-hell", name: "Oh Hell!", mechanic: "Cards" }
+{ id: "smash-up-big-in-japan", name: "Smash Up: Big in Japan", mechanic: "Cards" }
+{ id: "first-contact", name: "First Contact", mechanic: "Cards" }
+{ id: "skytear", name: "Skytear", mechanic: "Cards" }
+{ id: "world-of-warcraft-trading-card-game", name: "World of Warcraft Trading Card Game", mechanic: "Cards" }
+{ id: "gosu", name: "GOSU", mechanic: "Cards" }
+{ id: "smash-up-what-were-we-thinking", name: "Smash Up: What Were We Thinking?", mechanic: "Cards" }
+{ id: "kariba", name: "Kariba", mechanic: "Cards" }
+{ id: "the-game-face-to-face", name: "The Game: Face to Face", mechanic: "Cards" }
+{ id: "lost-legacy-flying-garden", name: "Lost Legacy: Flying Garden", mechanic: "Cards" }
+{ id: "ascension-dreamscape", name: "Ascension: Dreamscape", mechanic: "Cards" }
+{ id: "ascension-apprentice-edition", name: "Ascension: Apprentice Edition", mechanic: "Cards" }
+{ id: "dungeon-command-heart-of-cormyr", name: "Dungeon Command: Heart of Cormyr", mechanic: "Cards" }
+{ id: "seize-the-bean", name: "Seize the Bean", mechanic: "Cards" }
+{ id: "portal-of-heroes", name: "Portal of Heroes", mechanic: "Cards" }
+{ id: "greenland", name: "Greenland", mechanic: "Cards" }
+{ id: "one-night-ultimate-alien", name: "One Night Ultimate Alien", mechanic: "Cards" }
+{ id: "keltis-das-kartenspiel", name: "Keltis: Das Kartenspiel", mechanic: "Cards" }
+{ id: "the-lord-of-the-rings-the-fellowship-of-the-ring-deck-building-game", name: "The Lord of the Rings: The Fellowship of the Ring Deck-Building Game", mechanic: "Cards" }
+{ id: "sos-titanic", name: "SOS Titanic", mechanic: "Cards" }
+{ id: "the-red-dragon-inn-5-the-character-trove", name: "The Red Dragon Inn 5: The Character Trove", mechanic: "Cards" }
+{ id: "arkham-noir-case-1-the-witch-cult-murders", name: "Arkham Noir: Case #1 – The Witch Cult Murders", mechanic: "Cards" }
+{ id: "the-castles-of-burgundy", name: "The Castles of Burgundy", mechanic: "Dice" }
+{ id: "too-many-bones", name: "Too Many Bones", mechanic: "Dice" }
+{ id: "grand-austria-hotel", name: "Grand Austria Hotel", mechanic: "Dice" }
+{ id: "the-voyages-of-marco-polo", name: "The Voyages of Marco Polo", mechanic: "Dice" }
+{ id: "troyes", name: "Troyes", mechanic: "Dice" }
+{ id: "champions-of-midgard", name: "Champions of Midgard", mechanic: "Dice" }
+{ id: "roll-for-the-galaxy", name: "Roll for the Galaxy", mechanic: "Dice" }
+{ id: "rajas-of-the-ganges", name: "Rajas of the Ganges", mechanic: "Dice" }
+{ id: "stone-age", name: "Stone Age", mechanic: "Dice" }
+{ id: "marco-polo-ii-in-the-service-of-the-khan", name: "Marco Polo II: In the Service of the Khan", mechanic: "Dice" }
+{ id: "thats-pretty-clever", name: "That's Pretty Clever!", mechanic: "Dice" }
+{ id: "sagrada-2017", name: "Sagrada", mechanic: "Dice" }
+{ id: "the-red-cathedral", name: "The Red Cathedral", mechanic: "Dice" }
+{ id: "too-many-bones-undertow", name: "Too Many Bones: Undertow", mechanic: "Dice" }
+{ id: "space-base-2018", name: "Space Base", mechanic: "Dice" }
+{ id: "coimbra", name: "Coimbra", mechanic: "Dice" }
+{ id: "under-falling-skies", name: "Under Falling Skies", mechanic: "Dice" }
+{ id: "the-taverns-of-tiefenthal", name: "The Taverns of Tiefenthal", mechanic: "Dice" }
+{ id: "roll-player", name: "Roll Player", mechanic: "Dice" }
+{ id: "pulsar-2849", name: "Pulsar 2849", mechanic: "Dice" }
+{ id: "camel-up-second-edition", name: "Camel Up (Second Edition)", mechanic: "Dice" }
+{ id: "bora-bora", name: "Bora Bora", mechanic: "Dice" }
+{ id: "the-manhattan-project-energy-empire", name: "The Manhattan Project: Energy Empire", mechanic: "Dice" }
+{ id: "dice-throne-season-two-battle-chest", name: "Dice Throne: Season Two – Battle Chest", mechanic: "Dice" }
+{ id: "alien-frontiers", name: "Alien Frontiers", mechanic: "Dice" }
+{ id: "tiny-epic-galaxies", name: "Tiny Epic Galaxies", mechanic: "Dice" }
+{ id: "tekhenu-obelisk-of-the-sun", name: "Tekhenu: Obelisk of the Sun", mechanic: "Dice" }
+{ id: "twice-as-clever", name: "Twice as Clever!", mechanic: "Dice" }
+{ id: "king-of-tokyo", name: "King of Tokyo", mechanic: "Dice" }
+{ id: "dice-forge", name: "Dice Forge", mechanic: "Dice" }
+{ id: "spartacus-a-game-of-blood-and-treachery", name: "Spartacus: A Game of Blood and Treachery", mechanic: "Dice" }
+{ id: "cubitos", name: "Cubitos", mechanic: "Dice" }
+{ id: "oathsworn-into-the-deepwood", name: "Oathsworn: Into the Deepwood", mechanic: "Dice" }
+{ id: "king-of-tokyo-dark-edition", name: "King of Tokyo: Dark Edition", mechanic: "Dice" }
+{ id: "kingsburg", name: "Kingsburg", mechanic: "Dice" }
+{ id: "pandemic-the-cure", name: "Pandemic: The Cure", mechanic: "Dice" }
+{ id: "lords-of-vegas", name: "Lords of Vegas", mechanic: "Dice" }
+{ id: "fantastic-factories", name: "Fantastic Factories", mechanic: "Dice" }
+{ id: "railroad-ink-deep-blue-edition", name: "Railroad Ink: Deep Blue Edition", mechanic: "Dice" }
+{ id: "madeira", name: "Madeira", mechanic: "Dice" }
+{ id: "fleet-the-dice-game", name: "Fleet: The Dice Game", mechanic: "Dice" }
+{ id: "camel-up", name: "Camel Up", mechanic: "Dice" }
+{ id: "valeria-card-kingdoms", name: "Valeria: Card Kingdoms", mechanic: "Dice" }
+{ id: "las-vegas-2012", name: "Las Vegas", mechanic: "Dice" }
+{ id: "atlantis-rising-second-edition", name: "Atlantis Rising (Second Edition)", mechanic: "Dice" }
+{ id: "dice-throne-season-one", name: "Dice Throne: Season One", mechanic: "Dice" }
+{ id: "star-wars-destiny", name: "Star Wars: Destiny", mechanic: "Dice" }
+{ id: "quantum-2013", name: "Quantum", mechanic: "Dice" }
+{ id: "elder-sign", name: "Elder Sign", mechanic: "Dice" }
+{ id: "galaxy-trucker", name: "Galaxy Trucker", mechanic: "Dice" }
+{ id: "escape-the-curse-of-the-temple", name: "Escape: The Curse of the Temple", mechanic: "Dice" }
+{ id: "the-magnificent", name: "The Magnificent", mechanic: "Dice" }
+{ id: "trismegistus-the-ultimate-formula", name: "Trismegistus: The Ultimate Formula", mechanic: "Dice" }
+{ id: "steampunk-rally", name: "Steampunk Rally", mechanic: "Dice" }
+{ id: "bang-the-dice-game", name: "BANG! The Dice Game", mechanic: "Dice" }
+{ id: "yspahan", name: "Yspahan", mechanic: "Dice" }
+{ id: "crystal-palace", name: "Crystal Palace", mechanic: "Dice" }
+{ id: "cant-stop", name: "Can't Stop", mechanic: "Dice" }
+{ id: "deep-sea-adventure", name: "Deep Sea Adventure", mechanic: "Dice" }
+{ id: "railroad-ink-blazing-red-edition", name: "Railroad Ink: Blazing Red Edition", mechanic: "Dice" }
+{ id: "fuse", name: "FUSE", mechanic: "Dice" }
+{ id: "dice-hospital", name: "Dice Hospital", mechanic: "Dice" }
+{ id: "king-of-new-york", name: "King of New York", mechanic: "Dice" }
+{ id: "tumblin-dice", name: "Tumblin-Dice", mechanic: "Dice" }
+{ id: "one-deck-dungeon", name: "One Deck Dungeon", mechanic: "Dice" }
+{ id: "circadians-first-light", name: "Circadians: First Light", mechanic: "Dice" }
+{ id: "railroad-ink-challenge-lush-green-edition", name: "Railroad Ink Challenge: Lush Green Edition", mechanic: "Dice" }
+{ id: "marvel-dice-masters-avengers-vs-x-men", name: "Marvel Dice Masters: Avengers vs. X-Men", mechanic: "Dice" }
+{ id: "roll-through-the-ages-the-bronze-age", name: "Roll Through the Ages: The Bronze Age", mechanic: "Dice" }
+{ id: "qwixx", name: "Qwixx", mechanic: "Dice" }
+{ id: "signorie", name: "Signorie", mechanic: "Dice" }
+{ id: "warhammer-underworlds-shadespire", name: "Warhammer Underworlds: Shadespire", mechanic: "Dice" }
+{ id: "istanbul-the-dice-game", name: "Istanbul: The Dice Game", mechanic: "Dice" }
+{ id: "kingsburg-second-edition", name: "Kingsburg (Second Edition)", mechanic: "Dice" }
+{ id: "orchard-a-9-card-solitaire-game", name: "Orchard: A 9 card solitaire game", mechanic: "Dice" }
+{ id: "clever-cubed", name: "Clever Cubed", mechanic: "Dice" }
+{ id: "discoveries-the-journals-of-lewis-clark", name: "Discoveries: The Journals of Lewis &amp; Clark", mechanic: "Dice" }
+{ id: "era-medieval-age", name: "Era: Medieval Age", mechanic: "Dice" }
+{ id: "dice-town", name: "Dice Town", mechanic: "Dice" }
+{ id: "marvel-dice-masters-uncanny-x-men", name: "Marvel Dice Masters: Uncanny X-Men", mechanic: "Dice" }
+{ id: "nations-the-dice-game", name: "Nations: The Dice Game", mechanic: "Dice" }
+{ id: "rajas-of-the-ganges-the-dice-charmers", name: "Rajas of the Ganges: The Dice Charmers", mechanic: "Dice" }
+{ id: "the-reckoners", name: "The Reckoners", mechanic: "Dice" }
+{ id: "set-a-watch", name: "Set a Watch", mechanic: "Dice" }
+{ id: "quarriors", name: "Quarriors!", mechanic: "Dice" }
+{ id: "steam-park", name: "Steam Park", mechanic: "Dice" }
+{ id: "machi-koro", name: "Machi Koro", mechanic: "Dice" }
+{ id: "blueprints", name: "Blueprints", mechanic: "Dice" }
+{ id: "duelosaur-island", name: "Duelosaur Island", mechanic: "Dice" }
+{ id: "tiny-epic-dungeons", name: "Tiny Epic Dungeons", mechanic: "Dice" }
+{ id: "deep-space-d-6", name: "Deep Space D-6", mechanic: "Dice" }
+{ id: "roll-player-adventures", name: "Roll Player Adventures", mechanic: "Dice" }
+{ id: "sushi-roll-2019", name: "Sushi Roll", mechanic: "Dice" }
+{ id: "rise-of-tribes", name: "Rise of Tribes", mechanic: "Dice" }
+{ id: "three-sisters", name: "Three Sisters", mechanic: "Dice" }
+{ id: "hostage-negotiator", name: "Hostage Negotiator", mechanic: "Dice" }
+{ id: "dark-moon", name: "Dark Moon", mechanic: "Dice" }
+{ id: "super-skill-pinball-4-cade", name: "Super-Skill Pinball: 4-Cade", mechanic: "Dice" }
+{ id: "qwinto", name: "Qwinto", mechanic: "Dice" }
+{ id: "the-castles-of-burgundy-the-dice-game", name: "The Castles of Burgundy: The Dice Game", mechanic: "Dice" }
+{ id: "rum-bones-second-tide", name: "Rum &amp; Bones: Second Tide", mechanic: "Dice" }
+{ id: "dice-city", name: "Dice City", mechanic: "Dice" }
+{ id: "pioneer-days", name: "Pioneer Days", mechanic: "Dice" }
+{ id: "las-vegas-royale", name: "Las Vegas Royale", mechanic: "Dice" }
+{ id: "dice-throne", name: "Dice Throne", mechanic: "Dice" }
+{ id: "genotype-a-mendelian-genetics-game", name: "Genotype: A Mendelian Genetics Game", mechanic: "Dice" }
+{ id: "pickomino", name: "Pickomino", mechanic: "Dice" }
+{ id: "escape-the-dark-castle", name: "Escape the Dark Castle", mechanic: "Dice" }
+{ id: "yukon-airways", name: "Yukon Airways", mechanic: "Dice" }
+{ id: "the-artemis-project", name: "The Artemis Project", mechanic: "Dice" }
+{ id: "d-day-dice", name: "D-Day Dice", mechanic: "Dice" }
+{ id: "backgammon", name: "Backgammon", mechanic: "Dice" }
+{ id: "my-village", name: "My Village", mechanic: "Dice" }
+{ id: "masmorra-dungeons-of-arcadia", name: "Masmorra: Dungeons of Arcadia", mechanic: "Dice" }
+{ id: "aerion", name: "Aerion", mechanic: "Dice" }
+{ id: "cv", name: "CV", mechanic: "Dice" }
+{ id: "dice-settlers", name: "Dice Settlers", mechanic: "Dice" }
+{ id: "perseverance-castaway-chronicles-episodes-1-2", name: "Perseverance: Castaway Chronicles – Episodes 1 &amp; 2", mechanic: "Dice" }
+{ id: "thanos-rising-avengers-infinity-war", name: "Thanos Rising: Avengers Infinity War", mechanic: "Dice" }
+{ id: "paper-dungeons-a-dungeon-scrawler-game", name: "Paper Dungeons: A Dungeon Scrawler Game", mechanic: "Dice" }
+{ id: "here-to-slay", name: "Here to Slay", mechanic: "Dice" }
+{ id: "machina-arcana-secondthird-edition", name: "Machina Arcana (Second/Third Edition)", mechanic: "Dice" }
+{ id: "favor-of-the-pharaoh", name: "Favor of the Pharaoh", mechanic: "Dice" }
+{ id: "space-cadets-dice-duel", name: "Space Cadets: Dice Duel", mechanic: "Dice" }
+{ id: "altar-quest", name: "Altar Quest", mechanic: "Dice" }
+{ id: "troyes-dice", name: "Troyes Dice", mechanic: "Dice" }
+{ id: "dc-comics-dice-masters-justice-league", name: "DC Comics Dice Masters: Justice League", mechanic: "Dice" }
+{ id: "dice-throne-season-two-gunslinger-v-samurai", name: "Dice Throne: Season Two – Gunslinger v. Samurai", mechanic: "Dice" }
+{ id: "dungeons-dragons-dice-masters-battle-for-faerun", name: "Dungeons &amp; Dragons Dice Masters: Battle for Faerûn", mechanic: "Dice" }
+{ id: "machi-koro-legacy", name: "Machi Koro Legacy", mechanic: "Dice" }
+{ id: "ra-the-dice-game", name: "Ra: The Dice Game", mechanic: "Dice" }
+{ id: "noctiluca", name: "Noctiluca", mechanic: "Dice" }
+{ id: "railroad-ink-challenge-shining-yellow-edition", name: "Railroad Ink Challenge: Shining Yellow Edition", mechanic: "Dice" }
+{ id: "nautilion", name: "Nautilion", mechanic: "Dice" }
+{ id: "warhammer-diskwars", name: "Warhammer: Diskwars", mechanic: "Dice" }
+{ id: "arena-roma-ii", name: "Arena: Roma II", mechanic: "Dice" }
+{ id: "rise-to-nobility", name: "Rise to Nobility", mechanic: "Dice" }
+{ id: "la-granja-no-siesta", name: "La Granja: No Siesta", mechanic: "Dice" }
+{ id: "marvel-dice-masters-age-of-ultron", name: "Marvel Dice Masters: Age of Ultron", mechanic: "Dice" }
+{ id: "corinth", name: "Corinth", mechanic: "Dice" }
+{ id: "age-of-war", name: "Age of War", mechanic: "Dice" }
+{ id: "steampunk-rally-fusion", name: "Steampunk Rally Fusion", mechanic: "Dice" }
+{ id: "the-dresden-files-cooperative-card-game", name: "The Dresden Files Cooperative Card Game", mechanic: "Dice" }
+{ id: "sorcerer", name: "Sorcerer", mechanic: "Dice" }
+{ id: "flatline", name: "Flatline", mechanic: "Dice" }
+{ id: "risk-europe", name: "Risk: Europe", mechanic: "Dice" }
+{ id: "cube-quest", name: "Cube Quest", mechanic: "Dice" }
+{ id: "rumms-schnipp-die-krone", name: "Rumms: Schnipp die Krone", mechanic: "Dice" }
+{ id: "roll-camera-the-filmmaking-board-game", name: "Roll Camera!: The Filmmaking Board Game", mechanic: "Dice" }
+{ id: "dragonwood", name: "Dragonwood", mechanic: "Dice" }
+{ id: "d-day-dice-second-edition", name: "D-Day Dice (Second Edition)", mechanic: "Dice" }
+{ id: "frostgrave", name: "Frostgrave", mechanic: "Dice" }
+{ id: "uprising-curse-of-the-last-emperor", name: "Uprising: Curse of the Last Emperor", mechanic: "Dice" }
+{ id: "hunt-for-the-ring", name: "Hunt for the Ring", mechanic: "Dice" }
+{ id: "monster-lands", name: "Monster Lands", mechanic: "Dice" }
+{ id: "bottom-of-the-9th", name: "Bottom of the 9th", mechanic: "Dice" }
+{ id: "trek-12-himalaya", name: "Trek 12: Himalaya", mechanic: "Dice" }
+{ id: "tiny-epic-pirates", name: "Tiny Epic Pirates", mechanic: "Dice" }
+{ id: "dice-throne-season-two-cursed-pirate-v-artificer", name: "Dice Throne: Season Two – Cursed Pirate v. Artificer", mechanic: "Dice" }
+{ id: "dice-throne-season-two-tactician-v-huntress", name: "Dice Throne: Season Two – Tactician v. Huntress", mechanic: "Dice" }
+{ id: "cosmic-frog", name: "Cosmic Frog", mechanic: "Dice" }
+{ id: "kingdomino-duel", name: "Kingdomino Duel", mechanic: "Dice" }
+{ id: "dice-miner", name: "Dice Miner", mechanic: "Dice" }
+{ id: "kings-forge", name: "King's Forge", mechanic: "Dice" }
+{ id: "vagrantsong", name: "Vagrantsong", mechanic: "Dice" }
+{ id: "to-court-the-king", name: "To Court the King", mechanic: "Dice" }
+{ id: "kingsport-festival", name: "Kingsport Festival", mechanic: "Dice" }
+{ id: "dice-throne-season-two-seraph-v-vampire-lord", name: "Dice Throne: Season Two – Seraph v. Vampire Lord", mechanic: "Dice" }
+{ id: "kero", name: "Kero", mechanic: "Dice" }
+{ id: "fate-of-the-elder-gods", name: "Fate of the Elder Gods", mechanic: "Dice" }
+{ id: "ancient-terrible-things", name: "Ancient Terrible Things", mechanic: "Dice" }
+{ id: "machi-koro-bright-lights-big-city", name: "Machi Koro: Bright Lights, Big City", mechanic: "Dice" }
+{ id: "townsfolk-tussle", name: "Townsfolk Tussle", mechanic: "Dice" }
+{ id: "burncycle", name: "burncycle", mechanic: "Dice" }
+{ id: "wurfel-bohnanza", name: "Würfel Bohnanza", mechanic: "Dice" }
+{ id: "waggle-dance", name: "Waggle Dance", mechanic: "Dice" }
+{ id: "monza", name: "Monza", mechanic: "Dice" }
+{ id: "big-trouble-in-little-china-the-game", name: "Big Trouble in Little China: The Game", mechanic: "Dice" }
+{ id: "crypt-2018", name: "Crypt", mechanic: "Dice" }
+{ id: "harvest-dice", name: "Harvest Dice", mechanic: "Dice" }
+{ id: "zombie-dice", name: "Zombie Dice", mechanic: "Dice" }
+{ id: "monasterium", name: "Monasterium", mechanic: "Dice" }
+{ id: "freshwater-fly", name: "Freshwater Fly", mechanic: "Dice" }
+{ id: "chronicles-of-drunagor-age-of-darkness", name: "Chronicles of Drunagor: Age of Darkness", mechanic: "Dice" }
+{ id: "vivajava-the-coffee-game-the-dice-game", name: "VivaJava: The Coffee Game: The Dice Game", mechanic: "Dice" }
+{ id: "origins-first-builders", name: "Origins: First Builders", mechanic: "Dice" }
+{ id: "funkoverse-strategy-game", name: "Funkoverse Strategy Game", mechanic: "Dice" }
+{ id: "mountain-goats", name: "Mountain Goats", mechanic: "Dice" }
+{ id: "valhalla", name: "Valhalla", mechanic: "Dice" }
+{ id: "robin-hood-and-the-merry-men", name: "Robin Hood and the Merry Men", mechanic: "Dice" }
+{ id: "dizzle", name: "Dizzle", mechanic: "Dice" }
+{ id: "arena-the-contest", name: "Arena: The Contest", mechanic: "Dice" }
+{ id: "viva-topo", name: "Viva Topo!", mechanic: "Dice" }
+{ id: "escape-the-dark-sector", name: "Escape the Dark Sector", mechanic: "Dice" }
+{ id: "roll-for-it-deluxe-edition", name: "Roll For It! Deluxe Edition", mechanic: "Dice" }
+{ id: "saint-malo", name: "Saint Malo", mechanic: "Dice" }
+{ id: "sushizock-im-gockelwok", name: "Sushizock im Gockelwok", mechanic: "Dice" }
+{ id: "trash-pandas", name: "Trash Pandas", mechanic: "Dice" }
+{ id: "defenders-of-the-last-stand", name: "Defenders of the Last Stand", mechanic: "Dice" }
+{ id: "boggle", name: "Boggle", mechanic: "Dice" }
+{ id: "fuji", name: "Fuji", mechanic: "Dice" }
+{ id: "king-of-the-dice", name: "King of the Dice", mechanic: "Dice" }
+{ id: "hostage-negotiator-crime-wave", name: "Hostage Negotiator: Crime Wave", mechanic: "Dice" }
+{ id: "airships", name: "Airships", mechanic: "Dice" }
+{ id: "spires-end", name: "Spire's End", mechanic: "Dice" }
+{ id: "escape-zombie-city", name: "Escape: Zombie City", mechanic: "Dice" }
+{ id: "star-wars-destiny-two-player-game", name: "Star Wars: Destiny – Two-Player Game", mechanic: "Dice" }
+{ id: "dojo-kun", name: "Dojo Kun", mechanic: "Dice" }
+{ id: "heroclix", name: "HeroClix", mechanic: "Dice" }
+{ id: "qwixx-deluxe", name: "Qwixx Deluxe", mechanic: "Dice" }
+{ id: "steamrollers", name: "SteamRollers", mechanic: "Dice" }
+{ id: "rumble-nation", name: "Rumble Nation", mechanic: "Dice" }
+{ id: "roll-to-the-top", name: "Roll to the Top!", mechanic: "Dice" }
+{ id: "city-of-remnants", name: "City of Remnants", mechanic: "Dice" }
+{ id: "cavern-tavern", name: "Cavern Tavern", mechanic: "Dice" }
+{ id: "welcome-to-dino-world", name: "Welcome to Dino World", mechanic: "Dice" }
+{ id: "divvy-dice", name: "Divvy Dice", mechanic: "Dice" }
+{ id: "1st-goal", name: "1st &amp; Goal", mechanic: "Dice" }
+{ id: "shadow-kingdoms-of-valeria", name: "Shadow Kingdoms of Valeria", mechanic: "Dice" }
+{ id: "rorys-story-cubes", name: "Rory's Story Cubes", mechanic: "Dice" }
+{ id: "streetsoccer", name: "StreetSoccer", mechanic: "Dice" }
+{ id: "cupcake-empire", name: "Cupcake Empire", mechanic: "Dice" }
+{ id: "rangers-of-shadow-deep", name: "Rangers of Shadow Deep", mechanic: "Dice" }
+{ id: "garden-dice", name: "Garden Dice", mechanic: "Dice" }
+{ id: "marvel-dice-masters-the-amazing-spider-man", name: "Marvel Dice Masters: The Amazing Spider-Man", mechanic: "Dice" }
+{ id: "dice-stars", name: "Dice Stars", mechanic: "Dice" }
+{ id: "dancing-eggs", name: "Dancing Eggs", mechanic: "Dice" }
+{ id: "bristol-1350", name: "Bristol 1350", mechanic: "Dice" }
+{ id: "d100-dungeon", name: "D100 Dungeon", mechanic: "Dice" }
+{ id: "tales-games-the-three-little-pigs", name: "Tales &amp; Games: The Three Little Pigs", mechanic: "Dice" }
+{ id: "dice-throne-season-one-rerolled-treant-v-ninja", name: "Dice Throne: Season One ReRolled – Treant v. Ninja", mechanic: "Dice" }
+{ id: "dice-throne-season-one-rerolled-barbarian-v-moon-elf", name: "Dice Throne: Season One ReRolled – Barbarian v. Moon Elf", mechanic: "Dice" }
+{ id: "hotshots", name: "Hotshots", mechanic: "Dice" }
+{ id: "machi-koro-2", name: "Machi Koro 2", mechanic: "Dice" }
+{ id: "rum-pirates", name: "Rum &amp; Pirates", mechanic: "Dice" }
+{ id: "roll-through-the-ages-the-iron-age", name: "Roll Through the Ages: The Iron Age", mechanic: "Dice" }
+{ id: "the-enchanted-tower", name: "The Enchanted Tower", mechanic: "Dice" }
+{ id: "thiefs-market", name: "Thief's Market", mechanic: "Dice" }
+{ id: "rustling-leaves", name: "Rustling Leaves", mechanic: "Dice" }
+{ id: "star-trek-five-year-mission", name: "Star Trek: Five-Year Mission", mechanic: "Dice" }
+{ id: "dungeon-roll", name: "Dungeon Roll", mechanic: "Dice" }
+{ id: "doctor-who-time-of-the-daleks", name: "Doctor Who: Time of the Daleks", mechanic: "Dice" }
+{ id: "dice-realms", name: "Dice Realms", mechanic: "Dice" }
+{ id: "roll-for-adventure", name: "Roll for Adventure", mechanic: "Dice" }
+{ id: "zooloretto-the-dice-game", name: "Zooloretto: The Dice Game", mechanic: "Dice" }
+{ id: "valor-villainy-minions-of-mordak", name: "Valor &amp; Villainy: Minions of Mordak", mechanic: "Dice" }
+{ id: "excape", name: "Excape", mechanic: "Dice" }
+{ id: "herbaceous-sprouts", name: "Herbaceous Sprouts", mechanic: "Dice" }
+{ id: "qwirkle-cubes", name: "Qwirkle Cubes", mechanic: "Dice" }
+{ id: "deadwood-1876", name: "Deadwood 1876", mechanic: "Dice" }
+{ id: "glory-a-game-of-knights", name: "Glory: A Game of Knights", mechanic: "Dice" }
+{ id: "rome-roll", name: "Rome &amp; Roll", mechanic: "Dice" }
+{ id: "dice-throne-season-one-rerolled-pyromancer-v-shadow-thief", name: "Dice Throne: Season One ReRolled – Pyromancer v. Shadow Thief", mechanic: "Dice" }
+{ id: "aquadukt", name: "Aquädukt", mechanic: "Dice" }
+{ id: "hoplomachus-rise-of-rome", name: "Hoplomachus: Rise of Rome", mechanic: "Dice" }
+{ id: "riverside", name: "Riverside", mechanic: "Dice" }
+{ id: "imperial-settlers-roll-write", name: "Imperial Settlers: Roll &amp; Write", mechanic: "Dice" }
+{ id: "harry-potter-death-eaters-rising", name: "Harry Potter: Death Eaters Rising", mechanic: "Dice" }
+{ id: "livingstone", name: "Livingstone", mechanic: "Dice" }
+{ id: "monster-expedition", name: "Monster Expedition", mechanic: "Dice" }
+{ id: "monsters-on-board", name: "Monsters on Board", mechanic: "Dice" }
+{ id: "lanterns-dice-lights-in-the-sky", name: "Lanterns Dice: Lights in the Sky", mechanic: "Dice" }
+{ id: "martian-dice", name: "Martian Dice", mechanic: "Dice" }
+{ id: "dragoon", name: "Dragoon", mechanic: "Dice" }
+{ id: "poseidons-kingdom", name: "Poseidon's Kingdom", mechanic: "Dice" }
+{ id: "rolling-america", name: "Rolling America", mechanic: "Dice" }
+{ id: "fallen", name: "Fallen", mechanic: "Dice" }
+{ id: "impact-battle-of-elements", name: "Impact: Battle of Elements", mechanic: "Dice" }
+{ id: "welcome-to-centerville", name: "Welcome to Centerville", mechanic: "Dice" }
+{ id: "solarius-mission", name: "Solarius Mission", mechanic: "Dice" }
+{ id: "axis-allies-war-at-sea", name: "Axis &amp; Allies: War at Sea", mechanic: "Dice" }
+{ id: "tiny-epic-galaxies-blast-off", name: "Tiny Epic Galaxies BLAST OFF!", mechanic: "Dice" }
+{ id: "wicked-witches-way", name: "Wicked Witches Way", mechanic: "Dice" }
+{ id: "hexplore-it-the-forests-of-adrimon", name: "HEXplore It: The Forests of Adrimon", mechanic: "Dice" }
+{ id: "castle-dice", name: "Castle Dice", mechanic: "Dice" }
+{ id: "vengeance", name: "Vengeance", mechanic: "Dice" }
+{ id: "shadows-of-kilforth-a-fantasy-quest-game", name: "Shadows of Kilforth: A Fantasy Quest Game", mechanic: "Dice" }
+{ id: "call-to-adventure-the-stormlight-archive", name: "Call to Adventure: The Stormlight Archive", mechanic: "Dice" }
+{ id: "rolling-ranch", name: "Rolling Ranch", mechanic: "Dice" }
+{ id: "windward", name: "Windward", mechanic: "Dice" }
+{ id: "dice-throne-season-one-rerolled-monk-v-paladin", name: "Dice Throne: Season One ReRolled – Monk v. Paladin", mechanic: "Dice" }
+{ id: "rolling-freight", name: "Rolling Freight", mechanic: "Dice" }
+{ id: "back-to-the-future-dice-through-time", name: "Back to the Future: Dice Through Time", mechanic: "Dice" }
+{ id: "utopia-engine", name: "Utopia Engine", mechanic: "Dice" }
+{ id: "sharp-shooters", name: "Sharp Shooters", mechanic: "Dice" }
+{ id: "piraten-kapern", name: "Piraten kapern", mechanic: "Dice" }
+{ id: "proving-grounds", name: "Proving Grounds", mechanic: "Dice" }
+{ id: "marvel-dice-masters-civil-war", name: "Marvel Dice Masters: Civil War", mechanic: "Dice" }
+{ id: "octodice", name: "OctoDice", mechanic: "Dice" }
+{ id: "the-cousins-war", name: "The Cousins' War", mechanic: "Dice" }
+{ id: "roll-for-it", name: "Roll For It!", mechanic: "Dice" }
+{ id: "rattlebones", name: "Rattlebones", mechanic: "Dice" }
+{ id: "order-of-the-gilded-compass", name: "Order of the Gilded Compass", mechanic: "Dice" }
+{ id: "dc-comics-dice-masters-war-of-light", name: "DC Comics Dice Masters: War of Light", mechanic: "Dice" }
+{ id: "posthuman", name: "Posthuman", mechanic: "Dice" }
+{ id: "dungeons-dragons-dice-masters-faerun-under-siege", name: "Dungeons &amp; Dragons Dice Masters: Faerûn Under Siege", mechanic: "Dice" }
+{ id: "lost-cities-roll-write", name: "Lost Cities: Roll &amp; Write", mechanic: "Dice" }
+{ id: "rorys-story-cubes-voyages", name: "Rory's Story Cubes: Voyages", mechanic: "Dice" }
+{ id: "luchador-mexican-wrestling-dice", name: "Luchador! Mexican Wrestling Dice", mechanic: "Dice" }
+{ id: "junta-viva-el-presidente", name: "Junta: Viva el Presidente!", mechanic: "Dice" }
+{ id: "city-of-gears", name: "City of Gears", mechanic: "Dice" }
+{ id: "intrepid", name: "Intrepid", mechanic: "Dice" }
+{ id: "dc-comics-dice-masters-worlds-finest", name: "DC Comics Dice Masters: World's Finest", mechanic: "Dice" }
+{ id: "evolution-the-origin-of-species", name: "Evolution: The Origin of Species", mechanic: "Dice" }
+{ id: "cubist", name: "Cubist", mechanic: "Dice" }
+{ id: "batman-the-animated-series-gotham-city-under-siege", name: "Batman: The Animated Series – Gotham City Under Siege", mechanic: "Dice" }
+{ id: "goblins-inc", name: "Goblins, Inc.", mechanic: "Dice" }
+{ id: "dragonrealm", name: "Dragonrealm", mechanic: "Dice" }
+{ id: "batman-the-animated-series-adventures-shadow-of-the-bat", name: "Batman: The Animated Series Adventures – Shadow of the Bat", mechanic: "Dice" }
+{ id: "dungeoneer-tomb-of-the-lich-lord", name: "Dungeoneer: Tomb of the Lich Lord", mechanic: "Dice" }
+{ id: "arena-for-the-gods", name: "Arena: For the Gods!", mechanic: "Dice" }
+{ id: "reiner-knizias-decathlon", name: "Reiner Knizia's Decathlon", mechanic: "Dice" }
+{ id: "igel-argern", name: "Igel Ärgern", mechanic: "Dice" }
+{ id: "sequoia", name: "Sequoia", mechanic: "Dice" }
+{ id: "paris-new-eden", name: "Paris: New Eden", mechanic: "Dice" }
+{ id: "rorys-story-cubes-actions", name: "Rory's Story Cubes: Actions", mechanic: "Dice" }
+{ id: "snowblind-race-for-the-pole", name: "Snowblind: Race for the Pole", mechanic: "Dice" }
+{ id: "jagged-alliance-the-board-game", name: "Jagged Alliance: The Board Game", mechanic: "Dice" }
+{ id: "calavera", name: "Calavera", mechanic: "Dice" }
+{ id: "floor-plan", name: "Floor Plan", mechanic: "Dice" }
+{ id: "dungeoneer-vault-of-the-fiends", name: "Dungeoneer: Vault of the Fiends", mechanic: "Dice" }
+{ id: "a-column-of-fire", name: "A Column of Fire", mechanic: "Dice" }
+{ id: "brikks", name: "Brikks", mechanic: "Dice" }
+{ id: "pocket-landship", name: "Pocket Landship", mechanic: "Dice" }
+{ id: "desolate", name: "Desolate", mechanic: "Dice" }
+{ id: "dead-mans-doubloons", name: "Dead Man's Doubloons", mechanic: "Dice" }
+{ id: "the-goonies-never-say-die", name: "The Goonies: Never Say Die", mechanic: "Dice" }
+{ id: "doom-machine", name: "Doom Machine", mechanic: "Dice" }
+{ id: "grog-island", name: "Grog Island", mechanic: "Dice" }
+{ id: "homebrewers", name: "Homebrewers", mechanic: "Dice" }
+{ id: "cosmic-run", name: "Cosmic Run", mechanic: "Dice" }
+{ id: "biblios-dice", name: "Biblios Dice", mechanic: "Dice" }
+{ id: "tumble-town", name: "Tumble Town", mechanic: "Dice" }
+{ id: "machina-arcana", name: "Machina Arcana", mechanic: "Dice" }
+{ id: "quarriors-light-vs-dark", name: "Quarriors! Light vs. Dark", mechanic: "Dice" }
+{ id: "mosaix", name: "Mosaix", mechanic: "Dice" }
+{ id: "tungaru", name: "Tungaru", mechanic: "Dice" }
+{ id: "orchard", name: "Orchard", mechanic: "Dice" }
+{ id: "nokosu-dice", name: "Nokosu Dice", mechanic: "Dice" }
+{ id: "fast-furious-highway-heist", name: "Fast &amp; Furious: Highway Heist", mechanic: "Dice" }
+{ id: "vienna", name: "Vienna", mechanic: "Dice" }
+{ id: "shelfie-stacker", name: "Shelfie Stacker", mechanic: "Dice" }
+{ id: "tiny-ninjas", name: "Tiny Ninjas", mechanic: "Dice" }
+{ id: "the-towers-of-arkhanos", name: "The Towers of Arkhanos", mechanic: "Dice" }
+{ id: "cosmic-run-regeneration", name: "Cosmic Run: Regeneration", mechanic: "Dice" }
+{ id: "risk-express", name: "Risk Express", mechanic: "Dice" }
+{ id: "star-wars-dark-side-rising", name: "Star Wars: Dark Side Rising", mechanic: "Dice" }
+{ id: "tatsu", name: "Tatsu", mechanic: "Dice" }
+{ id: "dungeon-academy", name: "Dungeon Academy", mechanic: "Dice" }
+{ id: "incursion", name: "Incursion", mechanic: "Dice" }
+{ id: "farlight", name: "Farlight", mechanic: "Dice" }
+{ id: "paydirt", name: "Paydirt", mechanic: "Dice" }
+{ id: "pizza-box-football", name: "Pizza Box Football", mechanic: "Dice" }
+{ id: "jamsumo", name: "JamSumo", mechanic: "Dice" }
+{ id: "so-youve-been-eaten", name: "So, You've Been Eaten", mechanic: "Dice" }
+{ id: "untold-adventures-await", name: "Untold: Adventures Await", mechanic: "Dice" }
+{ id: "wurfel-bingo", name: "Würfel Bingo", mechanic: "Dice" }
+{ id: "fuji-koro", name: "Fuji Koro", mechanic: "Dice" }
+{ id: "alhambra-the-dice-game", name: "Alhambra: The Dice Game", mechanic: "Dice" }
+{ id: "dragonland", name: "Dragonland", mechanic: "Dice" }
+{ id: "mu-more", name: "Mü & More", mechanic: "Cards" }
+{ id: "decktet", name: "Decktet", mechanic: "Cards" }
+{ id: "traditional-card-games", name: "Traditional Card Games", mechanic: "Cards" }
+{ id: "hanafuda", name: "Hanafuda", mechanic: "Cards" }
+{ id: "tarot", name: "Tarot", mechanic: "Cards" }
+{ id: "21-giochi-minuti", name: "21 Giochi Minuti"}
+{ id: "piecepack", name: "Piecepack"}
+{ id: "neue-spiele-im-alten-rom", name: "Neue Spiele im alten Rom"}
+{ id: "tara-irelands-royal-board-game", name: "Tara: Ireland's Royal Board Game"}
+{ id: "green-box-of-games", name: "Green Box of Games"}
+{ id: "shibumi", name: "Shibumi"}
+{ id: "the-everdeck", name: "The Everdeck"}
+{ id: "the-badger-deck", name: "The Badger Deck"}
+{ id: "pacru", name: "Pacru"}
+{ id: "quintillions", name: "Quintillions"}
+{ id: "alpha-playing-cards", name: "Alpha Playing Cards"}
+{ id: "letter-head", name: "Letter Head"}
+{ id: "esagek", name: "Esagek"}
+{ id: "siegestones", name: "SiegeStones"}
+{ id: "sly", name: "Sly"}
+{ id: "book-of-dragons", name: "Book of Dragons"}
+{ id: "nomids", name: "Nomids"}
+{ id: "lexicon", name: "Lexicon"}
+{ id: "tokyo-coin-laundry", name: "TOKYO COIN LAUNDRY"}
+{ id: "dominoes", name: "Dominoes"}
+{ id: "leaving-earth", name: "Leaving Earth"}
+{ id: "the-shipwreck-arcana", name: "The Shipwreck Arcana"}
+{ id: "qwixx", name: "Qwixx"}
+{ id: "sentient", name: "Sentient"}
+{ id: "skyjo", name: "Skyjo"}
+{ id: "break-the-code", name: "Break the Code"}
+{ id: "import-export", name: "Import / Export"}
+{ id: "bazaar", name: "Bazaar"}
+{ id: "urbion", name: "Urbion"}
+{ id: "subatomic-an-atom-building-game", name: "Subatomic: An Atom Building Game"}
+{ id: "utopia-engine", name: "Utopia Engine"}
+{ id: "fast-forward-fortress", name: "Fast Forward: FORTRESS"}
+{ id: "origami", name: "Origami"}
+{ id: "lovelace-babbage", name: "Lovelace &amp; Babbage"}
+{ id: "coyote-2020", name: "Coyote"}
+{ id: "fast-forward-fear", name: "Fast Forward: FEAR"}
+{ id: "take-it-to-the-limit", name: "Take It to the Limit!"}
+{ id: "import-export-definitive-edition", name: "Import / Export: Definitive Edition"}
+{ id: "la-morada-maldita", name: "La Morada Maldita"}
+{ id: "zeus-on-the-loose", name: "Zeus on the Loose"}
+{ id: "snow-white-and-the-seven-dwarfs-a-gemstone-mining-game", name: "Snow White and the Seven Dwarfs: A Gemstone Mining Game"}
+{ id: "streams", name: "Streams"}
+{ id: "secret-code-134", name: "Secret Code 13+4"}
+{ id: "math-fluxx", name: "Math Fluxx"}
+{ id: "kameloot", name: "Kameloot"}
+{ id: "moon", name: "MOON"}
+{ id: "7-ate-9", name: "7 Ate 9"}
+{ id: "fast-forward-fortune", name: "Fast Forward: FORTUNE"}
+{ id: "talo", name: "Talo"}
+{ id: "robot-master", name: "Robot Master"}
+{ id: "unreal-estate", name: "Unreal Estate"}
+{ id: "master-of-economy", name: "Master of Economy"}
+{ id: "no-return", name: "No Return"}
+{ id: "executive-decision", name: "Executive Decision"}
+{ id: "city-of-zombies", name: "City of Zombies"}
+{ id: "just4fun", name: "Just4Fun"}
+{ id: "romisch-pokern", name: "Römisch Pokern"}
+{ id: "qwixx-longo", name: "Qwixx Longo"}
+{ id: "numbers-league-adventures-in-addiplication", name: "Numbers League: Adventures in Addiplication"}
+{ id: "turin-market", name: "Turin Market"}
+{ id: "utopia-engine-beast-hunter", name: "Utopia Engine: Beast Hunter"}
+{ id: "piece-of-pie", name: "Piece of Pie"}
+{ id: "pharaoh-code", name: "Pharaoh Code"}
+{ id: "dino-twist", name: "Dino Twist"}
+{ id: "hiroba", name: "Hiroba"}
+{ id: "jiguan-the-eastern-mechanist", name: "Jigūan: The Eastern Mechanist"}
+{ id: "number-drop", name: "Number Drop"}
+{ id: "stir-fry-eighteen", name: "Stir Fry Eighteen"}
+{ id: "got-it", name: "Got It!"}
+{ id: "outnumbered-improbable-heroes", name: "Outnumbered: Improbable Heroes"}
+{ id: "mia", name: "¡MÍA!"}
+{ id: "crabs", name: "Crabs!"}
+{ id: "vivaldi", name: "Vivaldi"}
+{ id: "douro-1872", name: "Douro 1872"}
+{ id: "control-v", name: "Control V"}
+{ id: "double-shutter", name: "Double Shutter"}
+{ id: "business-strategy", name: "Business Strategy"}
+{ id: "build-a-cure", name: "Build A Cure"}
+{ id: "doce", name: "DOCE"}
+{ id: "spicy-farkel", name: "Spicy Farkel"}
+{ id: "des-chiffres-et-des-lettres", name: "Des chiffres et des lettres"}
+{ id: "krypto", name: "Krypto"}
+{ id: "sumoku", name: "Sumoku"}
+{ id: "hercules", name: "Hercules"}
+{ id: "pinata-party", name: "Piñata Party"}
+{ id: "summy", name: "Summy"}
+{ id: "baseball-strategy", name: "Baseball Strategy"}
+{ id: "raise", name: "Raise"}
+{ id: "kang", name: "Kang"}
+{ id: "party-co-original", name: "Party &amp; Co: Original"}
+{ id: "katoiz", name: "Katoiz"}
+{ id: "wir-spielen-einkaufen", name: "Wir spielen Einkaufen"}
+{ id: "quartile", name: "Quartile"}
+{ id: "careta", name: "Careta"}
+{ id: "berrymandering", name: "Berrymandering"}
+{ id: "24-game", name: "24 Game"}
+{ id: "komodo", name: "Komodo"}
+{ id: "arquimedes", name: "Arquimedes"}
+{ id: "pit-formula", name: "Pit Formula"}
+{ id: "miss-lupunund-das-geheimnis-der-zahlen", name: "Miss Lupun…und das Geheimnis der Zahlen"}
+{ id: "galactic-sabacc", name: "Galactic Sabacc"}
+{ id: "aves", name: "AVES"}
+{ id: "ricochet", name: "Ricochet"}
+{ id: "the-cookie", name: "The Cookie"}
+{ id: "dueling-nobles", name: "Dueling Nobles"}
+{ id: "triolet", name: "Triolet"}
+{ id: "campus", name: "Campus"}
+{ id: "even-stevens-odd", name: "Even Steven's Odd"}
+{ id: "search-for-gnomes", name: "Search for Gnomes"}
+{ id: "ore-city", name: "Ore City"}
+{ id: "mobi", name: "Möbi"}
+{ id: "equations", name: "Equations"}
+{ id: "kamozza", name: "Kamozza (貨モッツァ)"}
+{ id: "catz-ratz-and-batz", name: "Catz, Ratz and Batz"}
+{ id: "numeracy-legends-and-the-rainbow-unicorn", name: "Numeracy Legends and The Rainbow Unicorn"}
+{ id: "hide-and-eeek", name: "Hide and Eeek!"}
+{ id: "escola-de-dragoes", name: "Escola de Dragões"}
+{ id: "sarkanytojas", name: "Sárkánytojás"}
+{ id: "tribulation", name: "Tribulation"}
+{ id: "game-to-pick-a-game-the-gateway-edition", name: "Game to Pick a Game: The Gateway Edition"}
+{ id: "the-perfect-heist", name: "The Perfect Heist"}
+{ id: "management", name: "Management"}
+{ id: "booleo", name: "bOOLeO"}
+{ id: "kakuzu", name: "Kakuzu"}
+{ id: "numeracy-legends-and-the-zerda-fox", name: "Numeracy Legends and The Zerda Fox"}
+{ id: "jukem-football", name: "Jukem Football"}
+{ id: "las-siete-y-media", name: "Las siete y media"}
+{ id: "bamboozled", name: "Bamboozled"}
+{ id: "sequence-num6ers", name: "Sequence Num6ers"}
+{ id: "clumsy-thief", name: "Clumsy Thief"}
+{ id: "zingo-1-2-3", name: "Zingo! 1-2-3"}
+{ id: "math-dice-jr", name: "Math Dice Jr."}
+{ id: "viewpoint", name: "Viewpoint"}
+{ id: "trifecta", name: "Trifecta"}
+{ id: "equate", name: "Equate"}
+{ id: "snafooey", name: "Snafooey"}
+{ id: "sabacc", name: "Sabacc"}
+{ id: "deuce", name: "Deuce"}
+{ id: "amasser-dragons", name: "Amasser Dragons"}
+{ id: "kakuro-challenge", name: "Kakuro Challenge"}
+{ id: "math-dice", name: "Math Dice"}
+{ id: "mathable", name: "Mathable"}
+{ id: "woof-meow-biscuits", name: "Woof Meow Biscuits"}
+{ id: "heli-hopper", name: "Heli Hopper"}
+{ id: "rocket-game", name: "Rocket Game"}
+{ id: "100", name: "100!"}
+{ id: "foggle", name: "Foggle"}
+{ id: "agent-doppelnull", name: "Agent Doppelnull"}
+{ id: "gute-freunde", name: "Gute Freunde"}
+{ id: "party-co-junior", name: "Party &amp; Co: Junior"}
+{ id: "twisted-farkel", name: "Twisted Farkel"}
+{ id: "wetland", name: "Wetland"}
+{ id: "nmbrs", name: "Nmbrs!"}
+{ id: "maya-madness", name: "Maya Madness"}
+{ id: "sum-swamp", name: "Sum Swamp"}
+{ id: "ergo", name: "Ergo"}
+{ id: "big-brain-academy-cardgame", name: "Big Brain Academy Cardgame"}
+{ id: "money-bags", name: "Money Bags"}
+{ id: "gemblo-pyramid", name: "GemBlo Pyramid"}
+{ id: "carmarace", name: "Carmarace"}
+{ id: "xlr8", name: "XLR8"}
+{ id: "ziff-zoff", name: "Ziff Zoff"}
+{ id: "quarter-horse-racing-game", name: "Quarter Horse Racing Game"}
+{ id: "king-toad", name: "King Toad"}
+{ id: "cashflow-for-kids", name: "Cashflow for Kids"}
+{ id: "the-sudoku-game", name: "The Sudoku Game"}
+{ id: "flaming-pyramids", name: "Flaming Pyramids"}
+{ id: "smath", name: "Smath"}
+{ id: "baccarat", name: "Baccarat"}
+{ id: "the-allowance-game", name: "The Allowance Game"}
+{ id: "big-brain-academy-boardgame", name: "Big Brain Academy Boardgame"}
+{ id: "cranium-zigity", name: "Cranium Zigity"}
+{ id: "koninkrijk", name: "Koninkrijk"}
+{ id: "cashflow-101", name: "Cashflow 101"}
+{ id: "super-deck", name: "Super Deck!"}
+{ id: "go-to-the-head-of-the-class", name: "Go to the Head of the Class"}
+{ id: "dicecapades", name: "DICEcapades"}
+{ id: "are-you-smarter-than-a-5th-grader", name: "Are You Smarter Than a 5th Grader?"}
+{ id: "grand-bazaar", name: "Grand Bazaar"}
+{ id: "shut-the-box", name: "Shut the Box"}
+{ id: "blackjack", name: "Blackjack"}
+{ id: "hanabi", name: "Hanabi"}
+{ id: "whitehall-mystery", name: "Whitehall Mystery"}
+{ id: "witness", name: "Witness"}
+{ id: "the-magic-labyrinth", name: "The Magic Labyrinth"}
+{ id: "chateau-roquefort", name: "Château Roquefort"}
+{ id: "memoarrr", name: "Memoarrr!"}
+{ id: "mamma-mia", name: "Mamma Mia!"}
+{ id: "pyramid-of-pengqueen", name: "Pyramid of Pengqueen"}
+{ id: "chicken-cha-cha-cha", name: "Chicken Cha Cha Cha"}
+{ id: "my-first-stone-age", name: "My First Stone Age"}
+{ id: "sleeping-queens", name: "Sleeping Queens"}
+{ id: "gobblet", name: "Gobblet"}
+{ id: "finished", name: "Finished!"}
+{ id: "raxxon", name: "Raxxon"}
+{ id: "dig-your-way-out", name: "Dig Your Way Out"}
+{ id: "times-up-family", name: "Time's Up! Family"}
+{ id: "spooky-stairs", name: "Spooky Stairs"}
+{ id: "13-clues", name: "13 Clues"}
+{ id: "rat-a-tat-cat", name: "Rat-a-Tat Cat"}
+{ id: "poseidons-kingdom", name: "Poseidon's Kingdom"}
+{ id: "wicked-witches-way", name: "Wicked Witches Way"}
+{ id: "dinosaur-tea-party", name: "Dinosaur Tea Party"}
+{ id: "yokai", name: "Yōkai"}
+{ id: "scopa", name: "Scopa"}
+{ id: "gin-rummy", name: "Gin Rummy"}
+{ id: "master-thieves", name: "Master Thieves"}
+{ id: "thats-not-a-hat", name: "That's Not a Hat"}
+{ id: "monster-chase", name: "Monster Chase"}
+{ id: "braintopia", name: "Braintopia"}
+{ id: "dawn-under", name: "Dawn Under"}
+{ id: "times-up-edition-purple", name: "Time's Up! Édition purple"}
+{ id: "deja-vu", name: "Déjà Vu"}
+{ id: "the-game-of-things", name: "The Game of Things"}
+{ id: "triplock", name: "Triplock"}
+{ id: "raise-your-goblets", name: "Raise Your Goblets"}
+{ id: "draculas-feast", name: "Dracula's Feast"}
+{ id: "herbalism", name: "Herbalism"}
+{ id: "die-fiesen-7", name: "Die Fiesen 7"}
+{ id: "gobblet-gobblers", name: "Gobblet Gobblers"}
+{ id: "sole-mio", name: "Sole Mio!"}
+{ id: "the-big-taboo", name: "The Big Taboo"}
+{ id: "dead-drop", name: "Dead Drop"}
+{ id: "stellium", name: "Stellium"}
+{ id: "stratego-revised-edition", name: "Stratego (Revised Edition)"}
+{ id: "the-little-orchard", name: "The Little Orchard"}
+{ id: "mammuz", name: "MammuZ"}
+{ id: "clue-discover-the-secrets", name: "Clue: Discover the Secrets"}
+{ id: "conspiracy-1973", name: "Conspiracy"}
+{ id: "poule-poule", name: "Poule Poule"}
+{ id: "scrutineyes", name: "Scrutineyes"}
+{ id: "ooga-booga", name: "Ooga Booga"}
+{ id: "dschungelschatz", name: "Dschungelschatz"}
+{ id: "holding-on-the-troubled-life-of-billy-kerr", name: "Holding On: The Troubled Life of Billy Kerr"}
+{ id: "schatz-der-drachen", name: "Schatz der Drachen"}
+{ id: "cogz", name: "COGZ"}
+{ id: "the-best-of-chronology", name: "The Best of Chronology"}
+{ id: "stratego-waterloo", name: "Stratego Waterloo"}
+{ id: "resistor", name: "Resistor_"}
+{ id: "warigin", name: "WARIGIN"}
+{ id: "stratego-lord-of-the-rings-trilogy-edition", name: "Stratego: Lord of the Rings Trilogy Edition"}
+{ id: "master-fox", name: "Master Fox"}
+{ id: "dungeon-heroes", name: "Dungeon Heroes"}
+{ id: "four-tribes", name: "Four Tribes"}
+{ id: "nut-job", name: "Nut Job"}
+{ id: "wizardry-to-the-power-of-three", name: "Wizardry to the Power of Three"}
+{ id: "gigamons", name: "Gigamons"}
+{ id: "deutschland-finden-sie-minden", name: "Deutschland: Finden Sie Minden"}
+{ id: "limits", name: "Limits"}
+{ id: "isis-osiris", name: "Isis &amp; Osiris"}
+{ id: "lunes", name: "Lunes"}
+{ id: "durak", name: "Durak"}
+{ id: "odyseja", name: "Odyseja"}
+{ id: "los-mampfos", name: "Los Mampfos"}
+{ id: "cookie-box", name: "Cookie Box"}
+{ id: "treasure-ready-go", name: "Treasure, Ready, Go!"}
+{ id: "bee-alert", name: "Bee Alert"}
+{ id: "pengoloo", name: "Pengoloo"}
+{ id: "enchanted-forest", name: "Enchanted Forest"}
+{ id: "stratego-star-wars", name: "Stratego: Star Wars"}
+{ id: "heist-one-team-one-mission", name: "Heist: One Team, One Mission"}
+{ id: "fabulantica", name: "Fabulantica"}
+{ id: "the-penguin-book-of-card-games", name: "The Penguin Book of Card Games"}
+{ id: "quinamid", name: "Quinamid"}
+{ id: "toddles-bobbles", name: "Toddles-Bobbles"}
+{ id: "cowabunga", name: "Cowabunga"}
+{ id: "drachenturm", name: "Drachenturm"}
+{ id: "el-camarero", name: "El Camarero"}
+{ id: "stratego-4", name: "Stratego 4"}
+{ id: "alles-tomate", name: "Alles Tomate!"}
+{ id: "scope-stalingrad", name: "SCOPE Stalingrad"}
+{ id: "peek-a-mouse", name: "Peek-a-Mouse"}
+{ id: "shadows-over-camelot-the-card-game", name: "Shadows over Camelot: The Card Game"}
+{ id: "stones-of-fate", name: "Stones of Fate"}
+{ id: "parks-memories-mountaineer", name: "PARKS Memories: Mountaineer"}
+{ id: "the-secret-door", name: "The Secret Door"}
+{ id: "aloha-pioha", name: "Aloha Pioha"}
+{ id: "dark-is-the-night", name: "Dark Is the Night"}
+{ id: "qbitz", name: "Q•bitz"}
+{ id: "outburst-remix", name: "Outburst Remix!"}
+{ id: "the-mysterious-forest", name: "The Mysterious Forest"}
+{ id: "ultimate-stratego", name: "Ultimate Stratego"}
+{ id: "sock-monsters", name: "Sock Monsters"}
+{ id: "by-golly", name: "By Golly!"}
+{ id: "serpents-tongue", name: "Serpent's Tongue"}
+{ id: "ramses-ii", name: "Ramses II"}
+{ id: "fiery-dragons", name: "Fiery Dragons"}
+{ id: "parks-memories-coast-to-coast", name: "PARKS Memories: Coast to Coast"}
+{ id: "mini-divercity", name: "Mini DiverCity"}
+{ id: "cranium-party-playoff", name: "Cranium Party Playoff"}
+{ id: "the-deception-of-antiques-12-chinese-zodiac-bronze-heads", name: "The Deception of Antiques: 12 Chinese Zodiac Bronze Heads"}
+{ id: "fruit-passion", name: "Fruit Passion"}
+{ id: "geisterwaldchen", name: "Geisterwäldchen"}
+{ id: "stratego-legends", name: "Stratego Legends"}
+{ id: "parks-memories-plains-walker", name: "PARKS Memories: Plains Walker"}
+{ id: "nomic", name: "Nomic"}
+{ id: "magic-dance", name: "Magic Dance"}
+{ id: "agent-hunter", name: "Agent Hunter"}
+{ id: "sherlook", name: "Sherlook"}
+{ id: "secuenzoos", name: "SecuenzooS"}
+{ id: "123-now-you-see-me", name: "1,2,3! Now you see me..."}
+{ id: "a-feast-for-odin", name: "A Feast for Odin"}
+{ id: "cascadia", name: "Cascadia"}
+{ id: "mansions-of-madness-second-edition", name: "Mansions of Madness: Second Edition"}
+{ id: "azul", name: "Azul"}
+{ id: "the-search-for-planet-x", name: "The Search for Planet X"}
+{ id: "patchwork", name: "Patchwork"}
+{ id: "the-isle-of-cats", name: "The Isle of Cats"}
+{ id: "praga-caput-regni", name: "Praga Caput Regni"}
+{ id: "azul-summer-pavilion", name: "Azul: Summer Pavilion"}
+{ id: "castles-of-mad-king-ludwig", name: "Castles of Mad King Ludwig"}
+{ id: "sagrada-2017", name: "Sagrada"}
+{ id: "calico", name: "Calico"}
+{ id: "time-stories", name: "T.I.M.E Stories"}
+{ id: "exit-the-game-the-abandoned-cabin", name: "Exit: The Game – The Abandoned Cabin"}
+{ id: "bonfire", name: "Bonfire"}
+{ id: "barenpark", name: "Bärenpark"}
+{ id: "neuroshima-hex-30", name: "Neuroshima Hex! 3.0"}
+{ id: "tiny-towns", name: "Tiny Towns"}
+{ id: "azul-stained-glass-of-sintra", name: "Azul: Stained Glass of Sintra"}
+{ id: "project-l", name: "Project L"}
+{ id: "sherlock-holmes-consulting-detective-jack-the-ripper-west-end-adventures", name: "Sherlock Holmes Consulting Detective: Jack the Ripper &amp; West End Adventures"}
+{ id: "oathsworn-into-the-deepwood", name: "Oathsworn: Into the Deepwood"}
+{ id: "canvas-2021", name: "Canvas"}
+{ id: "exit-the-game-dead-man-on-the-orient-express", name: "Exit: The Game – Dead Man on the Orient Express"}
+{ id: "mansions-of-madness", name: "Mansions of Madness"}
+{ id: "potion-explosion", name: "Potion Explosion"}
+{ id: "legends-of-andor", name: "Legends of Andor"}
+{ id: "nova-luna", name: "Nova Luna"}
+{ id: "karuba", name: "Karuba"}
+{ id: "unlock-heroic-adventures", name: "Unlock!: Heroic Adventures"}
+{ id: "planet-unknown", name: "Planet Unknown"}
+{ id: "exit-the-game-the-pharaohs-tomb", name: "Exit: The Game – The Pharaoh's Tomb"}
+{ id: "new-york-zoo", name: "New York Zoo"}
+{ id: "unlock-timeless-adventures", name: "Unlock!: Timeless Adventures"}
+{ id: "exit-the-game-the-secret-lab", name: "Exit: The Game – The Secret Lab"}
+{ id: "ricochet-robots", name: "Ricochet Robots"}
+{ id: "paris-la-cite-de-la-lumiere", name: "Paris: La Cité de la Lumière"}
+{ id: "unlock-epic-adventures", name: "Unlock!: Epic Adventures"}
+{ id: "azul-queens-garden", name: "Azul: Queen's Garden"}
+{ id: "cottage-garden", name: "Cottage Garden"}
+{ id: "the-city-of-kings", name: "The City of Kings"}
+{ id: "nmbr-9", name: "NMBR 9"}
+{ id: "unlock-escape-adventures-squeek-sausage", name: "Unlock!: Escape Adventures – Squeek &amp; Sausage"}
+{ id: "zendo", name: "Zendo"}
+{ id: "forum-trajanum", name: "Forum Trajanum"}
+{ id: "dorfromantik-the-board-game", name: "Dorfromantik: The Board Game"}
+{ id: "street-masters", name: "Street Masters"}
+{ id: "escape-room-the-game", name: "Escape Room: The Game"}
+{ id: "copenhagen", name: "Copenhagen"}
+{ id: "ubongo", name: "Ubongo"}
+{ id: "exit-the-game-the-forgotten-island", name: "Exit: The Game – The Forgotten Island"}
+{ id: "unlock-escape-adventures-the-formula", name: "Unlock!: Escape Adventures – The Formula"}
+{ id: "exit-the-game-the-polar-station", name: "Exit: The Game – The Polar Station"}
+{ id: "escape-tales-the-awakening", name: "Escape Tales: The Awakening"}
+{ id: "chronicles-of-crime-1900", name: "Chronicles of Crime: 1900"}
+{ id: "star-wars-unlock", name: "Star Wars: Unlock!"}
+{ id: "imagine", name: "Imagine"}
+{ id: "the-initiative", name: "The Initiative"}
+{ id: "exit-the-game-the-catacombs-of-horror", name: "Exit: The Game – The Catacombs of Horror"}
+{ id: "factory-fun", name: "Factory Fun"}
+{ id: "sherlock-holmes-consulting-detective-carlton-house-queens-park", name: "Sherlock Holmes Consulting Detective: Carlton House &amp; Queen's Park"}
+{ id: "evergreen", name: "Evergreen"}
+{ id: "planet", name: "Planet"}
+{ id: "indian-summer", name: "Indian Summer"}
+{ id: "gingerbread-house", name: "Gingerbread House"}
+{ id: "unlock-mythic-adventures", name: "Unlock!: Mythic Adventures"}
+{ id: "exit-the-game-the-forbidden-castle", name: "Exit: The Game – The Forbidden Castle"}
+{ id: "unlock-secret-adventures-the-adventurers-of-oz", name: "Unlock!: Secret Adventures – The Adventurers of Oz"}
+{ id: "curious-cargo", name: "Curious Cargo"}
+{ id: "miyabi", name: "Miyabi"}
+{ id: "overboss-a-boss-monster-adventure", name: "Overboss: A Boss Monster Adventure"}
+{ id: "set", name: "SET"}
+{ id: "adventure-games-the-dungeon", name: "Adventure Games: The Dungeon"}
+{ id: "unlock-mystery-adventures-the-house-on-the-hill", name: "Unlock!: Mystery Adventures – The House on the Hill"}
+{ id: "unlock-mystery-adventures-the-tonipals-treasure", name: "Unlock!: Mystery Adventures – The Tonipal's Treasure"}
+{ id: "ubongo-3d", name: "Ubongo 3D"}
+{ id: "cantaloop-book-1-breaking-into-prison", name: "Cantaloop: Book 1 – Breaking into Prison"}
+{ id: "noctiluca", name: "Noctiluca"}
+{ id: "metro-x", name: "Metro X"}
+{ id: "factory-funner", name: "Factory Funner"}
+{ id: "dr-eureka", name: "Dr. Eureka"}
+{ id: "castellion", name: "Castellion"}
+{ id: "spring-meadow", name: "Spring Meadow"}
+{ id: "seikatsu", name: "Seikatsu"}
+{ id: "hexplore-it-the-valley-of-the-dead-king", name: "HEXplore It: The Valley of the Dead King"}
+{ id: "roll-camera-the-filmmaking-board-game", name: "Roll Camera!: The Filmmaking Board Game"}
+{ id: "land-vs-sea", name: "Land vs Sea"}
+{ id: "space-cadets", name: "Space Cadets"}
+{ id: "legends-of-andor-the-last-hope", name: "Legends of Andor: The Last Hope"}
+{ id: "take-it-easy", name: "Take it Easy!"}
+{ id: "picture-perfect-2020", name: "Picture Perfect"}
+{ id: "castles-of-mad-king-ludwig-collectors-edition", name: "Castles of Mad King Ludwig: Collector's Edition"}
+{ id: "deckscape-test-time", name: "Deckscape: Test Time"}
+{ id: "code-777", name: "Code 777"}
+{ id: "village-attacks", name: "Village Attacks"}
+{ id: "paint-the-roses", name: "Paint the Roses"}
+{ id: "savannah-park", name: "Savannah Park"}
+{ id: "unlock-secret-adventures-a-noside-story", name: "Unlock!: Secret Adventures – A Noside Story"}
+{ id: "burncycle", name: "burncycle"}
+{ id: "unlock-escape-adventures-the-island-of-doctor-goorse", name: "Unlock!: Escape Adventures – The Island of Doctor Goorse"}
+{ id: "gods-love-dinosaurs", name: "Gods Love Dinosaurs"}
+{ id: "deckscape-heist-in-venice", name: "Deckscape: Heist in Venice"}
+{ id: "overbooked", name: "Overbooked"}
+{ id: "freshwater-fly", name: "Freshwater Fly"}
+{ id: "pack-stack", name: "Pack &amp; Stack"}
+{ id: "box-one", name: "Box One"}
+{ id: "the-isle-of-cats-explore-draw", name: "The Isle of Cats: Explore &amp; Draw"}
+{ id: "the-grand-carnival", name: "The Grand Carnival"}
+{ id: "break-the-code", name: "Break the Code"}
+{ id: "andor-the-family-fantasy-game", name: "Andor: The Family Fantasy Game"}
+{ id: "mondo", name: "Mondo"}
+{ id: "arena-the-contest", name: "Arena: The Contest"}
+{ id: "ubongo-extreme", name: "Ubongo Extreme"}
+{ id: "patchwork-doodle", name: "Patchwork Doodle"}
+{ id: "mr-cabbageheads-garden", name: "Mr. Cabbagehead's Garden"}
+{ id: "escape-the-room-mystery-at-the-stargazers-manor", name: "Escape the Room: Mystery at the Stargazer's Manor"}
+{ id: "exit-the-game-the-enchanted-forest", name: "Exit: The Game – The Enchanted Forest"}
+{ id: "exit-the-game-advent-calendar-the-mystery-of-the-ice-cave", name: "Exit: The Game – Advent Calendar: The Mystery of the Ice Cave"}
+{ id: "finished", name: "Finished!"}
+{ id: "catch-the-moon", name: "Catch the Moon"}
+{ id: "exit-the-game-the-cemetery-of-the-knight", name: "Exit: The Game – The Cemetery of the Knight"}
+{ id: "ubongo-duel", name: "Ubongo: Duel"}
+{ id: "quodd-heroes", name: "Quodd Heroes"}
+{ id: "pelican-cove", name: "Pelican Cove"}
+{ id: "unlock-secret-adventures-tombstone-express", name: "Unlock!: Secret Adventures – Tombstone Express"}
+{ id: "bazaar", name: "Bazaar"}
+{ id: "rising-5-runes-of-asteros", name: "Rising 5: Runes of Asteros"}
+{ id: "raxxon", name: "Raxxon"}
+{ id: "deckscape-behind-the-curtain", name: "Deckscape: Behind the Curtain"}
+{ id: "exit-the-game-the-stormy-flight", name: "Exit: The Game – The Stormy Flight"}
+{ id: "topiary", name: "Topiary"}
+{ id: "trogdor-the-board-game", name: "Trogdor!!: The Board Game"}
+{ id: "patchwork-express", name: "Patchwork Express"}
+{ id: "decorum", name: "Décorum"}
+{ id: "exit-the-game-the-gate-between-worlds", name: "Exit: The Game – The Gate Between Worlds"}
+{ id: "unlock-escape-adventures-the-elite", name: "Unlock!: Escape Adventures – The Elite"}
+{ id: "escape-the-room-secret-of-dr-gravelys-retreat", name: "Escape the Room: Secret of Dr. Gravely's Retreat"}
+{ id: "infection-humanitys-last-gasp", name: "Infection: Humanity's Last Gasp"}
+{ id: "haru-ichiban", name: "Haru Ichiban"}
+{ id: "scarabya", name: "Scarabya"}
+{ id: "tantrix", name: "Tantrix"}
+{ id: "game-of-trains", name: "Game of Trains"}
+{ id: "deckscape-the-mystery-of-eldorado", name: "Deckscape: The Mystery of Eldorado"}
+{ id: "rolling-america", name: "Rolling America"}
+{ id: "murder-mystery-party-case-files-fire-in-adlerstein", name: "Murder Mystery Party Case Files: Fire in Adlerstein"}
+{ id: "a-gentle-rain", name: "A Gentle Rain"}
+{ id: "escape-room-in-a-box-the-werewolf-experiment", name: "Escape Room in a Box: The Werewolf Experiment"}
+{ id: "hexplore-it-the-forests-of-adrimon", name: "HEXplore It: The Forests of Adrimon"}
+{ id: "vengeance", name: "Vengeance"}
+{ id: "verdant", name: "Verdant"}
+{ id: "apotheca", name: "Apotheca"}
+{ id: "crystallo", name: "Crystallo"}
+{ id: "atheneum-mystic-library", name: "Atheneum: Mystic Library"}
+{ id: "tuki", name: "Tuki"}
+{ id: "perditions-mouth-abyssal-rift", name: "Perdition's Mouth: Abyssal Rift"}
+{ id: "burger-up", name: "Burger Up"}
+{ id: "exit-the-game-kidnapped-in-fortune-city", name: "Exit: The Game – Kidnapped in Fortune City"}
+{ id: "ice-flow", name: "Ice Flow"}
+{ id: "realm-of-sand", name: "Realm of Sand"}
+{ id: "arraial", name: "Arraial"}
+{ id: "unlock-exotic-adventures-night-of-the-boogeymen", name: "Unlock!: Exotic Adventures – Night of the Boogeymen"}
+{ id: "unlock-legendary-adventures", name: "Unlock!: Legendary Adventures"}
+{ id: "voll-verplant", name: "Voll verplant"}
+{ id: "unlock-exotic-adventures-expedition-challenger", name: "Unlock!: Exotic Adventures – Expedition: Challenger"}
+{ id: "deckscape-the-fate-of-london", name: "Deckscape: The Fate of London"}
+{ id: "escape-tales-low-memory", name: "Escape Tales: Low Memory"}
+{ id: "rorys-story-cubes-voyages", name: "Rory's Story Cubes: Voyages"}
+{ id: "yokai", name: "Yōkai"}
+{ id: "journal-29-interactive-book-game", name: "Journal 29: Interactive Book Game"}
+{ id: "mechanica", name: "Mechanica"}
+{ id: "jetpack-joyride", name: "Jetpack Joyride"}
+{ id: "cubist", name: "Cubist"}
+{ id: "wooly-wars", name: "Wooly Wars"}
+{ id: "mutant-meeples", name: "Mutant Meeples"}
+{ id: "unlock-kids-detective-stories", name: "Unlock! Kids: Detective Stories"}
+{ id: "copenhagen-roll-write", name: "Copenhagen: Roll &amp; Write"}
+{ id: "holi-festival-of-colors", name: "Holi: Festival of Colors"}
+{ id: "unlock-escape-adventures-fifth-avenue", name: "Unlock!: Escape Adventures – Fifth Avenue"}
+{ id: "minigolf-designer", name: "Minigolf Designer"}
+{ id: "unlock-exotic-adventures-scheherazades-last-tale", name: "Unlock!: Exotic Adventures – Scheherazade's Last Tale"}
+{ id: "the-stars-are-right", name: "The Stars Are Right"}
+{ id: "katamino", name: "Katamino"}
+{ id: "floor-plan", name: "Floor Plan"}
+{ id: "brikks", name: "Brikks"}
+{ id: "aqua-garden", name: "Aqua Garden"}
+{ id: "sultaniya", name: "Sultaniya"}
+{ id: "museum-pictura", name: "Museum: Pictura"}
+{ id: "champions-of-hara", name: "Champions of Hara"}
+{ id: "escape-tales-children-of-wyrmwoods", name: "Escape Tales: Children of Wyrmwoods"}
+{ id: "pakal", name: "Pakal"}
+{ id: "tumble-town", name: "Tumble Town"}
+{ id: "loco-motive", name: "Loco Motive"}
+{ id: "bullet", name: "Bullet⭐"}
+{ id: "go-away-monster", name: "Go Away Monster!"}
+{ id: "mosaix", name: "Mosaix"}
+{ id: "castles-of-caladale", name: "Castles of Caladale"}
+{ id: "braintopia", name: "Braintopia"}
+{ id: "pick-a-dog", name: "Pick-a-Dog"}
+{ id: "portal-the-uncooperative-cake-acquisition-game", name: "Portal: The Uncooperative Cake Acquisition Game"}
+{ id: "panic-lab", name: "Panic Lab"}
+{ id: "passtally", name: "Passtally"}
+{ id: "nightmare-horror-adventures-welcome-to-crafton-mansion", name: "Nightmare Horror Adventures: Welcome to Crafton Mansion"}
+{ id: "pachakuna", name: "P'achakuna"}
+{ id: "deckscape-escape-from-alcatraz", name: "Deckscape: Escape from Alcatraz"}
+{ id: "unlock-game-adventures", name: "Unlock!: Game Adventures"}
+{ id: "unlock-mystery-adventures-the-nautilus-traps", name: "Unlock!: Mystery Adventures – The Nautilus' Traps"}
+{ id: "decktective-bloody-red-roses", name: "Decktective: Bloody-Red Roses"}
+{ id: "cosmic-factory", name: "Cosmic Factory"}
+{ id: "microbrew", name: "Microbrew"}
+{ id: "unlock-extraordinary-adventures", name: "Unlock!: Extraordinary Adventures"}
+{ id: "10-dice", name: "10 Dice"}
+{ id: "25-words-or-less", name: "25 Words or Less"}
+{ id: "25-words-or-less-people-places-and-things-edition", name: "25 Words or Less: People, Places and Things Edition"}
+{ id: "4-cyte-foresight", name: "4 CYTE (Foresight)"}
+{ id: "4-en-letras", name: "4 en Letras"}
+{ id: "a-little-wordy", name: "A Little Wordy"}
+{ id: "a-to-z", name: "A to Z"}
+{ id: "asap", name: "ASAP"}
+{ id: "abstratus", name: "Abstratus"}
+{ id: "abtei-der-ratsel", name: "Abtei der Rätsel"}
+{ id: "abuse-the-final-insult", name: "Abuse: The Final Insult"}
+{ id: "ad-lib-crossword-cubes", name: "Ad-Lib Crossword Cubes"}
+{ id: "admiral-ackbar-its-a-trap-game", name: "Admiral Ackbar &quot;It's a TRAP!&quot; GAME"}
+{ id: "affinity", name: "Affinity"}
+{ id: "alfapet", name: "Alfapet"}
+{ id: "alias", name: "Alias"}
+{ id: "alice-in-wordland", name: "Alice in Wordland"}
+{ id: "alpha-bandits", name: "Alpha Bandits"}
+{ id: "alpha-blitz", name: "Alpha Blitz"}
+{ id: "alpha-playing-cards", name: "Alpha Playing Cards"}
+{ id: "amuseamaze", name: "AmuseAmaze"}
+{ id: "anagram-the-ingenious-game-of-juggling-words", name: "Anagram: The Ingenious Game of Juggling Words"}
+{ id: "anagrams", name: "Anagrams"}
+{ id: "anomia", name: "Anomia"}
+{ id: "anomia-kids", name: "Anomia Kids"}
+{ id: "anomia-x", name: "Anomia X"}
+{ id: "anomia-party-edition", name: "Anomia: Party Edition"}
+{ id: "anyways", name: "Anyways"}
+{ id: "apples-to-apples-dice-game", name: "Apples to Apples Dice Game"}
+{ id: "apples-to-apples-junior", name: "Apples to Apples Junior"}
+{ id: "apples-to-apples-kids", name: "Apples to Apples Kids"}
+{ id: "apples-to-apples-mod", name: "Apples to Apples Mod"}
+{ id: "apples-to-apples-to-go", name: "Apples to Apples to Go"}
+{ id: "apples-to-apples-bible-edition", name: "Apples to Apples: Bible Edition"}
+{ id: "apples-to-apples-british-isles-edition", name: "Apples to Apples: British Isles Edition"}
+{ id: "apples-to-apples-family", name: "Apples to Apples: Family"}
+{ id: "appletters", name: "Appletters"}
+{ id: "articulate", name: "Articulate!"}
+{ id: "articulate-your-life", name: "Articulate! Your Life"}
+{ id: "attribute", name: "Attribute"}
+{ id: "avista", name: "Avista"}
+{ id: "awkward-turtle", name: "Awkward Turtle"}
+{ id: "backwords", name: "Backwords"}
+{ id: "baffle-gab", name: "Baffle Gab"}
+{ id: "balderdash", name: "Balderdash"}
+{ id: "bananagrams", name: "Bananagrams"}
+{ id: "bananagrams-duel", name: "Bananagrams Duel!"}
+{ id: "bananagrams-wildtiles", name: "Bananagrams WildTiles"}
+{ id: "banned-words", name: "Banned Words"}
+{ id: "barbarossa", name: "Barbarossa"}
+{ id: "best-of-tribond", name: "Best of TriBond"}
+{ id: "beyond-balderdash", name: "Beyond Balderdash"}
+{ id: "bible-taboo", name: "Bible Taboo"}
+{ id: "bible-tribond", name: "Bible TriBond"}
+{ id: "big-boggle", name: "Big Boggle"}
+{ id: "blabel", name: "Blabel"}
+{ id: "black-stories-stadt-land-tod", name: "Black Stories Stadt-Land-Tod"}
+{ id: "blanc-manger-coco", name: "Blanc-Manger Coco"}
+{ id: "blank-slate", name: "Blank Slate"}
+{ id: "blanko", name: "Blanko"}
+{ id: "bleff", name: "Bleff"}
+{ id: "blurble", name: "Blurble"}
+{ id: "blurt", name: "Blurt!"}
+{ id: "blurt-card-game", name: "Blurt! Card Game"}
+{ id: "boggle", name: "Boggle"}
+{ id: "boggle-bowl", name: "Boggle Bowl"}
+{ id: "boggle-jr", name: "Boggle Jr."}
+{ id: "bresk", name: "Bresk!"}
+{ id: "buyword", name: "BuyWord"}
+{ id: "bucherwurm", name: "Bücherwurm"}
+{ id: "cog", name: "C.O.G."}
+{ id: "campbells-alphabet-dice-game", name: "Campbell's Alphabet Dice Game"}
+{ id: "catch-phrase", name: "Catch Phrase!"}
+{ id: "catchphrase", name: "Catchphrase"}
+{ id: "category-game", name: "Category Game"}
+{ id: "celebrity-taboo", name: "Celebrity Taboo"}
+{ id: "codenames", name: "Codenames"}
+{ id: "codenames-deep-undercover", name: "Codenames: Deep Undercover"}
+{ id: "codenames-disney-family-edition", name: "Codenames: Disney – Family Edition"}
+{ id: "codenames-duet", name: "Codenames: Duet"}
+{ id: "codenames-harry-potter", name: "Codenames: Harry Potter"}
+{ id: "compatibility-15th-anniversary-edition", name: "Compatibility 15th Anniversary Edition"}
+{ id: "composio", name: "Composio"}
+{ id: "composition", name: "Composition"}
+{ id: "contrario", name: "Contrario"}
+{ id: "contrario-2", name: "Contrario 2"}
+{ id: "cranium", name: "Cranium"}
+{ id: "cranium-balloon-lagoon", name: "Cranium Balloon Lagoon"}
+{ id: "cranium-brain-breaks", name: "Cranium Brain Breaks"}
+{ id: "cranium-cadoo", name: "Cranium Cadoo"}
+{ id: "cranium-hoopla", name: "Cranium Hoopla"}
+{ id: "cranium-junior", name: "Cranium Junior"}
+{ id: "cranium-wow", name: "Cranium WOW"}
+{ id: "cranium-zigity", name: "Cranium Zigity"}
+{ id: "cranium-disney-family-edition", name: "Cranium: Disney Family Edition"}
+{ id: "cranium-the-family-fun-game", name: "Cranium: The Family Fun Game"}
+{ id: "crazy-theory", name: "Crazy Theory"}
+{ id: "cross-clues", name: "Cross Clues"}
+{ id: "crossed-words", name: "Crossed Words"}
+{ id: "crossword-pyramids", name: "Crossword Pyramids"}
+{ id: "cue-me", name: "Cue Me!"}
+{ id: "cyrano", name: "Cyrano"}
+{ id: "dabble", name: "Dabble"}
+{ id: "das-perfekte-wort", name: "Das perfekte Wort"}
+{ id: "decrypto-2018", name: "Decrypto"}
+{ id: "der-dativ-ist-dem-genitiv-sein-tod", name: "Der Dativ ist dem Genitiv sein Tod"}
+{ id: "der-heidelbar", name: "Der HeidelBÄR"}
+{ id: "der-heidelbar-wald-und-wiesen-edition", name: "Der HeidelBÄR: Wald und Wiesen Edition"}
+{ id: "der-heidelbar-wilde-wasser-edition", name: "Der HeidelBÄR: Wilde Wasser Edition"}
+{ id: "des-chiffres-et-des-lettres", name: "Des chiffres et des lettres"}
+{ id: "dexikon", name: "Dexikon"}
+{ id: "dice-academy", name: "Dice Academy"}
+{ id: "dicewords", name: "Dicewords"}
+{ id: "dick-a-card-game-based-on-the-novel-by-herman-melville", name: "Dick: A Card Game Based on the Novel by Herman Melville"}
+{ id: "dictionary-dabble", name: "Dictionary Dabble"}
+{ id: "dictopia", name: "Dictopia"}
+{ id: "die-sprache-des-manitu", name: "Die Sprache des Manitu"}
+{ id: "dirty-minds-the-game-of-naughty-clues", name: "Dirty Minds: The Game of Naughty Clues"}
+{ id: "dirty-words", name: "Dirty Words"}
+{ id: "disney-apples-to-apples", name: "Disney Apples to Apples"}
+{ id: "disorder", name: "Disorder"}
+{ id: "djam", name: "Djam"}
+{ id: "doctor-eskers-notebook", name: "Doctor Esker's Notebook"}
+{ id: "dont-panic", name: "Don't Panic!"}
+{ id: "dont-say-it", name: "Don't Say It"}
+{ id: "double-bananagrams", name: "Double Bananagrams"}
+{ id: "double-quick", name: "Double Quick"}
+{ id: "double-sens", name: "Double Sens"}
+{ id: "dungeon-scroll", name: "Dungeon Scroll"}
+{ id: "duple", name: "Duple"}
+{ id: "el-soneto", name: "El Soneto"}
+{ id: "el-portero-baldomero", name: "El portero Baldomero"}
+{ id: "electronic-guesstures", name: "Electronic Guesstures"}
+{ id: "electronic-scattergories-platinum-edition", name: "Electronic Scattergories Platinum Edition"}
+{ id: "electronic-taboo", name: "Electronic Taboo"}
+{ id: "escape-from-elba", name: "Escape from Elba"}
+{ id: "ex-libris", name: "Ex Libris"}
+{ id: "eye-sea", name: "Eye Sea"}
+{ id: "fck-this", name: "F*ck This!"}
+{ id: "frenetic", name: "FReNeTiC"}
+{ id: "facts-in-five", name: "Facts in Five"}
+{ id: "family-alias", name: "Family Alias"}
+{ id: "fauxcabulary", name: "Faux•Cabulary"}
+{ id: "feelinks", name: "Feelinks"}
+{ id: "feelinks-revelations", name: "Feelinks Revelations"}
+{ id: "fictionaire", name: "Fictionaire"}
+{ id: "fiesta-de-los-muertos", name: "Fiesta de los Muertos"}
+{ id: "first-contact", name: "First Contact"}
+{ id: "fishing-for-words", name: "Fishing for Words"}
+{ id: "foil", name: "Foil"}
+{ id: "french-toast", name: "French Toast"}
+{ id: "frigiti", name: "Frigiti"}
+{ id: "funemployed", name: "Funemployed"}
+{ id: "funglish", name: "Funglish"}
+{ id: "game-of-games", name: "Game of Games"}
+{ id: "geistesblitz", name: "Geistesblitz"}
+{ id: "gemischtes-doppel", name: "Gemischtes Doppel"}
+{ id: "gemischtes-doppel-2", name: "Gemischtes Doppel 2"}
+{ id: "get-reelz", name: "Get Reelz"}
+{ id: "give-me-five", name: "Give Me Five"}
+{ id: "go-to-the-head-of-the-class", name: "Go to the Head of the Class"}
+{ id: "gorilla-marketing", name: "Gorilla Marketing"}
+{ id: "graffiti", name: "Graffiti"}
+{ id: "gruble", name: "Gruble"}
+{ id: "guesstures", name: "Guesstures"}
+{ id: "haiclue", name: "Haiclue"}
+{ id: "handsome", name: "Handsome"}
+{ id: "hangman", name: "Hangman"}
+{ id: "hardback", name: "Hardback"}
+{ id: "haste-worte", name: "Haste Worte?"}
+{ id: "heads-up-party-game", name: "Heads Up!: Party Game"}
+{ id: "het-groot-van-dale-spel-der-nederlandse-taal", name: "Het Groot Van Dale Spel der Nederlandse Taal"}
+{ id: "hey-robot", name: "Hey Robot"}
+{ id: "hilarium", name: "Hilarium"}
+{ id: "hot-cold", name: "Hot &amp; Cold"}
+{ id: "huggermugger", name: "Huggermugger"}
+{ id: "in-extremis", name: "In Extremis"}
+{ id: "in-a-pickle", name: "In a Pickle"}
+{ id: "inkling", name: "Inkling"}
+{ id: "inklings", name: "Inklings"}
+{ id: "ipswich", name: "Ipswich"}
+{ id: "isaac-asimovs-super-quiz", name: "Isaac Asimov's Super Quiz"}
+{ id: "japanese-the-game", name: "Japanese: The Game"}
+{ id: "jargon", name: "Jargon"}
+{ id: "jarnac", name: "Jarnac"}
+{ id: "jitters", name: "Jitters"}
+{ id: "jotto", name: "Jotto"}
+{ id: "jumbulaya", name: "Jumbulaya"}
+{ id: "junior-alias", name: "Junior Alias"}
+{ id: "junior-articulate", name: "Junior Articulate"}
+{ id: "just-one", name: "Just One"}
+{ id: "kalifiko", name: "Kalifiko"}
+{ id: "kan-u-go", name: "Kan-U-Go"}
+{ id: "keesdrow", name: "Keesdrow"}
+{ id: "kerflip", name: "KerFlip!"}
+{ id: "kiitos", name: "Kiitos"}
+{ id: "knit-wit", name: "Knit Wit"}
+{ id: "konexi", name: "Konexi"}
+{ id: "krazy-wordz", name: "Krazy Wordz"}
+{ id: "krazy-wordz-nicht-100-jugendfrei", name: "Krazy Wordz: Nicht 100% jugendfrei"}
+{ id: "kreuzwort", name: "Kreuzwort"}
+{ id: "lego-constructionary-game", name: "LEGO Constructionary Game"}
+{ id: "length-x-wit", name: "Length x Wit"}
+{ id: "letra-mix", name: "Letra-Mix"}
+{ id: "letter-head", name: "Letter Head"}
+{ id: "letter-jam", name: "Letter Jam"}
+{ id: "letter-roll", name: "Letter Roll"}
+{ id: "letter-tycoon", name: "Letter Tycoon"}
+{ id: "letterflip", name: "LetterFlip"}
+{ id: "letterpress", name: "Letterpress"}
+{ id: "lexicon", name: "Lexicon"}
+{ id: "lexigo", name: "Lexigo"}
+{ id: "liebrary", name: "Liebrary"}
+{ id: "lingua", name: "Lingua"}
+{ id: "linkity", name: "Linkity"}
+{ id: "linq", name: "Linq"}
+{ id: "lipogram", name: "Lipogram"}
+{ id: "listography-the-game", name: "Listography: The Game"}
+{ id: "los-muertos-no-hablan", name: "Los Muertos No Hablan"}
+{ id: "m-is-for-mouse", name: "M is for Mouse"}
+{ id: "match-5", name: "MATCH 5"}
+{ id: "mad-gab", name: "Mad Gab"}
+{ id: "mad-gab-card-game", name: "Mad Gab Card Game"}
+{ id: "mad-libs-card-game", name: "Mad Libs Card Game"}
+{ id: "make-n-break-party", name: "Make 'n' Break Party"}
+{ id: "man-bites-dog", name: "Man Bites Dog"}
+{ id: "master-word", name: "Master Word"}
+{ id: "medium", name: "Medium"}
+{ id: "million-dollar-password", name: "Million Dollar Password"}
+{ id: "mistrz-slowa", name: "Mistrz Słowa"}
+{ id: "mixmo", name: "Mixmo"}
+{ id: "montage", name: "Montage"}
+{ id: "moot", name: "MooT"}
+{ id: "more-dirty-minds", name: "More Dirty Minds"}
+{ id: "movable-type", name: "Movable Type"}
+{ id: "murder-of-crows", name: "Murder of Crows"}
+{ id: "my-first-bananagrams", name: "My First Bananagrams"}
+{ id: "mysteries", name: "Mysteries?"}
+{ id: "mystic-paths", name: "Mystic Paths"}
+{ id: "nab-it", name: "Nab-It!"}
+{ id: "neue-welten", name: "Neue Welten"}
+{ id: "newspeak", name: "NewSpeak"}
+{ id: "nono", name: "NoNo"}
+{ id: "nobody-is-perfect", name: "Nobody Is Perfect"}
+{ id: "nobody-is-perfect-2", name: "Nobody is Perfect 2"}
+{ id: "nobody-is-perfect-20th-anniversary-edition", name: "Nobody is Perfect: 20th Anniversary Edition"}
+{ id: "noppa-alias", name: "Noppa-Alias"}
+{ id: "off-topic", name: "Off Topic"}
+{ id: "ole-guacamole", name: "Olé Guacamolé"}
+{ id: "oodles-of-doodles", name: "Oodles of Doodles"}
+{ id: "option", name: "Option"}
+{ id: "outburst-junior", name: "Outburst Junior"}
+{ id: "outburst-remix", name: "Outburst Remix!"}
+{ id: "overturn", name: "Overturn"}
+{ id: "p-for-pizza", name: "P for Pizza"}
+{ id: "pdq-the-pretty-darn-quick-word-game", name: "PDQ: The Pretty Darn Quick Word Game"}
+{ id: "pairs-in-pears", name: "Pairs in Pears"}
+{ id: "palabra", name: "Palabra"}
+{ id: "paperback", name: "Paperback"}
+{ id: "paperback-adventures", name: "Paperback Adventures"}
+{ id: "parlay", name: "Parlay"}
+{ id: "party-co-original", name: "Party &amp; Co: Original"}
+{ id: "party-alias", name: "Party Alias"}
+{ id: "party-alias-travel", name: "Party Alias (Travel)"}
+{ id: "party-scrabble", name: "Party Scrabble"}
+{ id: "pass-the-bomb", name: "Pass the Bomb"}
+{ id: "pass-the-bomb-junior", name: "Pass the Bomb Junior"}
+{ id: "pass-the-bomb-party-edition", name: "Pass the Bomb: Party Edition"}
+{ id: "password-express", name: "Password Express"}
+{ id: "password-plus", name: "Password Plus"}
+{ id: "pepinillo", name: "Pepinillo"}
+{ id: "perpetual-notion", name: "Perpetual Notion"}
+{ id: "perquackey", name: "Perquackey"}
+{ id: "phantom-ink", name: "Phantom Ink"}
+{ id: "phlounder", name: "Phlounder"}
+{ id: "pick-two", name: "Pick Two!"}
+{ id: "pictionary-mania", name: "Pictionary Mania"}
+{ id: "picture-picture", name: "Picture Picture"}
+{ id: "pirate-map", name: "Pirate Map"}
+{ id: "plagio", name: "Plagio"}
+{ id: "play-it-by-ear", name: "Play It By Ear"}
+{ id: "play-on-wordz", name: "Play on Wordz"}
+{ id: "plext", name: "Plext"}
+{ id: "pocket-boggle", name: "Pocket Boggle"}
+{ id: "poetry-slam", name: "Poetry Slam"}
+{ id: "poetry-for-neanderthals", name: "Poetry for Neanderthals"}
+{ id: "ponkotsu-factory", name: "Ponkotsu Factory (ぽんこつファクトリー)"}
+{ id: "probe", name: "Probe"}
+{ id: "prolix", name: "Prolix"}
+{ id: "pun-intended", name: "Pun Intended"}
+{ id: "punderdome-a-card-game-for-pun-lovers", name: "Punderdome: A Card Game for Pun Lovers"}
+{ id: "puns-of-anarchy", name: "Puns of Anarchy"}
+{ id: "pyramid-home-game", name: "Pyramid: Home Game"}
+{ id: "quicktionary", name: "Quicktionary"}
+{ id: "quickword-the-ultimate-word-game", name: "Quickword: The Ultimate Word Game"}
+{ id: "quiddler", name: "Quiddler"}
+{ id: "quix", name: "Quix!"}
+{ id: "quiz-iisen-ikima-show", name: "Quiz: Iisen Ikima Show !"}
+{ id: "quizzle", name: "Quizzle"}
+{ id: "qwordie", name: "Qwordie"}
+{ id: "rsvp-vertical-crossword-game", name: "RSVP: Vertical Crossword Game"}
+{ id: "rallyras", name: "RallyRas"}
+{ id: "ransom-notes", name: "Ransom Notes"}
+{ id: "raon", name: "Raon"}
+{ id: "rapidough", name: "Rapidough"}
+{ id: "rappakalja-extreme", name: "Rappakalja Extreme"}
+{ id: "razzle", name: "Razzle"}
+{ id: "refraze", name: "ReFraze"}
+{ id: "remember-when", name: "Remember When ..."}
+{ id: "rewordable", name: "Rewordable"}
+{ id: "ricochet-a-la-poursuite-du-comte-courant", name: "Ricochet: A la poursuite du Comte courant"}
+{ id: "rigamarole", name: "Rigamarole"}
+{ id: "rimtik", name: "Rimtik"}
+{ id: "roots-a-game-of-inventing-words", name: "Roots: A Game of Inventing Words"}
+{ id: "shh", name: "SHH"}
+{ id: "scarabeo", name: "Scarabeo"}
+{ id: "scattergories", name: "Scattergories"}
+{ id: "scattergories-categories", name: "Scattergories Categories"}
+{ id: "scattergories-junior", name: "Scattergories Junior"}
+{ id: "scattergories-to-go", name: "Scattergories To Go"}
+{ id: "scattergories-bible-edition", name: "Scattergories: Bible Edition"}
+{ id: "scattergories-the-card-game", name: "Scattergories: The Card Game"}
+{ id: "schnapp-land-fluss", name: "Schnapp, Land, Fluss!"}
+{ id: "scrabble", name: "Scrabble"}
+{ id: "scrabble-apple", name: "Scrabble Apple"}
+{ id: "scrabble-card-game", name: "Scrabble Card Game"}
+{ id: "scrabble-crossword-cubes-game", name: "Scrabble Crossword Cubes Game"}
+{ id: "scrabble-dash", name: "Scrabble DASH"}
+{ id: "scrabble-dice", name: "Scrabble Dice"}
+{ id: "scrabble-express", name: "Scrabble Express"}
+{ id: "scrabble-flash", name: "Scrabble Flash"}
+{ id: "scrabble-junior", name: "Scrabble Junior"}
+{ id: "scrabble-me", name: "Scrabble Me"}
+{ id: "scrabble-rebus", name: "Scrabble Rebus"}
+{ id: "scrabble-scramble", name: "Scrabble Scramble"}
+{ id: "scrabble-sentence-cube-game", name: "Scrabble Sentence Cube Game"}
+{ id: "scrabble-slam", name: "Scrabble Slam!"}
+{ id: "scrabble-trickster", name: "Scrabble Trickster"}
+{ id: "scrabble-twists-turns", name: "Scrabble Twists &amp; Turns"}
+{ id: "scrabble-up", name: "Scrabble Up"}
+{ id: "scrabble-chocolate-edition", name: "Scrabble: Chocolate Edition"}
+{ id: "scrabble-harry-potter-edition", name: "Scrabble: Harry Potter Edition"}
+{ id: "scriba", name: "Scriba"}
+{ id: "scribes-arena", name: "Scribe's Arena"}
+{ id: "senior-moments", name: "Senior Moments"}
+{ id: "sixes", name: "SiXeS"}
+{ id: "slang-teasers", name: "Slang Teasers"}
+{ id: "smart-mouth", name: "Smart Mouth"}
+{ id: "snippets", name: "Snippets"}
+{ id: "so-clover", name: "So Clover!"}
+{ id: "sour-apples-to-apples", name: "Sour Apples to Apples"}
+{ id: "speed-dice", name: "Speed Dice"}
+{ id: "speedy-words", name: "Speedy Words"}
+{ id: "spell-smashers", name: "Spell Smashers"}
+{ id: "spinergy", name: "Spinergy"}
+{ id: "spingo", name: "Spingo"}
+{ id: "splurt", name: "Splurt!"}
+{ id: "spukstaben", name: "Spukstaben"}
+{ id: "stad-land-rivier", name: "Stad - Land - Rivier"}
+{ id: "stadt-land-fluss", name: "Stadt - Land - Fluss"}
+{ id: "stadt-land-vollpfosten", name: "Stadt Land Vollpfosten"}
+{ id: "stadt-land-anders", name: "Stadt-Land-anders"}
+{ id: "stinker", name: "Stinker"}
+{ id: "such-a-thing", name: "Such a Thing?"}
+{ id: "super-big-boggle", name: "Super Big Boggle"}
+{ id: "super-scrabble", name: "Super Scrabble"}
+{ id: "super-why-abc-letter-game", name: "Super WHY ABC Letter Game"}
+{ id: "swoggle", name: "Swoggle"}
+{ id: "syllabus", name: "Syllabus"}
+{ id: "slowny-ninja", name: "Słowny Ninja"}
+{ id: "slowostworki", name: "SłowoStworki"}
+{ id: "slowostwory", name: "SłowoStwory"}
+{ id: "tags", name: "TAGS"}
+{ id: "taboo", name: "Taboo"}
+{ id: "taboo-junior", name: "Taboo Junior"}
+{ id: "tai-chi-chuan", name: "Tai Chi Chuan"}
+{ id: "talkin-tango", name: "Talkin' Tango"}
+{ id: "tapple", name: "Tapple"}
+{ id: "team-work-original", name: "Team Work Original"}
+{ id: "telepaths", name: "Telepaths"}
+{ id: "tell-me-the-grand-quiz-game", name: "Tell Me: The Grand Quiz Game"}
+{ id: "tension-the-crazy-naming-game", name: "Tension: The Crazy Naming Game"}
+{ id: "the-big-taboo", name: "The Big Taboo"}
+{ id: "the-chameleon", name: "The Chameleon"}
+{ id: "the-everdeck", name: "The Everdeck"}
+{ id: "the-game-of-sniglets", name: "The Game of Sniglets"}
+{ id: "the-headlines-game", name: "The Headlines Game"}
+{ id: "the-lost-words", name: "The Lost Words"}
+{ id: "the-new-yorker-cartoon-caption-game", name: "The New Yorker: Cartoon Caption Game"}
+{ id: "the-only-word-the-party-word-game", name: "The Only Word: the Party Word Game"}
+{ id: "the-wrong-game", name: "The Wrong Game"}
+{ id: "think-it-up", name: "Think It Up!"}
+{ id: "this-vs-that", name: "This Vs That"}
+{ id: "thematik", name: "Thématik"}
+{ id: "tic-talk", name: "Tic Talk"}
+{ id: "tintenherz", name: "Tintenherz"}
+{ id: "top-face", name: "Top Face!"}
+{ id: "train-of-thought", name: "Train of Thought"}
+{ id: "trapwords", name: "Trapwords"}
+{ id: "tri-virsity", name: "Tri-Virsity"}
+{ id: "tribond-card-game", name: "TriBond Card Game"}
+{ id: "tribond", name: "Tribond"}
+{ id: "trophies", name: "Trophies"}
+{ id: "trust-me-im-a-doctor", name: "Trust Me, I'm a Doctor"}
+{ id: "tuf-abet", name: "Tuf-abet"}
+{ id: "tuppfehler", name: "Tuppfehler"}
+{ id: "turnspell", name: "Turnspell"}
+{ id: "typo", name: "Typo"}
+{ id: "typo-2d", name: "Typo 2D"}
+{ id: "unanimo", name: "Unanimo"}
+{ id: "unspeakable-words", name: "Unspeakable Words"}
+{ id: "unspeakable-words-deluxe-edition", name: "Unspeakable Words: Deluxe Edition"}
+{ id: "upwords", name: "Upwords"}
+{ id: "upwords-deluxe", name: "Upwords Deluxe"}
+{ id: "vertippt-nochmal", name: "VerTIPPT nochmal!"}
+{ id: "verbalia-el-joc", name: "Verbàlia, el joc"}
+{ id: "villamvalasz", name: "Villámválasz"}
+{ id: "visualeyes", name: "VisualEyes"}
+{ id: "varsta-spraket", name: "Värsta Språket"}
+{ id: "wyps", name: "WYPS"}
+{ id: "walkie-talkie", name: "Walkie Talkie"}
+{ id: "wasn-das", name: "Was'n das?"}
+{ id: "wayword", name: "WayWord"}
+{ id: "we-are-the-word", name: "We Are The Word"}
+{ id: "werewords", name: "Werewords"}
+{ id: "werewords-deluxe-edition", name: "Werewords Deluxe Edition"}
+{ id: "whats-gnu", name: "What's GNU?"}
+{ id: "whats-my-word", name: "What's My Word?"}
+{ id: "whatzit", name: "Whatzit?"}
+{ id: "wheel-of-fortune-deluxe", name: "Wheel Of Fortune Deluxe"}
+{ id: "when-i-dream", name: "When I Dream"}
+{ id: "wie-ich-die-welt-sehe", name: "Wie ich die Welt sehe..."}
+{ id: "wise-and-otherwise", name: "Wise and Otherwise"}
+{ id: "women-vs-men-alias", name: "Women vs. Men Alias"}
+{ id: "word-basket", name: "Word Basket"}
+{ id: "word-blur", name: "Word Blur"}
+{ id: "word-domination", name: "Word Domination"}
+{ id: "word-jam", name: "Word Jam"}
+{ id: "word-mastermind", name: "Word Mastermind"}
+{ id: "word-pirates", name: "Word Pirates!"}
+{ id: "word-porters", name: "Word Porters"}
+{ id: "word-rummikub", name: "Word Rummikub"}
+{ id: "word-slam-family", name: "Word Slam Family"}
+{ id: "word-slam-midnight", name: "Word Slam Midnight"}
+{ id: "word-sweep", name: "Word Sweep!"}
+{ id: "word-wheel", name: "Word Wheel"}
+{ id: "word-whimsy", name: "Word Whimsy"}
+{ id: "word-winder", name: "Word Winder"}
+{ id: "word-yahtzee", name: "Word Yahtzee"}
+{ id: "word-on-the-street", name: "Word on the Street"}
+{ id: "word-on-the-street-junior", name: "Word on the Street Junior"}
+{ id: "word-whiz", name: "Word-Whiz"}
+{ id: "word-a-melon", name: "Word-a-Melon"}
+{ id: "wordaround", name: "WordARound"}
+{ id: "wordspiel", name: "WordSpiel"}
+{ id: "wordspot", name: "WordSpot"}
+{ id: "wordariffic", name: "Wordariffic"}
+{ id: "wordigo", name: "Wordigo"}
+{ id: "wordoku-fun-spelled-out", name: "Wordoku: Fun Spelled Out"}
+{ id: "wordquest", name: "Wordquest"}
+{ id: "wordrop", name: "Wordrop"}
+{ id: "words-with-friends", name: "Words with Friends"}
+{ id: "wordsearch", name: "Wordsearch"}
+{ id: "wordstacker", name: "Wordstacker"}
+{ id: "wordsters", name: "Wordsters"}
+{ id: "wordsy", name: "Wordsy"}
+{ id: "wordthief", name: "Wordthief"}
+{ id: "wordz", name: "Wordz"}
+{ id: "xoom-cubes", name: "Xoom Cubes"}
+{ id: "youve-been-sentenced", name: "You've Been Sentenced!"}
+{ id: "zip-it", name: "Zip-It"}
+{ id: "zwei-doofe-ein-gedanke", name: "Zwei Doofe ein Gedanke"}
+{ id: "kuuduk", name: "kuuduk"}
+{ id: "wordxchange", name: "wordXchange"}
+{ id: "ekivoki", name: "Экивоки"}
+{ id: "erudit", name: "Эрудит"}
+{ id: "illustori", name: "イラストリー (Illustori)"}
+{ id: "bob-jiten", name: "ボブジテン (Bob Jiten)"}
+{ id: "word-capture", name: "워드캡처 (Word Capture)"}

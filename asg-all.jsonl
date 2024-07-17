@@ -1,0 +1,1512 @@
+{ id: "1-2-3-go", name: "1-2-3 Go!", publisher: "Orda Industries" }
+{ id: "10-vs-20", name: "10 vs. 20", variation: "checkers" }
+{ id: "14k", name: "14K", author: "J. P. Boudreau" }
+{ id: "17", name: "17!", publisher: "Robor Games" }
+{ id: "1-stein", name: "1 Stein + Company", author: "Nik Neuwahl" }
+{ id: "20-to-2", name: "20 To 2", publisher: "Dearborn Industries" }
+{ id: "2048", name: "2048" }
+{ id: "2-5-8", name: "2-5-8", publisher: "Invicta" }
+{ id: "3d-tic-tac-toe", name: "3D Tic-Tac-Toe", publisher: "Greer Mfg. Co." }
+{ id: "3-man-chess", name: "3 Man Chess", author: "Clif King" }
+{ id: "3-or-more", name: "3 or More", publisher: "Spear's Games" }
+{ id: "3-side", name: "3-A-Side", publisher: "Spear-Spiele" }
+{ id: "3-spot", name: "3 Spot", author: "Edward DeBono" }
+{ id: "3-stones", name: "3 Stones", author: "Andy Daniel" }
+{ id: "3-up", name: "3 Up", publisher: "Lakeside" }
+{ id: "36-fits", name: "36 Fits", publisher: "Watkins Strathmore" }
+{ id: "4000-ad", name: "4000 AD", publisher: "Waddingtons" }
+{ id: "4-go", name: "4-Go", publisher: "Orda Industries" }
+{ id: "4-trumpf", name: "4=Trumpf", publisher: "Siso" }
+{ id: "4-in-a-ro", name: "4 In-a-Ro", publisher: "All Fair Games" }
+{ id: "4-in-a-row", name: "4 In a Row", publisher: "Fundex" }
+{ id: "4-player-chess", name: "4 Player Chess", publisher: "4 Player Chess Co." }
+{ id: "4-plex", name: "4 Plex", publisher: "Alpha Data, Inc." }
+{ id: "4th-dimension", name: "4th Dimension", publisher: "TSR" }
+{ id: "4x4", name: "4 X 4", author: "Wolfgang Panning" }
+{ id: "5-in-a-row", name: "Five in a Row", publisher: "Spear's Games" }
+{ id: "5ive-straight", name: "5ive Straight", publisher: "Stillmore Products" }
+{ id: "5-quadrat", name: "5 Quadrat", publisher: "Pro Ligno" }
+{ id: "9-way-tic-tac-toe", name: "9-Way Tic tac Toe", publisher: "Kenner", note: "combination of tic-tac-toe and domino pieces, some bent in a way that makes them only playable across board edges." }
+{ id: "90-grad", name: "90 Grad", author: "Gunnar Kuhlencord" }
+{ id: "abagio", name: "Abagio", author: "Autumn Moore", author: "Michael Moore" }
+{ id: "abalone", name: "Abalone", author: "Michael Lalet", author: "Laurent Levi" }
+{ id: "abalone-deluxe", name: "Abalone DeLuxe", author: "Michael Lalet", author: "Laurent Levi" }
+{ id: "abalone-jr", name: "Abalone Junior", author: "Michael Lalet", author: "Laurent Levi" }
+{ id: "abalone-mini", name: "Abalone Mini", author: "Michael Lalet", author: "Laurent Levi" }
+{ id: "aboculis", name: "Aboculis", publisher: "FilsFils" }
+{ id: "abraxas", name: "Abraxas", author: "Johannes Ruttinger", author: "Michael Ruttinger" }
+{ id: "accasta", name: "Accasta", author: "Dieter Stein", publisher: "Unpublished" }
+{ id: "achi", name: "Achi", players: "2", variation: "nine-holes", mechanism: "Alignment", mechanism: "Piece Movement" }
+{ id: "adders-ladders", name: "Adders and Ladders", variation: "snakes-ladders", note: "Perfect information version of snakes and ladders, described in Winning Ways... by Berlekamp, Conway, & Guy" }
+{ id: "admirals", name: "Admirals", publisher: "Parker Brothers" }
+{ id: "advance-retreat", name: "Advance & Retreat", publisher: "McLoughlin Brothers" }
+{ id: "advanced-bridg-it", name: "Advanced Bridg-It", publisher: "Hassenfeld Brothers" }
+{ id: "advanced-mastermind", name: "Advanced Mastermind", publisher: "Invicta" }
+{ id: "adversary", name: "Adversary", publisher: "Adversary, Inc." }
+{ id: "advice", name: "Advice", publisher: "Inquot Ltd." }
+{ id: "aera", name: "Aera", publisher: "New Dimensions" }
+{ id: "affonda", name: "Affonda", author: "Heinz Meister" }
+{ id: "african-queen", name: "African Queen", author: "Alex Randolph" }
+{ id: "agadez", name: "Agadez", author: "Werner Gabriel" }
+{ id: "agon", name: "Agon", publisher: "Fleur Designs" }
+{ id: "agora", name: "Agora", author: "Nicolas Halpern-Herla" }
+{ id: "agora1", name: "Agora", author: "James Ernest" }
+{ id: "agvato", name: "Agvato", publisher: "ASS" }
+{ id: "akiba", name: "Akiba", author: "Jan Travers", author: "Serge Cahu" }
+{ id: "akropolis", name: "Akropolis", publisher: "Piatnik" }
+{ id: "al-djemma", name: "Al Djemma", author: "Nathan Reinhertz" }
+{ id: "alcatraz", name: "Alcatraz", author: "Bernhard Weber" }
+{ id: "alcazar", name: "Alcazar", author: "Martin Davison" }
+{ id: "alquerque", name: "Alquerque", publisher: "(public domain)" }
+{ id: "alesia", name: "Alesia", publisher: "Eurogames " }
+{ id: "alexandros", name: "Alexandros", author: "Leo Colovini" }
+{ id: "alle-4", name: "Alle 4", publisher: "Klee Spiele" }
+{ id: "allianz", name: "Allianz", author: "Jaspar von Oertzen" }
+{ id: "all-kings-men", name: "All the King's Men", author: "Reuben Klamer" }
+{ id: "amasis", name: "Amasis", publisher: "Siebenstein" }
+{ id: "amaze", name: "Amaze", publisher: "Schuco Games" }
+{ id: "amazons", name: "Amazons", author: "Walter Zamkauskas" }
+{ id: "ambushed", name: "Ambushed", publisher: "Chad Valley" }
+{ id: "anno", name: "Anno 4000", publisher: "Parker " }
+{ id: "anticipation", name: "Anticipation", publisher: "Lodestone Games" }
+{ id: "antipalos", name: "Antipalos", author: "Martin Collier" }
+{ id: "arbora", name: "Arbora", author: "Rolf Asche", author: "Reinhold Wittig" }
+{ id: "arcanor", name: "Arcanor", author: "Michael Aguilar" }
+{ id: "archieball", name: "Archieball", author: "M. Reilly" }
+{ id: "archimedes", name: "Archimedes", author: "Niek Neuwahl" }
+{ id: "arch-rival", name: "Arch Rival", publisher: "Parker Brothers" }
+{ id: "arctic", name: "Arctic", publisher: "Piatnik" }
+{ id: "arena", name: "Arena", author: "Daniel Melegi " }
+{ id: "arene", name: "Arène", author: "Stéphanie Czinober", author: "Stéphane Rebelle" }
+{ id: "arguile", name: "Arguile", author: "Brian Hersch " }
+{ id: "arimaa", name: "Arimaa", author: "Omar Syed" }
+{ id: "aristo", name: "Aristo" }
+{ id: "arlac-trimula", name: "Arlac Trimula", publisher: "DBGM" }
+{ id: "armada", name: "Armada", author: "Sicco Van Hulst" }
+{ id: "asalto", name: "Asalto", alias: "Assault Game", alias: "German Tactics", alias: "Officers and Sepoys", publisher: "Haba Spiele", variation: "fox-geese" }
+{ id: "asante", name: "Asanté", publisher: "Whale Toys Ltd." }
+{ id: "ascension", name: "Ascension", author: "Rémy Durrens" }
+{ id: "asia-chess", name: "Asia Chess", publisher: "Swan International Products" }
+{ id: "astro-blitz", name: "Astro Blitz", publisher: "AMT Corporation" }
+{ id: "astrodysee", name: "Astrodysee", author: "Henri Vergne" }
+{ id: "astron", name: "Astron", publisher: "Waddingtons" }
+{ id: "astro-tictecto", name: "Astro Tictecto", author: "Hong Ku Park" }
+{ id: "athos", name: "Athos", author: "Wolfgang Kramer" }
+{ id: "atlanteon", name: "Atlanteon", author: "Reiner Knizia" }
+{ id: "atride", name: "Atride", author: "Gauthier Fourcade" }
+{ id: "atta-ants", name: "Atta Ants", author: "Richard de Rijk" }
+{ id: "attacke", name: "Attacke", publisher: "Heyne Taschen-Spiele" }
+{ id: "attakube", name: "Attakube", author: "Valéry Fourcade" }
+{ id: "attraction", name: "Attraction", author: "Mathieu Rivier" }
+{ id: "attraxion", name: "Attraxion", publisher: "Jumbo" }
+{ id: "auf-kurs", name: "Auf Kurs", author: "Reinhold Wittig" }
+{ id: "autoscooter", name: "Autoscooter", author: "Günter Cornett" }
+{ id: "avalam", name: "Avalam Bitaka", author: "Philippe Deweys" }
+{ id: "avalanche", name: "Avalanche", publisher: "Parker Brothers" }
+{ id: "avante", name: "Avanté", publisher: "Fyanes" }
+{ id: "avery-close-game", name: "Avery Close game", publisher: "Mego" }
+{ id: "axiom", name: "Axiom", author: "Michael Seal" }
+{ id: "axiom-3000", name: "Axiom 3000", author: "Michael Seal" }
+{ id: "axom", name: "Axom", author: "Michel Villalonga" }
+{ id: "axxa", name: "Axxa", author: "Hajo Bucken" }
+{ id: "aya", name: "Aya", author: "M. Reilly" }
+{ id: "ayanu", name: "Ayanu", author: "Harald Germer" }
+{ id: "aztec", name: "Aztec", author: "Niek Neuwahl" }
+{ id: "babel", name: "Babel", author: "Matthias Etter" }
+{ id: "babushka", name: "Babuschka", author: "Alan Newmann" }
+{ id: "babylon", name: "Babylon", publisher: "Fagus" }
+{ id: "backgammon", name: "Backgammon", players: "2", variation: "irish" }
+{ id: "bag-it", name: "Bag It!", author: "Martin Samuel" }
+{ id: "bailiwick", name: "Bailiwick", publisher: "R & R Games" }
+{ id: "bakari", name: "Bakari", author: "Bar David" }
+{ id: "bakto", name: "Bakto", publisher: "Bagicha Games" }
+{ id: "balance", name: "Balance", author: "Heinz Meister" }
+{ id: "balance-power", name: "Balance of Power", publisher: "Hasbro" }
+{ id: "balance-tower", name: "Balance Tower", publisher: "Simba" }
+{ id: "balancing-aliens", name: "Balancing Aliens", author: "Dale Walton" }
+{ id: "balanx", name: "Balanx", author: "Kris Burm" }
+{ id: "ball-and-chain", name: "Ball and Chain", author: "Mirko Marchesi" }
+{ id: "ballast", name: "Ballast", publisher: "Gigamic" }
+{ id: "ballbuster", name: "Ballbuster" }
+{ id: "banda", name: "Banda", author: "Alex Randolph" }
+{ id: "bandu", name: "Bandu", publisher: "Milton Bradley" }
+{ id: "barbacan", name: "Barbacan", publisher: "Fleurus" }
+{ id: "barricade", name: "Barricade", publisher: "Ravensburger" }
+{ id: "barrier", name: "Barrier", publisher: "Aladdin" }
+{ id: "barriere", name: "Barriere", publisher: "Schmidt International" }
+{ id: "basis", name: "Basis 10", publisher: "Parker Spiele" }
+{ id: "bataclan", name: "Bataclan", publisher: "Gigamic" }
+{ id: "batalo", name: "Batalo", author: "Scott Harmon" }
+{ id: "batik", name: "Batik", author: "Kris Burm" }
+{ id: "battle-royal", name: "Battle Royal", publisher: "Pepys" }
+{ id: "battleship", name: "Battleship", publisher: "Milton Bradley" }
+{ id: "battleship-game", name: "Battleship Game", publisher: "Whitman" }
+{ id: "battle-stations", name: "Battle Stations", publisher: "John E. Burleson" }
+{ id: "baubylon", name: "Baubylon", author: "Reinhold Wittig" }
+{ id: "bayard", name: "Bayard", author: "Michel Remacle" }
+{ id: "be-cool", name: "Be Cool", publisher: "Montana" }
+{ id: "beeline", name: "Beeline", publisher: "Good Games" }
+{ id: "belagerung", name: "Belagerung", publisher: "MB-Spiele" }
+{ id: "bermude", name: "Bermude", author: "Franck Monnoury" }
+{ id: "bewilder", name: "Bewilder", publisher: "Ideal" }
+{ id: "big-bang", name: "Big Bang", author: "Mona Schuling", author: "Kai Schanzl" }
+{ id: "big-battle", name: "Big Battle", author: "M. K. Morrison" }
+{ id: "bilitaire", name: "Bi-Litaire", author: "Kris Burm" }
+{ id: "billabong", name: "Billabong", author: "Eric Solomon" }
+{ id: "billo", name: "Billo", author: "Alberto Glisoni" }
+{ id: "biloba", name: "Biloba", author: "Guillaume Demougeot" } 
+{ id: "binfa", name: "Bin'Fa", author: "Ken Hodkinson" }
+{ id: "bishops", name: "Bishops", publisher: "EJW Consulting" }
+{ id: "bjamn", name: "B'Jamn", author: "Ethan C. Grant" }
+{ id: "blackbox", name: "Black box", publisher: "MB Spiele" }
+{ id: "black-box", name: "Black Box", author: "Eric Solomon" }
+{ id: "black-hole", name: "Black Hole", publisher: "???, 1986" }
+{ id: "black-or-white", name: "Black or White", publisher: "FX Schmid" }
+{ id: "bladder", name: "Bladder", publisher: "P. B. Games" }
+{ id: "blarf", name: "Blarf", publisher: "Parlor Games" }
+{ id: "blast", name: "Blast", author: "Mirko Marchesi" }
+{ id: "blockade", name: "Blockade", publisher: "Lakeside " }
+{ id: "blockers", name: "Blockers", author: "Leo Fourdraine" }
+{ id: "blockhead", name: "Blockhead", publisher: "Saalfield Publishing" }
+{ id: "block-it", name: "Block It", author: "Hans van Tol" }
+{ id: "block-out", name: "Block Out", publisher: "Hallmark" }
+{ id: "blockout", name: "Blockout", author: "Kate Jones" }
+{ id: "bloco", name: "Bloco", publisher: "Klee" }
+{ id: "blocus", name: "Blocus", publisher: "Lafont" }
+{ id: "bloff", name: "Blöff", publisher: "ASS" }
+{ id: "blokado", name: "Blokado", publisher: "Diset, S. A." }
+{ id: "blokus", name: "Blokus", author: "Bernard Tavitian" }
+{ id: "blox-o", name: "Blox-O", publisher: "Lubbers & Bell" }
+{ id: "blues-n-greys", name: "Blues & Greys", author: "Arthur Jaeger", author: "Henry Busch" }
+{ id: "boku", name: "Boku", author: "Rob Nelson" }
+{ id: "bolix", name: "Bolix", publisher: "Cadaco" }
+{ id: "bollox", name: "Bollox", author: "Rob Nelson" }
+{ id: "bombay", name: "Bombay Bazar", author: "Jean Charles Rodriguez", author: "Sylvie Barc" }
+{ id: "booby-trap", name: "Booby Trap", publisher: "Parker Brothers" }
+{ id: "boomerang", name: "Boomerang", author: "Claude Duvernay" }
+{ id: "booty", name: "Booty", publisher: "Leslie Games Ltd." }
+{ id: "borderline", name: "Borderline", publisher: "Lukepark Games" }
+{ id: "bosworth", name: "Bosworth", author: "Mark A. Osterhaus" }
+{ id: "bot", name: "Bot", author: "Mario Seabra" }
+{ id: "bottle-neck", name: "Bottle Neck", publisher: "Pepys" }
+{ id: "boundary", name: "Boundary", publisher: "Mattel" }
+{ id: "brace", name: "Brace", author: "Alan Cross-Vinson" }
+{ id: "brainline", name: "Brainline", publisher: "Palitoy" }
+{ id: "brainstorm", name: "Brainstorm", publisher: "E. S. Lowe" }
+{ id: "brandubh", name: "Brandubh", publisher: "Acorn Games" }
+{ id: "breakaway", name: "Break Away", publisher: "Gabriel" }
+{ id: "breaking-point", name: "Breaking Point", publisher: "Ideal" }
+{ id: "breakout1", name: "Breakout", publisher: "Waddingtons" }
+{ id: "break-out", name: "Breakout", publisher: "Schmidt" }
+{ id: "breakthru", name: "Breakthru", author: "Alex Randolph" }
+{ id: "brickbybrick", name: "Brick by Brick", publisher: "Binary Arts" }
+{ id: "bridg-it", name: "Bridg-It", author: "David Gale" }
+{ id: "brincolor", name: "Brincolor", author: "Paulo R. Peralta" }
+{ id: "british-square", name: "British Square", publisher: "Gabriel" }
+{ id: "buffalo", name: "Buffalo", author: "Alex Randolph" }
+{ id: "bulltricker", name: "Bulltricker", author: "David Jonca" }
+{ id: "bumerang", name: "Bumerang", author: "Peter Pallat" }
+{ id: "cabal", name: "Cabal", publisher: "Rimberry Ltd." }
+{ id: "cabale", name: "Cabale", author: "Roland Siegers" }
+{ id: "cackambi", name: "Cackambi", publisher: "Quimby Games" }
+{ id: "caesars-game", name: "Caesar's Game", publisher: "Waddingtons" }
+{ id: "caillou", name: "Caillou", author: "Ludovic Bost" }
+{ id: "cai-qi", name: "Cài Qí", author: "Patrick Hassel Zein" }
+{ id: "calypso", name: "Calypso", author: "Philip Shoptaugh" }
+{ id: "cam", name: "Cam", publisher: "Parker Brothers" }
+{ id: "cambio", name: "Cambio", author: "Maureen Hiron" }
+{ id: "cameleon", name: "Cameleon", author: "Henri Chanteux" }
+{ id: "camelot", name: "Camelot", author: "George Parker" }
+{ id: "cameo", name: "Cameo", author: "Rüdiger Dorn" }
+{ id: "camette", name: "Camette", author: "Michael Nolan" }
+{ id: "camp", name: "Camp", author: "Sid Sackson " }
+{ id: "cannae", name: "Cannae", author: "Jean Du Poel" }
+{ id: "cannon", name: "Cannon", author: "David Whitcher" }
+{ id: "cant-stop", name: "Can't Stop", author: "Sid Sackson" }
+{ id: "caprice", name: "Caprice", author: "Rolf Rotgers", author: "Oliver Bolten" }
+{ id: "capture", name: "Capture", publisher: "Gammon Games" }
+{ id: "captures", name: "Captures", publisher: "Milton Bradley" }
+{ id: "caramba4", name: "Caramba 4", author: "Dirk Laureyssens" }
+{ id: "carapace", name: "Carapace", publisher: "Plan B Corporation" }
+{ id: "carat", name: "Carat", author: "Dirk Henn" }
+{ id: "cardchess", name: "CardChess", author: "Jeff Widderich" }
+{ id: "cardino", name: "Cardino", publisher: "Milton Bradley" }
+{ id: "carre", name: "Carre 2000", author: "Henri Vergne" }
+{ id: "carrera", name: "Carrera de Ajedrez", author: "Alex Randolph" }
+{ id: "castello", name: "Castello", publisher: "Salagames " } 
+{ id: "catch-21", name: "Catch 21", publisher: "Gabriel " }
+{ id: "catchathief", name: "Catch a Thief", publisher: "Knots Games" }
+{ id: "catena", name: "Catena", author: "Reiner Knizia" }
+{ id: "cathedral", name: "Cathedral", author: "Robert P. Moore" }
+{ id: "cathedral-world", name: "Cathedral World", author: "Robert P. Moore" } 
+{ id: "cavendish", name: "Cavendish", author: "Maureen Hiron" }
+{ id: "ceega", name: "Ceega", publisher: "GATC" }
+{ id: "centre", name: "Centre", publisher: "Centre Games" }
+{ id: "centre-chess", name: "Centre Chess", publisher: "Amerigames International" }
+{ id: "centrepoint", name: "Centrepoint", publisher: "Ennerdale Enterprises Ltd." }
+{ id: "chain-reaction", name: "Chain Reaction", author: "Sid Sackson" }
+{ id: "challenge", name: "Challenge", publisher: "Stecker Enterprises" }
+{ id: "chamaleon", name: "Chamäleon", publisher: "YSK" }
+{ id: "chameleo", name: "Chameleo Chameleo", author: "Joris Wiersinga", author: "Herman Haverkort" }
+{ id: "chameleon-mb", name: "Chameleon", publisher: "Milton Bradley" }
+{ id: "chameleon-w", name: "Chameleon", publisher: "Waddingtons" }
+{ id: "chameleon", name: "Chameleon", publisher: "Pin International" } 
+{ id: "chameleon-a", name: "Chameleon for Four", publisher: "Pin International" }      
+{ id: "chaos", name: "Chaos", publisher: "Lakeside" }
+{ id: "chaos-tiles", name: "Chaos Tiles", author: "Ed Pegg Jr." }
+{ id: "charon", name: "Charon", publisher: "Gamin" }
+{ id: "chase", name: "Chase", author: "Tom Kruszewski" }
+{ id: "chaseback", name: "Chase Back", publisher: "Milton Bradley" }
+{ id: "chasse", name: "Chasse", author: "David Rhea" }
+{ id: "chebache", name: "Chebache", author: "Scott Pardee" }
+{ id: "checards", name: "Checards", publisher: "Cadaco-Ellis" }
+{ id: "check-4", name: "Check 4", publisher: "Wesing Enterprises" }
+{ id: "checkchess", name: "Checkchess" }
+{ id: "checkers-2000", name: "Checkers 2000", publisher: "Rex Games", variation: "checkers" }
+{ id: "checkers-4", name: "Checkers 4", publisher: "Wow Toys, Inc.", variation: "checkers" }
+{ id: "checkers-activator", name: "Activator Checkers", author: "Matthew Burke" }
+{ id: "checkers-albuquerque", name: "Albuquerque", variation: "checkers" }
+{ id: "checkers-army", name: "Army Checkers", publisher: "E. E. Fairchild, Corp.", variation: "checkers" }
+{ id: "checkers-avion", name: "Checkers Avion", variation: "checkers" }
+{ id: "checkers-battle", name: "Battle Checkers", publisher: "R. D. Fleck & Co.", variation: "checkers" }
+{ id: "checkers-canadian", name: "Canadian Checkers", variation: "checkers" }
+{ id: "checkers-chessapeak", name: "Chessapeak Checkers", publisher: "Chessapeak Games", variation: "checkers" }
+{ id: "checkers-checkmates", name: "Checkmates Checkers", publisher: "Checkmates Games", variation: "checkers" }
+{ id: "checkers-caribbean", name: "Caribbean Checkers", released: "1975", variation: "checkers" }
+{ id: "checkers-cha-cha", name: "Cha Cha Checkers", publisher: "Hasbro", variation: "checkers" }
+{ id: "checkers-chex", name: "Chex Checkers", author: "William Tambash", variation: "checkers" }
+{ id: "checkers-chip", name: "Chip", author: "K. Franklin", released: "2002", variation: "checkers" }
+{ id: "checkers-cube", name: "Cube Checkers", publisher: "DCP Ltd.", variation: "checkers" }
+{ id: "checkers-doubles", name: "Doubles Checkers", publisher: "DCP Ltd.", variation: "checkers" }
+{ id: "checkers-fascination", name: "Fascination Checkers", publisher: "Remco", variation: "checkers" }
+{ id: "checkers-fourhanded", name: "Four-handed Checkers", publisher: "Elmer Pearson", variation: "checkers" }
+{ id: "checkers-frisian", name: "Frisian Checkers", variation: "checkers" }
+{ id: "checkers-german", name: "German Checkers", variation: "checkers" }
+{ id: "checkers-gin", name: "Gin Checkers", publisher: "John W. Mill & Co.", variation: "checkers" }
+{ id: "checkers-give-take", name: "Give and Take", publisher: "Christopher Elis", author: "Christopher Elis", variation: "checkers", variation: "chess", variation: "backgammon" }
+{ id: "checkers-hex", name: "Hexcheckers", author: "Robert Slenker", variation: "checkers" }
+{ id: "checkers-intl", name: "International Checkers", variation: "checkers" }
+{ id: "checkers-italian", name: "Italian Checkers", variation: "checkers" }
+{ id: "checkers-king", name: "King Checkers", publisher: "Gallant Knight", variation: "checkers" }
+{ id: "checkers-king-row", name: "King Row Checkers", author: "Dale Weisman", variation: "checkers" }
+{ id: "checkers-kings-row", name: "Kings Row Checkers", publisher: "Comon-Tatar", variation: "checkers" }
+{ id: "checkers-marble", name: "Marble Checkers", publisher: "Chun Yee Toy Factory", variation: "checkers" }
+{ id: "checkers-military", name: "Military Checkers", publisher: "Rainshine Game Company", variation: "checkers" }
+{ id: "checkers-mystery", name: "Mystery Checkers", publisher: "Creative Ideas", variation: "checkers" }
+{ id: "checkers-old-geezer", name: "Old Geezer Checkers", publisher: "Tristar, Inc.", variation: "checkers" }
+{ id: "checkers-ossetian", name: "Ossetian Checkers" }
+{ id: "checkers-pond", name: "Pond Checkers", publisher: "Checkers Alive Games", variation: "checkers" }
+{ id: "checkers-quad", name: "Quad Checkers", publisher: "Quad Enterprises", variation: "checkers" }
+{ id: "checkers-quick", name: "Quick Checkers", publisher: "Amerigames International", variation: "checkers" }
+{ id: "checkers-ring-board", name: "Ring Board Checkers", variation: "checkers" }
+{ id: "checkers-russian", name: "Russian Checkers", variation: "checkers" }
+{ id: "checkers-shifty", name: "Shifty Checkers", publisher: "Aurora", variation: "checkers" }
+{ id: "checkers-solitary", name: "Solitary Checkers", author: "Jerry Tyler", variation: "checkers" }
+{ id: "checkers-space", name: "Space Checkers", publisher: "Pacific Game Co.", variation: "checkers" }
+{ id: "checkers-spanish", name: "Spanish Checkers", variation: "checkers" }
+{ id: "checkers-stadium", name: "Stadium Checkers", publisher: "Schaper", variation: "checkers" }
+{ id: "checkers-surround", name: "Surround Checkers", variation: "checkers" }
+{ id: "checkers-swing", name: "Swing Checkers", publisher: "Windsor Products", variation: "checkers" }
+{ id: "checkers-thai", name: "Thai Checkers" }
+{ id: "checkers-tri", name: "Tri-Checkers", publisher: "Tara Toy Corporation", variation: "checkers" }
+{ id: "checkers-turkish", name: "Turkish Checkers", variation: "checkers" }
+{ id: "checkers-turn-tables", name: "Turn the Tables Checkers", publisher: "Mattel", variation: "checkers" }
+{ id: "checkers-word", name: "Word-Checkers", author: "Gary M. Berlino", variation: "checkers" }
+{ id: "checkers-sidewinder", name: "Sidewinder Checkers", publisher: "Porta Sign Enterprises", variation: "checkers" }
+{ id: "checker-dice", name: "Checker Dice", publisher: "Samuel Eppy & Co." }
+{ id: "checkerelma", name: "Checkerelma" }
+{ id: "checkeroll", name: "Checkeroll", released: "1910" }
+{ id: "checkit", name: "Checkit", publisher: "Baekgaard Ltd.," }
+{ id: "checkline", name: "Checkline", publisher: "Crestline Mfg. Co." }
+{ id: "check-lines", name: "Check Lines", publisher: "Tri-ang" }
+{ id: "checkmates-chess", name: "Checkmates Chess", publisher: "Checkmates Games" }
+{ id: "checkmath", name: "Checkmath", publisher: "Grant Trading" }
+{ id: "check-o", name: "Check-O", publisher: "Saalfield" }
+{ id: "checko", name: "Checko", publisher: "Milton Bradley" }
+{ id: "checkorete", name: "Checkorete", publisher: "The Checkorete Company" }
+{ id: "checkpoint", name: "Check-Point", author: "Wolfgang Kramer" }
+{ id: "chehops", name: "Chehops", publisher: "Parker" }
+{ id: "chekko", name: "Chekko" }
+{ id: "check-ro", name: "Chek-Ro", publisher: "Standard Toykraft Products" }
+{ id: "chemaction", name: "Chemaction", publisher: "Borg-Warner Chemicals" }
+{ id: "chequero", name: "Chequéro", publisher: "Lakeside" }
+{ id: "chercles", name: "Chercles", publisher: "Parker Brothers" }
+{ id: "chess-II", name: "Chess II", publisher: "The Ungame Co." }
+{ id: "chess-4", name: "Chess 4", publisher: "Wow Toys, Inc." }
+{ id: "chessapeak", name: "Chessapeak Challenge", publisher: "Chessapeak Games" }
+{ id: "chessers", name: "Chessers", publisher: "Phillips, Inc." }
+{ id: "chessington", name: "Chessington", author: "David Watts" }
+{ id: "chess-3rd", name: "Chess in the 3rd Dimension", publisher: "Skor Mor" }
+{ id: "chess-mutation", name: "Chess Mutation", publisher: "Moebius Evolution" }
+{ id: "chessword", name: "Chessword", publisher: "Waddingtons" }
+{ id: "chifoumi", name: "Chifoumi", author: "Nicolas Halpern-Herla" }
+{ id: "chimera", name: "Chimera", alias: "年獸", publisher: "Z-MAN Games", author: "Ralph H. Anderson" }
+{ id: "china-checkers", name: "China Checkers", publisher: "Comon-Tatar", note: "Like a 4x4 mills game, each player has three pieces." }
+{ id: "chinese-checkers", name: "Chinese Checkers", publisher: "Pressman", variation: "Halma" }
+{ id: "chinese-chess", name: "Chinese Chess", publisher: "Gabriel" }
+{ id: "ching-gong", name: "Ching Gong", note: "Checkers variant for four players." }
+{ id: "chivalry", name: "Chivalry", author: "George Parker" }
+{ id: "choiss", name: "Choiss", publisher: "Choiss Game Corp." }
+{ id: "chopstix", name: "Chop Stix", publisher: "TDC Games" }
+{ id: "chromino", name: "Chromino", author: "Louis Abraham" }
+{ id: "chuco", name: "Chuco", released: "1978" }
+{ id: "chung-toi", name: "Chung Toi", author: "Reginald Chung" }
+{ id: "circulus", name: "Circulus", author: "Reinhold Wittig" }
+{ id: "cirk", name: "Cirk", author: "Corne Van Moorsel" }
+{ id: "cirondo", name: "Cirondo", publisher: "Cirondo Games" }
+{ id: "citadel", name: "Citadel", publisher: "Parker Brothers" }
+{ id: "citadel2", name: "Citadel", publisher: "Selected Scientific Specialties" }
+{ id: "cityscape", name: "Cityscape", publisher: "Pin International" }
+{ id: "claim-", name: "Claim", author: "Alex Randolph" }
+{ id: "claim", name: "Claim", author: "Oliver Deiser" }
+{ id: "clash", name: "Clash", publisher: "Pressman" }
+{ id: "cleopatra-gambit", name: "Cleopatra's Gambit", author: "Victor Talalay" }
+{ id: "coast-coast", name: "Coast to Coast", publisher: "Binary Arts" }
+{ id: "cohorts", name: "Cohorts", publisher: "TSR" }
+{ id: "colomino", name: "Colomino", author: "Max J. Kobbert" }
+{ id: "coloption", name: "Coloption", publisher: "Garon Games" }
+{ id: "colorado", name: "Colorado", author: "Michael Antonow" }
+{ id: "colorante", name: "Colorante", author: "Jan Beckert" }
+{ id: "color-cubes", name: "Color Cubes", publisher: "IGI" }
+{ id: "colorito", name: "Colorito", publisher: "Hayford & Sons" }
+{ id: "colorix", name: "Colorix", publisher: "Haba" }
+{ id: "colorloc", name: "Colorloc", author: "Victor Talalay" }
+{ id: "color-match", name: "Color Match", publisher: "Ideal" }
+{ id: "color-maze", name: "Color Maze", author: "Dwayne Mears" }
+{ id: "colors", name: "Colors", author: "Ennio Peres" }
+{ id: "color-up", name: "Color Up", author: "Zdravko Zivkovic" }
+{ id: "columns", name: "Columns", author: "David Ward" }
+{ id: "complica", name: "Complica", author: "Reiner Knizia" }
+{ id: "cone-sanctuary", name: "Cone Sanctuary", publisher: "A-O-A Big Games" }
+{ id: "confusion", name: "Confusion", author: "Robert Abbott" }
+{ id: "conga", name: "Conga", author: "Martin Franke" }
+{ id: "connect-four", name: "Connect Four", publisher: "Milton Bradley" }
+{ id: "connections", name: "Connections", author: "Tom McNamara" }
+{ id: "connections-c", name: "Connections Compact", author: "Tom McNamara" }
+{ id: "connexion", name: "Connexion", author: "Sebastien Sjoholm" }
+{ id: "conquest", name: "Conquest", author: "Donald Benge" }
+{ id: "conquest4", name: "Conquest +", author: "Donald Benge" }
+{ id: "constellation", name: "Constellation", author: "Helmut Kimpel" }
+{ id: "contack", name: "Contack", publisher: "Volume Spayer Mfg." }
+{ id: "contact", name: "Contact", publisher: "Ravensburger" }
+{ id: "contigo", name: "Contigo", author: "Frank Thibault" }
+{ id: "continuo", name: "Continuo", author: "Maureen Hiron" }
+{ id: "contra50", name: "Contra 50", publisher: "ASS" }
+{ id: "corda", name: "Corda", author: "Reinhold Wittig" }
+{ id: "corintho", name: "Corintho", publisher: "Family Games" }
+{ id: "corkers", name: "Corkers", publisher: "Corkers Co." }
+{ id: "corner", name: "Corner", author: "Sid Sackson" }
+{ id: "corx", name: "Corx", author: "David Voegele" }
+{ id: "cosmos", name: "Cosmos", publisher: "Cosmos Games" }
+{ id: "counterpoint", name: "Counterpoint", publisher: "Hallmark" }
+{ id: "counterstrike", name: "Counterstrike", publisher: "Essex Game Co." }
+{ id: "courier", name: "Courier", publisher: "Aladdin" }
+{ id: "courtyard", name: "Courtyard", author: "Len Kalich" }
+{ id: "creeper", name: "Creeper", author: "Graham Lipscomb" }
+{ id: "crescendo", name: "Crescendo", author: "Claude Jonette" }
+{ id: "cristallo", name: "Cristallo", author: "Tom Werneck" }
+{ id: "crossado", name: "Crossado", author: "Eckhardt W. Förster" }
+{ id: "crosscheck", name: "Crosscheck" }
+{ id: "cross-court", name: "Cross Court", publisher: "Soft Pak International" }
+{ id: "crosse", name: "Crosse", publisher: "DMR Games" }
+{ id: "crossover", name: "Cross Over", publisher: "SJB Products" }
+{ id: "cross-purposes", name: "Cross Purposes", publisher: "Aladdin" }
+{ id: "crosstrack", name: "Crosstrack", author: "Philip Shoptaugh" }
+{ id: "crown-red", name: "Crown Red", publisher: "Parker Brothers" }
+{ id: "crusade", name: "Crusade", publisher: "Gabriel" }
+{ id: "crusaders", name: "Crusaders", author: "H. Eisenmann" }
+{ id: "cube-fusion", name: "Cube Fusion", publisher: "Waddingtons" }
+{ id: "cubicado", name: "Cubicado", author: "Michael Sohre", author: "Werner Falkhof" }
+{ id: "cubits", name: "Cubits", publisher: "Hallmark " }
+{ id: "cubulus", name: "Cubulus", author: "Benoit Launier" }
+{ id: "cubus", name: "Cubus", author: "Reinhold Wittig" }
+{ id: "cul-de-sac", name: "Cul de Sac", publisher: "Lazy Days" }
+{ id: "cursus-ix", name: "Cursus IX", publisher: "Bock Ltd." }
+{ id: "cyclo", name: "Cyclo", author: "José Díaz" }
+{ id: "cylinder", name: "Cylinder", author: "Ole Jensen" }
+{ id: "cypher", name: "Cypher", publisher: "Intellect Games" }
+{ id: "d-code", name: "D-Code", publisher: "Spear Spiele" }
+{ id: "dablot-prejjesne", name: "Dablot Prejjesne", publisher: "Oak Games" }
+{ id: "dacapo", name: "Dacapo", author: "Sid Sackson" }
+{ id: "damas-chinas", name: "Damas Chinas", publisher: "Juegos Borras" }
+{ id: "dameo", name: "Dameo", author: "Christian Freeling", released: "2000", variation: "checkers" }
+{ id: "dao", name: "Dao", author: "Ben van Buskirk", author: "Jeff Pickering" }
+{ id: "das-glastropfen", name: "Das Glastropfen Spiel", author: "Dieter Matthes", author: "Sylvia Heinz" }
+{ id: "daslieblings", name: "Das Lieblingsspiel Von Adam Riese", author: "Günter Burkhardt" }
+{ id: "das-spiel", name: "Das Spiel", author: "Reinhold Wittig" }
+{ id: "dawsons-chess", name: "Dawson's Chess", author: "Thomas Rayner Dawson", released: "1935" }
+{ id: "deadlock", name: "Deadlock", publisher: "Leisure Life" }
+{ id: "dead-pan", name: "Dead Pan", publisher: "Selchow & Righter" }
+{ id: "decadex", name: "Décadex", author: "Didier Faradji" }
+{ id: "decipher", name: "Decipher", publisher: "Pressman" }
+{ id: "decoy", name: "Decoy", publisher: "Selchow & Righter" }
+{ id: "deduction", name: "Deduction", publisher: "Ideal" }
+{ id: "defi", name: "Defi!", author: "Alex Randolph" }
+{ id: "deflection", name: "Deflection", publisher: "Milton Bradley" }
+{ id: "delta1", name: "Delta", author: "Erich Brunner" }
+{ id: "delta", name: "Delta", publisher: "IQ Co. Ltd." }
+{ id: "derive", name: "Dérive", author: "Catherine Gibaud", author: "Olivier Gibaud" }
+{ id: "diaballik", name: "Diaballik", author: "Philippe Lefrancois" }
+{ id: "diagonale", name: "Diagonale", publisher: "KFL" }
+{ id: "diam", name: "Diam", author: "Alain Couchot", author: "Bernard Klein" }
+{ id: "diamant", name: "Diamant", author: "Andrea Steym" }
+{ id: "diceland", name: "Diceland", author: "Spartaco Albertarelli" }
+{ id: "die-drei", name: "Die Drei", author: "Alex Randolph" }
+{ id: "die-mauer", name: "Die Mauer", author: "Thomas Fackler" }
+{ id: "dimenticato", name: "Dimenticato", author: "Dr. Ferdinand Hein" }
+{ id: "dino-dgm", name: "Dino Dodg'em", publisher: "Binary Arts" }
+{ id: "disc-triangles", name: "Disc-Triangles", publisher: "A-O-A Big Games" }
+{ id: "djambi", name: "Djambi", author: "Jean Anesto" }
+{ id: "doghouse", name: "Doghouse", author: "M. J. Moran" }
+{ id: "domain", name: "Domain", author: "Claude Duvernay" }
+{ id: "domicolor", name: "Domicolor", author: "Liora Yanei" }
+{ id: "domination", name: "Domination", author: "James Rowan", author: "Thomas Woodrow" }
+{ id: "domination2", name: "Domination", author: "Sid Sackson" }
+{ id: "dominique", name: "Dominique", publisher: "Great Games" }
+{ id: "doquin", name: "Doquin", publisher: "Topits Mfg." }
+{ id: "double-cross", name: "Double Cross", publisher: "Lakeside" }
+{ id: "double-decker", name: "Double Decker", publisher: "Pressman" }
+{ id: "double-dekko", name: "Double Dekko", publisher: "Ariel" }
+{ id: "double-morphus", name: "Double Morphus", publisher: "Lost Horizons" }
+{ id: "doubles-chess", name: "Doubles Chess", publisher: "DCP Ltd." }
+{ id: "doubles-wild", name: "Doubles Wild", publisher: "Enginuity" }
+{ id: "double-trouble", name: "Double Trouble", publisher: "Whitman" }
+{ id: "downfall", name: "Downfall", publisher: "Milton Bradley" }
+{ id: "down-tubes", name: "Down the Tubes", publisher: "Whitman" }
+{ id: "down-under", name: "Down Under" }
+{ id: "dozo", name: "Dozo", author: "Alex Randolph" }
+{ id: "dragons", name: "Dragons", publisher: "Chieftain Games" }
+{ id: "dragoon", name: "Dragoon Chess", author: "Darrell Johnson" }
+{ id: "draughts", name: "Checkers", alias: "Draughts", alias: "Dam", alias: "Dames", alias: "Checker Game", players: "2", publisher: "(public domain)", variation: "alquerque" }
+{ id: "dreh-mich-um", name: "Dreh Mich Um", publisher: "Parker" }
+{ id: "drekar", name: "Drekar", author: "Martin Samuel" }
+{ id: "dr-hombix", name: "Dr. Hombix", author: "Jean Bauer" }
+{ id: "druckfix", name: "Drückfix", publisher: "Invicta" }
+{ id: "drumlin", name: "Drumlin", publisher: "FX Schmid" }
+{ id: "dschungel", name: "Dschungel", publisher: "Spear-Spiele" }
+{ id: "dschungo", name: "Dschungo", publisher: "ASS" }
+{ id: "dual", name: "Dual", author: "Eugene Oker", author: "Rudolf Ross" }
+{ id: "dualplay", name: "Dual Play", publisher: "Reflex Products" }
+{ id: "duell", name: "Duell", author: "Geoffrey Hayes" }
+{ id: "duo", name: "Duo", publisher: "Gigamic" }
+{ id: "duopento", name: "Duopento", publisher: "Logika-Spiele" }
+{ id: "dvonn", name: "Dvonn", author: "Kris Burm" }
+{ id: "dyade", name: "Dyade", publisher: "Bütehorn" }
+{ id: "eckha", name: "Eckha", publisher: "Milton Bradley" }
+{ id: "eclipse-t", name: "Eclipse", publisher: "Tedco" }
+{ id: "egalite", name: "Egalité", author: "Kai Haferkamp" }
+{ id: "eikra", name: "Eikra" }
+{ id: "elcanto", name: "Elcanto", author: "Kris Burm" }
+{ id: "elemental", name: "Elemental", author: "Greg Stolze" }
+{ id: "emperors-challenge", name: "Emperors Challenge", publisher: "Discovery Toys" }
+{ id: "endpoint", name: "Endpoint", author: "Art Blumberg" }
+{ id: "en-garde", name: "En Garde!", publisher: "Mynd Games" }
+{ id: "entrapment", name: "Entrapment", author: "Rich Gowell" }
+{ id: "entscheidung", name: "Entscheidung", publisher: "Noris Spiele" }
+{ id: "epaminondas", name: "Epaminondas", author: "Robert Abbott" }
+{ id: "ergo", name: "Ergo", publisher: "Invicta" }
+{ id: "escampe", name: "Escampe", author: "Claude Leroy" }
+{ id: "etoile", name: "Etoile", author: "Michael Palm" }
+{ id: "etoiles-filantes", name: "Etoiles Filantes", author: "Victor Lucas" }
+{ id: "euro-jump", name: "Euro Jump", author: "Francesco Rotta", publisher: "Giocologico", released: "2002" }
+{ id: "evade", name: "Evade", author: "Alex Randolph" }
+{ id: "evolution", name: "Evolution", author: "David Wells" }
+{ id: "exedo", name: "Exedo", author: "Goran Veljkovich" }
+{ id: "ex-it", name: "Ex-It", publisher: "Playcraft" }
+{ id: "exit", name: "Exit", publisher: "Milton Bradley" }
+{ id: "express-chess", name: "Express Chess", author: "Bill Jemas" }
+{ id: "extratour", name: "Extratour", publisher: "FX Schmid" }
+{ id: "eye", name: "Eye", author: "B. Barry", author: "K. Kevill", author: "I. Luttring" }
+{ id: "face-it", name: "Face It", author: "Gary Cowley", author: "Roy Cowley", author: "Wayne Hurley", pulisher: "CoCoCo", publisher: "Talicor/Aristoplay", released: "2001", mechanism: "tile-placement" }
+{ id: "faces-crowd", name: "Faces in the Crowd", publisher: "Piatnik" }
+{ id: "falle", name: "Falle", author: "Werner Ewald" }
+{ id: "familien-mastermind", name: "Familien Mastermind", publisher: "Parker Spiele" }
+{ id: "family-mastermind", name: "Family Mastermind", publisher: "Invicta" } 
+{ id: "famos-spiel", name: "Famos Spiel", publisher: "Faller Spiele" }
+{ id: "fanorona", name: "Fanorona", note: "Madagascar's national game." }
+{ id: "fantasia", name: "Fantasia", publisher: "Viking Games" }
+{ id: "fantasmi", name: "Fantasmi", author: "Alex Randolph" }
+{ id: "farook", name: "Farook", publisher: "Amuse, Inc." }
+{ id: "feudal", name: "Feudal", publisher: "3M Company" }
+{ id: "feuer-wasser", name: "Feuer & Wasser", author: "Jim Winslow" }
+{ id: "feux-croises", name: "Feux Croises", publisher: "Laffont" }
+{ id: "fibonacci", name: "Fibonacci", author: "Thomas Naylor" }
+{ id: "fighting-serpents", name: "Fighting Serpents", alias: "Culebra", alias: "Fighting Snake", alias: "Kämpfende Schlange", alias: "Kämpfende Schlangen", alias: "Kolowis", alias: "Kolowis Awithlaknannai", alias: "Navajo", alias: "The Serpent Game", alias: "Stone That Kills", publisher: "(public domain)", variation: "Alquerque" }
+{ id: "finders-keepers", name: "Finders Keepers", publisher: "Milton Bradley" }
+{ id: "finesse", name: "Finesse", publisher: "Fleurus " }
+{ id: "fire", name: "Fire", author: "Michael Sohre", author: "Werner Falkhof" }
+{ id: "fire-ice", name: "Fire and Ice", author: "Jens-Peter Schliemann" }
+{ id: "first-to-5", name: "First to 5", publisher: "Irwin Toys" }
+{ id: "first-to-five", name: "First to Five", publisher: "Tedco" }
+{ id: "fish-chips", name: "Fish & Chips", author: "Sid Sackson" }
+{ id: "fits", name: "Fits", author: "Charles B. Phillips", author: "Ronald Wiecek" }
+{ id: "fitz", name: "Fitz", publisher: "Hallmark Games" }
+{ id: "five-in-a-row", name: "Five in a Row", publisher: "The Copp Clark Co." }
+{ id: "fiveplay", name: "Fiveplay", author: "Phillip Shoptaugh" }
+{ id: "flip-flop", name: "Flip & Flop", publisher: "Gameophiles Unlimited" }
+{ id: "flip-flop-go", name: "Flip Flop Go", publisher: "Mattel" }
+{ id: "flipop", name: "Flipop", author: "Sebastien Sjoholm" }
+{ id: "flippex", name: "Flippex", author: "Marcel Turtle" }
+{ id: "flix", name: "Flix", author: "Kris Burm" }
+{ id: "flotte-krabbe", name: "Flotte Krabbe", author: "Sid Sackson" }
+{ id: "flower-fields", name: "Flower Fields", publisher: "Pin International" }
+{ id: "flowerpower", name: "Flowerpower", author: "Angelika Fassauer", author: "Peter Haluszka" } 
+{ id: "fluctus", name: "Fluctus", author: "Friedrich Loos" }
+{ id: "fluxx", name: "Fluxx", publisher: "Looney Labs", released: "1996" }
+{ id: "focus", name: "Focus", alias: "Domination", alias: "Dominio", alias: "Fokus", alias: "Focus logica e tattica", author: "Sid Sackson" }
+{ id: "force", name: "Force", publisher: "Invicta" }
+{ id: "force-3", name: "Force 3", publisher: "Ravensburger" }
+{ id: "foresight", name: "Foresight", publisher: "The IQ Company" }
+{ id: "forma", name: "Forma", author: "H. J. Geesink" }
+{ id: "form-fours", name: "Form Fours", publisher: "Tri-ang" }
+{ id: "formino", name: "Formino", publisher: "Intelli" }
+{ id: "forte", name: "Forte", author: "Garrett J. Donner" }
+{ id: "forum-romanum", name: "Forum Romanum", author: "Wolfgang Kramer" }
+{ id: "fouray", name: "Fouray", author: "Jack Quinn" }
+{ id: "mancala-4p", name: "Four-Player Mancala", publisher: "Square Root" }
+{ id: "fours", name: "Fours", publisher: "Tri-ang" }
+{ id: "foursight", name: "Foursight", publisher: "Lakeside" }
+{ id: "four-sight", name: "Four Sight", publisher: "Invicta" }
+{ id: "four-up", name: "Four Up", publisher: "Waddingtons" }
+{ id: "fox-geese", name: "Fox & Geese", publisher: "Chad Valley" }
+{ id: "foxy", name: "Foxy", publisher: "Milton Bradley" }
+{ id: "freez", name: "Freez!", author: "Judith Lahore" }
+{ id: "freeze-frame", name: "Freeze Frame", publisher: "Discovery Toys" }
+{ id: "fruit-jam", name: "Fruit Jam", author: "Martin Samuel" }
+{ id: "galactix", name: "Galactix", publisher: "Origineering" }
+{ id: "galax", name: "Galax", author: "Martial Tramond" }
+{ id: "galaxy-chess", name: "Galaxy Chess", publisher: "Kleinverlag" }
+{ id: "gallop", name: "Gallop", author: "Christopher Clark" }
+{ id: "gambit", name: "Gambit", publisher: "Universal Games" }
+{ id: "game-99", name: "Game of 99", publisher: "Broman Percepta" }
+{ id: "game-eagles", name: "Game of Eagles", publisher: "Transogram" }
+{ id: "game-fives", name: "Game of Fives", publisher: "Ariel Games" }
+{ id: "game-goose", name: "Game of the Goose", alias: "Royal Game of Goose" }
+{ id: "game-solomon", name: "Game of Solomon", author: "Martin Gardner", author: "Kate Jones" }
+{ id: "game-y", name: "Game of Y", author: "Charles Titus", author: "Craige Schensted" }
+{ id: "gaudi", name: "Gaudí", author: "Oriol Comas", author: "Jep Ferret" }
+{ id: "geister", name: "Geister", author: "Alex Randolph" }
+{ id: "gembel", name: "Gembel", publisher: "Ekos Spiele" }
+{ id: "geo-chess", name: "Geo Chess", publisher: "Pack Pro" }
+{ id: "ghosts", name: "Ghosts", author: "Alex Randolph" }
+{ id: "ghq", name: "General Headquarters (GHQ)", publisher: "All Fair Games" }
+{ id: "gimel", name: "Gimel", author: "Manuel A. Widmaier" }
+{ id: "gipf", name: "Gipf", author: "Kris Burm" }
+{ id: "giseh", name: "Giseh!", author: "Detlef Kessler" }
+{ id: "give-take", name: "Give & Take", publisher: "Ideal" }
+{ id: "gle-x", name: "Gle'x", author: "Zoltan Bartok" }
+{ id: "global-chess", name: "Global Chess", author: "Tony Welman", author: "David Welman" }
+{ id: "glyphix", name: "Glyphix", author: "Frank Ciofalo" }
+{ id: "gnosis", name: "Gnosis", publisher: "Hermes Spiele" }
+{ id: "goal", name: "Goal" }
+{ id: "go-bang", name: "Go Bang", publisher: "Milton Bradley" }
+{ id: "gobblet", name: "Gobblet", author: "Thierry Denoual" }
+{ id: "go-gobang", name: "Go & Gobang", publisher: "Ravensburger" }
+{ id: "go-ju", name: "Go Ju", author: "Christiane Frankenstein" }
+{ id: "gomony", name: "Gomony" }
+{ id: "gomo-q", name: "Gomo-Q", publisher: "Amerco Game Products" }
+{ id: "gran", name: "Gran", author: "Kurt Feyerabend", author: "Tom Ring" }
+{ id: "granat", name: "Granat", publisher: "Bütehorn" }
+{ id: "grand-camelot", name: "Grand Camelot", author: "George Parker" }
+{ id: "grand-mastermind", name: "Grand Mastermind", publisher: "Invicta" }
+{ id: "graphi-art-duo", name: "Graphi Art Duo", publisher: "Igepa" }
+{ id: "gravitem", name: "Gravitem", publisher: "Pilou Co." }
+{ id: "great-walls", name: "Great Walls", author: "Benjamin M. Cedarberg" }
+{ id: "gretrix", name: "Gretrix", publisher: "GDS" }
+{ id: "gridlock", name: "Gridlock", publisher: "Ideal" }
+{ id: "gridrunner", name: "Gridrunner", publisher: "Tapestry Games" }
+{ id: "gro", name: "Gro", publisher: "Interformic Games" }
+{ id: "groovy", name: "Groovy", publisher: "Milton Bradley" }
+{ id: "gryb", name: "Gryb", author: "J. David Barnhart" }
+{ id: "guard", name: "Guard", publisher: "Waddingtons" }
+{ id: "gung-ho", name: "Gung Ho", publisher: "E. S. Lowe" }
+{ id: "guru", name: "Guru", publisher: "E. S. Lowe" }
+{ id: "gyges", name: "Gyges", author: "Claude Leroy" }
+{ id: "hack-attack", name: "Hack Attack", publisher: "Gamewright" }
+{ id: "halma", name: "Halma", author: "George H. Monks" }
+{ id: "hamster-rolle", name: "Hamster Rolle", author: "Jacques Zeimet" }
+{ id: "hannibal", name: "Hannibal", publisher: "Parker Brothers" }
+{ id: "haoz", name: "Haoz", author: "Hassen Hrir" }
+{ id: "hard-line", name: "Hard Line", author: "William Mclean" }
+{ id: "harzdame", name: "Harzdame", author: "Benedikt Rosenau", released: "2009", variation: "checkers" }
+{ id: "havannah", name: "Havannah", author: "Christiaan Freeling" }
+{ id: "havoc", name: "Havoc", publisher: "Surge Investments Inc." }
+{ id: "headquarter", name: "Headquarter", author: "Michael Sohre" }
+{ id: "heads-tails", name: "Heads & Tails", publisher: "Ideal" }
+{ id: "head-to-head", name: "Head to Head", publisher: "E. S. Lowe" }
+{ id: "hekla", name: "Hekla", author: "Martin Schlegel" }
+{ id: "helios", name: "Helios", publisher: "Polygon Corporation" }
+{ id: "hepta", name: "Hepta", author: "Alex Randolph" }
+{ id: "hex-connect", name: "Hex", alias: "Nash", author: "Piet Hein", author: "John Nash", released: "1942" }
+{ id: "hex-match", name: "Hex (Color Matching Game)", publisher: "Spear's Games" }
+{ id: "hexaclub", name: "Hexaclub", publisher: "Midelo Products" }
+{ id: "hexchess", name: "Hexchess", author: "Mark Walsh" }
+{ id: "hexdame", name: "Hexdame", author: "Christian Freeling", released: "1979" }
+{ id: "hexehop", name: "Hexehop", publisher: "Pin International" }
+{ id: "hex-meister", name: "Hex-Meister", author: "E. L. Helvey", author: "W. M. Helvey" }
+{ id: "hexmozaik", name: "Hexmozaik", author: "Charles Butler" }
+{ id: "hex-nut", name: "Hex Nut", author: "Luke Weisman", author: "Tom Person" }
+{ id: "hexogram", name: "Hexogram", publisher: "Lakeside" }
+{ id: "hextension", name: "Hextension", publisher: "Spear's Games" }
+{ id: "hide", name: "Hide", variation: "checkers" }
+{ id: "hideaway", name: "Hideaway", publisher: "Skye Marketing" }
+{ id: "high-gear", name: "High Gear", publisher: "Mattel" }
+{ id: "high-hand", name: "High Hand", publisher: "E. S. Lowe" }
+{ id: "high-kings-of-tara", name: "High Kings of Tara", author: "Murray Heasman" }
+{ id: "hijara", name: "Hijara", author: "Martin H. Samuel" }
+{ id: "hi-q-dominooos", name: "Hi-Q Dominooos", publisher: "Kohner Bros.", released: "1972" }
+{ id: "hique", name: "Hique", publisher: "D & L Company" }
+{ id: "hi-spot", name: "Hi Spot", publisher: "Parker Brothers" }
+{ id: "hive", name: "Hive", publisher: "Hivemania" }
+{ id: "hoch-3", name: "Hoch 3", publisher: "Parker" }
+{ id: "fort", name: "Hold the Fort", publisher: "Parker Brothers" }
+{ id: "hollywood-go", name: "Hollywood Go", publisher: "Parker Brothers" }
+{ id: "home", name: "Home You Go!", publisher: "Spear's Games" }
+{ id: "hong-kong", name: "Hong Kong", author: "Reiner Knizia" }
+{ id: "hoo-doo", name: "Hoo Doo", publisher: "Tryne Sales" }
+{ id: "hoppit", name: "Hoppit!", publisher: "Waddingtons" }
+{ id: "hops", name: "Hops", author: "Tom Werneck" }
+{ id: "hot-spot", name: "Hot Spot", publisher: "Parker Brothers" }
+{ id: "hunch", name: "Hunch", publisher: "Happy Hour" }
+{ id: "hyle", name: "Hyle", author: "Eric Solomon" }
+{ id: "hyle-7", name: "Hyle 7", author: "Eric Solomon" }
+{ id: "hyperchess", name: "Hyperchess", publisher: "Computer Graphics" }
+{ id: "ice-blocks", name: "Ice Blocks", author: "Ann Stambler", author: "Monty Stambler" }
+{ id: "icehouse", name: "Icehouse", author: "John Cooper", author: "Andrew Looney" }
+{ id: "ice-lake", name: "Ice Lake", author: "Patrick Matthews" }
+{ id: "i-ching", name: "I Ching", author: "Patrick Matthews" }
+{ id: "ico", name: "Ico", author: "F. Nichols", author: "J. Danner" }
+{ id: "icyblue", name: "Icy Blue", author: "Martin Samuel" }
+{ id: "ido", name: "Ido", author: "Bernhard Weber" }
+{ id: "imago", name: "Imago", author: "Anatol Holt" }
+{ id: "imperator", name: "Imperator", publisher: "The Smurfit Group" }
+{ id: "imperium", name: "Imperium", author: "Frank Thibault" }
+{ id: "imuri", name: "Imuri", author: "Klaus Munro", variant: "twixt", note: "Had a larger (30x30) grid.  Removed from shelves for copyright infringement." }
+{ id: "in-dark", name: "In the Dark", publisher: "Parker Brothers" }
+{ id: "indians-and-cowboys", name: "Indians and Cowboys", publisher: "Gabriel" }
+{ id: "infinifield", name: "Infinifield", publisher: "Infinifield, Inc." }
+{ id: "infinite-chess", name: "Infinite Chess", publisher: "Infinite Chess Co." }
+{ id: "inka", name: "Inka", author: "Johannes Ruttinger" }
+{ id: "inner-circle", name: "Inner Circle", publisher: "Milton Bradley" }
+{ id: "innervision", name: "Innervision", publisher: "Wiggins Teape" }
+{ id: "input", name: "Input", publisher: "Milton Bradley" }
+{ id: "input-dm", name: "Input", author: "Edelbert Wiedmann" }
+{ id: "insouts", name: "Ins + Outs", publisher: "Spear-Spiele" }
+{ id: "inside-moves", name: "Inside Moves", publisher: "Parker Brothers" }
+{ id: "instant-replay", name: "Instant Replay", publisher: "Parker Brothers" }
+{ id: "interaction", name: "Interaction", publisher: "Waddingtons" }
+{ id: "intermedium", name: "Intermedium", author: "Matt Crispis" }
+{ id: "intermezzo", name: "Intermezzo", author: "Reiner Knizia" }
+{ id: "interplay", name: "Interplay", author: "Phillip Shoptaugh" }
+{ id: "intersection", name: "Intersection", author: "Sid Sackson" }
+{ id: "interwoven", name: "Interwoven", author: "Marcus Hutter" }
+{ id: "intrigue", name: "Intrigue", variation: "checkers" }
+{ id: "invers", name: "Invers", author: "Kris Burm" }
+{ id: "iq-5", name: "IQ 5", author: "Klaus Beuth" }
+{ id: "irono-ofubi", name: "Irono Ofubi", author: "Jurgen Grunau" }
+{ id: "irrgarten", name: "Irrgarten", publisher: "MB-Spiele" }
+{ id: "irrgendwie", name: "Irrgendwie", author: "Dieter Matthes", author: "Sylvia Heinz" }
+{ id: "isi", name: "Isi", author: "Corne van Moorsel" }
+{ id: "isis", name: "Isis", author: "Horst Alexander Renz" }
+{ id: "isis-osiris", name: "Isis & Osiris", author: "Michael Schacht" }
+{ id: "isola", name: "Isola", author: "Bernd Kienitz" }
+{ id: "isolation", name: "Isolation", author: "Bernd Kienitz" }
+{ id: "janus", name: "Janus", author: "Rudi Hoffman" }
+{ id: "jati", name: "Jati", publisher: "3M Company" }
+{ id: "jekyll-hyde", name: "Jekyll & Hyde", publisher: "Waddingtons" }
+{ id: "jenga", name: "Jenga", publisher: "Milton Bradley" }
+{ id: "jericho", name: "Jericho", author: "Jean-Louis Roubira" }
+{ id: "jump", name: "Jump", publisher: "Milton Bradley" }
+{ id: "jumpin", name: "Jumpin", publisher: "3M Company" }
+{ id: "jungle-P", name: "Jungle", author: "Rudolf Ross" }
+{ id: "jungle", name: "Jungle", publisher: "Spear's Games" }
+{ id: "jungle-king", name: "Jungle King", publisher: " Waddingtons" }
+{ id: "junta", name: "Junta", publisher: "Capri Games" }
+{ id: "kage", name: "Kage", author: "Dave Rea" }
+{ id: "kaissa", name: "Kaissa", author: "Jeff Shaffer" }
+{ id: "kalaha", name: "Kalaha", publisher: "Schmidt" }
+{ id: "kaliko", name: "Kaliko", publisher: "Kadon Enterprises" }
+{ id: "kangaroo", name: "Kangaroo", author: "John Flagg" }
+{ id: "kanguruh", name: "Kanguruh", publisher: "MB Spiele" }
+{ id: "kanto", name: "Kanto", publisher: "MB Spiele" }
+{ id: "kaos", name: "Kaos", author: "Robert Peeples" }
+{ id: "karambolage", name: "Karambolage", publisher: "Spear-Spiele" }
+{ id: "karamo", name: "Karamo" }
+{ id: "kardinal", name: "Kardinal", author: "Wolfgang Panning" }
+{ id: "karnak", name: "Karnak", author: "Horst Alexander Renz" }
+{ id: "katamino", name: "Katamino", publisher: "DJ Games" }
+{ id: "kathedrale", name: "Kathedrale", author: "Robert P. Moore" }
+{ id: "kdor", name: "K'dor", author: "Jose Mellina" }
+{ id: "kendo", name: "Kendo", publisher: "Ravensburger" }
+{ id: "kensington", name: "Kensington", author: "Brian Taylor", author: "Peter Forbes" }
+{ id: "kibo", name: "Kibo", publisher: "Berliner-Spiele" }
+{ id: "kimbo", name: "Kimbo", publisher: "Parker Brothers" }
+{ id: "kinesis", name: "Kinesis", author: "Adam Byer" }
+{ id: "king-bridge", name: "Kingbridge" }
+{ id: "king-check", name: "King Check", publisher: "Dynamic Enterprises" }
+{ id: "kingdom", name: "Kingdom", publisher: "Dujardin" }
+{ id: "kingdoms", name: "Kingdoms", author: "Reiner Knizia" }
+{ id: "kingokings", name: "King o' Kings", publisher: "ProPlan" }
+{ id: "kings-corner", name: "King's Corner", publisher: "The King's Corner Publishing Co." }
+{ id: "kings-court", name: "King's Court", publisher: "Golden" }
+{ id: "kingsmen", name: "King's Men", author: "Elizabeth M. Phillips" }
+{ id: "king-square", name: "King Square Game", publisher: "Polygon Corporation" }
+{ id: "kings-table", name: "King's Table", publisher: "Wood Expressions" }
+{ id: "kippit", name: "Kippit", author: "Torsten Marold" }
+{ id: "klypt", name: "Klypt", publisher: "Bistarian Enterprise" }
+{ id: "knock-out", name: "Knock Out", publisher: "Milton Bradley" }
+{ id: "knots", name: "Knots", publisher: "Jolly Games" }
+{ id: "ko-an", name: "Ko-An", author: "David Welch", author: "Paul Whitehorn" }
+{ id: "konane", name: "Konane", note: "Traditional" }
+{ id: "kontact", name: "Kontact", author: "Jean-Louis Marti" }
+{ id: "kopernikus", name: "Kopernikus", author: "Reinhold Wittig" }
+{ id: "kopf", name: "Kopf Oder Knopf", author: "Manfred Ludwig" }
+{ id: "kreuzweise", name: "Kreuzweise", author: "Uwe Himmelreich" }
+{ id: "kuba", name: "Kuba", author: "Jan Travers", author: "Serge Cahu" }
+{ id: "kuli", name: "Kuli", publisher: "MB Spiele" }
+{ id: "kunst-stucke", name: "Kunst Stucke", author: "Karl-Heinz Schmiel" }
+{ id: "kwatro", name: "Kwatro", publisher: "Loren Dunton Associates" }
+{ id: "lafrica", name: "L'Africa", publisher: "Miro Co. " }
+{ id: "lattaque", name: "L'attaque", publisher: "Gibson Games" }
+{ id: "labyrinth-mb", name: "Labyrinth", author: "Philip Shoptaugh" }
+{ id: "la-forteresse", name: "La Forteresse", publisher: "Nathan" }
+{ id: "lai-shai", name: "Lai-Shai", publisher: "Karco, Inc." }
+{ id: "lakeedah", name: "Lakeedah", publisher: "Tekeiles Games" }
+{ id: "lancelot", name: "Lancelot", author: "Roland Siegers" }
+{ id: "lancer", name: "Lancer", publisher: "Waddingtons" }
+{ id: "la-pyramide", name: "La Pyramide", publisher: "Nathan" }
+{ id: "laska", name: "Laska", author: "Emanuel Lasker" }
+{ id: "lv-backfire", name: "Las Vegas Backfire", publisher: "Tryne Products" }
+{ id: "la-trel", name: "La-Trel", author: "Richard Morgan" }
+{ id: "leap", name: "Leap", author: "Wade Philpott", author: "Kate Jones" }
+{ id: "legrand", name: "Legrand", publisher: "FX Schmid" }
+{ id: "lemma", name: "Lemma", author: "Kate Jones" }
+{ id: "lesdoigts", name: "Les Doigts Malins", publisher: "Kod Kod" }
+{ id: "leverage", name: "Leverage", publisher: "Star Game Co." }
+{ id: "lccw", name: "Lewis Carroll's Chess Wordgame", author: "Martin Gardner" }
+{ id: "L-game", name: "L-Game", author: "Edward DeBono" }
+{ id: "libero", name: "Libero", author: "Alfred Schnittger" }
+{ id: "libertas", name: "Libertas", author: "Roland Siegers" }
+{ id: "loa", name: "Lines of Action", author: "Claude Soucie" }
+{ id: "lineup", name: "Line Up", publisher: "Schmidt" }
+{ id: "linjo", name: "Linjo", publisher: "Ravensburger" }
+{ id: "link-five", name: "Link Five", publisher: "Logical Creations" }
+{ id: "link-up", name: "Linkup", publisher: "Leisure Life" }
+{ id: "linop", name: "Linop", author: "Alex Randolph" }
+{ id: "lionheart", name: "Lionheart", publisher: "Parker Brothers" }
+{ id: "logika", name: "Logika", note: "Russian Mastermind" }
+{ id: "logi-quad", name: "Logi Quad", author: "John H. Geiger" }
+{ id: "logo", name: "Logo", author: "Eric Solomon" }
+{ id: "loopers", name: "Loopers", publisher: "World Wide Games" }
+{ id: "lots-spots", name: "Lots 'o Spots" }
+{ id: "lotus", name: "Lotus", author: "Dominique Tellier" }
+{ id: "lumberjack", name: "Lumberjack", author: "Alan Moon", author: "Aaron Weissblum" }
+{ id: "lunar-lockout", name: "Lunar Lockout", publisher: "Binary Arts" }
+{ id: "ludus", name: "Lvdvs Romanvs", publisher: "Oxford Games" }
+{ id: "m", name: "M", author: "Martin Schlegel" }
+{ id: "mad-mate", name: "Mad Mate", author: "Alex Randolph" }
+{ id: "magic4", name: "Magic 4", publisher: "Discovery Toys" }
+{ id: "magic7", name: "Magic 7", author: "Alex Randolph" }
+{ id: "maison", name: "Maison", publisher: "Telchart Associates" }
+{ id: "make-7", name: "Make 7", publisher: "Pressman" }
+{ id: "make-five", name: "Make Five", author: "Jacques Zeimet" }
+{ id: "mako", name: "Mako 10 Sur 10", publisher: "Mako" }
+{ id: "mako-carres", name: "Mako Carres", publisher: "Mako" }
+{ id: "makruk", name: "Mak-Ruk", origin: "Siam" }
+{ id: "malawi", name: "Malawi", author: "Gerhard Kodys" }
+{ id: "mamba", name: "Mamba", author: "Christophe Berg " }
+{ id: "mancala", name: "Mancala" }
+{ id: "mandalay", name: "Mandalay", publisher: "Fortune Games" }
+{ id: "mandinka", name: "Mandinka", publisher: "E. S. Lowe" }
+{ id: "mandua", name: "Mandua", author: "Stephan-Alexander Peter", author: "Christian Andreas Fritz" }
+{ id: "maneuver-m", name: "Maneuver", publisher: "Mattel" }
+{ id: "maneuver", name: "Maneuver", publisher: "Gamma Two Games" }
+{ id: "manhattan", name: "Manhattan", author: "Andreas Seyfarth" }
+{ id: "man-moon", name: "Man in the Moon", publisher: "McLoughlin Brothers" }
+{ id: "maremba", name: "Maremba", publisher: "Ophiel Enterprises" }
+{ id: "maritim", name: "Maritim", author: "Reinhold Wittig" }
+{ id: "masco", name: "Masco?", publisher: "FX Schmid" }
+{ id: "massai", name: "Massai", author: "Sid Sackson" }
+{ id: "mastergame", name: "Mastergame", publisher: "Invicta" }
+{ id: "master-lbrnth", name: "Master Labyrinth", author: "Max J. Kobbert" }
+{ id: "mastermind", name: "Mastermind", author: "Marco Meirovitz" }
+{ id: "mastermind-44", name: "Mastermind 44", publisher: "Invicta" }
+{ id: "mastermind-challenge", name: "Mastermind Challenge", publisher: "Parker" }
+{ id: "match-4", name: "Match 4", publisher: "Hilco Enterprises" }
+{ id: "matoca", name: "Matoca", publisher: "Alabe Games" }
+{ id: "matrix", name: "Matrix", publisher: "Knots Games" }
+{ id: "mattix", name: "Mattix", publisher: "Orda Industries" }
+{ id: "maya-code", name: "Maya Code", publisher: "Creanet" }
+{ id: "maze", name: "Maze", author: "Jim Deacove" }
+{ id: "meander", name: "Meander", author: "Justus van Oel" }
+{ id: "medina", name: "Medina", author: "Stefan Dorra" }
+{ id: "mega-chess", name: "Mega Chess", publisher: "Mega Games" }
+{ id: "megallo", name: "Megallo", author: "Telly Courialis" }
+{ id: "megiddo", name: "Megiddo", author: "Steve Baldwin" }
+{ id: "mentalis", name: "Mentalis", author: "Alfred Greatorex" }
+{ id: "meteor", name: "Meteor", publisher: "ASS" }
+{ id: "mexica", name: "Mexica", author: "Michael Kiesling", author: "Wolfgang Kramer" }
+{ id: "millenium-chess", name: "Millenium Chess", publisher: "VIP Chess Co." }
+{ id: "mimikri", name: "Mimikri", author: "Alex Randolph" }
+{ id: "minarett", name: "Minarett", author: "Jurgen Reiche" }
+{ id: "mind-maze", name: "Mind Maze", publisher: "Parker Brothers" }
+{ id: "mini-push", name: "Mini Push", author: "Gilbert Obermair" }
+{ id: "ministers", name: "Ministers Chess", publisher: "Corinthian Games Ltd." }
+{ id: "mississippi", name: "Mississippi", author: "Roland Siegers" }
+{ id: "mister-diamond", name: "Mister Diamond", author: "Günter Baars" }
+{ id: "mob-strategy", name: "Mob Strategy", publisher: "Hasbro" }
+{ id: "mole-hill", name: "Mole Hill", author: "Reiner Knizia" }
+{ id: "moneychase", name: "Moneychase", author: "Helmut Kimpel" }
+{ id: "montezuma", name: "Montezuma", publisher: "Mego" }
+{ id: "moonstar", name: "Moonstar", author: "Alex Randolph" }
+{ id: "morisi", name: "Morisi", author: "Corné van Moorsel" }
+{ id: "morra", name: "Morra Board", author: "Piet Hein" }
+{ id: "mosaico", name: "Mosaico", author: "Ulf Siebert" }
+{ id: "moulin-rouge", name: "Moulin Rouge", author: "Eugene Oker", author: "T. Siebenstadt" }
+{ id: "mouse-island", name: "Mouse Island", author: "Donald Green" }
+{ id: "moxie", name: "Moxie", author: "Harold C. Manley" }
+{ id: "mozaic", name: "Mozaic", author: "Martin Samuel" }
+{ id: "mudholes", name: "Mudholes", author: "José Díaz" }
+{ id: "multi", name: "Multi", author: "Ole Jensen" }
+{ id: "mutternland", name: "Mutternland", author: "Hartmut Witt" }
+{ id: "nachbarn", name: "Nachbarn", author: "Alex Randolph" }
+{ id: "namutoni", name: "Namutoni", author: "Reinhold Wittig", publisher: "Clemens Gerhards", released: "2004", mechanism: "Grid Movement", mechanism: "Race" } 
+{ id: "nard", name: "Nard", alias: "Narde", alias: "Nardshir", author: "Bozorgmehr", variation: "backgammon" }
+{ id: "narro", name: "Narro", publisher: "Bütehorn" }
+{ id: "nasca", name: "Nasca", author: "Corne van Moorsel" }
+{ id: "nebula", name: "Nebula" publisher: "Nebula Inc.", released: "1976" }
+{ id: "neo-chess", name: "Neo Chess", author: "Alex Randolph" }
+{ id: "netzwerk", name: "Netzwerk", author: "Knut-Michael Wolff" }
+{ id: "netzwerk-a", name: "Netzwerk", author: "Corné van Moorsel" }
+{ id: "neutreeko", name: "Neutreeko", author: "Jan Kristian Haugland" }
+{ id: "nevo", name: "Nevo", publisher: "Artdeco Games" }
+{ id: "nil", name: "Nil", publisher: "Spear-Spiele" }
+{ id: "nile", name: "Nile", publisher: "E. S. Lowe" }
+{ id: "nimbi", name: "Nimbi", author: "Piet Hein" }
+{ id: "ninestone", name: "Ninestone", publisher: "Edco" }
+{ id: "nine-holes", name: "Nine Holes", alias: "Three Men's Morris", mechansim: "Alignment", mechanism: "Piece Movement" }
+{ id: "nine-mens-morris", name: "Nine Men's Morris", players: "2", publisher: "(public domain)", alias: "Bacchus", alias: "Carro", alias: "Carro de nueve", alias: "Chase", alias: "Cowboy Checkers", alias: "Dahdi", alias: "Dean's New Game of the Mill", alias: "Ducks in a Row", alias: "Enniara", alias: "Fig Mill", alias: "Filetto", alias: "Five penny morris", alias: "The Game of Mill", alias: "Gioco del Mulinello", alias: "Golly Trio Game", alias: "Hopscotch", alias: "International Mühle", alias: "Jeu de Marelle", alias: "Jeu du Charret", alias: "Jeu du Moulin", alias: "Kvarn", alias: "Malom", alias: "Marelles", alias: "Marro de nou", alias: "Mérelles", alias: "Merels", alias: "Merrills", alias: "Merrypeg", alias: "Mica", alias: "Mill", alias: "The Mill", alias: "Mill Game", alias: "The Mill Game", alias: "Mill Strategy", alias: "Mills", alias: "Mlin", alias: "Młynek", alias: "Moinho", alias: "Moinho", alias: "Molenspel", alias: "Molino", alias: "Molino", alias: "Mølle", alias: "Morelles", alias: "Morris", alias: "Muehle", alias: "Mühle", alias: "Mühlespiel", alias: "Mulinello Quadruplo", alias: "Mulino", alias: "Mylla", alias: "Mylly", alias: "Nine", alias: "Nine Man Morris", alias: "Nine Mans Morris", alias: "Nine Mens Morris", alias: "9 Mens Morris", alias: "Ninepenny Marl", alias: "Obstructa", alias: "Paddock", alias: "Pardon Me!", alias: "Pitarra", alias: "Schaper's Mill", alias: "Square Off", alias: "Taniec dziewięciu mężczyzn", alias: "Tela", alias: "Trencho", alias: "Tria", alias: "Trilha", alias: "Triple Chance", alias: "Triple Threat", alias: "Triplice cinta", alias: "Tripp trapp trull", alias: "Winny", alias: "Zulu Maraba", alias: "Εννιάρα", alias: "Τρίλιζα", alias: "Мельница", alias: "Мельница-сетка", alias: "Мельница-улитка", alias: "成三棋", mechanism: "Alignment", mechanism: "Piece Movement" }
+{ id: "nirtz", name: "Nirtz", publisher: "Ideal" }
+{ id: "nittygritty", name: "Nitty Gritty" }
+{ id: "noble-celts", name: "Noble Celts", publisher: "Dream Green" }
+{ id: "no-dice", name: "No Dice", author: "Jim Winslow", author: "Tom Braunlich" }
+{ id: "nosferatu", name: "Nosferatu" mechanic: "Hexagonal Grid" }
+{ id: "nuba", name: "Nuba", author: "Reiner Knizia" }
+{ id: "nuggets", name: "Nuggets", author: "Christwart Conrad" }
+{ id: "nmbr-mastermind", name: "Number Mastermind", Publisher: "Invicta" }
+{ id: "numero10", name: "Numero 10" }
+{ id: "obonto", name: "Obonto", author: "Sean McGuire", author: "Thomas McGuire" }
+{ id: "obsession", name: "Obsession", author: "Martin Klinger" }
+{ id: "octi", name: "Octi", author: "Donald Green" }
+{ id: "octi-extreme", name: "Octi Extreme", author: "Donald Green" }
+{ id: "octiles", name: "Octiles", author: "Dale Walton" }
+{ id: "oh-wah-ree", name: "Oh-Wah-Ree", author: "Alex Randolph" }
+{ id: "oktro", name: "Oktro", publisher: "Spear-Spiele" }
+{ id: "olix", name: "Olix", author: "Reiner Knizia" }
+{ id: "ombagi", name: "Ombagi", author: "Reinhold Wittig" }
+{ id: "omega-chess", name: "Omega Chess", author: "Daniel C. McDonald" }
+{ id: "omnigon", name: "Omnigon", author: "Michael Flynn" }
+{ id: "on-guard", name: "On Guard", publisher: "Parker Brothers" }
+{ id: "onino", name: "Onino", publisher: "Gabriel-Nealey Co." }
+{ id: "onyx", name: "Onyx", author: "Larry Back" }
+{ id: "ooyoo", name: "OOYOO BRAINS", publisher: "RCR TERRY", author: "Peter Husche", released: "2003", variation: "Halma" }
+{ id: "op-tile", name: "Op Tile", author: "Eric Solomon " }
+{ id: "oraia", name: "Oraïa", author: "Jean Quilleret", author: "Pascal Robert" }
+{ id: "oratory", name: "Oratory", publisher: "Morize SA" }
+{ id: "orbit", name: "Orbit", author: "Alex Randolph" }
+{ id: "orbital-chess", name: "Orbital Chess", publisher: "SDM, Inc." }
+{ id: "orbito", name: "Orbito", publisher: "Orda" }
+{ id: "ordo", name: "Ordo", author: "Eric Solomon" }
+{ id: "orient-2", name: "Orient", publisher: "Sportcraft" }
+{ id: "orient", name: "Orient", publisher: "Lakeside" }
+{ id: "orion", name: "Orion", publisher: "Parker-Spiele" }
+{ id: "ornamenta", name: "Ornamenta", publisher: "Ravensburger" }
+{ id: "osiris", name: "Osiris", author: "Hartmut Witt", author: "Andreas Steiner" }
+{ id: "oska", name: "Oska", author: "Bryn Jones", author: "Michael Woodward" }
+{ id: "othello", name: "Othello", publisher: "Ideal" }
+{ id: "outlaw-posse", name: "Outlaw & Posse", publisher: "Milton Bradley" }
+{ id: "outwit", name: "Outwit", publisher: "Parker Brothers" }
+{ id: "overboard", name: "Overboard", author: "Alex Randolph" }
+{ id: "overpass", name: "Overpass", author: "Arthur Blumberg" }
+{ id: "over-edge", name: "Over the Edge", author: "Jim Winslow" }
+{ id: "oxford", name: "Oxford", author: "Kris Burm" }
+{ id: "ozone", name: "Ozone", publisher: "Pin International" }
+{ id: "pachisi", name: "Pachisi", alias: "Pacheesi", alias: "Don't Worry", players: "2..4", publisher: "(public domain)", mechanism: "Dice Rolling", mechanism: "Piece Movement", mechanism: "Race", mechanism: "Take That" }
+{ id: "pacru", name: "Pacru", author: "Mike Wellman" }
+{ id: "padaxa", name: "Padaxa", author: "Bodo Hoppe" }
+{ id: "pagoda-mb", name: "Pagoda", publisher: "MB Spiele" }
+{ id: "pagoda", name: "Pagoda", author: "Luke Weisman" }
+{ id: "pagode-", name: "Pagode", publisher: "FX Schmid" }
+{ id: "pagode", name: "Pagode", author: "Oliver J. Richtberg" }
+{ id: "palam", name: "Palam", author: "Claude Leroy" }
+{ id: "panam-chess", name: "Pan American Chess", publisher: "Pan-American Mfg." }
+{ id: "panic", name: "Panic", publisher: "Old Check University" }
+{ id: "panic-button", name: "Panic Button", publisher: "Mego Corporation" }
+{ id: "pan-kai", name: "Pan-Kai", publisher: "Phillips Publishing Co." }
+{ id: "papillon", name: "Papillon", author: "Ole Jensen" }
+{ id: "paradux", name: "Paradux", publisher: "Family Games" }
+{ id: "pass-score", name: "Pass & Score", publisher: "Parker Brothers" }
+{ id: "netherworld", name: "Passing Through the Netherworld", publisher: "Whitehall" }
+{ id: "pass-it-on", name: "Pass It On", publisher: "Selchow & Righter" }
+{ id: "pass-o", name: "Pass-O", publisher: "Watkins-Strathmore" }
+{ id: "pathfinder", name: "Pathfinder", publisher: "Milton Bradley" }
+{ id: "pathfinder2", name: "Pathfinder", publisher: "Milton Bradley" }
+{ id: "pattern-pending", name: "Pattern Pending", publisher: "Parker Brothers" }
+{ id: "patzam", name: "Patzam", publisher: "Tilsit Editions" }
+{ id: "peaceful-resistance", name: "Peaceful Resistance", publisher: "D & R Games" }
+{ id: "peg-chow", name: "Peg Chow", publisher: "Parker Brothers" }
+{ id: "peg-games", name: "Peg Games", publisher: "Transogram" }
+{ id: "pegit", name: "Pegit", publisher: "Merit Games" }
+{ id: "pegity", name: "Pegity", publisher: "Parker Brothers" }
+{ id: "peg-ity", name: "Peg'ity", publisher: "Parker Brothers" }
+{ id: "penta", name: "Penta", publisher: "Yama Industries" }
+{ id: "pentagon", name: "Pentagon", publisher: "Gameophiles Unlimited" }
+{ id: "pentagonal", name: "Pentagonal", publisher: "Lolo Company" }
+{ id: "pentagonia", name: "Pentagonia", publisher: "Saskatchewan Internet News Ltd." }
+{ id: "pente", name: "Pente", author: "Gary Gabrel" }
+{ id: "perception", name: "Perception", publisher: "Ideal" }
+{ id: "perception-game", name: "Perception Game", publisher: "Leisure Learning Products" }
+{ id: "per-plexus", name: "Per Plexus", publisher: "Aladdin" }
+{ id: "pferde-appel", name: "Pferde Äppel", author: "Alex Randolph" }
+{ id: "pferdemist", name: "Pferdemist", author: "Uwe Himmelreich" }
+{ id: "phalanx-chess", name: "Phalanx", publisher: "Whitman", publisher: "Takara", released: "1964", variant: "chess" }
+{ id: "phalanx-line", name: "Phalanx", alias: "Linie", author: "Tom Werneck", author: "Frank Ullman", publisher: "Heyne", publisher: "Interplay", released: "1972" }
+{ id: "phalanx-battle", name: "Phalanx: An Ancient Battle Game", author: "Philip Sabin", publisher: "Society of Ancients", released: "1993" }
+{ id: "pharao", name: "Pharao", author: "Horst Alexander Renz" }
+{ id: "pharaoh", name: "Pharaoh", publisher: "Parker Brothers" }
+{ id: "pharaohs", name: "Pharaohs", publisher: "House Of Marbles" }
+{ id: "pharaohs-quest", name: "Pharaoh's Quest", publisher: "Protel Games" }
+{ id: "phoenix", name: "Phoenix", author: "Amanda Greenvoss", author: "Zach Greenvoss" }
+{ id: "piecesofnine", name: "Pieces of Nine", publisher: "Invicta" }
+{ id: "piedestal", name: "Piedestal", publisher: "Waddingtons" }
+{ id: "pigskin", name: "Pigskin", publisher: "Parker Brothers" }
+{ id: "pillars-of-plato", name: "Pillars of Plato", publisher: "Gamesmith Products" }
+{ id: "pin", name: "Pin", author: "Dieter Droksch" }
+{ id: "pinko-pallino", name: "Pinko Pallino", author: "Mirko Marchesi" }
+{ id: "pin-point", name: "Pin-Point", author: "Oliver Cockell" }
+{ id: "pipeline", name: "Pipeline", author: "Edward Okamura" }
+{ id: "pivot", name: "Pivot", publisher: "Smurfit Group" }
+{ id: "plan-cheroli", name: "Plan-Cheroli", author: "Karsten Adlung" }
+{ id: "planetaire", name: "Planetaire", author: "Eric Solomon" }
+{ id: "plateau", name: "Plateau", author: "Jim Albea" }
+{ id: "plex", name: "Plex", publisher: "The Wickett Works" }
+{ id: "plimus", name: "Plimus", author: "M. Roessner" }
+{ id: "plot", name: "Plot", publisher: "Cadaco" }
+{ id: "plotz", name: "Plotz", publisher: "Parker Brothers" }
+{ id: "ploy", name: "Ploy", author: "Frank Thibault" }
+{ id: "pogo", name: "Pogo", author: "Laurent Escoffier" }
+{ id: "point", name: "Point", publisher: "Bütehorn" }
+{ id: "point-blank", name: "Point Blank", publisher: "Gabriel" }
+{ id: "poison-pot", name: "Poison Pot", publisher: "???" }
+{ id: "polarity", name: "Polarity", author: "Douglas Seaton", variation: "checkers" }
+{ id: "polygon", name: "Polygon", author: "Bert J. Bratt" }
+{ id: "polygon-b", name: "Polygon", publisher: "Jax Ltd." }
+{ id: "ponents", name: "Ponents", author: "Larry Slaughter" }
+{ id: "pop-cheks", name: "Pop-Cheks", publisher: "Kohner" }
+{ id: "portcullis", name: "Portcullis", publisher: "Pin International" }
+{ id: "pounce-a", name: "Pounce", publisher: "Whitman" }
+{ id: "pounce", name: "Pounce", publisher: "Leisure Life" }
+{ id: "power-game", name: "Power Game", author: "J. B. McCarthy" }
+{ id: "power-of-two", name: "Power of Two", author: "Arthur Blumberg" }
+{ id: "prarie", name: "Prärie", author: "Alex Randolph" }
+{ id: "premier", name: "Premier", publisher: "Old Check University" }
+{ id: "press-ups", name: "Press Ups", publisher: "Invicta" }
+{ id: "prises", name: "Prises", publisher: "France Jouets" }
+{ id: "prisma", name: "Prisma", author: "Reiner Knizia" }
+{ id: "prof-archimedes", name: "Professional Archimedes", publisher: "N. P. T. A/S" }
+{ id: "proteus", name: "Proteus", author: "Michael Waitsman" }
+{ id: "proteus-a", name: "Proteus", author: "Francis K. Lalumiere" }
+{ id: "proton", name: "Proton", author: "Andrew Looney" }
+{ id: "psyche-paths", name: "Psyche-Paths", publisher: "KMS Industries" }
+{ id: "psyc-out", name: "Psyc-Out", publisher: "Mag-Nif" }
+{ id: "pueblo", name: "Pueblo", author: "Wolfgang Kramer", author: "Michael Kiesling" }
+{ id: "pula", name: "Pula", author: "Michael Antonow" }
+{ id: "puncto", name: "Puncto", author: "Ole Jensen" }
+{ id: "pursuit", name: "Pursuit", publisher: "Aurora" }
+{ id: "push", name: "Push", author: "Gilbert Obermair" }
+{ id: "push-ung", name: "Push", author: "Louis Davia" }
+{ id: "pusher", name: "Pusher", author: "Werner Falkhoff" }
+{ id: "puzzling-pyramid", name: "Puzzling Pyramid", publisher: "Schaper" }
+{ id: "pylos", name: "Pylos", author: "David G. Royffe" }
+{ id: "pyramid", name: "Pyramid", publisher: "Hasbro" }
+{ id: "pyramid-chess", name: "Pyramid Chess", publisher: "Columbia Ventures, Inc." }
+{ id: "pyramidis", name: "Pyramidis", publisher: "Ravensburger" }
+{ id: "pyramido", name: "Pyramido", author: "Reiner Knizia" }
+{ id: "pyramid-power", name: "Pyramid Power", publisher: "Castle Toy Co." }
+{ id: "pyramids", name: "Pyramids", publisher: "Hilco Corporation" }
+{ id: "pyramis", name: "Pyramis", publisher: "Abalone Games" }
+{ id: "pyraos", name: "Pyraos", author: "David G. Royffe" }
+{ id: "q-bits", name: "Q-Bits", publisher: "Hasbro" }
+{ id: "q-turn", name: "Q-Turn", author: "Andrew Looney" }
+{ id: "quad", name: "Quad", publisher: "The Gangler Gentry Company" }
+{ id: "quad-a", name: "Quad", publisher: "The Big Apple Game Company" }
+{ id: "quad-ominos", name: "Quad-Ominos", publisher: "Pressman" }
+{ id: "quadrata", name: "Quadrata", author: "Karl Friedrich Maier" }
+{ id: "quadrature", name: "Quadrature", publisher: "Locus Games" }
+{ id: "quadriga", name: "Quadriga", author: "W. Jeronim" }
+{ id: "quadro", name: "Quadro", publisher: "Klee-Spiele" }
+{ id: "quadro-combi", name: "Quadro-Combi", publisher: "Spear's Games" }
+{ id: "quadro-mania", name: "QuadroMania", author: "Graham Ellsbury" }
+{ id: "quadrot", name: "Quadrot", publisher: "Bütehorn" }
+{ id: "quads", name: "Quads", author: "Kris Burm" }
+{ id: "quadtria", name: "Quadtria", author: "Claus Peter Bickel" }
+{ id: "quadular", name: "Quadular", publisher: "HPH Development" }
+{ id: "quandary", name: "Quandary", publisher: "Spear's Games" }
+{ id: "quantum", name: "Quantum", author: "Peter Aleff" }
+{ id: "quantum2", name: "Quantum", author: "Philip Slater" }
+{ id: "quantum-chess", name: "Quantum Chess", publisher: "Quantum Development" }
+{ id: "quaro", name: "Quaro", author: "L. W. Bones" }
+{ id: "quarto", name: "Quarto", author: "Blaise Muller" }
+{ id: "jrquarto", name: "Quarto Junior", publisher: "Gigamic" }
+{ id: "quattro-schach", name: "Quattro Schach", author: "Werner Böhme" }
+{ id: "qubic", name: "Qubic", publisher: "Qubic Games" }
+{ id: "queens-guard", name: "Queen's Guard", publisher: "House Of Marbles" }
+{ id: "quest-lakeside", name: "Quest", publisher: "Lakeside" }
+{ id: "quest", name: "Quest", publisher: "Ravensburger" }
+{ id: "qu-game", name: "Qu Game", publisher: "Thinking Games" }
+{ id: "quick-chess", name: "Quick Chess", author: "Joe Miccio" }
+{ id: "quick-cross", name: "Quick Cross", publisher: "GATC" }
+{ id: "quicksand", name: "Quicksand", publisher: "Whitman" }
+{ id: "quick-tic-tac-toe", name: "Quick Tic-Tac-Toe", publisher: "Amerigames International", note: "unknown rules, board appears to be a (rect-grid 6 6) but without the center 2x2" }
+{ id: "quintachex", name: "Quintachex", author: "Kate Jones" }
+{ id: "quintillions", name: "Quintillions", author: "Kate Jones" }
+{ id: "quintro", name: "Quintro", publisher: "Spear's Games" }
+{ id: "quirk", name: "Quirk", author: "Shelli Lipton" }
+{ id: "quits", name: "Quits", author: "Loris Immordino" }
+{ id: "quitz", name: "Quitz", publisher: "Edigames" }
+{ id: "quivive", name: "Quivive", author: "Francis Pacherie" }
+{ id: "quixo", name: "Quixo", author: "Thierry Chapeau" }
+{ id: "quoridor", name: "Quoridor", author: "Mirko Marchesi" }
+{ id: "ra", name: "Ra", author: "Marco Donadoni" }
+{ id: "rackery", name: "Rackery", publisher: "Jimchic Board Games Co." }
+{ id: "raej", name: "Raej", publisher: "Le Griffon D'Arguile" }
+{ id: "ramses", name: "Ramses", author: "Horst Alexander Renz" }
+{ id: "rapid4", name: "Rapid 4", publisher: "Pressman" }
+{ id: "rasende", name: "Rasende Roboter", author: "Alex Randolph" }
+{ id: "raysoflight", name: "Rays of Light", publisher: "Orda Industries" }
+{ id: "realm", name: "Realm", author: "Philip Orbanes" }
+{ id: "reflecto", name: "Reflecto", author: "Jean Pierre Jouve" }
+{ id: "reflexion", name: "Reflexion", publisher: "Ravensburger" }
+{ id: "refugium", name: "Refugium", author: "Hermann Huber" }
+{ id: "remy", name: "Remy", publisher: "Bütehorn" }
+{ id: "reservat", name: "Reservat", author: "Ekkehard Kunzell" }
+{ id: "revanche", name: "Revanche", publisher: "FX Schmid" }
+{ id: "reversi", name: "Reversi", author: "Lewis Watterman" }
+{ id: "reversi-dl", name: "Reversi DeLuxe", author: "Lewis Watterman" }
+{ id: "reversi-othello", name: "Reversi & Othello", publisher: "Schmidt International" }
+{ id: "revolution", name: "Revolution", author: "Reiner Knizia " }
+{ id: "rex", name: "Rex", publisher: "Mag-Nif" }
+{ id: "rhombo", name: "Rhombo Continuo", author: "Maureen Hiron" }
+{ id: "rhumb", name: "Rhumb Line", author: "Martin Samuel" }
+{ id: "ricochet-robot", name: "Ricochet Robot", author: "Alex Randolph" }
+{ id: "right-moves", name: "Right Moves", publisher: "Diversified Ventures" }
+{ id: "rings-and-cones", name: "Rings & Cones", publisher: "A-O-A Big Games" }
+{ id: "roadblock", name: "Roadblock", publisher: "Hasbro" }
+{ id: "rock-scissors", name: "Rock, Scissors, Paper", author: "Greg Lam" }
+{ id: "rolit", name: "Rolit", author: "Adi Golad" }
+{ id: "rollingout", name: "Rollingout" }
+{ id: "roman-chess", name: "Roman Chess", publisher: "Roman Chess, Inc." }
+{ id: "rondino", name: "Rondino", publisher: "Caroli Spiele" }
+{ id: "rosenkonig", name: "Rosenkönig", author: "Dirk Henn" }
+{ id: "roundabout", name: "Roundabout", author: "Greg Otero" }
+{ id: "roundfour", name: "Round Four", publisher: "Milton Bradley" }
+{ id: "royalmstrmind", name: "Royale Mastermind", publisher: "Invicta" }
+{ id: "kingsqueens", name: "Royal Game of Kings & Queens", publisher: "McLoughlin Brothers" }
+{ id: "battle-frogs", name: "Rrib-Bit (Battle of the Frogs)", publisher: "Genesis Enterprises" }
+{ id: "rubiksbrain", name: "Rubik's Brain Game", publisher: "Ideal" }
+{ id: "rubiks-game", name: "Rubik's Challenge", publisher: "Ideal" }
+{ id: "rubiks-eclipse", name: "Rubik's Eclipse", author: "Erno Rubik" }
+{ id: "rubiks-illusion", name: "Rubik's Illusion", publisher: "Matcbox" }
+{ id: "rubiks-infinity", name: "Rubik's Infinity", publisher: "OddzOn" }
+{ id: "rubikslineup", name: "Rubik's Line Up", publisher: "Ideal" }
+{ id: "rubikslogic", name: "Rubik's Logic", publisher: "Arxon" }
+{ id: "rubiks-magic", name: "Rubik's Magic", author: "Erno Rubik" }
+{ id: "rubiks-race", name: "Rubik's Race", publisher: "Ideal" }
+{ id: "rumis", name: "Rumis", author: "Stefan Kögl" }
+{ id: "run-sheepee-run", name: "Run Sheepee Run", publisher: "Nu-Deal Paper Box Co." }
+{ id: "rythmo", name: "Rythmo", publisher: "Quantum Games" }
+{ id: "sabotage", name: "Sabotage", publisher: "Lakeside" }
+{ id: "sabotage-", name: "Sabotage", author: "Robert Abbott" }
+{ id: "sahara", name: "Sahara", publisher: "Pelikan" }
+{ id: "sahara-", name: "Sahara", publisher: "Hausser-Spiele" }
+{ id: "sahara1", name: "Sahara", author: "Victor Ameri" }
+{ id: "salami", name: "Salami", publisher: "MB Spiele" }
+{ id: "saldix", name: "Saldix", publisher: "Spear-Spiele" }
+{ id: "salta", name: "Salta", author: "Konrad Büttgenbach" }
+{ id: "salvo", name: "Salvo", publisher: "Ideal" }
+{ id: "samourai", name: "Samouraï", publisher: "Nathan" }
+{ id: "san-gimignano", name: "San Gimignano", author: "Duilio Carpitella" }
+{ id: "saqqara", name: "Saqqara", publisher: "Mr. Toad Products" }
+{ id: "saturn", name: "Saturn", publisher: "Theta" }
+{ id: "saxum", name: "Saxum", author: "Sid Sackson" }
+{ id: "scala", name: "Scala", author: "José Díaz" }
+{ id: "scalino", name: "Scalino", author: "Peter Pallat" }
+{ id: "scappo", name: "Scappo", publisher: "Milton Bradley" }
+{ id: "scarab", name: "Scarab", author: "Nico Reuter" }
+{ id: "scatter-rules", name: "Scatter", publisher: "The Montgomery Schoolhouse Co." }
+{ id: "sceptre", name: "Sceptre 1027 A. D.", publisher: "Horizon Games" }
+{ id: "schaska", name: "Schaska", author: "Emil Gatti" }
+{ id: "schlitzohr", name: "Schlitzohr", author: "H. P. Pauly" }
+{ id: "scoozie", name: "Scoozie", author: "Rich Maiers" }
+{ id: "score-four", name: "Score Four", publisher: "Funtastic" }
+{ id: "score-more", name: "Score More", publisher: "Invicta" }
+{ id: "sea-fleet", name: "Sea-Fleet", author: "Will Straus" }
+{ id: "second-chance", name: "Second Chance", publisher: "The Gametrust Corporation" }
+{ id: "seega", name: "Seega", alias: "Ceega", alias: "Erämaashakki", alias: "Ökenschack", alias: "Ørkensjakk", alias: "Seega & Quadra", mechanism: "Piece Movement" }
+{ id: "seejeh", name: "Seejeh", publisher: "Orda" }
+{ id: "seequeue", name: "See Queue", publisher: "See-Queue Development" }
+{ id: "seneti", name: "Seneti", author: "Horst Alexander Renz" }
+{ id: "september", name: "September", author: "Daniel Kishon" }
+{ id: "sequence", name: "Sequence", publisher: "Jax Ltd." }
+{ id: "sequenz", name: "Sequenz", author: "Roland Siegers" }
+{ id: "serauqs", name: "Serauqs", publisher: "Competitive Games" }
+{ id: "seti", name: "Seti", publisher: "Bütehorn" }
+{ id: "seven-up", name: "Seven Up", publisher: "Transogram" }
+{ id: "sexta", name: "Sexta", author: "Ronnie Manor", author: "Gilit Metuki" }
+{ id: "sextillions", name: "Sextillions", author: "Kate Jones" }
+{ id: "sha-ee", name: "Sha-Ee", publisher: "Ideal" }
+{ id: "shahmot", name: "Shahmot", author: "Anthony Britton" }
+{ id: "shendao", name: "Shendao", author: "Valéry Fourcade" }
+{ id: "shift", name: "Shift", publisher: "Kontrell" }
+{ id: "shift-tac-toe", name: "Shift Tac Toe", publisher: "Pressman" }
+{ id: "shifti", name: "Shifti", publisher: "Orda" }
+{ id: "shifty-gear", name: "Shifty Gear", publisher: "Schaper" }
+{ id: "shing-shang", name: "Shing Shang", publisher: "Nathan" }
+{ id: "shogun", name: "Shogun", author: "Teruo Matsomuto" }
+{ id: "shoulder-to-shoulder", name: "Shoulder to Shoulder", author: "David Parlett" }
+{ id: "shove-off", name: "Shove Off", publisher: "Ideal" }
+{ id: "shuttles", name: "Shuttles", author: "Philip Shoptaugh" }
+{ id: "siege", name: "Siege", publisher: "Milton Bradley" }
+{ id: "siege-a", name: "Siege", publisher: "Alcazar Games" }
+{ id: "siege-stones", name: "Siege Stones", author: "Patrick Matthews" }
+{ id: "siesta", name: "Siesta", author: "Guido Hoffman" }
+{ id: "sirius", name: "Sirius", author: "Martial Tramond" }
+{ id: "sisimizi", name: "Sisimizi", author: "Alex Randolph" }
+{ id: "sisti-challenge", name: "Sisti Challenge", publisher: "Circular Checkers, Inc." }
+{ id: "situation-4", name: "Situation 4", publisher: "Parker Brothers" }
+{ id: "sixo", name: "Sixo", publisher: "Ravensburger" }
+{ id: "sixto", name: "Sixto", publisher: "Gigamic" }
+{ id: "skarabaus", name: "Skarabäus", publisher: "Edition Perlhuhn" }
+{ id: "skirrid", name: "Skirrid", author: "Brian Taylor", author: "Mark Eliot" }
+{ id: "slide-5", name: "Slide-5", publisher: "Milton Bradley" }
+{ id: "slotter", name: "Slotter", publisher: "MB Spiele" }
+{ id: "sly", name: "Sly", author: "Sid Sackson" }
+{ id: "smarts", name: "Smarts", publisher: "Hoyle Products" }
+{ id: "smess", name: "Smess", author: "Reuben Klamer" }
+{ id: "snakes-ladders", name: "Snakes and Ladders", alias: "Chutes and Ladders", alias: "Moksha Patam", players: "2..6", publisher: ""}
+{ id: "sniggle", name: "Sniggle", publisher: "Amway" }
+{ id: "sogo", name: "Sogo", publisher: "Ravensburger" }
+{ id: "solaris", name: "Solaris", publisher: "Van Nor Enterprises" }
+{ id: "soli2", name: "Soli2", author: "Andy Daniel" }
+{ id: "sombrero-rules", name: "Sombrero", publisher: "Diset, S. A." }
+{ id: "spacechess", name: "Space Chess", publisher: "Pacific Game Company" }
+{ id: "spacelines", name: "Space Lines", publisher: "Invicta" }
+{ id: "space-walk", name: "Space Walk", author: "Rüdiger Dorn" }
+{ id: "spark", name: "Spark", publisher: "Envelope Games" }
+{ id: "spectrangle", name: "Spectrangle", publisher: "Jumbo" }
+{ id: "spectrangle-36", name: "Spectrangle 36", publisher: "Greystone" }
+{ id: "spectrum", name: "Spectrum", author: "Tom Werneck", author: "Frank Ullman" }
+{ id: "sperre", name: "Sperre", publisher: "Spear-Spiele" }
+{ id: "sphinx", name: "Sphinx", publisher: "???" }
+{ id: "spider-wars", name: "Spider Wars", publisher: "Milton Bradley" }
+{ id: "spiderweb", name: "Spiderweb", author: "José Díaz" }
+{ id: "spion", name: "Spion", publisher: "ASS" }
+{ id: "split", name: "Split", publisher: "Whitman" }
+{ id: "spoil-five", name: "Spoil Five", publisher: "Chad Valley" }
+{ id: "squadron", name: "Squadron", publisher: "F. H. Beach" }
+{ id: "square-it", name: "Square It", publisher: "Hasbro" }
+{ id: "square-off", name: "Square Off", author: "Alex Randolph" }
+{ id: "squareoff", name: "Square Off", publisher: "University Games" }
+{ id: "squares", name: "Squares", publisher: "Waddingtons" }
+{ id: "squaresville", name: "Squaresville", publisher: "Cadaco" }
+{ id: "square-up", name: "Square Up", publisher: "Marx" }
+{ id: "square-wars", name: "Square Wars", publisher: "The Idea People" }
+{ id: "squaryd", name: "Squaryd", author: "P. Baudy" }
+{ id: "sri-lanka", name: "Sri Lanka", publisher: "ASS" }
+{ id: "stak", name: "Stak", publisher: "DMR Games" }
+{ id: "star", name: "Star", author: "Craige Schensted" }
+{ id: "starworlds", name: "Starworlds Galactic", publisher: "Unpublished" }
+{ id: "stax", name: "Stax", publisher: "Stax Company" }
+{ id: "stealth1", name: "Stealth", publisher: "Keyline Falcon" }
+{ id: "stealth2", name: "Stealth", author: "Bruce Whitehill" }
+{ id: "stealth-chess", name: "Stealth Chess", publisher: "Dice Corporation" }
+{ id: "steeple-chess", name: "Steeple Chess", author: "Alex Randolph" }
+{ id: "steeplechase", name: "Steeplechase" }
+{ id: "step-by-step", name: "Step by Step", publisher: "Theta" }
+{ id: "steppe", name: "Steppe", publisher: "DMR Games" }
+{ id: "stick-around", name: "Stick Around", author: "Maureen Hiron" }
+{ id: "stlts", name: "Stlts", author: "Wally Sewell" }
+{ id: "stonehenge", name: "Stonehenge", author: "Reiner Knizia" }
+{ id: "stonewall", name: "Stonewall", publisher: "Stonewall Developments" }
+{ id: "stonez", name: "Stonez", author: "Kemal Yun" }
+{ id: "stormy-seas", name: "Stormy Seas", publisher: "Binary Arts" }
+{ id: "stragone", name: "Stragone", author: "Jacques Le Floc'h" }
+{ id: "stranded", name: "Stranded", publisher: "Spear's Games" }
+{ id: "stranded-h", name: "Stranded", publisher: "Hallmark Games" }
+{ id: "strata-5", name: "Strata 5", publisher: "Milton Bradley" }
+{ id: "stratego", name: "Stratego", publisher: "Milton Bradley" }
+{ id: "stratego-4", name: "Stratego 4", publisher: "Jumbo" }
+{ id: "strategy", name: "Strategy", author: "Nathan Reinherz" }
+{ id: "strato-tactics", name: "Strato Tactics", publisher: "Strato Various Products" }
+{ id: "sub-search", name: "Sub Search", publisher: "Milton Bradley" }
+{ id: "subulata", name: "Subulata", author: "Corné van Moorsel" }
+{ id: "sudden-death", name: "Sudden Death", publisher: "Gabriel" }
+{ id: "sudden-score", name: "Sudden Score", publisher: "Skor-Mor" }
+{ id: "sumera", name: "Sumera", author: "Hartmut Witt" }
+{ id: "sumo", name: "Sumo!", author: "Jim Winslow" }
+{ id: "super-3", name: "Super 3", publisher: "Milton Bradley" }
+{ id: "super-heroes", name: "Super Heroes", publisher: "Milton Bradley" }
+{ id: "super-mastermind", name: "Super Mastermind", publisher: "Invicta" }
+{ id: "supermind", name: "Supermind", publisher: "Invicta" }
+{ id: "super-quintillions", name: "Super Quintillions", author: "Kate Jones" }
+{ id: "susceptibles", name: "Susceptibles", publisher: "McLoughlin Brothers" }
+{ id: "swahili", name: "Swahili", publisher: "Milton Bradley" }
+{ id: "swoop", name: "Swoop", publisher: "Whitman" }
+{ id: "swords-and-shields", name: "Swords & Shields", publisher: "Milton Bradley" }
+{ id: "sypil", name: "Sypil", author: "J. LeFloc'h" }
+{ id: "tabula", name: "Tabula", publisher: "Pro Ligno" }
+{ id: "tac-tic-on", name: "Tac-Tic-On", publisher: "Pacific Game Co." }
+{ id: "tacticon", name: "Tacticon", author: "Frank Bucher" }
+{ id: "tac-tic-turn", name: "Tac Tic Turn", publisher: "Ohio Art" }
+{ id: "tactix", name: "Tactix", author: "Geoffrey Hayes" }
+{ id: "tagalong-joe", name: "Tagalong Joe", publisher: "Wales Game Systems" }
+{ id: "taifho", name: "Taifho", publisher: "Alga" }
+{ id: "taino", name: "Taíno", author: "José Díaz" }
+{ id: "ta-ka-radi", name: "Ta-Ka-Radi", publisher: "L. L. Bean" }
+{ id: "take4", name: "Take 4", publisher: "Spear's Games" }
+{ id: "take5", name: "Take 5", publisher: "Gabriel" } 
+{ id: "take-5", name: "Take 5", author: "Philip Shoptaugh" } 
+{ id: "take-five", name: "Take Five", author: "Max Gerchambeau" } 
+{ id: "takeiteasy", name: "Take it Easy", author: "Peter Burley" } 
+{ id: "takeover", name: "Takeover", publisher: "Hallmark" }
+{ id: "take-over", name: "Take Over", publisher: "Schmidt International" }
+{ id: "take-ten", name: "Take Ten", publisher: "Edu-Cards Corporation" }
+{ id: "takethebrain", name: "Take the Brain", publisher: "Parker Games" }
+{ id: "tak-tics", name: "Tak Tics", publisher: "Eberhard Faber" }
+{ id: "taktik", name: "Taktik", publisher: "Berliner Spiele" }
+{ id: "taktik-", name: "Tak Tik", released: "1937", origin: "Germany" }
+{ id: "taktiko", name: "Taktiko", publisher: "ASS" }
+{ id: "tak-tix", name: "Tak-Tix", publisher: "Abbott Products" }
+{ id: "talon", name: "Talon", author: "Horst Alexander Renz" }
+{ id: "tamsk", name: "Tamsk", author: "Kris Burm" }
+{ id: "tanagra", name: "Tanagra", author: "Gwenael Beuchet" }
+{ id: "tangle", name: "Tangle", publisher: "Selchow & Righter" }
+{ id: "tangoes", name: "Tangoes", publisher: "Rex Games " }
+{ id: "tantalus", name: "Tantalus", author: "W. Barrington-Pink" }
+{ id: "tantrix", name: "Tantrix", author: "Mike McManaway" }
+{ id: "target", name: "Target", publisher: "Schmidt Spiele" } 
+{ id: "tashkent", name: "Tashkent", author: "Kris Burm" }
+{ id: "ta-yu", name: "Ta Yü", author: "Niek Neuwahl" }
+{ id: "tchag", name: "Tchag", players: "2", publisher: "Les Dunes Éditions", author: "Jean Georges", year: "2017" }
+{ id: "tchan-chi", name: "Tchan-Chi", publisher: "Hartung Spiele" }
+{ id: "techmate", name: "Techmate", publisher: "Schaper" } 
+{ id: "teed-off", name: "Tee'd Off!", publisher: "Cadaco" }
+{ id: "teeko", name: "Teeko", author: "John Scarne" }
+{ id: "teez", name: "Teez", publisher: "B & D Industries" }  
+{ id: "teimosia", name: "Teimosia", publisher: "Paulo R. Peralta" }
+{ id: "teko", name: "Teko", author: "John Scarne" } 
+{ id: "teleporters", name: "Teleporters", author: "Manuel Garcia" publisher: "Kadon Enterprises" } 
+{ id: "telka", name: "Telka", publisher: "Parker Brothers" }
+{ id: "tempo", name: "Tempo", publisher: "Stancraft Products" }
+{ id: "tendix", name: "Tendix", author: "Dirk Henn" } 
+{ id: "ten-q", name: "Ten-Q", publisher: "K. T. Games" }
+{ id: "tens", name: "Tens", publisher: "Waddingtons" }
+{ id: "terrace8", name: "Terrace", author: "Tony Dresden", author: "Buzz Siler" }
+{ id: "terrace2", name: "Terrace (6x6)", author: "Tony Dresden", author: "Buzz Siler" }
+{ id: "terrain", name: "Terrain", author: "Gary R. Winfield" }
+{ id: "terra-turrium", name: "Terra Turrium", author: "Wolfgang Kramer" }
+{ id: "tessaron", name: "Tessaron", publisher: "SuperDimension Games" }
+{ id: "tetris", name: "Tetris", publisher: "Milton Bradley" }
+{ id: "tetris2", name: "Tetris", publisher: "Tomy" }
+{ id: "teufelskreise", name: "Teufelskreise", author: "Alexandra Schmidt" }
+{ id: "theben", name: "Theben", author: "Horst Alexander Renz" }
+{ id: "brain-game", name: "The Brain Game", publisher: "Decipher" }
+{ id: "thegame", name: "The Game", publisher: "Mastercraft Products" }
+{ id: "three-guardmen", name: "The Three Guardsmen", publisher: "Milton Bradley" }
+{ id: "thimk", name: "Thimk", publisher: "Tryne Sales" }
+{ id: "thoughtwave", name: "Thoughtwave", author: "Eric Solomon" }
+{ id: "three-musketeers", name: "Three Musketeers", publisher: "Milton Bradley" }
+{ id: "thrill", name: "Thrill", author: "Wolfgang Kramer" }
+{ id: "tic-tac-check", name: "Tic Tac Check", publisher: "Dream Green" }
+{ id: "tic-tac-three", name: "Tic-Tac-Three", publisher: "Molded Products" }
+{ id: "tictactics", name: "Tictactics", publisher: "Innovention" }
+{ id: "tic-tac-toe-x10", name: "Tic Tac Toe Times 10", publisher: "Selchow & Righter" }
+{ id: "tic-tac-tower", name: "Tic Tac Tower", publisher: "Selchow & Righter" }
+{ id: "tic-tac-twice", name: "Tic Tac Twice", publisher: "Aristoplay" }
+{ id: "tigo", name: "Tigo", publisher: "Pressman" } 
+{ id: "tija", name: "TiJa", author: "Oliver Jakopaschke", author: "Klaus Tidow" } 
+{ id: "tik-tak-3", name: "Tik-Tak3", players: "3..6", publisher: "E. C. S. Games", author: "Raymond van Tonder", released: "1993" }
+{ id: "tile-chess", name: "Tile Chess", author: "Jason Wittman" }
+{ id: "tilez", name: "Tilez", author: "Andy Daniel" }
+{ id: "tilt-score", name: "Tilt Score", publisher: "Schaper" }
+{ id: "timber", name: "Timber", author: "Andrew Cowan", author: "Jeremy Cowan" }
+{ id: "time-factor", name: "Time Factor", publisher: "Ideal" } 
+{ id: "time-line", name: "Time Line", author: "George Marino" }
+{ id: "time-vectors", name: "Time Vectors", publisher: "JDB Games" } 
+{ id: "titicaca", name: "Titicaca", author: "Corné van Moorsel" }
+{ id: "tochtli", name: "Tochtli", publisher: "Coyote Games" }
+{ id: "tokami", name: "Tokami", author: "Zoltán Aczél" }
+{ id: "tom-tube", name: "Tom Tube", author: "Roland Goslar", author: "Tobias Goslar" }
+{ id: "top-hats", name: "Top Hats", author: "Leo Colovini" }
+{ id: "top-it", name: "Top It", author: "Eberhard Schnatz" }
+{ id: "topminos", name: "Topminos", publisher: "Parker" }
+{ id: "topper-123", name: "Topper 1-2-3", author: "Walter Blum" }
+{ id: "topple-knockdown", name: "Topple (Action Strategy Game)", players: "2", publisher: "Kenner", author: "(uncredited)", released: "1979" }
+{ id: "topple-balance", name: "Topple", alias: "Topple Chrome", alias: "Ça tombe!", alias: "Kippling", alias: "Tip Tumble", alias: "Wobblo", alias: "Баланс", players: "2..4", publisher: "Maplegrove", author: "Frank Thibault", released: "1983" }
+{ id: "top-quark", name: "Top Quark", author: "Jacky Bonnet" }
+{ id: "top-star", name: "Top Star", publisher: "Spear-Spiele" }
+{ id: "torero", name: "Torero", publisher: "Bütehorn" }
+{ id: "torres", name: "Torres", author: "Michael Kiesling", author: "Wolfgang Kramer" }
+{ id: "toscana", name: "Toscana", author: "Niek Neuwahl" }
+{ id: "tote-maze", name: "Tote Maze", publisher: "Kalivas Games" } 
+{ id: "tot-ten", name: "Tot-Ten", publisher: "Spear's Games" }
+{ id: "touch", name: "Touch", author: "Niek Neuwahl" }
+{ id: "touche", name: "Touché", publisher: "Gabriel" }
+{ id: "tournament-othello", name: "Tournament Othello", publisher: "Gabriel" }
+{ id: "tower-hamburg", name: "Towers of Hamburg", author: "Nkem B. Soberekon" }
+{ id: "trac-4", name: "Trac 4", publisher: "Lakeside" }
+{ id: "tramp", name: "Tramp", author: "H. Heller" }
+{ id: "transfer", name: "Transfer", author: "Hila Moscovich", author: "Ivan Moscovich" }
+{ id: "transpose", name: "Transpose", author: "Christopher Clark" }
+{ id: "trap", name: "Trap", publisher: "Ideal" }
+{ id: "trap-surprise", name: "Trap Surprise", author: "Sebastien Sjoholm" }
+{ id: "traverse", name: "Traverse", publisher: "Glacier Games" } 
+{ id: "trax", name: "Trax", author: "David Smith" }
+{ id: "trencho", name: "Trencho" }
+{ id: "tres", name: "Tres", author: "Jorg R. Bauer" }
+{ id: "trespass", name: "Trespass", publisher: "Lakeside" }
+{ id: "trespass-pb", name: "Trespass", publisher: "Parker Brothers" }
+{ id: "trezo", name: "Trezo", publisher: "GATC" }
+{ id: "tria", name: "Tria", author: "David Ward" }
+{ id: "triad", name: "Triad", publisher: "Game Concepts" }
+{ id: "triangle-challenge", name: "Triangle Challenge", publisher: "University Games" }
+{ id: "triangle-game", name: "Triangle Game", author: "Luke Weisman" }
+{ id: "triangles", name: "Triangles", publisher: "Dujardin" }
+{ id: "triangoes", name: "Triangoes", author: "Manuel Garcia" }
+{ id: "triapon", name: "Triapon", publisher: "Murmel" }
+{ id: "triazzle", name: "Triazzle Game", publisher: "University Games" }
+{ id: "tribulation", name: "Tribulation", publisher: "Whitman" }
+{ id: "trichess", name: "Trichess", publisher: "Trigame Enterprises" }
+{ id: "trick-x5", name: "TrickX5", publisher: "Parker" }
+{ id: "tricolor", name: "Tricolor", author: "Valentin Siena" }
+{ id: "tricom", name: "Tricom", publisher: "Bütehorn" }
+{ id: "tricktrac", name: "Tric Trac", alias: "Trictrac", alias: "Tric-Trac", alias: "Trictrac à écrire", publisher: "(public domain)" variation: "backgammon" }
+{ id: "tri-dimensionelle", name: "Tri-Dimensionelle" }
+{ id: "tri-king", name: "Tri-King", publisher: "Tri-King Enterprises" }
+{ id: "trilithons", name: "Trilithons", author: "Martin Samuel" }
+{ id: "trimino", name: "Trimino", publisher: "Creative Playthings" }
+{ id: "trinary", name: "Trinary", publisher: "Skor-Mor" }
+{ id: "trini", name: "Trini", author: "Martin Radtke" }
+{ id: "tri-nim", name: "Tri-Nim", author: "Bruce & Hervey Hicks" }
+{ id: "trinity", name: "Trinity", publisher: "Silver Bear" }
+{ id: "trinome", name: "Trinôme", publisher: "Jocus S. A." }
+{ id: "trio-domino", name: "Trio-Domino", publisher: "Noris Spiele" }
+{ id: "triominos", name: "Triominos", publisher: "Ideal" }
+{ id: "trio-trix", name: "Tri-O Tri-X", publisher: "Ravensburger" }
+{ id: "trippples", name: "Trippples", author: "William T. Powers" }
+{ id: "triptic", name: "Triptic", publisher: "Invento Products" }
+{ id: "tri-trac", name: "Tri-Trac", publisher: "Milton Bradley" }
+{ id: "tritrap", name: "Tritrap", publisher: "Gamebits" }
+{ id: "tri-umph", name: "Tri-Umph", publisher: "Irwin Toys" }
+{ id: "triumvirat", name: "Triumvirat", author: "Hajo Bucken" }
+{ id: "triune", name: "Triune", publisher: "Triune International" }
+{ id: "trojan-cross", name: "Trojan Cross", publisher: "Dry Fork Co." }
+{ id: "troke", name: "Troke", publisher: "Selchow & Righter" }
+{ id: "trox", name: "Trox", author: "Peter Andrew" }
+{ id: "trubbel", name: "Trubbel", publisher: "MB Spiele" }
+{ id: "tsolo", name: "Tsolo", publisher: "Gibson Games" }
+{ id: "tumicarona", name: "Tumicarona", publisher: "Murmel" }
+{ id: "turm-watcher", name: "Turm und Watcher", author: "Christoph Endres", author: "Robert Wirth" }
+{ id: "turnabout", name: "Turnabout", publisher: "Magnif" }
+{ id: "turn-coat", name: "Turn Coat", publisher: "Tri-Ang" }
+{ id: "turnier", name: "Turnier", author: "Alex Randolph" }
+{ id: "turning-point", name: "Turning Point", publisher: "Mattel" }
+{ id: "turno", name: "Turno", publisher: "Spear's Games" }
+{ id: "tussle", name: "Tussle", publisher: "Milton Bradley" }
+{ id: "twin", name: "Twin", author: "E. M. Rich" }
+{ id: "twixt", name: "TwixT", alias: "Mini-Twixt", alias: "ツィクスト", players: "2..4", publisher: "3M", author: "Alex Randolph", author: "Sid Sackson", released: "1961" }
+{ id: "uber-bord", name: "Über Bord", author: "Alex Randolph" }
+{ id: "uisge", name: "Uisge", author: "Roland Siegers" }
+{ id: "ultimate-stratego", name: "Ultimate Stratego", publisher: "Winning Moves" }
+{ id: "ultra", name: "Ultra", author: "Eric Solomon" }
+{ id: "universe", name: "Universe", publisher: "Parker Brothers" }
+{ id: "uno-stacko", name: "Uno Stacko", publisher: "Mattel" }
+{ id: "up-over", name: "Up n' Over", publisher: "Ideal" }
+{ id: "upper-hand", name: "Upper Hand", publisher: "Orda" }
+{ id: "upthrust", name: "Upthrust", author: "Sid Sackson" }
+{ id: "uraeus", name: "Uraeus", publisher: "Pharao Spiele" }
+{ id: "vagabondo", name: "Vagabondo", publisher: "Invicta" }
+{ id: "variance", name: "Variance", author: "David Hoffman" }
+{ id: "vector", name: "Vector", publisher: "Plan B Corp." }
+{ id: "vega", name: "Vega", author: "Christian Raffeiner", author: "Helmut Walch" }
+{ id: "veleno", name: "Veleno", author: "Alex Randolph" }
+{ id: "venice-connection", name: "Venice Connection", author: "Alex Randolph" }
+{ id: "verso", name: "Verso", author: "Guy Jeandel" }
+{ id: "vertigo", name: "Vertigo", publisher: "Parker" }
+{ id: "vertikado", name: "Vertikado", author: "Frank Bucher" }
+{ id: "viaduct", name: "Viaduct", author: "Karin Kasch" }
+{ id: "vigo", name: "Vigo", publisher: "Amigo" }
+{ id: "viking-game", name: "Viking Game", publisher: "History Craft Ltd." }
+{ id: "villa-paletti", name: "Villa Paletti", author: "Bill Payne" }
+{ id: "vis-a-vis", name: "Vis-a-Vis", author: "Eric Solomon" }
+{ id: "void", name: "Void", author: "Michael Waitsman" }
+{ id: "voodoo", name: "Voodoo", publisher: "Parker" }
+{ id: "vorsicht-falle", name: "Vorsicht Falle", publisher: "ASS" }
+{ id: "wabanti", name: "Wabanti", author: "Reinhold Wittig" }
+{ id: "walkers", name: "Walkers", author: "José Díaz" }
+{ id: "wapi", name: "Wapi", publisher: "Tactic" }
+{ id: "warpath", name: "Warpath", publisher: "Tri-ang" }
+{ id: "watch", name: "Watch", author: "Claude Soucie" }
+{ id: "waterworks", name: "Waterworks", publisher: "Parker Brothers" }
+{ id: "web", name: "The Web", publisher: "The Web Game Co." }
+{ id: "wege", name: "Wege", author: "Edith Schlichting" }
+{ id: "wellington", name: "Wellington", publisher: "Alsip & Co." }
+{ id: "wendo", name: "Wendo", publisher: "Intelli" }
+{ id: "whirl", name: "Whirl", author: "Robert W. Janke" }
+{ id: "white-knights", name: "White Knights", publisher: "Waddingtons" }
+{ id: "wie-wann-wo", name: "Wie Wann Wo", publisher: "Schmidt Spiele" }
+{ id: "wigwam", name: "Wigwam", publisher: "Ravensburger" }
+{ id: "wig-wam", name: "Wig Wam", publisher: "Schmidt" }
+{ id: "winkel-advokat", name: "Winkel-Advokat", author: "Roland Siegers" }
+{ id: "winkers", name: "Winkers", publisher: "GATC" }
+{ id: "wits-end", name: "Wit's End", publisher: "Parker Brothers" }
+{ id: "wolkenkratzer", name: "Wolkenkratzer", publisher: "Winning Moves" }
+{ id: "word-chess", name: "Wordchess", publisher: "Enigmatics" }
+{ id: "word-mastermind", name: "Word Mastermind", alias: "Call My Bluff", alias: "Codwort", alias: "Master Mind Letras", alias: "What's My Word?", publisher: "Invicta", author: "(uncredited)", released: "1972" }
+{ id: "wordsworth-cards", name: "Wordsworth", players: "2..6", publisher: "Astorbilt Sisters Publishing Co.", author: "(uncredited)", released: "2003" }
+{ id: "wordsworth-guess", name: "Wordsworth", alias: "Wordle", players: "1..2", publisher: "Invicta", released: "1975", mechanism: "Highest-Lowest Scoring" }
+{ id: "wu", name: "Wu" }
+{ id: "wykersham", name: "Wykersham", publisher: "Alsip & Co." }
+{ id: "xenophon", name: "Xenophon", author: "Tom Werneck", author: "Klaus Palme" }
+{ id: "xephyr", name: "Xephyr", publisher: "Fleur Designs" }
+{ id: "xe-queo", name: "Xe Queo!", author: "Alex Randolph" }
+{ id: "xerxes", name: "Xerxes", author: "Kurt Heuser" }
+{ id: "xorox", name: "Xorox", publisher: "CowoC Inc.", variation: "tic-tac-toe" }
+{ id: "yale-harvard-game", name: "Yale Harvard Game", publisher: "Parker Brothers" }
+{ id: "yali", name: "Yali", author: "Claus Hartung" }
+{ id: "yalta", name: "Yalta", publisher: "Morize SA" }
+{ id: "yggdrasil", name: "Yggdrasil", author: "Valéry Fourcade" }
+{ id: "yin-yang", name: "Yin & Yang", publisher: "Jumbo" }
+{ id: "ying-yang", name: "Ying-Yang", author: "Jim Deacove" }
+{ id: "yinsh", name: "Yinsh", author: "Kris Burm" }
+{ id: "yote", name: "Yote", publisher: "GATC" }
+{ id: "z-chess", name: "Z-Chess", author: "Zoltan Bartok" }
+{ id: "zacktik", name: "Zacktik", publisher: "Parker" }
+{ id: "zahlenjux", name: "Zahlenjux", publisher: "Pelikan " }
+{ id: "zambezi", name: "Zambezi", author: "Martin Samuel" }
+{ id: "zap", name: "Zap", author: "Roger Price" }
+{ id: "zatre", name: "Zatre", author: "Manfred Schulling" }
+{ id: "zatre-travel", name: "Zatre Travel", publisher: "Perner Publishing Group" }
+{ id: "zaxo", name: "Zaxo", publisher: "Weico" }
+{ id: "zed", name: "Zed", author: "J. B. McCarthy" }
+{ id: "zen", name: "Zen", publisher: "Tilsit" }
+{ id: "zenix", name: "Zenix", author: "Jurgen Heel" }
+{ id: "zertz", name: "Zertz", author: "Kris Burm" }
+{ id: "zhadu", name: "Zhadu", author: "Rodney Frederickson" }
+{ id: "zick-zack", name: "Zick Zack", publisher: "MB Spiele" }
+{ id: "zigzags", name: "Zigzags", publisher: "Whitman" } 
+{ id: "zin", name: "Zin", author: "Benjamin Duval" }
+{ id: "zoki", name: "Zoki", author: "Zoran Pavlovic" }
+{ id: "zonal-chess", name: "Zonal Chess", publisher: "Check Mate Game Corp." }
+{ id: "zone-x", name: "Zone X", publisher: "Invicta" }
+{ id: "z-strategie", name: "Z Strategie", publisher: "Bütehorn" }
