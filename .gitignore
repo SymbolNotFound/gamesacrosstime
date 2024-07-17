@@ -1,18 +1,3 @@
-# Based on allowlist defined at
-# https://github.com/github/gitignore/blob/main/community/Golang/
+.vitepress/dist
+.vitepress/cache
 
-# Ignore everything
-*
-
-# except allow this file and go files.
-!/.gitignore
-
-!*.go
-!go.sum
-!go.mod
-
-!README.md
-!LICENSE
-
-# continue matching in subdirectories
-!*/
