@@ -4,7 +4,7 @@ layout: home
 hero:
   name: "GGP Dojo"
   text: "Training for General Game Playing"
-  tagline: My great project tagline
+  tagline: Shall we play a game?
   actions:
     - theme: brand
       text: Subscribe
