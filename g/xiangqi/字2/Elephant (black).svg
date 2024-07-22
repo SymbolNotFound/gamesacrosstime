@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="100"
+     height="100"
+     viewBox="-64 -64 64 64"
+     xmlns="http://www.w3.org/2000/svg">
+  <title></title>
+  <g transform="translate(-32, -32)">
+    <circle r="30" stroke-width="3.7" stroke="#000" fill="#DAC777"/>
+	  <circle r="25" stroke-width="3" stroke="#000" fill="none"/>
+    <path transform="scale(0.267)" fill="#000"
+      d=""
+    />
+  </g>
+</svg>
