@@ -2,27 +2,32 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "GGP Dojo",
-  description: "Training for General Game Playing",
+  title: "Games Across Time",
+  description: "A History and Wiki for Abstract Strategy Games and other Board Games",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
     ],
 
     sidebar: [
       {
         text: 'Examples',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Browse Games', link: '/g' },
+          { text: 'Game Mechanisms', link: '/m' },
+          { text: 'Game Designers', link: '/d' },
+          { text: 'Artists & Authors', link: '/a' },
+          { text: 'Game Publishers', link: '/p' }
         ]
       }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      {
+        icon: 'github',
+        link: 'https://github.com/SymbolNotFound/gamesacrosstime'
+      }
     ]
   }
 })

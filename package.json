@@ -3,5 +3,8 @@
     "vp:dev": "vitepress dev",
     "vp:build": "vitepress build",
     "vp:preview": "vitepress preview"
+  },
+  "dependencies": {
+    "vitepress": "^1.3.1"
   }
 }
