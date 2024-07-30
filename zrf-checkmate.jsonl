@@ -1,0 +1,1550 @@
+{"zrfID":1404,"id":"aavant-chess","name":"AAvant Chess","category":["checkmate"],"variants":0}
+{"zrfID":2072,"id":"abagoren-chess","name":"Abagoren Chess","category":["checkmate"],"variants":0}
+{"zrfID":38,"id":"abduction-chess","name":"Abduction Chess","category":["checkmate"],"variants":0}
+{"zrfID":2092,"id":"abq-chess","name":"ABQ Chess","category":["checkmate"],"variants":0}
+{"zrfID":1612,"id":"accessory-chess","name":"Accessory Chess","category":["checkmate"],"variants":0}
+{"zrfID":2086,"id":"acl-chess","name":"ACL Chess","category":["checkmate"],"variants":0}
+{"zrfID":1652,"id":"adjutant-chess","name":"Adjutant Chess","category":["checkmate"],"variants":0}
+{"zrfID":1931,"id":"advancing-chess-vrp","name":"Advancing Chess (VRP)","category":["checkmate"],"variants":0}
+{"zrfID":1501,"id":"aepasas-chess","name":"AepasAs Chess","category":["checkmate"],"variants":0}
+{"zrfID":1810,"id":"aerial-chess-96","name":"Aerial Chess 96","category":["checkmate"],"variants":0}
+{"zrfID":1407,"id":"airplane-chess","name":"Airplane Chess","category":["checkmate"],"variants":0}
+{"zrfID":39,"id":"alekhine-chess","name":"Alekhine Chess","category":["checkmate"],"variants":0}
+{"zrfID":40,"id":"alice-chess","name":"Alice Chess","category":["checkmate"],"variants":0}
+{"zrfID":1029,"id":"alice-cubed","name":"Alice Cubed","category":["checkmate"],"variants":0}
+{"zrfID":2096,"id":"all-chess","name":"ALL Chess","category":["checkmate"],"variants":0}
+{"zrfID":41,"id":"almost-chess","name":"Almost Chess","category":["checkmate"],"variants":0}
+{"zrfID":1698,"id":"alpaca-chess","name":"Alpaca Chess","category":["checkmate"],"variants":0}
+{"zrfID":3002,"id":"alphabet-shogi-hotix","name":"Alphabet Shogi (HOTIX)","category":["checkmate"],"variants":0}
+{"zrfID":3088,"id":"alphazero-variants","name":"AlphaZero Variants","category":["checkmate"],"variants":0}
+{"zrfID":1349,"id":"alseid-chess","name":"Alseid Chess","category":["checkmate"],"variants":0}
+{"zrfID":1400,"id":"alternative-chess","name":"Alternative Chess","category":["checkmate"],"variants":0}
+{"zrfID":1365,"id":"amazon-chess","name":"Amazon Chess","category":["checkmate"],"variants":0}
+{"zrfID":1573,"id":"amazona-chess","name":"AmazonA Chess","category":["checkmate"],"variants":0}
+{"zrfID":1586,"id":"amazonas-chess","name":"AmazonAs Chess","category":["checkmate"],"variants":0}
+{"zrfID":2048,"id":"amazons-chess","name":"Amazons Chess","category":["checkmate"],"variants":0}
+{"zrfID":2052,"id":"amazons-dma","name":"Amazons D�mA","category":["checkmate"],"variants":0}
+{"zrfID":1055,"id":"ambi-chess","name":"Ambi-Chess","category":["checkmate"],"variants":0}
+{"zrfID":1484,"id":"ambiguous-chess","name":"Ambiguous Chess","category":["checkmate"],"variants":0}
+{"zrfID":1316,"id":"amiral-chess","name":"Amiral Chess","category":["checkmate"],"variants":0}
+{"zrfID":1888,"id":"ancient-shogi","name":"Ancient Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2380,"id":"ancient-shogi-revised","name":"Ancient shogi revised","category":["checkmate"],"variants":0}
+{"zrfID":1733,"id":"andalusia","name":"Andalusia","category":["checkmate"],"variants":0}
+{"zrfID":3053,"id":"andernach-chess","name":"Andernach Chess","category":["checkmate"],"variants":0}
+{"zrfID":2859,"id":"andernach-shogi","name":"Andernach Shogi","category":["checkmate"],"variants":0}
+{"zrfID":1436,"id":"andras-chess","name":"AndrAs Chess","category":["checkmate"],"variants":0}
+{"zrfID":1422,"id":"angel-chess","name":"Angel Chess","category":["checkmate"],"variants":0}
+{"zrfID":42,"id":"angle-chess","name":"Angle Chess","category":["checkmate"],"variants":0}
+{"zrfID":2712,"id":"anhoku-shogi","name":"AnHoku Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2715,"id":"anki-shogi","name":"AnKi Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2705,"id":"annan-shogi","name":"AnNan Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2849,"id":"anonymous-shogi","name":"Anonymous Shogi","category":["checkmate"],"variants":0}
+{"zrfID":1660,"id":"anthony-chess","name":"Anthony Chess","category":["checkmate"],"variants":0}
+{"zrfID":3061,"id":"anti-kiki-annan-shogi","name":"Anti Kiki AnNan Shogi","category":["checkmate"],"variants":0}
+{"zrfID":3071,"id":"anti-kiki-position-shogi","name":"Anti Kiki Position Shogi","category":["checkmate"],"variants":0}
+{"zrfID":43,"id":"anti-king-chess","name":"Anti-King Chess","category":["checkmate"],"variants":0}
+{"zrfID":3049,"id":"anticirce-chess-remaining","name":"AntiCirce Chess Remaining","category":["checkmate"],"variants":0}
+{"zrfID":3048,"id":"anticirce-chess-type-calvet","name":"AntiCirce Chess Type Calvet","category":["checkmate"],"variants":0}
+{"zrfID":3047,"id":"anticirce-chess-type-cheylan","name":"AntiCirce Chess Type Cheylan","category":["checkmate"],"variants":0}
+{"zrfID":2724,"id":"anticirce-shogi","name":"AntiCirce Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2710,"id":"antozai-shogi","name":"AnToZai Shogi","category":["checkmate"],"variants":0}
+{"zrfID":3073,"id":"anzen-shogi","name":"AnZen Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2885,"id":"aozora-chu-shogi","name":"AoZora Chu Shogi","category":["checkmate"],"variants":0}
+{"zrfID":1440,"id":"archbishop-chess-variants","name":"Archbishop Chess Variants","category":["checkmate"],"variants":0}
+{"zrfID":1882,"id":"arena-chess","name":"ArenA Chess","category":["checkmate"],"variants":0}
+{"zrfID":3074,"id":"around-position-shogi","name":"Around Position Shogi","category":["checkmate"],"variants":0}
+{"zrfID":1707,"id":"arrangement-chess","name":"Arrangement Chess","category":["checkmate"],"variants":0}
+{"zrfID":2248,"id":"as-double-dropes-chess","name":"As [Double Dropes] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2249,"id":"as-double-zones-chess","name":"As [Double Zones] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2235,"id":"as-dropes-chess","name":"As [Dropes] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2261,"id":"as-dual-dropes-chess","name":"As [Dual Dropes] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2260,"id":"as-dual-zones-chess","name":"As [Dual Zones] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2326,"id":"as-kosova-trkiye-dropes-chess","name":"As [KosovA \u0026 T�rkiye Dropes] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2354,"id":"as-kosova-trkiye-dropes-dma","name":"As [KosovA \u0026 T�rkiye Dropes] D�mA","category":["checkmate"],"variants":0}
+{"zrfID":2327,"id":"as-kosova-trkiye-zones-chess","name":"As [KosovA \u0026 T�rkiye Zones] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2355,"id":"as-kosova-trkiye-zones-dma","name":"As [KosovA \u0026 T�rkiye Zones] D�mA","category":["checkmate"],"variants":0}
+{"zrfID":2341,"id":"as-kosovas-turkish-dropes-chess","name":"As [KosovAs \u0026 Turkish Dropes] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2353,"id":"as-kosovas-turkish-dropes-dma","name":"As [KosovAs \u0026 Turkish Dropes] D�mA","category":["checkmate"],"variants":0}
+{"zrfID":2342,"id":"as-kosovas-turkish-zones-chess","name":"As [KosovAs \u0026 Turkish Zones] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2352,"id":"as-kosovas-turkish-zones-dma","name":"As [KosovAs \u0026 Turkish Zones] D�mA","category":["checkmate"],"variants":0}
+{"zrfID":2290,"id":"as-marble-rubble-dropes-chess","name":"As [Marble \u0026 Rubble Dropes] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2293,"id":"as-marble-rubble-zones-chess","name":"As [Marble \u0026 Rubble Zones] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2301,"id":"as-pawn-pawn-dropes-chess","name":"As [Pawn \u0026 Pawn Dropes] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2304,"id":"as-pawn-pawn-zones-chess","name":"As [Pawn \u0026 Pawn Zones] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2314,"id":"as-pion-pion-dropes-chess","name":"As [Pion \u0026 Pion Dropes] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2320,"id":"as-pion-pion-zones-chess","name":"As [Pion \u0026 Pion Zones] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2236,"id":"as-zones-chess","name":"As [Zones] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2877,"id":"asakura-shogi","name":"Asakura Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2044,"id":"ascension-chess","name":"Ascension Chess","category":["checkmate"],"variants":0}
+{"zrfID":3173,"id":"asean-chess","name":"Asean Chess","category":["checkmate"],"variants":0}
+{"zrfID":44,"id":"assimilation-chess","name":"Assimilation Chess","category":["checkmate"],"variants":0}
+{"zrfID":82,"id":"assimilation-fusion-chess","name":"Assimilation Fusion Chess","category":["checkmate"],"variants":0}
+{"zrfID":1877,"id":"astralschach","name":"Astralschach","category":["checkmate"],"variants":0}
+{"zrfID":1885,"id":"astralschach-enhanced","name":"Astralschach Enhanced","category":["checkmate"],"variants":0}
+{"zrfID":1638,"id":"asylum-chess","name":"Asylum Chess","category":["checkmate"],"variants":0}
+{"zrfID":1734,"id":"asylum-redux","name":"Asylum Redux","category":["checkmate"],"variants":0}
+{"zrfID":3054,"id":"asymmetric-chess","name":"Asymmetric Chess","category":["checkmate"],"variants":0}
+{"zrfID":3072,"id":"asymmetric-chess-2","name":"Asymmetric Chess 2","category":["checkmate"],"variants":0}
+{"zrfID":2250,"id":"at-double-dropes-chess","name":"At [Double Dropes] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2251,"id":"at-double-zones-chess","name":"At [Double Zones] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2237,"id":"at-dropes-chess","name":"At [Dropes] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2259,"id":"at-dual-dropes-chess","name":"At [Dual Dropes] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2258,"id":"at-dual-zones-chess","name":"At [Dual Zones] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2328,"id":"at-kosova-trkiye-dropes-chess","name":"At [KosovA \u0026 T�rkiye Dropes] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2356,"id":"at-kosova-trkiye-dropes-dma","name":"At [KosovA \u0026 T�rkiye Dropes] D�mA","category":["checkmate"],"variants":0}
+{"zrfID":2329,"id":"at-kosova-trkiye-zones-chess","name":"At [KosovA \u0026 T�rkiye Zones] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2357,"id":"at-kosova-trkiye-zones-dma","name":"At [KosovA \u0026 T�rkiye Zones] D�mA","category":["checkmate"],"variants":0}
+{"zrfID":2343,"id":"at-kosovas-turkish-dropes-chess","name":"At [KosovAs \u0026 Turkish Dropes] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2358,"id":"at-kosovas-turkish-dropes-dma","name":"At [KosovAs \u0026 Turkish Dropes] D�mA","category":["checkmate"],"variants":0}
+{"zrfID":2344,"id":"at-kosovas-turkish-zones-chess","name":"At [KosovAs \u0026 Turkish Zones] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2359,"id":"at-kosovas-turkish-zones-dma","name":"At [KosovAs \u0026 Turkish Zones] D�mA","category":["checkmate"],"variants":0}
+{"zrfID":2291,"id":"at-marble-rubble-dropes-chess","name":"At [Marble \u0026 Rubble Dropes] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2294,"id":"at-marble-rubble-zones-chess","name":"At [Marble \u0026 Rubble Zones] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2302,"id":"at-pawn-pawn-dropes-chess","name":"At [Pawn \u0026 Pawn Dropes] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2305,"id":"at-pawn-pawn-zones-chess","name":"At [Pawn \u0026 Pawn Zones] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2315,"id":"at-pion-pion-dropes-chess","name":"At [Pion \u0026 Pion Dropes] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2321,"id":"at-pion-pion-zones-chess","name":"At [Pion \u0026 Pion Zones] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2238,"id":"at-zones-chess","name":"At [Zones] Chess","category":["checkmate"],"variants":0}
+{"zrfID":1438,"id":"atije-chess","name":"Atije Chess","category":["checkmate"],"variants":0}
+{"zrfID":83,"id":"atomic-chess","name":"Atomic Chess","category":["checkmate"],"variants":0}
+{"zrfID":3099,"id":"augmented-knight-chess","name":"Augmented Knight Chess","category":["checkmate"],"variants":0}
+{"zrfID":1408,"id":"avanta-chess","name":"AvantA Chess","category":["checkmate"],"variants":0}
+{"zrfID":1398,"id":"avantas-chess","name":"AvantAs Chess","category":["checkmate"],"variants":0}
+{"zrfID":1416,"id":"aviation-chess","name":"Aviation Chess","category":["checkmate"],"variants":0}
+{"zrfID":1659,"id":"azerbaijan-chess","name":"Azerbaijan Chess","category":["checkmate"],"variants":0}
+{"zrfID":2719,"id":"back-position-shogi","name":"Back Position Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2097,"id":"bad-chess","name":"BAD Chess","category":["checkmate"],"variants":0}
+{"zrfID":84,"id":"bank-chess","name":"Bank Chess","category":["checkmate"],"variants":0}
+{"zrfID":3040,"id":"bare-king-chess","name":"Bare King Chess","category":["checkmate"],"variants":0}
+{"zrfID":1179,"id":"bario","name":"Bario","category":["checkmate"],"variants":0}
+{"zrfID":1169,"id":"barion","name":"Barion","category":["checkmate"],"variants":0}
+{"zrfID":1642,"id":"basilisk-chess","name":"Basilisk Chess","category":["checkmate"],"variants":0}
+{"zrfID":2737,"id":"basiliskking-shogi","name":"BasiliskKing Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2795,"id":"bataille-astrale","name":"Bataille astrale","category":["checkmate"],"variants":0}
+{"zrfID":1811,"id":"battlefield-chess-64","name":"Battlefield Chess 64","category":["checkmate"],"variants":0}
+{"zrfID":1812,"id":"battlefield-chess-96","name":"Battlefield Chess 96","category":["checkmate"],"variants":0}
+{"zrfID":1350,"id":"belfry-chess","name":"Belfry Chess","category":["checkmate"],"variants":0}
+{"zrfID":85,"id":"benedict-chess","name":"Benedict Chess","category":["checkmate"],"variants":0}
+{"zrfID":86,"id":"better-pawns","name":"Better Pawns","category":["checkmate"],"variants":0}
+{"zrfID":87,"id":"biform-chess","name":"Biform Chess","category":["checkmate"],"variants":0}
+{"zrfID":88,"id":"big-battle","name":"Big Battle","category":["checkmate"],"variants":0}
+{"zrfID":1077,"id":"big-pawn-chess","name":"Big Pawn Chess","category":["checkmate"],"variants":0}
+{"zrfID":1625,"id":"birds-and-ninjas","name":"Birds and Ninjas","category":["checkmate"],"variants":0}
+{"zrfID":1441,"id":"bishop-pairs-chess-8h-x-12w","name":"Bishop Pairs Chess 8H x 12W","category":["checkmate"],"variants":0}
+{"zrfID":2626,"id":"bishops-chess","name":"Bishops Chess","category":["checkmate"],"variants":0}
+{"zrfID":89,"id":"black-hole-chess","name":"Black Hole Chess","category":["checkmate"],"variants":0}
+{"zrfID":1227,"id":"blindfold-chess","name":"Blindfold Chess","category":["checkmate"],"variants":0}
+{"zrfID":1192,"id":"blockchess","name":"BlockChess","category":["checkmate"],"variants":0}
+{"zrfID":2622,"id":"blockula-chess","name":"Blockula Chess","category":["checkmate"],"variants":0}
+{"zrfID":3003,"id":"bobcat-chess","name":"BobCat Chess","category":["checkmate"],"variants":0}
+{"zrfID":3004,"id":"bobcat-chess-misre","name":"BobCat Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":3013,"id":"bobcats-chess","name":"BobCats Chess","category":["checkmate"],"variants":0}
+{"zrfID":3014,"id":"bobcats-chess-misre","name":"BobCats Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":1360,"id":"bodyguard-chess","name":"Bodyguard Chess","category":["checkmate"],"variants":0}
+{"zrfID":2091,"id":"bog-chess","name":"BOG Chess","category":["checkmate"],"variants":0}
+{"zrfID":1358,"id":"bolyar-chess","name":"Bolyar Chess","category":["checkmate"],"variants":0}
+{"zrfID":2243,"id":"bomb-chess","name":"Bomb Chess","category":["checkmate"],"variants":0}
+{"zrfID":1379,"id":"bombardier-chess","name":"Bombardier Chess","category":["checkmate"],"variants":0}
+{"zrfID":92,"id":"bottleneck-chess","name":"Bottleneck Chess","category":["checkmate"],"variants":0}
+{"zrfID":3103,"id":"bouncing-chess","name":"Bouncing Chess","category":["checkmate"],"variants":0}
+{"zrfID":2796,"id":"breakthru","name":"Breakthru","category":["checkmate"],"variants":0}
+{"zrfID":93,"id":"brett-rules","name":"Brett Rules","category":["checkmate"],"variants":0}
+{"zrfID":1294,"id":"brigadier-chess","name":"Brigadier Chess","category":["checkmate"],"variants":0}
+{"zrfID":94,"id":"brotherhood-chess","name":"Brotherhood Chess","category":["checkmate"],"variants":0}
+{"zrfID":95,"id":"bubble-chess","name":"Bubble Chess","category":["checkmate"],"variants":0}
+{"zrfID":1318,"id":"buccaneer-chess","name":"Buccaneer Chess","category":["checkmate"],"variants":0}
+{"zrfID":96,"id":"bughouse-chess","name":"Bughouse Chess","category":["checkmate"],"variants":0}
+{"zrfID":1203,"id":"burmese-chess","name":"Burmese Chess","category":["checkmate"],"variants":0}
+{"zrfID":97,"id":"burnt-chess","name":"Burnt Chess","category":["checkmate"],"variants":0}
+{"zrfID":98,"id":"byzantine-chess","name":"Byzantine Chess","category":["checkmate"],"variants":0}
+{"zrfID":100,"id":"caiuml;ssa","name":"Ca\u0026iuml;ssa","category":["checkmate"],"variants":0}
+{"zrfID":3168,"id":"cambodian-chess","name":"Cambodian Chess","category":["checkmate"],"variants":0}
+{"zrfID":101,"id":"cannibal-chess","name":"Cannibal Chess","category":["checkmate"],"variants":0}
+{"zrfID":150,"id":"cannon","name":"Cannon","category":["checkmate"],"variants":0}
+{"zrfID":1600,"id":"cannon-ai","name":"Cannon AI","category":["checkmate"],"variants":0}
+{"zrfID":151,"id":"cannon-chess","name":"Cannon Chess","category":["checkmate"],"variants":0}
+{"zrfID":2558,"id":"cannon-chess-by-aepasa","name":"Cannon Chess by AepasA","category":["checkmate"],"variants":0}
+{"zrfID":2559,"id":"cannon-chess-misre-by-aepasa","name":"Cannon Chess Mis�re by AepasA","category":["checkmate"],"variants":0}
+{"zrfID":152,"id":"cannon-shogi","name":"Cannon Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2578,"id":"cannonade-chess","name":"Cannonade Chess","category":["checkmate"],"variants":0}
+{"zrfID":2579,"id":"cannonade-chess-misre","name":"Cannonade Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":1266,"id":"cannonrider-chess","name":"Cannonrider Chess","category":["checkmate"],"variants":0}
+{"zrfID":3101,"id":"cannons-chess","name":"Cannons Chess","category":["checkmate"],"variants":0}
+{"zrfID":2585,"id":"canoe-chess","name":"Canoe Chess","category":["checkmate"],"variants":0}
+{"zrfID":2586,"id":"canoe-chess-misre","name":"Canoe Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":2567,"id":"canon-chess-by-aepasa","name":"Canon Chess by AepasA","category":["checkmate"],"variants":0}
+{"zrfID":2568,"id":"canon-chess-misre-by-aepasa","name":"Canon Chess Mis�re by AepasA","category":["checkmate"],"variants":0}
+{"zrfID":2219,"id":"capablanca-chess-vs-grand-chess","name":"Capablanca chess Vs Grand chess","category":["checkmate"],"variants":0}
+{"zrfID":1406,"id":"capablanca-fun-games","name":"Capablanca Fun Games","category":["checkmate"],"variants":0}
+{"zrfID":1764,"id":"capablanca-relocation-chess","name":"Capablanca Relocation Chess","category":["checkmate"],"variants":0}
+{"zrfID":1304,"id":"capablanca-shatranj","name":"Capablanca Shatranj","category":["checkmate"],"variants":0}
+{"zrfID":1218,"id":"capablancas-chess","name":"Capablanca's Chess","category":["checkmate"],"variants":0}
+{"zrfID":2734,"id":"capture-first-shogi","name":"Capture First Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2971,"id":"caracal-chess","name":"Caracal Chess","category":["checkmate"],"variants":0}
+{"zrfID":2972,"id":"caracal-chess-misre","name":"Caracal Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":2962,"id":"caracals-chess","name":"Caracals Chess","category":["checkmate"],"variants":0}
+{"zrfID":2963,"id":"caracals-chess-misre","name":"Caracals Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":1752,"id":"carnage","name":"Carnage","category":["checkmate"],"variants":0}
+{"zrfID":2424,"id":"carrera-chess-mdnz","name":"Carrera Chess (MD\u0026NZ)","category":["checkmate"],"variants":0}
+{"zrfID":2436,"id":"carrera-drop-chess","name":"Carrera Drop Chess","category":["checkmate"],"variants":0}
+{"zrfID":2504,"id":"cascade-chess","name":"Cascade Chess","category":["checkmate"],"variants":0}
+{"zrfID":2505,"id":"cascade-dma","name":"Cascade D�mA","category":["checkmate"],"variants":0}
+{"zrfID":2544,"id":"cascades-chess","name":"Cascades Chess","category":["checkmate"],"variants":0}
+{"zrfID":2551,"id":"cascades-vs-chess","name":"Cascades [vs] Chess","category":["checkmate"],"variants":0}
+{"zrfID":1344,"id":"castalia-chess","name":"Castalia Chess","category":["checkmate"],"variants":0}
+{"zrfID":2490,"id":"castle-siege-chess","name":"Castle Siege Chess","category":["checkmate"],"variants":0}
+{"zrfID":154,"id":"castlechess","name":"CastleChess","category":["checkmate"],"variants":0}
+{"zrfID":2502,"id":"castling-chess","name":"Castling Chess","category":["checkmate"],"variants":0}
+{"zrfID":2503,"id":"castling-dma","name":"Castling D�mA","category":["checkmate"],"variants":0}
+{"zrfID":2545,"id":"castlings-chess","name":"Castlings Chess","category":["checkmate"],"variants":0}
+{"zrfID":2552,"id":"castlings-vs-chess","name":"Castlings [vs] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2090,"id":"cat-chess","name":"CAT Chess","category":["checkmate"],"variants":0}
+{"zrfID":155,"id":"cavalier-chess","name":"Cavalier Chess","category":["checkmate"],"variants":0}
+{"zrfID":157,"id":"cazaux-chess","name":"Cazaux Chess","category":["checkmate"],"variants":0}
+{"zrfID":2468,"id":"ca~co-kosova-trkiye-dropes-dma","name":"Ca~Co [KosovA \u0026 T�rkiye Dropes] D�mA","category":["checkmate"],"variants":0}
+{"zrfID":2479,"id":"ca~co-kosova-trkiye-dropes-dma-misre","name":"Ca~Co [KosovA \u0026 T�rkiye Dropes] D�mA Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":2469,"id":"ca~co-kosova-trkiye-zones-dma","name":"Ca~Co [KosovA \u0026 T�rkiye Zones] D�mA","category":["checkmate"],"variants":0}
+{"zrfID":2480,"id":"ca~co-kosova-trkiye-zones-dma-misre","name":"Ca~Co [KosovA \u0026 T�rkiye Zones] D�mA Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":2470,"id":"ca~co-kosovas-turkish-dropes-dma","name":"Ca~Co [KosovAs \u0026 Turkish Dropes] D�mA","category":["checkmate"],"variants":0}
+{"zrfID":2481,"id":"ca~co-kosovas-turkish-dropes-dma-misre","name":"Ca~Co [KosovAs \u0026 Turkish Dropes] D�mA Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":2471,"id":"ca~co-kosovas-turkish-zones-dma","name":"Ca~Co [KosovAs \u0026 Turkish Zones] D�mA","category":["checkmate"],"variants":0}
+{"zrfID":2482,"id":"ca~co-kosovas-turkish-zones-dma-misre","name":"Ca~Co [KosovAs \u0026 Turkish Zones] D�mA Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":160,"id":"chad","name":"Chad","category":["checkmate"],"variants":0}
+{"zrfID":3092,"id":"chained-movement-shogi","name":"Chained Movement Shogi","category":["checkmate"],"variants":0}
+{"zrfID":162,"id":"chameleon-chess","name":"Chameleon Chess","category":["checkmate"],"variants":0}
+{"zrfID":1442,"id":"chancellor-chess-8h-x-10w","name":"Chancellor Chess 8H x 10W","category":["checkmate"],"variants":0}
+{"zrfID":163,"id":"changling-chess","name":"Changling Chess","category":["checkmate"],"variants":0}
+{"zrfID":1557,"id":"chaos-advanced-game","name":"Chaos (Advanced Game)","category":["checkmate"],"variants":0}
+{"zrfID":1531,"id":"chaos-basic-game","name":"Chaos (Basic Game)","category":["checkmate"],"variants":0}
+{"zrfID":1546,"id":"chaos-intermediate-game","name":"Chaos (Intermediate Game)","category":["checkmate"],"variants":0}
+{"zrfID":1903,"id":"chase-chess","name":"Chase Chess","category":["checkmate"],"variants":0}
+{"zrfID":3012,"id":"chaturanga","name":"Chaturanga","category":["checkmate"],"variants":0}
+{"zrfID":3017,"id":"chaturanga-variant","name":"Chaturanga Variant","category":["checkmate"],"variants":0}
+{"zrfID":3018,"id":"chaturanga-variant-2","name":"Chaturanga Variant 2","category":["checkmate"],"variants":0}
+{"zrfID":165,"id":"chazz","name":"Chazz","category":["checkmate"],"variants":0}
+{"zrfID":1160,"id":"check-penalty","name":"Check-Penalty","category":["checkmate"],"variants":0}
+{"zrfID":166,"id":"checkers-chess","name":"Checkers Chess","category":["checkmate"],"variants":0}
+{"zrfID":2746,"id":"checkers-shogi-diamond-shogi","name":"Checkers Shogi (Diamond Shogi)","category":["checkmate"],"variants":0}
+{"zrfID":3034,"id":"checkless-chess","name":"Checkless Chess","category":["checkmate"],"variants":0}
+{"zrfID":1788,"id":"checkmate-chess","name":"CheckMate Chess","category":["checkmate"],"variants":0}
+{"zrfID":1778,"id":"checkmate-delight","name":"CheckMate Delight","category":["checkmate"],"variants":0}
+{"zrfID":167,"id":"cheer-chess","name":"Cheer Chess","category":["checkmate"],"variants":0}
+{"zrfID":2750,"id":"cheetah-chess","name":"Cheetah Chess","category":["checkmate"],"variants":0}
+{"zrfID":2751,"id":"cheetah-chess-misre","name":"Cheetah Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":2752,"id":"cheetah-dma","name":"Cheetah D�mA","category":["checkmate"],"variants":0}
+{"zrfID":2753,"id":"cheetah-dma-misre","name":"Cheetah D�mA Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":2895,"id":"cheetahs-chess","name":"Cheetahs Chess","category":["checkmate"],"variants":0}
+{"zrfID":2896,"id":"cheetahs-chess-misre","name":"Cheetahs Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":168,"id":"chess-2000","name":"Chess 2000","category":["checkmate"],"variants":0}
+{"zrfID":169,"id":"chess-68","name":"Chess 68","category":["checkmate"],"variants":0}
+{"zrfID":1870,"id":"chess-9x9-with-2-queens","name":"Chess 9x9 with 2 queens","category":["checkmate"],"variants":0}
+{"zrfID":3161,"id":"chess-attack","name":"Chess Attack","category":["checkmate"],"variants":0}
+{"zrfID":2498,"id":"chess-by-aepasa","name":"Chess by AepasA","category":["checkmate"],"variants":0}
+{"zrfID":173,"id":"chess-cubed","name":"Chess Cubed","category":["checkmate"],"variants":0}
+{"zrfID":1720,"id":"chess-delighted","name":"Chess Delighted","category":["checkmate"],"variants":0}
+{"zrfID":172,"id":"chess-ii-the-resurrection","name":"Chess II, the Resurrection","category":["checkmate"],"variants":0}
+{"zrfID":1305,"id":"chess-is-war--war-is-chess","name":"Chess is War...War is Chess","category":["checkmate"],"variants":0}
+{"zrfID":1679,"id":"chess-on-a-soccer-ball","name":"Chess on a Soccer Ball","category":["checkmate"],"variants":0}
+{"zrfID":174,"id":"chess-on-the-rainbows","name":"Chess on the Rainbows","category":["checkmate"],"variants":0}
+{"zrfID":178,"id":"chess-rotation","name":"Chess Rotation","category":["checkmate"],"variants":0}
+{"zrfID":2079,"id":"chess-shogi","name":"Chess shogi","category":["checkmate"],"variants":0}
+{"zrfID":2834,"id":"chess-variant-vs-janggi","name":"Chess variant vs Janggi","category":["checkmate"],"variants":0}
+{"zrfID":2833,"id":"chess-variant-vs-xiangqi","name":"Chess variant vs Xiangqi","category":["checkmate"],"variants":0}
+{"zrfID":2828,"id":"chess-vs-janggi","name":"Chess vs Janggi","category":["checkmate"],"variants":0}
+{"zrfID":2826,"id":"chess-vs-makruk","name":"Chess vs Makruk","category":["checkmate"],"variants":0}
+{"zrfID":2827,"id":"chess-vs-xiangqi","name":"Chess vs Xiangqi","category":["checkmate"],"variants":0}
+{"zrfID":1738,"id":"chess-with-extended-castle","name":"Chess with Extended Castle","category":["checkmate"],"variants":0}
+{"zrfID":1984,"id":"chess-without-pawns","name":"Chess without Pawns","category":["checkmate"],"variants":0}
+{"zrfID":1594,"id":"chess-the-immortal-game","name":"Chess [The ImMortal Game]","category":["checkmate"],"variants":0}
+{"zrfID":1825,"id":"chess-9","name":"Chess-9","category":["checkmate"],"variants":0}
+{"zrfID":1209,"id":"chess-b","name":"Chess-B","category":["checkmate"],"variants":0}
+{"zrfID":1243,"id":"chess-sets","name":"Chess-Sets","category":["checkmate"],"variants":0}
+{"zrfID":171,"id":"chess-tac-toe","name":"Chess-Tac-Toe","category":["checkmate"],"variants":0}
+{"zrfID":1295,"id":"chessaces","name":"Chess/Aces","category":["checkmate"],"variants":0}
+{"zrfID":3274,"id":"chess18","name":"Chess18","category":["checkmate"],"variants":0}
+{"zrfID":1234,"id":"chess256","name":"Chess256","category":["checkmate"],"variants":0}
+{"zrfID":3265,"id":"chess900","name":"Chess900","category":["checkmate"],"variants":0}
+{"zrfID":170,"id":"chess-my-way","name":"Chess: My Way","category":["checkmate"],"variants":0}
+{"zrfID":2566,"id":"chessence","name":"Chessence","category":["checkmate"],"variants":0}
+{"zrfID":176,"id":"chesseract","name":"Chesseract","category":["checkmate"],"variants":0}
+{"zrfID":177,"id":"chessers","name":"Chessers","category":["checkmate"],"variants":0}
+{"zrfID":45,"id":"chessgi","name":"Chessgi","category":["checkmate"],"variants":0}
+{"zrfID":2060,"id":"chimera-chess","name":"Chimera Chess","category":["checkmate"],"variants":0}
+{"zrfID":179,"id":"chinese-chess","name":"Chinese Chess","category":["checkmate"],"variants":0}
+{"zrfID":1300,"id":"chinese-chess-mw","name":"Chinese Chess (MW)","category":["checkmate"],"variants":0}
+{"zrfID":180,"id":"chinese-chess-western-style","name":"Chinese Chess Western Style","category":["checkmate"],"variants":0}
+{"zrfID":2759,"id":"chinese-passive-chess","name":"Chinese Passive Chess","category":["checkmate"],"variants":0}
+{"zrfID":2220,"id":"chinesecheckers-chess","name":"ChineseCheckers Chess","category":["checkmate"],"variants":0}
+{"zrfID":181,"id":"chromatic-chess","name":"Chromatic Chess","category":["checkmate"],"variants":0}
+{"zrfID":182,"id":"chu-shogi","name":"Chu Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2562,"id":"chu-shogi-full-rules-set","name":"Chu Shogi (Full rules set)","category":["checkmate"],"variants":0}
+{"zrfID":2860,"id":"chu-shogi-12x12","name":"Chu Shogi 12x12","category":["checkmate"],"variants":0}
+{"zrfID":1900,"id":"chu-shogi-western","name":"Chu Shogi Western","category":["checkmate"],"variants":0}
+{"zrfID":2257,"id":"circe-and-andernach-chess","name":"Circe and Andernach chess","category":["checkmate"],"variants":0}
+{"zrfID":3045,"id":"circe-chess","name":"Circe Chess","category":["checkmate"],"variants":0}
+{"zrfID":2723,"id":"circe-shogi","name":"Circe Shogi","category":["checkmate"],"variants":0}
+{"zrfID":183,"id":"circular-chess","name":"Circular Chess","category":["checkmate"],"variants":0}
+{"zrfID":1369,"id":"circular-chess-mw","name":"Circular Chess (MW)","category":["checkmate"],"variants":0}
+{"zrfID":184,"id":"circular-chess-rp","name":"Circular Chess (RP)","category":["checkmate"],"variants":0}
+{"zrfID":185,"id":"clash-of-command","name":"Clash of Command","category":["checkmate"],"variants":0}
+{"zrfID":1391,"id":"clash-of-the-civilizations-chess","name":"Clash of the Civilizations Chess","category":["checkmate"],"variants":0}
+{"zrfID":1448,"id":"classic-chess","name":"Classic Chess","category":["checkmate"],"variants":0}
+{"zrfID":3090,"id":"classic-courier-chess","name":"Classic Courier Chess","category":["checkmate"],"variants":0}
+{"zrfID":1587,"id":"classica-chess","name":"ClassicA Chess","category":["checkmate"],"variants":0}
+{"zrfID":3219,"id":"claustrophobia","name":"Claustrophobia","category":["checkmate"],"variants":0}
+{"zrfID":186,"id":"cleopatra-chess","name":"Cleopatra Chess","category":["checkmate"],"variants":0}
+{"zrfID":190,"id":"cloak-chess","name":"Cloak Chess","category":["checkmate"],"variants":0}
+{"zrfID":191,"id":"clockwork-orange-chess","name":"Clockwork Orange Chess","category":["checkmate"],"variants":0}
+{"zrfID":192,"id":"coherent-chess","name":"Coherent Chess","category":["checkmate"],"variants":0}
+{"zrfID":1802,"id":"colossus","name":"Colossus","category":["checkmate"],"variants":0}
+{"zrfID":1380,"id":"columbiad-chess","name":"Columbiad Chess","category":["checkmate"],"variants":0}
+{"zrfID":2851,"id":"combination-shogi","name":"Combination Shogi","category":["checkmate"],"variants":0}
+{"zrfID":1296,"id":"commodore-chess","name":"Commodore Chess","category":["checkmate"],"variants":0}
+{"zrfID":1908,"id":"commoner-chess","name":"Commoner Chess","category":["checkmate"],"variants":0}
+{"zrfID":1909,"id":"commoners-royals-chess","name":"Commoners \u0026 Royals Chess","category":["checkmate"],"variants":0}
+{"zrfID":193,"id":"companion-chess","name":"Companion Chess","category":["checkmate"],"variants":0}
+{"zrfID":1750,"id":"complex-chess","name":"CompleX Chess","category":["checkmate"],"variants":0}
+{"zrfID":1708,"id":"configuration-chess","name":"Configuration Chess","category":["checkmate"],"variants":0}
+{"zrfID":11,"id":"congo","name":"Congo","category":["checkmate"],"variants":0}
+{"zrfID":194,"id":"connected-chess","name":"Connected Chess","category":["checkmate"],"variants":0}
+{"zrfID":1306,"id":"constable-chess","name":"Constable Chess","category":["checkmate"],"variants":0}
+{"zrfID":1372,"id":"conveyor-belt-chess","name":"Conveyor-Belt Chess","category":["checkmate"],"variants":0}
+{"zrfID":1417,"id":"coordinator-chess","name":"Coordinator Chess","category":["checkmate"],"variants":0}
+{"zrfID":196,"id":"coregal-chess","name":"Coregal Chess","category":["checkmate"],"variants":0}
+{"zrfID":1621,"id":"correlator-chess","name":"Correlator Chess","category":["checkmate"],"variants":0}
+{"zrfID":2727,"id":"cougar-chess","name":"Cougar Chess","category":["checkmate"],"variants":0}
+{"zrfID":2728,"id":"cougar-chess-misre","name":"Cougar Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":2902,"id":"cougars-chess","name":"Cougars Chess","category":["checkmate"],"variants":0}
+{"zrfID":197,"id":"countdown-queens","name":"Countdown Queens","category":["checkmate"],"variants":0}
+{"zrfID":1569,"id":"coward-chess","name":"Coward Chess","category":["checkmate"],"variants":0}
+{"zrfID":3041,"id":"coyote-chess","name":"Coyote Chess","category":["checkmate"],"variants":0}
+{"zrfID":3042,"id":"coyote-chess-misre","name":"Coyote Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":3112,"id":"coyotes-chess","name":"Coyotes Chess","category":["checkmate"],"variants":0}
+{"zrfID":3113,"id":"coyotes-chess-misre","name":"Coyotes Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":2464,"id":"co~ca-kosova-trkiye-dropes-dma","name":"Co~Ca [KosovA \u0026 T�rkiye Dropes] D�mA","category":["checkmate"],"variants":0}
+{"zrfID":2473,"id":"co~ca-kosova-trkiye-dropes-dma-misre","name":"Co~Ca [KosovA \u0026 T�rkiye Dropes] D�mA Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":2465,"id":"co~ca-kosova-trkiye-zones-dma","name":"Co~Ca [KosovA \u0026 T�rkiye Zones] D�mA","category":["checkmate"],"variants":0}
+{"zrfID":2474,"id":"co~ca-kosova-trkiye-zones-dma-misre","name":"Co~Ca [KosovA \u0026 T�rkiye Zones] D�mA Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":2466,"id":"co~ca-kosovas-turkish-dropes-dma","name":"Co~Ca [KosovAs \u0026 Turkish Dropes] D�mA","category":["checkmate"],"variants":0}
+{"zrfID":2475,"id":"co~ca-kosovas-turkish-dropes-dma-misre","name":"Co~Ca [KosovAs \u0026 Turkish Dropes] D�mA Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":2467,"id":"co~ca-kosovas-turkish-zones-dma","name":"Co~Ca [KosovAs \u0026 Turkish Zones] D�mA","category":["checkmate"],"variants":0}
+{"zrfID":2476,"id":"co~ca-kosovas-turkish-zones-dma-misre","name":"Co~Ca [KosovAs \u0026 Turkish Zones] D�mA Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":198,"id":"crazy-pawns-chess","name":"Crazy Pawns Chess","category":["checkmate"],"variants":0}
+{"zrfID":49,"id":"crazyhouse","name":"Crazyhouse","category":["checkmate"],"variants":0}
+{"zrfID":1290,"id":"crazyhouse-no-retreat-morphy-chess","name":"Crazyhouse No Retreat Morphy Chess","category":["checkmate"],"variants":0}
+{"zrfID":1051,"id":"crazywar","name":"CrazyWar","category":["checkmate"],"variants":0}
+{"zrfID":2799,"id":"critters","name":"Critters","category":["checkmate"],"variants":0}
+{"zrfID":3283,"id":"crook-chess","name":"Crook Chess","category":["checkmate"],"variants":0}
+{"zrfID":199,"id":"cross-eyed-chess","name":"Cross-eyed Chess","category":["checkmate"],"variants":0}
+{"zrfID":1096,"id":"cross3d-chess","name":"Cross3D Chess","category":["checkmate"],"variants":0}
+{"zrfID":1301,"id":"crossbishop-chess","name":"Crossbishop Chess","category":["checkmate"],"variants":0}
+{"zrfID":1307,"id":"crossbishop-chess-8x10","name":"Crossbishop Chess (8x10)","category":["checkmate"],"variants":0}
+{"zrfID":1461,"id":"crossing-stonehenge","name":"Crossing Stonehenge","category":["checkmate"],"variants":0}
+{"zrfID":1302,"id":"crossrook-chess","name":"Crossrook Chess","category":["checkmate"],"variants":0}
+{"zrfID":200,"id":"crowed-angle-chess","name":"Crowed Angle Chess","category":["checkmate"],"variants":0}
+{"zrfID":2121,"id":"csw-chess","name":"CSW Chess","category":["checkmate"],"variants":0}
+{"zrfID":2563,"id":"cubic-chess","name":"Cubic Chess","category":["checkmate"],"variants":0}
+{"zrfID":1643,"id":"culverin-chess","name":"Culverin Chess","category":["checkmate"],"variants":0}
+{"zrfID":3109,"id":"cylinder-chess","name":"Cylinder Chess","category":["checkmate"],"variants":0}
+{"zrfID":2649,"id":"cylindrical-shogi","name":"Cylindrical Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2124,"id":"cyvasse","name":"Cyvasse","category":["checkmate"],"variants":0}
+{"zrfID":1816,"id":"dablo-daares","name":"Dablo Daares","category":["checkmate"],"variants":0}
+{"zrfID":1465,"id":"dai-dai-shogi","name":"Dai Dai Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2916,"id":"dai-dai-shogi-17x17","name":"Dai Dai Shogi 17x17","category":["checkmate"],"variants":0}
+{"zrfID":1913,"id":"dai-dai-shogi-western","name":"Dai Dai Shogi Western","category":["checkmate"],"variants":0}
+{"zrfID":2861,"id":"dai-shogi-15x15","name":"Dai Shogi 15x15","category":["checkmate"],"variants":0}
+{"zrfID":2496,"id":"dma-by-aepasa","name":"D�mA by AepasA","category":["checkmate"],"variants":0}
+{"zrfID":1790,"id":"dmemate-chess","name":"D�meMate Chess","category":["checkmate"],"variants":0}
+{"zrfID":2420,"id":"dane-kosova-trkiye-dropes-dma","name":"DaNe [KosovA \u0026 T�rkiye Dropes] D�mA","category":["checkmate"],"variants":0}
+{"zrfID":2432,"id":"dane-kosova-trkiye-dropes-dma-misre","name":"DaNe [KosovA \u0026 T�rkiye Dropes] D�mA Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":2421,"id":"dane-kosova-trkiye-zones-dma","name":"DaNe [KosovA \u0026 T�rkiye Zones] D�mA","category":["checkmate"],"variants":0}
+{"zrfID":2433,"id":"dane-kosova-trkiye-zones-dma-misre","name":"DaNe [KosovA \u0026 T�rkiye Zones] D�mA Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":2422,"id":"dane-kosovas-turkish-dropes-dma","name":"DaNe [KosovAs \u0026 Turkish Dropes] D�mA","category":["checkmate"],"variants":0}
+{"zrfID":2434,"id":"dane-kosovas-turkish-dropes-dma-misre","name":"DaNe [KosovAs \u0026 Turkish Dropes] D�mA Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":2423,"id":"dane-kosovas-turkish-zones-dma","name":"DaNe [KosovAs \u0026 Turkish Zones] D�mA","category":["checkmate"],"variants":0}
+{"zrfID":2435,"id":"dane-kosovas-turkish-zones-dma-misre","name":"DaNe [KosovAs \u0026 Turkish Zones] D�mA Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":201,"id":"dark-chess","name":"Dark Chess","category":["checkmate"],"variants":0}
+{"zrfID":277,"id":"deadly-pawns-chess","name":"Deadly Pawns Chess","category":["checkmate"],"variants":0}
+{"zrfID":3086,"id":"decimal-chess","name":"Decimal Chess","category":["checkmate"],"variants":0}
+{"zrfID":175,"id":"deep-blue-versus-kasparov","name":"Deep Blue versus Kasparov","category":["checkmate"],"variants":0}
+{"zrfID":278,"id":"deflector-chess","name":"Deflector Chess","category":["checkmate"],"variants":0}
+{"zrfID":279,"id":"delayed-chess","name":"Delayed Chess","category":["checkmate"],"variants":0}
+{"zrfID":280,"id":"descent-chess","name":"Descent Chess","category":["checkmate"],"variants":0}
+{"zrfID":281,"id":"desert-benedict-chess","name":"Desert Benedict Chess","category":["checkmate"],"variants":0}
+{"zrfID":1673,"id":"diamond-chess-306","name":"Diamond Chess 306","category":["checkmate"],"variants":0}
+{"zrfID":2624,"id":"diarchic-chess","name":"Diarchic Chess","category":["checkmate"],"variants":0}
+{"zrfID":283,"id":"dictator-chess","name":"Dictator Chess","category":["checkmate"],"variants":0}
+{"zrfID":284,"id":"different-armies","name":"Different Armies","category":["checkmate"],"variants":0}
+{"zrfID":1356,"id":"dimachaer-chess","name":"Dimachaer Chess","category":["checkmate"],"variants":0}
+{"zrfID":2038,"id":"dino-shogi","name":"Dino Shogi","category":["checkmate"],"variants":0}
+{"zrfID":285,"id":"dino-czars","name":"Dino-Czars","category":["checkmate"],"variants":0}
+{"zrfID":1616,"id":"displacement-chess-2","name":"Displacement Chess 2","category":["checkmate"],"variants":0}
+{"zrfID":2336,"id":"dobutsu-shogi","name":"Dobutsu Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2089,"id":"don-chess","name":"DON Chess","category":["checkmate"],"variants":0}
+{"zrfID":187,"id":"double-agent-chess","name":"Double Agent Chess","category":["checkmate"],"variants":0}
+{"zrfID":1732,"id":"double-barrel-rifle-chess","name":"Double Barrel Rifle Chess","category":["checkmate"],"variants":0}
+{"zrfID":286,"id":"double-chess","name":"Double Chess","category":["checkmate"],"variants":0}
+{"zrfID":287,"id":"double-move-chess","name":"Double Move Chess","category":["checkmate"],"variants":0}
+{"zrfID":2657,"id":"double-move-shogi","name":"Double Move Shogi","category":["checkmate"],"variants":0}
+{"zrfID":1308,"id":"doublebarrel-chess","name":"Doublebarrel Chess","category":["checkmate"],"variants":0}
+{"zrfID":1309,"id":"doublecannon-chess","name":"Doublecannon Chess","category":["checkmate"],"variants":0}
+{"zrfID":1310,"id":"doublecannon-chess-8x10","name":"Doublecannon Chess (8x10)","category":["checkmate"],"variants":0}
+{"zrfID":2671,"id":"doublemove-checkfirst-shogi","name":"DoubleMove-CheckFirst Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2666,"id":"doublemove-otherpiece-shogi","name":"DoubleMove-OtherPiece Shogi","category":["checkmate"],"variants":0}
+{"zrfID":973,"id":"double_alternate-chess","name":"Double_Alternate Chess","category":["checkmate"],"variants":0}
+{"zrfID":2758,"id":"dragon-vs-horse-shogi","name":"Dragon vs. Horse Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2576,"id":"dragon100-chess","name":"Dragon100 chess","category":["checkmate"],"variants":0}
+{"zrfID":288,"id":"dragonchess","name":"Dragonchess","category":["checkmate"],"variants":0}
+{"zrfID":289,"id":"dragonfly","name":"Dragonfly","category":["checkmate"],"variants":0}
+{"zrfID":291,"id":"dragonfly-miniatures","name":"Dragonfly Miniatures","category":["checkmate"],"variants":0}
+{"zrfID":3102,"id":"dragons-chess","name":"Dragons Chess","category":["checkmate"],"variants":0}
+{"zrfID":1252,"id":"dromedary-chess","name":"Dromedary Chess","category":["checkmate"],"variants":0}
+{"zrfID":292,"id":"drop-chess","name":"Drop Chess","category":["checkmate"],"variants":0}
+{"zrfID":293,"id":"drop-chess-hp","name":"Drop Chess (HP)","category":["checkmate"],"variants":0}
+{"zrfID":3026,"id":"dual-king-chess","name":"Dual King Chess","category":["checkmate"],"variants":0}
+{"zrfID":2524,"id":"duel-poedinok","name":"Duel (Poedinok)","category":["checkmate"],"variants":0}
+{"zrfID":2444,"id":"duluth-chess","name":"Duluth Chess","category":["checkmate"],"variants":0}
+{"zrfID":294,"id":"dunsanys-chess","name":"Dunsany's Chess","category":["checkmate"],"variants":0}
+{"zrfID":295,"id":"dunsanys-chess-uw","name":"Dunsany's Chess (UW)","category":["checkmate"],"variants":0}
+{"zrfID":1805,"id":"drers-chess","name":"D�rer's Chess","category":["checkmate"],"variants":0}
+{"zrfID":296,"id":"dutch-chess","name":"Dutch Chess","category":["checkmate"],"variants":0}
+{"zrfID":2020,"id":"dynamic-chess","name":"Dynamic Chess","category":["checkmate"],"variants":0}
+{"zrfID":1373,"id":"echidna-chess","name":"Echidna Chess","category":["checkmate"],"variants":0}
+{"zrfID":2242,"id":"ed-double-dropes-chess","name":"Ed [Double Dropes] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2241,"id":"ed-double-zones-chess","name":"Ed [Double Zones] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2228,"id":"ed-dropes-chess","name":"Ed [Dropes] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2256,"id":"ed-dual-dropes-chess","name":"Ed [Dual Dropes] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2255,"id":"ed-dual-zones-chess","name":"Ed [Dual Zones] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2322,"id":"ed-kosova-trkiye-dropes-chess","name":"Ed [KosovA \u0026 T�rkiye Dropes] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2360,"id":"ed-kosova-trkiye-dropes-dma","name":"Ed [KosovA \u0026 T�rkiye Dropes] D�mA","category":["checkmate"],"variants":0}
+{"zrfID":2323,"id":"ed-kosova-trkiye-zones-chess","name":"Ed [KosovA \u0026 T�rkiye Zones] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2361,"id":"ed-kosova-trkiye-zones-dma","name":"Ed [KosovA \u0026 T�rkiye Zones] D�mA","category":["checkmate"],"variants":0}
+{"zrfID":2338,"id":"ed-kosovas-turkish-dropes-chess","name":"Ed [KosovAs \u0026 Turkish Dropes] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2362,"id":"ed-kosovas-turkish-dropes-dma","name":"Ed [KosovAs \u0026 Turkish Dropes] D�mA","category":["checkmate"],"variants":0}
+{"zrfID":2337,"id":"ed-kosovas-turkish-zones-chess","name":"Ed [KosovAs \u0026 Turkish Zones] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2363,"id":"ed-kosovas-turkish-zones-dma","name":"Ed [KosovAs \u0026 Turkish Zones] D�mA","category":["checkmate"],"variants":0}
+{"zrfID":2284,"id":"ed-marble-rubble-dropes-chess","name":"Ed [Marble \u0026 Rubble Dropes] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2287,"id":"ed-marble-rubble-zones-chess","name":"Ed [Marble \u0026 Rubble Zones] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2296,"id":"ed-pawn-pawn-dropes-chess","name":"Ed [Pawn \u0026 Pawn Dropes] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2298,"id":"ed-pawn-pawn-zones-chess","name":"Ed [Pawn \u0026 Pawn Zones] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2310,"id":"ed-pion-pion-dropes-chess","name":"Ed [Pion \u0026 Pion Dropes] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2318,"id":"ed-pion-pion-zones-chess","name":"Ed [Pion \u0026 Pion Zones] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2229,"id":"ed-zones-chess","name":"Ed [Zones] Chess","category":["checkmate"],"variants":0}
+{"zrfID":363,"id":"edge-chess","name":"Edge Chess","category":["checkmate"],"variants":0}
+{"zrfID":1466,"id":"edibe-chess","name":"Edibe Chess","category":["checkmate"],"variants":0}
+{"zrfID":1526,"id":"edina-chess","name":"EdinA Chess","category":["checkmate"],"variants":0}
+{"zrfID":1518,"id":"edita-chess","name":"EditA Chess","category":["checkmate"],"variants":0}
+{"zrfID":1649,"id":"elections-chess","name":"Elections Chess","category":["checkmate"],"variants":0}
+{"zrfID":364,"id":"elena-chess","name":"Elena Chess","category":["checkmate"],"variants":0}
+{"zrfID":1215,"id":"elephant-chess","name":"Elephant Chess","category":["checkmate"],"variants":0}
+{"zrfID":365,"id":"elevator","name":"Elevator","category":["checkmate"],"variants":0}
+{"zrfID":1244,"id":"elk-chess","name":"Elk Chess","category":["checkmate"],"variants":0}
+{"zrfID":1268,"id":"elkrider-chess","name":"Elkrider Chess","category":["checkmate"],"variants":0}
+{"zrfID":2572,"id":"elsborgs-courier-chess","name":"Elsborg's Courier Chess","category":["checkmate"],"variants":0}
+{"zrfID":1443,"id":"embassy-chess-variants","name":"Embassy Chess Variants","category":["checkmate"],"variants":0}
+{"zrfID":366,"id":"emperor-of-china","name":"Emperor of China","category":["checkmate"],"variants":0}
+{"zrfID":1116,"id":"emperor-raumschach","name":"Emperor Raumschach","category":["checkmate"],"variants":0}
+{"zrfID":2609,"id":"empress-chess","name":"Empress Chess","category":["checkmate"],"variants":0}
+{"zrfID":2610,"id":"empress-chess-misre","name":"Empress Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":1079,"id":"en-avant","name":"En Avant","category":["checkmate"],"variants":0}
+{"zrfID":367,"id":"en-passant-chess","name":"En passant Chess","category":["checkmate"],"variants":0}
+{"zrfID":368,"id":"english-shogi-pieces","name":"English Shogi Pieces","category":["checkmate"],"variants":0}
+{"zrfID":2087,"id":"epa-chess","name":"EPA Chess","category":["checkmate"],"variants":0}
+{"zrfID":520,"id":"erb-jetan","name":"ERB Jetan","category":["checkmate"],"variants":0}
+{"zrfID":2546,"id":"escalation","name":"Escalation","category":["checkmate"],"variants":0}
+{"zrfID":1330,"id":"essedar-chess","name":"Essedar Chess","category":["checkmate"],"variants":0}
+{"zrfID":2240,"id":"et-double-dropes-chess","name":"Et [Double Dropes] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2239,"id":"et-double-zones-chess","name":"Et [Double Zones] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2230,"id":"et-dropes-chess","name":"Et [Dropes] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2254,"id":"et-dual-dropes-chess","name":"Et [Dual Dropes] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2253,"id":"et-dual-zones-chess","name":"Et [Dual Zones] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2324,"id":"et-kosova-trkiye-dropes-chess","name":"Et [KosovA \u0026 T�rkiye Dropes] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2364,"id":"et-kosova-trkiye-dropes-dma","name":"Et [KosovA \u0026 T�rkiye Dropes] D�mA","category":["checkmate"],"variants":0}
+{"zrfID":2325,"id":"et-kosova-trkiye-zones-chess","name":"Et [KosovA \u0026 T�rkiye Zones] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2365,"id":"et-kosova-trkiye-zones-dma","name":"Et [KosovA \u0026 T�rkiye Zones] D�mA","category":["checkmate"],"variants":0}
+{"zrfID":2339,"id":"et-kosovas-turkish-dropes-chess","name":"Et [KosovAs \u0026 Turkish Dropes] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2366,"id":"et-kosovas-turkish-dropes-dma","name":"Et [KosovAs \u0026 Turkish Dropes] D�mA","category":["checkmate"],"variants":0}
+{"zrfID":2340,"id":"et-kosovas-turkish-zones-chess","name":"Et [KosovAs \u0026 Turkish Zones] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2367,"id":"et-kosovas-turkish-zones-dma","name":"Et [KosovAs \u0026 Turkish Zones] D�mA","category":["checkmate"],"variants":0}
+{"zrfID":2285,"id":"et-marble-rubble-dropes-chess","name":"Et [Marble \u0026 Rubble Dropes] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2288,"id":"et-marble-rubble-zones-chess","name":"Et [Marble \u0026 Rubble Zones] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2297,"id":"et-pawn-pawn-dropes-chess","name":"Et [Pawn \u0026 Pawn Dropes] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2299,"id":"et-pawn-pawn-zones-chess","name":"Et [Pawn \u0026 Pawn Zones] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2311,"id":"et-pion-pion-dropes-chess","name":"Et [Pion \u0026 Pion Dropes] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2319,"id":"et-pion-pion-zones-chess","name":"Et [Pion \u0026 Pion Zones] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2231,"id":"et-zones-chess","name":"Et [Zones] Chess","category":["checkmate"],"variants":0}
+{"zrfID":1490,"id":"etrit-chess","name":"Etrit Chess","category":["checkmate"],"variants":0}
+{"zrfID":2492,"id":"etrit-dma","name":"Etrit D�mA","category":["checkmate"],"variants":0}
+{"zrfID":369,"id":"eurasian-chess","name":"Eurasian Chess","category":["checkmate"],"variants":0}
+{"zrfID":1948,"id":"europa-chess","name":"EuropA Chess","category":["checkmate"],"variants":0}
+{"zrfID":1949,"id":"europas-chess","name":"EuropAs Chess","category":["checkmate"],"variants":0}
+{"zrfID":1950,"id":"europe-chess","name":"Europe Chess","category":["checkmate"],"variants":0}
+{"zrfID":1951,"id":"european-chess","name":"European Chess","category":["checkmate"],"variants":0}
+{"zrfID":1952,"id":"europeans-chess","name":"Europeans Chess","category":["checkmate"],"variants":0}
+{"zrfID":1953,"id":"europes-chess","name":"Europes Chess","category":["checkmate"],"variants":0}
+{"zrfID":371,"id":"evasive-chess","name":"Evasive Chess","category":["checkmate"],"variants":0}
+{"zrfID":372,"id":"evolution-chess","name":"Evolution Chess","category":["checkmate"],"variants":0}
+{"zrfID":373,"id":"exchequer","name":"Exchequer","category":["checkmate"],"variants":0}
+{"zrfID":374,"id":"extended-half-chess","name":"Extended Half-Chess","category":["checkmate"],"variants":0}
+{"zrfID":1601,"id":"extinction-chess","name":"ExTinction Chess","category":["checkmate"],"variants":0}
+{"zrfID":1806,"id":"extrapawn-chess","name":"Extrapawn Chess","category":["checkmate"],"variants":0}
+{"zrfID":1872,"id":"extremal-shogi","name":"Extremal Shogi","category":["checkmate"],"variants":0}
+{"zrfID":375,"id":"ezhexchess","name":"EZHexChess","category":["checkmate"],"variants":0}
+{"zrfID":2283,"id":"failing-hands-chess","name":"Failing Hands Chess","category":["checkmate"],"variants":0}
+{"zrfID":2286,"id":"fair-chess","name":"Fair-Chess","category":["checkmate"],"variants":0}
+{"zrfID":384,"id":"fairybigchess","name":"FairyBigChess","category":["checkmate"],"variants":0}
+{"zrfID":1135,"id":"fallingsnow","name":"FallingSnow","category":["checkmate"],"variants":0}
+{"zrfID":385,"id":"family-matters","name":"Family Matters","category":["checkmate"],"variants":0}
+{"zrfID":2418,"id":"farmers-chess","name":"Farmer's chess","category":["checkmate"],"variants":0}
+{"zrfID":386,"id":"fastpawn-chess","name":"Fastpawn Chess","category":["checkmate"],"variants":0}
+{"zrfID":2863,"id":"first-time-shogi-3x5","name":"First Time Shogi 3x5","category":["checkmate"],"variants":0}
+{"zrfID":1542,"id":"fischer-chess","name":"Fischer Chess","category":["checkmate"],"variants":0}
+{"zrfID":1768,"id":"fischer-placement-chess","name":"Fischer Placement Chess","category":["checkmate"],"variants":0}
+{"zrfID":378,"id":"fischer-random-chess","name":"Fischer Random Chess","category":["checkmate"],"variants":0}
+{"zrfID":2884,"id":"fischer-random-chess-mw","name":"Fischer Random Chess (MW)","category":["checkmate"],"variants":0}
+{"zrfID":1992,"id":"flexible-chess-f-chess","name":"Flexible Chess (F-chess)","category":["checkmate"],"variants":0}
+{"zrfID":1999,"id":"flexible-chinese-chess-f-xiangqi","name":"Flexible Chinese Chess (F-Xiangqi)","category":["checkmate"],"variants":0}
+{"zrfID":1097,"id":"flipchess","name":"FlipChess","category":["checkmate"],"variants":0}
+{"zrfID":382,"id":"flux-4x4x4-chess","name":"Flux 4x4x4 Chess","category":["checkmate"],"variants":0}
+{"zrfID":1247,"id":"flying-armies","name":"Flying Armies","category":["checkmate"],"variants":0}
+{"zrfID":1279,"id":"flying-armies2","name":"Flying Armies2","category":["checkmate"],"variants":0}
+{"zrfID":3203,"id":"flying-bombers-grand-chess","name":"Flying Bombers Grand Chess","category":["checkmate"],"variants":0}
+{"zrfID":1103,"id":"flyingdaggers","name":"FlyingDaggers","category":["checkmate"],"variants":0}
+{"zrfID":1094,"id":"fools-chess","name":"Fool's Chess","category":["checkmate"],"variants":0}
+{"zrfID":2698,"id":"footwork-shogi","name":"Footwork Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2747,"id":"forced-capture-shogi","name":"Forced Capture Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2670,"id":"forcedpromotion-shogi","name":"ForcedPromotion Shogi","category":["checkmate"],"variants":0}
+{"zrfID":388,"id":"forchess","name":"Forchess","category":["checkmate"],"variants":0}
+{"zrfID":389,"id":"fortress-chess","name":"Fortress Chess","category":["checkmate"],"variants":0}
+{"zrfID":390,"id":"fortresses","name":"Fortresses","category":["checkmate"],"variants":0}
+{"zrfID":2663,"id":"forward-shogi","name":"Forward  Shogi","category":["checkmate"],"variants":0}
+{"zrfID":1617,"id":"forwards-and-dipole-chess","name":"Forwards and Dipole Chess","category":["checkmate"],"variants":0}
+{"zrfID":1319,"id":"fractal-chess","name":"Fractal Chess","category":["checkmate"],"variants":0}
+{"zrfID":2739,"id":"free-formation-shogi-fuseki-shogi","name":"Free Formation Shogi (Fuseki Shogi)","category":["checkmate"],"variants":0}
+{"zrfID":391,"id":"free-form-4x4x4-chess","name":"Free-form 4x4x4 Chess","category":["checkmate"],"variants":0}
+{"zrfID":2862,"id":"freelayout-6x6-shogi-roku-roku-shogi","name":"FreeLayout 6x6 Shogi (Roku-Roku Shogi)","category":["checkmate"],"variants":0}
+{"zrfID":2740,"id":"freelayout-shogi-jiyuhaichi-shogi","name":"FreeLayout Shogi (JiyuHaichi Shogi)","category":["checkmate"],"variants":0}
+{"zrfID":1187,"id":"freepawnchess","name":"FreePawnChess","category":["checkmate"],"variants":0}
+{"zrfID":2679,"id":"freestyle-shogi","name":"FreeStyle Shogi","category":["checkmate"],"variants":0}
+{"zrfID":392,"id":"freeze-chess","name":"Freeze Chess","category":["checkmate"],"variants":0}
+{"zrfID":2672,"id":"friend-capture-shogi","name":"Friend Capture Shogi","category":["checkmate"],"variants":0}
+{"zrfID":3163,"id":"frog-king-chess","name":"Frog King Chess","category":["checkmate"],"variants":0}
+{"zrfID":2720,"id":"front-position-shogi","name":"Front Position Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2333,"id":"frontiers","name":"Frontiers","category":["checkmate"],"variants":0}
+{"zrfID":1364,"id":"fullboard-chess","name":"FullBoard Chess","category":["checkmate"],"variants":0}
+{"zrfID":53,"id":"fusion-chess","name":"Fusion Chess","category":["checkmate"],"variants":0}
+{"zrfID":52,"id":"fusion-chessgi","name":"Fusion Chessgi","category":["checkmate"],"variants":0}
+{"zrfID":393,"id":"fussballschach","name":"Fussballschach","category":["checkmate"],"variants":0}
+{"zrfID":2944,"id":"futashikana-shogi","name":"Futashikana Shogi","category":["checkmate"],"variants":0}
+{"zrfID":1859,"id":"future-chess","name":"Future Chess","category":["checkmate"],"variants":0}
+{"zrfID":1085,"id":"g-u-e-3d-chess","name":"G.U.E. 3D Chess","category":["checkmate"],"variants":0}
+{"zrfID":2376,"id":"ga-kosova-trkiye-dropes-dma","name":"Ga [KosovA \u0026 T�rkiye Dropes] D�mA","category":["checkmate"],"variants":0}
+{"zrfID":2385,"id":"ga-kosova-trkiye-dropes-dma-misre","name":"Ga [KosovA \u0026 T�rkiye Dropes] D�mA Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":2377,"id":"ga-kosova-trkiye-zones-dma","name":"Ga [KosovA \u0026 T�rkiye Zones] D�mA","category":["checkmate"],"variants":0}
+{"zrfID":2386,"id":"ga-kosova-trkiye-zones-dma-misre","name":"Ga [KosovA \u0026 T�rkiye Zones] D�mA Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":2378,"id":"ga-kosovas-turkish-dropes-dma","name":"Ga [KosovAs \u0026 Turkish Dropes] D�mA","category":["checkmate"],"variants":0}
+{"zrfID":2387,"id":"ga-kosovas-turkish-dropes-dma-misre","name":"Ga [KosovAs \u0026 Turkish Dropes] D�mA Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":2379,"id":"ga-kosovas-turkish-zones-dma","name":"Ga [KosovAs \u0026 Turkish Zones] D�mA","category":["checkmate"],"variants":0}
+{"zrfID":2388,"id":"ga-kosovas-turkish-zones-dma-misre","name":"Ga [KosovAs \u0026 Turkish Zones] D�mA Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":1281,"id":"gala","name":"Gala","category":["checkmate"],"variants":0}
+{"zrfID":1515,"id":"galdim-chess","name":"Galdim Chess","category":["checkmate"],"variants":0}
+{"zrfID":2399,"id":"game-kosova-trkiye-dropes-dma","name":"GaMe [KosovA \u0026 T�rkiye Dropes] D�mA","category":["checkmate"],"variants":0}
+{"zrfID":2408,"id":"game-kosova-trkiye-dropes-dma-misre","name":"GaMe [KosovA \u0026 T�rkiye Dropes] D�mA Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":2400,"id":"game-kosova-trkiye-zones-dma","name":"GaMe [KosovA \u0026 T�rkiye Zones] D�mA","category":["checkmate"],"variants":0}
+{"zrfID":2409,"id":"game-kosova-trkiye-zones-dma-misre","name":"GaMe [KosovA \u0026 T�rkiye Zones] D�mA Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":2401,"id":"game-kosovas-turkish-dropes-dma","name":"GaMe [KosovAs \u0026 Turkish Dropes] D�mA","category":["checkmate"],"variants":0}
+{"zrfID":2410,"id":"game-kosovas-turkish-dropes-dma-misre","name":"GaMe [KosovAs \u0026 Turkish Dropes] D�mA Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":2402,"id":"game-kosovas-turkish-zones-dma","name":"GaMe [KosovAs \u0026 Turkish Zones] D�mA","category":["checkmate"],"variants":0}
+{"zrfID":2411,"id":"game-kosovas-turkish-zones-dma-misre","name":"GaMe [KosovAs \u0026 Turkish Zones] D�mA Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":1567,"id":"gary-gygaxs-fidchell","name":"Gary Gygax's Fidchell","category":["checkmate"],"variants":0}
+{"zrfID":1382,"id":"gastrophete-chess","name":"Gastrophete Chess","category":["checkmate"],"variants":0}
+{"zrfID":1331,"id":"gaul-chess","name":"Gaul Chess","category":["checkmate"],"variants":0}
+{"zrfID":1231,"id":"geminus-chess","name":"Geminus Chess","category":["checkmate"],"variants":0}
+{"zrfID":2080,"id":"general-shogi","name":"General shogi","category":["checkmate"],"variants":0}
+{"zrfID":1340,"id":"generals","name":"Generals","category":["checkmate"],"variants":0}
+{"zrfID":2413,"id":"genesis-chess","name":"Genesis Chess","category":["checkmate"],"variants":0}
+{"zrfID":2823,"id":"genial-100-chess","name":"Genial 100 chess","category":["checkmate"],"variants":0}
+{"zrfID":1136,"id":"geodesic-chess","name":"Geodesic Chess","category":["checkmate"],"variants":0}
+{"zrfID":2984,"id":"gepard-chess","name":"Gepard Chess","category":["checkmate"],"variants":0}
+{"zrfID":2985,"id":"gepard-chess-misre","name":"Gepard Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":2948,"id":"gepards-chess","name":"Gepards Chess","category":["checkmate"],"variants":0}
+{"zrfID":2949,"id":"gepards-chess-misre","name":"Gepards Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":449,"id":"gess","name":"GESS","category":["checkmate"],"variants":0}
+{"zrfID":1388,"id":"gladiatrix-chess","name":"Gladiatrix Chess","category":["checkmate"],"variants":0}
+{"zrfID":3242,"id":"glinski-cheskers","name":"Glinski Cheskers","category":["checkmate"],"variants":0}
+{"zrfID":377,"id":"glinskis-hexagonal-chess","name":"Glinski's Hexagonal Chess","category":["checkmate"],"variants":0}
+{"zrfID":450,"id":"global-chess","name":"Global Chess","category":["checkmate"],"variants":0}
+{"zrfID":2088,"id":"god-chess","name":"GOD Chess","category":["checkmate"],"variants":0}
+{"zrfID":1291,"id":"gods-on-pluto","name":"Gods on Pluto","category":["checkmate"],"variants":0}
+{"zrfID":2761,"id":"gold-vs-silver-shogi","name":"Gold vs. Silver Shogi","category":["checkmate"],"variants":0}
+{"zrfID":451,"id":"golem-chess","name":"Golem Chess","category":["checkmate"],"variants":0}
+{"zrfID":1411,"id":"gorgona-chess","name":"Gorgona Chess","category":["checkmate"],"variants":0}
+{"zrfID":1082,"id":"grand-rider-chess","name":"Grand Rider Chess","category":["checkmate"],"variants":0}
+{"zrfID":1059,"id":"grandshogi","name":"GrandShogi","category":["checkmate"],"variants":0}
+{"zrfID":453,"id":"grated-chess","name":"Grated Chess","category":["checkmate"],"variants":0}
+{"zrfID":1472,"id":"great-whale-shogi","name":"Great Whale Shogi","category":["checkmate"],"variants":0}
+{"zrfID":1311,"id":"grenadier-chess","name":"Grenadier Chess","category":["checkmate"],"variants":0}
+{"zrfID":1000,"id":"gretchens-space-chess","name":"Gretchen's Space Chess","category":["checkmate"],"variants":0}
+{"zrfID":1699,"id":"guanaco-chess","name":"Guanaco Chess","category":["checkmate"],"variants":0}
+{"zrfID":454,"id":"guard-and-towers","name":"Guard and Towers","category":["checkmate"],"variants":0}
+{"zrfID":2478,"id":"gufuu-shogi","name":"Gufuu Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2953,"id":"gunjin-shogi-6x8","name":"Gunjin Shogi (6x8)","category":["checkmate"],"variants":0}
+{"zrfID":2967,"id":"gunjin-shogi-6x8-variant","name":"Gunjin Shogi (6x8) Variant","category":["checkmate"],"variants":0}
+{"zrfID":2945,"id":"gunjin-shogi-6x9","name":"Gunjin Shogi (6x9)","category":["checkmate"],"variants":0}
+{"zrfID":2966,"id":"gunjin-shogi-6x9-variant","name":"Gunjin Shogi (6x9) Variant","category":["checkmate"],"variants":0}
+{"zrfID":2983,"id":"gunki-dark-style-complete-version","name":"Gunki (dark style) complete version","category":["checkmate"],"variants":0}
+{"zrfID":2982,"id":"gunki-dark-style-simple-version","name":"Gunki (dark style) simple version","category":["checkmate"],"variants":0}
+{"zrfID":2981,"id":"gunki-open-style-simple-version","name":"Gunki (open style) simple version","category":["checkmate"],"variants":0}
+{"zrfID":1257,"id":"gunnery-chess","name":"Gunnery Chess","category":["checkmate"],"variants":0}
+{"zrfID":1258,"id":"gunnery-chess-8x10","name":"Gunnery Chess (8x10)","category":["checkmate"],"variants":0}
+{"zrfID":1262,"id":"gustav-iiis-chess","name":"Gustav III's Chess","category":["checkmate"],"variants":0}
+{"zrfID":1269,"id":"gustavian-camelrider-chess","name":"Gustavian Camelrider Chess","category":["checkmate"],"variants":0}
+{"zrfID":1403,"id":"gustavian-cannon-chess","name":"Gustavian Cannon Chess","category":["checkmate"],"variants":0}
+{"zrfID":1270,"id":"gustavian-cannonrider-chess","name":"Gustavian Cannonrider Chess","category":["checkmate"],"variants":0}
+{"zrfID":2510,"id":"gwangsanghui","name":"Gwangsanghui","category":["checkmate"],"variants":0}
+{"zrfID":1607,"id":"hadean-chess","name":"Hadean Chess","category":["checkmate"],"variants":0}
+{"zrfID":485,"id":"hades-chess","name":"Hades Chess","category":["checkmate"],"variants":0}
+{"zrfID":195,"id":"half-board-chess","name":"Half Board Chess","category":["checkmate"],"variants":0}
+{"zrfID":2943,"id":"hanga-roa","name":"Hanga Roa","category":["checkmate"],"variants":0}
+{"zrfID":1239,"id":"harpy-chess","name":"Harpy Chess","category":["checkmate"],"variants":0}
+{"zrfID":2032,"id":"hauberk","name":"Hauberk","category":["checkmate"],"variants":0}
+{"zrfID":486,"id":"heaven-hell-chess","name":"Heaven \u0026 Hell Chess","category":["checkmate"],"variants":0}
+{"zrfID":1926,"id":"hecate","name":"Hecate","category":["checkmate"],"variants":0}
+{"zrfID":487,"id":"hecatomb","name":"Hecatomb","category":["checkmate"],"variants":0}
+{"zrfID":2306,"id":"hedrex","name":"Hedrex","category":["checkmate"],"variants":0}
+{"zrfID":2855,"id":"heian-dai-shogi","name":"Heian Dai Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2857,"id":"heian-dai-shogi-13x10","name":"Heian Dai Shogi 13x10","category":["checkmate"],"variants":0}
+{"zrfID":2794,"id":"heian-hybrid-shogi","name":"Heian Hybrid Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2800,"id":"heian-hybrid-shogi-variant","name":"Heian Hybrid Shogi Variant","category":["checkmate"],"variants":0}
+{"zrfID":2762,"id":"heian-shogi","name":"Heian Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2976,"id":"heian-shogi-variant","name":"Heian Shogi Variant","category":["checkmate"],"variants":0}
+{"zrfID":2891,"id":"heisei-chu-shogi","name":"Heisei Chu Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2978,"id":"heisei-chu-shogi-with-two-drops-okazaki-rule","name":"Heisei Chu Shogi with two drops (Okazaki rule)","category":["checkmate"],"variants":0}
+{"zrfID":1320,"id":"helmsman-chess","name":"Helmsman Chess","category":["checkmate"],"variants":0}
+{"zrfID":1603,"id":"herculean-chess","name":"Herculean Chess","category":["checkmate"],"variants":0}
+{"zrfID":488,"id":"hermit-chess","name":"Hermit Chess","category":["checkmate"],"variants":0}
+{"zrfID":3035,"id":"hexagonal-arimaa","name":"Hexagonal Arimaa","category":["checkmate"],"variants":0}
+{"zrfID":376,"id":"hexagonal-chess","name":"Hexagonal Chess","category":["checkmate"],"variants":0}
+{"zrfID":490,"id":"hexagonal-chess-collection","name":"Hexagonal Chess Collection","category":["checkmate"],"variants":0}
+{"zrfID":161,"id":"hexchad","name":"HexChad","category":["checkmate"],"variants":0}
+{"zrfID":1746,"id":"hexchess-for-3","name":"HexChess for 3","category":["checkmate"],"variants":0}
+{"zrfID":491,"id":"hexes-chess","name":"Hexes Chess","category":["checkmate"],"variants":0}
+{"zrfID":1359,"id":"hiashatar","name":"Hiashatar","category":["checkmate"],"variants":0}
+{"zrfID":2741,"id":"hiddenlayout-shogi-kakushi-shogi","name":"HiddenLayout Shogi (Kakushi Shogi)","category":["checkmate"],"variants":0}
+{"zrfID":3084,"id":"historical-chess","name":"Historical Chess","category":["checkmate"],"variants":0}
+{"zrfID":1631,"id":"hivequeen","name":"HiveQueen","category":["checkmate"],"variants":0}
+{"zrfID":493,"id":"hobbes","name":"Hobbes","category":["checkmate"],"variants":0}
+{"zrfID":494,"id":"hodge-podge","name":"Hodge-Podge","category":["checkmate"],"variants":0}
+{"zrfID":1635,"id":"holy-grail","name":"Holy Grail","category":["checkmate"],"variants":0}
+{"zrfID":1323,"id":"hoplit-chess","name":"Hoplit Chess","category":["checkmate"],"variants":0}
+{"zrfID":1324,"id":"hoplomach-chess","name":"Hoplomach Chess","category":["checkmate"],"variants":0}
+{"zrfID":495,"id":"hoppel-poppel-chess","name":"Hoppel-Poppel Chess","category":["checkmate"],"variants":0}
+{"zrfID":1253,"id":"hopper-chess","name":"Hopper Chess","category":["checkmate"],"variants":0}
+{"zrfID":1261,"id":"hopper-elk-chess","name":"Hopper-Elk Chess","category":["checkmate"],"variants":0}
+{"zrfID":3110,"id":"horizontal-cylinder-chess","name":"Horizontal Cylinder Chess","category":["checkmate"],"variants":0}
+{"zrfID":2773,"id":"horizontal-neko-shogi","name":"Horizontal-Neko Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2774,"id":"horizontal-nekoneko-shogi","name":"Horizontal-NekoNeko Shogi","category":["checkmate"],"variants":0}
+{"zrfID":496,"id":"hourglas-chess","name":"Hourglas Chess","category":["checkmate"],"variants":0}
+{"zrfID":1312,"id":"howitzer-chess","name":"Howitzer Chess","category":["checkmate"],"variants":0}
+{"zrfID":497,"id":"hungry-pawns","name":"Hungry Pawns","category":["checkmate"],"variants":0}
+{"zrfID":51,"id":"hydra-chess","name":"Hydra Chess","category":["checkmate"],"variants":0}
+{"zrfID":3064,"id":"hyena-chess","name":"HyenA Chess","category":["checkmate"],"variants":0}
+{"zrfID":3065,"id":"hyena-chess-misre","name":"HyenA Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":3104,"id":"hyenas-chess","name":"HyenAs Chess","category":["checkmate"],"variants":0}
+{"zrfID":3105,"id":"hyenas-chess-misre","name":"HyenAs Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":1033,"id":"hyperchess","name":"Hyperchess","category":["checkmate"],"variants":0}
+{"zrfID":1576,"id":"iago-chess","name":"IAGO Chess","category":["checkmate"],"variants":0}
+{"zrfID":1492,"id":"iago-standard-fantasy-capablanca-64-chess","name":"IAGO Standard Fantasy (Capablanca 64) Chess","category":["checkmate"],"variants":0}
+{"zrfID":1582,"id":"iago-x-class-nms-near-mini-grand-skirmish-chess","name":"IAGO X-Class NMS (Near, Mini-Grand, Skirmish) Chess","category":["checkmate"],"variants":0}
+{"zrfID":2263,"id":"ichess","name":"iChess","category":["checkmate"],"variants":0}
+{"zrfID":2381,"id":"ideal-chess","name":"Ideal chess","category":["checkmate"],"variants":0}
+{"zrfID":1680,"id":"immobiles-chess","name":"ImMobiles Chess","category":["checkmate"],"variants":0}
+{"zrfID":2686,"id":"immobilizerking-shogi","name":"ImmobilizerKing Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2673,"id":"immovableking-shogi","name":"ImmovableKing Shogi","category":["checkmate"],"variants":0}
+{"zrfID":3162,"id":"immunity-chess","name":"Immunity Chess","category":["checkmate"],"variants":0}
+{"zrfID":515,"id":"imperial-cheops","name":"Imperial Cheops","category":["checkmate"],"variants":0}
+{"zrfID":1405,"id":"improved-chess","name":"Improved Chess","category":["checkmate"],"variants":0}
+{"zrfID":1623,"id":"insane-ninja-chess","name":"Insane Ninja Chess","category":["checkmate"],"variants":0}
+{"zrfID":1449,"id":"interloper-chess","name":"Interloper Chess","category":["checkmate"],"variants":0}
+{"zrfID":516,"id":"interweave","name":"Interweave","category":["checkmate"],"variants":0}
+{"zrfID":517,"id":"invasion","name":"Invasion","category":["checkmate"],"variants":0}
+{"zrfID":2841,"id":"inversive-forced-capture-shogi","name":"Inversive Forced Capture Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2840,"id":"inversive-shogi","name":"Inversive Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2843,"id":"inversive-shogi-without-suicide","name":"Inversive Shogi without Suicide","category":["checkmate"],"variants":0}
+{"zrfID":1458,"id":"iron-guard-chess","name":"Iron Guard Chess","category":["checkmate"],"variants":0}
+{"zrfID":2702,"id":"isardam-type-a-shogi","name":"Isardam (type A) Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2703,"id":"isardam-type-b-shogi","name":"Isardam (type B) Shogi","category":["checkmate"],"variants":0}
+{"zrfID":3056,"id":"isardam-chess","name":"Isardam Chess","category":["checkmate"],"variants":0}
+{"zrfID":518,"id":"island-chess","name":"Island Chess","category":["checkmate"],"variants":0}
+{"zrfID":1525,"id":"ito-shogi","name":"Ito Shogi","category":["checkmate"],"variants":0}
+{"zrfID":3164,"id":"jagger-chess","name":"Jagger Chess","category":["checkmate"],"variants":0}
+{"zrfID":3165,"id":"jagger-chess-misre","name":"Jagger Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":3235,"id":"jaggress-chess","name":"Jaggress Chess","category":["checkmate"],"variants":0}
+{"zrfID":3236,"id":"jaggress-chess-misre","name":"Jaggress Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":3169,"id":"jaglion-chess","name":"Jaglion Chess","category":["checkmate"],"variants":0}
+{"zrfID":3170,"id":"jaglion-chess-misre","name":"Jaglion Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":3229,"id":"jaglioness-chess","name":"Jaglioness Chess","category":["checkmate"],"variants":0}
+{"zrfID":3230,"id":"jaglioness-chess-misre","name":"Jaglioness Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":2683,"id":"jaguar-chess","name":"Jaguar Chess","category":["checkmate"],"variants":0}
+{"zrfID":2684,"id":"jaguar-chess-misre","name":"Jaguar Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":3194,"id":"jaguaress-chess","name":"Jaguaress Chess","category":["checkmate"],"variants":0}
+{"zrfID":3195,"id":"jaguaress-chess-misre","name":"Jaguaress Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":2925,"id":"jaguars-chess","name":"Jaguars Chess","category":["checkmate"],"variants":0}
+{"zrfID":2926,"id":"jaguars-chess-misre","name":"Jaguars Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":3176,"id":"jagupard-chess","name":"Jagupard Chess","category":["checkmate"],"variants":0}
+{"zrfID":3177,"id":"jagupard-chess-misre","name":"Jagupard Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":3223,"id":"jagupardess-chess","name":"Jagupardess Chess","category":["checkmate"],"variants":0}
+{"zrfID":3224,"id":"jagupardess-chess-misre","name":"Jagupardess Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":153,"id":"janggi","name":"Janggi","category":["checkmate"],"variants":0}
+{"zrfID":2990,"id":"janggi-korean-chess","name":"Janggi (Korean Chess)","category":["checkmate"],"variants":0}
+{"zrfID":2970,"id":"japanese-stratego","name":"Japanese Stratego","category":["checkmate"],"variants":0}
+{"zrfID":2847,"id":"jedi-chess","name":"Jedi Chess","category":["checkmate"],"variants":0}
+{"zrfID":992,"id":"jena-defenders","name":"Jena Defenders","category":["checkmate"],"variants":0}
+{"zrfID":519,"id":"jetan","name":"Jetan","category":["checkmate"],"variants":0}
+{"zrfID":521,"id":"jumping-chess","name":"Jumping Chess","category":["checkmate"],"variants":0}
+{"zrfID":2979,"id":"jungle-variant3","name":"Jungle Variant3","category":["checkmate"],"variants":0}
+{"zrfID":1199,"id":"k4","name":"K4","category":["checkmate"],"variants":0}
+{"zrfID":1280,"id":"k4flying","name":"K4Flying","category":["checkmate"],"variants":0}
+{"zrfID":2382,"id":"kaissa-chess","name":"Kaissa chess","category":["checkmate"],"variants":0}
+{"zrfID":2081,"id":"kaissa-shogi","name":"Kaissa shogi","category":["checkmate"],"variants":0}
+{"zrfID":540,"id":"kamikaze-chess","name":"Kamikaze Chess","category":["checkmate"],"variants":0}
+{"zrfID":2695,"id":"kanashibari-shogi","name":"KanaShibari Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2676,"id":"kanashibari-oh-shogi","name":"KanaShibari-Oh Shogi","category":["checkmate"],"variants":0}
+{"zrfID":3075,"id":"kangaroo-chess","name":"Kangaroo Chess","category":["checkmate"],"variants":0}
+{"zrfID":3076,"id":"kangaroo-chess-misre","name":"Kangaroo Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":3094,"id":"kangaroos-chess","name":"Kangaroos Chess","category":["checkmate"],"variants":0}
+{"zrfID":3095,"id":"kangaroos-chess-misre","name":"Kangaroos Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":541,"id":"kantorai","name":"Kantorai","category":["checkmate"],"variants":0}
+{"zrfID":542,"id":"karma-chess","name":"Karma Chess","category":["checkmate"],"variants":0}
+{"zrfID":1901,"id":"kasanari-shogi","name":"Kasanari Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2603,"id":"kayak-chess","name":"KayaK Chess","category":["checkmate"],"variants":0}
+{"zrfID":2604,"id":"kayak-chess-misre","name":"KayaK Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":543,"id":"ki-shogi","name":"Ki Shogi","category":["checkmate"],"variants":0}
+{"zrfID":3060,"id":"kiki-annan-shogi","name":"Kiki AnNan Shogi","category":["checkmate"],"variants":0}
+{"zrfID":3070,"id":"kiki-position-shogi","name":"Kiki Position Shogi","category":["checkmate"],"variants":0}
+{"zrfID":1012,"id":"kimstad","name":"Kimstad","category":["checkmate"],"variants":0}
+{"zrfID":1863,"id":"king-arthurs-chess-72","name":"King Arthur's Chess-72","category":["checkmate"],"variants":0}
+{"zrfID":544,"id":"king-clone-77","name":"King Clone 77","category":["checkmate"],"variants":0}
+{"zrfID":1771,"id":"king-to-bunker-leap","name":"King to Bunker Leap","category":["checkmate"],"variants":0}
+{"zrfID":2004,"id":"king-checkmate-chess","name":"King [CheckMate] Chess","category":["checkmate"],"variants":0}
+{"zrfID":1983,"id":"king-chessmate-chess","name":"King [ChessMate] Chess","category":["checkmate"],"variants":0}
+{"zrfID":546,"id":"kings-of-babylon","name":"Kings of Babylon","category":["checkmate"],"variants":0}
+{"zrfID":548,"id":"kings-or-lemmings","name":"Kings or Lemmings?","category":["checkmate"],"variants":0}
+{"zrfID":2000,"id":"kings-checkmate-chess","name":"Kings [CheckMate] Chess","category":["checkmate"],"variants":0}
+{"zrfID":1976,"id":"kings-chessmate-chess","name":"Kings [ChessMate] Chess","category":["checkmate"],"variants":0}
+{"zrfID":3139,"id":"kingsmen","name":"Kingsmen","category":["checkmate"],"variants":0}
+{"zrfID":2946,"id":"kirin-and-phoenix-shogi","name":"Kirin and Phoenix Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2952,"id":"kirin-and-phoenix-shogi-variant","name":"Kirin and Phoenix Shogi Variant","category":["checkmate"],"variants":0}
+{"zrfID":549,"id":"klin-zha","name":"Klin Zha","category":["checkmate"],"variants":0}
+{"zrfID":550,"id":"klin-zha-3d","name":"Klin Zha 3D","category":["checkmate"],"variants":0}
+{"zrfID":2534,"id":"knight-court","name":"Knight Court","category":["checkmate"],"variants":0}
+{"zrfID":2722,"id":"knight-position-shogi","name":"Knight Position Shogi","category":["checkmate"],"variants":0}
+{"zrfID":3033,"id":"knight-relay-chess","name":"Knight Relay Chess","category":["checkmate"],"variants":0}
+{"zrfID":2632,"id":"knighteds-chess","name":"Knighted[s] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2633,"id":"knighteds-chess-misre","name":"Knighted[s] Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":2733,"id":"knightking-shogi","name":"KnightKing Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2636,"id":"knightmares-chess","name":"KnightMare[s] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2637,"id":"knightmares-chess-misre","name":"KnightMare[s] Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":3028,"id":"knightmate-chess","name":"Knightmate Chess","category":["checkmate"],"variants":0}
+{"zrfID":2968,"id":"knights-shogi","name":"Knights Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2463,"id":"ko-shogi","name":"Ko Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2999,"id":"ko-shogi-19x19","name":"Ko Shogi (19x19)","category":["checkmate"],"variants":0}
+{"zrfID":551,"id":"kogbetliantz-8x8x8-3d-chess","name":"Kogbetliantz 8x8x8 3D Chess","category":["checkmate"],"variants":0}
+{"zrfID":2923,"id":"kokose-finish-shogi","name":"Kokose Finish Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2915,"id":"kokose-shogi","name":"KoKoSe Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2699,"id":"komamochi22-shogi","name":"KomaMochi22 Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2765,"id":"komanari-shogi","name":"KomaNari Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2980,"id":"kongo-shogi","name":"Kongo Shogi","category":["checkmate"],"variants":0}
+{"zrfID":1351,"id":"korean-chess","name":"Korean Chess","category":["checkmate"],"variants":0}
+{"zrfID":552,"id":"korean-chess-for-westerners","name":"Korean Chess for Westerners","category":["checkmate"],"variants":0}
+{"zrfID":553,"id":"korean-vs-western-chess","name":"Korean vs Western Chess","category":["checkmate"],"variants":0}
+{"zrfID":1110,"id":"kozune","name":"Kozune","category":["checkmate"],"variants":0}
+{"zrfID":1910,"id":"kozune-western","name":"Kozune Western","category":["checkmate"],"variants":0}
+{"zrfID":554,"id":"kriegspiel","name":"Kriegspiel","category":["checkmate"],"variants":0}
+{"zrfID":1086,"id":"krigspel","name":"Krigspel","category":["checkmate"],"variants":0}
+{"zrfID":2303,"id":"kung-fu-chess","name":"Kung Fu Chess","category":["checkmate"],"variants":0}
+{"zrfID":2801,"id":"kyo-shogi","name":"Kyo Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2802,"id":"kyo-shogi-variant","name":"Kyo Shogi Variant","category":["checkmate"],"variants":0}
+{"zrfID":555,"id":"ladder-chess","name":"Ladder Chess","category":["checkmate"],"variants":0}
+{"zrfID":1345,"id":"ladon-chess","name":"Ladon Chess","category":["checkmate"],"variants":0}
+{"zrfID":2767,"id":"lance-vs-knight-shogi","name":"Lance vs. Knight Shogi","category":["checkmate"],"variants":0}
+{"zrfID":1174,"id":"landskapsspel-dalarna","name":"Landskapsspel Dalarna","category":["checkmate"],"variants":0}
+{"zrfID":1332,"id":"laquear-chess","name":"Laquear Chess","category":["checkmate"],"variants":0}
+{"zrfID":3008,"id":"large-janggi","name":"Large Janggi","category":["checkmate"],"variants":0}
+{"zrfID":2808,"id":"large-kyo-shogi","name":"Large Kyo Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2809,"id":"large-kyosho-vs-knight-shogi","name":"Large KyoSho Vs Knight Shogi","category":["checkmate"],"variants":0}
+{"zrfID":556,"id":"leap-chess","name":"Leap Chess","category":["checkmate"],"variants":0}
+{"zrfID":557,"id":"leapers-chess","name":"Leapers Chess","category":["checkmate"],"variants":0}
+{"zrfID":1106,"id":"leapers-creeepers","name":"Leapers Creeepers","category":["checkmate"],"variants":0}
+{"zrfID":2992,"id":"leapers-grand-chess","name":"Leapers Grand Chess","category":["checkmate"],"variants":0}
+{"zrfID":1570,"id":"leapfrog-chess","name":"Leapfrog Chess","category":["checkmate"],"variants":0}
+{"zrfID":3175,"id":"legan-chess","name":"Legan Chess","category":["checkmate"],"variants":0}
+{"zrfID":3189,"id":"leguar-chess","name":"Leguar Chess","category":["checkmate"],"variants":0}
+{"zrfID":3190,"id":"leguar-chess-misre","name":"Leguar Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":3204,"id":"leguaress-chess","name":"Leguaress Chess","category":["checkmate"],"variants":0}
+{"zrfID":3205,"id":"leguaress-chess-misre","name":"Leguaress Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":1784,"id":"lemniscate-chess","name":"Lemniscate Chess","category":["checkmate"],"variants":0}
+{"zrfID":3180,"id":"leoger-chess","name":"Leoger Chess","category":["checkmate"],"variants":0}
+{"zrfID":3181,"id":"leoger-chess-misre","name":"Leoger Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":3215,"id":"leogress-chess","name":"Leogress Chess","category":["checkmate"],"variants":0}
+{"zrfID":3216,"id":"leogress-chess-misre","name":"Leogress Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":2817,"id":"leon-chess","name":"Leon Chess","category":["checkmate"],"variants":0}
+{"zrfID":2818,"id":"leon-chess-misre","name":"Leon Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":2706,"id":"leopard-chess","name":"Leopard Chess","category":["checkmate"],"variants":0}
+{"zrfID":2707,"id":"leopard-chess-misre","name":"Leopard Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":3199,"id":"leopardess-chess","name":"Leopardess Chess","category":["checkmate"],"variants":0}
+{"zrfID":3201,"id":"leopardess-chess-misre","name":"Leopardess Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":2911,"id":"leopards-chess","name":"Leopards Chess","category":["checkmate"],"variants":0}
+{"zrfID":2912,"id":"leopards-chess-misre","name":"Leopards Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":3185,"id":"leopon-chess","name":"Leopon Chess","category":["checkmate"],"variants":0}
+{"zrfID":3186,"id":"leopon-chess-misre","name":"Leopon Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":3208,"id":"leoponess-chess","name":"Leoponess Chess","category":["checkmate"],"variants":0}
+{"zrfID":3209,"id":"leoponess-chess-misre","name":"Leoponess Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":1377,"id":"leto-chess","name":"Leto Chess","category":["checkmate"],"variants":0}
+{"zrfID":3143,"id":"liger-chess","name":"Liger Chess","category":["checkmate"],"variants":0}
+{"zrfID":3144,"id":"liger-chess-misre","name":"Liger Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":3253,"id":"ligress-chess","name":"Ligress Chess","category":["checkmate"],"variants":0}
+{"zrfID":3254,"id":"ligress-chess-misre","name":"Ligress Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":3288,"id":"ligresses-chess","name":"Ligresses Chess","category":["checkmate"],"variants":0}
+{"zrfID":3289,"id":"ligresses-chess-misre","name":"Ligresses Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":3147,"id":"liguar-chess","name":"Liguar Chess","category":["checkmate"],"variants":0}
+{"zrfID":3148,"id":"liguar-chess-misre","name":"Liguar Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":3248,"id":"liguaress-chess","name":"Liguaress Chess","category":["checkmate"],"variants":0}
+{"zrfID":3249,"id":"liguaress-chess-misre","name":"Liguaress Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":3294,"id":"liguaresses-chess","name":"Liguaresses Chess","category":["checkmate"],"variants":0}
+{"zrfID":3295,"id":"liguaresses-misre-chess","name":"Liguaresses Mis�re Chess","category":["checkmate"],"variants":0}
+{"zrfID":558,"id":"lilliputian-monochromatic-alice-chess","name":"Lilliputian Monochromatic Alice Chess","category":["checkmate"],"variants":0}
+{"zrfID":2557,"id":"limited-rider-chess","name":"Limited Rider Chess","category":["checkmate"],"variants":0}
+{"zrfID":559,"id":"limpy-chess","name":"Limpy Chess","category":["checkmate"],"variants":0}
+{"zrfID":1899,"id":"line-of-no-retreat-chess","name":"Line [of No Retreat] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2050,"id":"lion-chess","name":"Lion chess","category":["checkmate"],"variants":0}
+{"zrfID":3156,"id":"lioness-chess","name":"Lioness Chess","category":["checkmate"],"variants":0}
+{"zrfID":3157,"id":"lioness-chess-misre","name":"Lioness Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":2732,"id":"lionking-shogi","name":"LionKing Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2866,"id":"lions-chess","name":"Lions Chess","category":["checkmate"],"variants":0}
+{"zrfID":2867,"id":"lions-chess-misre","name":"Lions Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":3152,"id":"lipard-chess","name":"Lipard Chess","category":["checkmate"],"variants":0}
+{"zrfID":3153,"id":"lipard-chess-misre","name":"Lipard Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":3244,"id":"lipardess-chess","name":"Lipardess Chess","category":["checkmate"],"variants":0}
+{"zrfID":3245,"id":"lipardess-chess-misre","name":"Lipardess Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":3298,"id":"lipardesses-chess","name":"Lipardesses Chess","category":["checkmate"],"variants":0}
+{"zrfID":3299,"id":"lipardesses-chess-misre","name":"Lipardesses Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":1007,"id":"liqi","name":"LiQi","category":["checkmate"],"variants":0}
+{"zrfID":560,"id":"little-mega-chess","name":"Little Mega-Chess","category":["checkmate"],"variants":0}
+{"zrfID":2825,"id":"little-shogi-pack","name":"Little Shogi Pack","category":["checkmate"],"variants":0}
+{"zrfID":290,"id":"loonybird","name":"Loonybird","category":["checkmate"],"variants":0}
+{"zrfID":2232,"id":"lordchess","name":"Lordchess","category":["checkmate"],"variants":0}
+{"zrfID":2125,"id":"ludum-scaccorum-romanum","name":"Ludum Scaccorum Romanum","category":["checkmate"],"variants":0}
+{"zrfID":2515,"id":"luzhanqi","name":"Luzhanqi","category":["checkmate"],"variants":0}
+{"zrfID":2995,"id":"lynx-chess","name":"Lynx Chess","category":["checkmate"],"variants":0}
+{"zrfID":2996,"id":"lynx-chess-misre","name":"Lynx Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":3020,"id":"lynxes-chess","name":"Lynxes Chess","category":["checkmate"],"variants":0}
+{"zrfID":3021,"id":"lynxes-chess-misre","name":"Lynxes Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":2839,"id":"lyra","name":"Lyra","category":["checkmate"],"variants":0}
+{"zrfID":2099,"id":"mad-chess","name":"MAD Chess","category":["checkmate"],"variants":0}
+{"zrfID":617,"id":"mad-elephant-chess","name":"Mad Elephant Chess","category":["checkmate"],"variants":0}
+{"zrfID":1627,"id":"mad-queen-shogi","name":"Mad Queen Shogi","category":["checkmate"],"variants":0}
+{"zrfID":3055,"id":"madrasi-chess","name":"Madrasi Chess","category":["checkmate"],"variants":0}
+{"zrfID":2696,"id":"madrasi-shogi","name":"Madrasi Shogi","category":["checkmate"],"variants":0}
+{"zrfID":619,"id":"magic-carpet-chess","name":"Magic Carpet Chess","category":["checkmate"],"variants":0}
+{"zrfID":1275,"id":"magicpawns-chess","name":"Magicpawns Chess","category":["checkmate"],"variants":0}
+{"zrfID":48,"id":"magnetic-chess","name":"Magnetic Chess","category":["checkmate"],"variants":0}
+{"zrfID":1337,"id":"magneticpawns-chess","name":"Magneticpawns Chess","category":["checkmate"],"variants":0}
+{"zrfID":620,"id":"maitremaster","name":"MaitreMaster","category":["checkmate"],"variants":0}
+{"zrfID":2892,"id":"maka-chu-shogi","name":"Maka Chu Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2924,"id":"maka-dai-dai-shogi-system-a","name":"Maka Dai Dai Shogi (System A)","category":["checkmate"],"variants":0}
+{"zrfID":2929,"id":"maka-dai-dai-shogi-system-b","name":"Maka Dai Dai Shogi (System B)","category":["checkmate"],"variants":0}
+{"zrfID":2930,"id":"maka-dai-dai-shogi-system-c","name":"Maka Dai Dai Shogi (System C)","category":["checkmate"],"variants":0}
+{"zrfID":621,"id":"makruk-sittuyin","name":"Makruk \u0026 Sittuyin","category":["checkmate"],"variants":0}
+{"zrfID":2842,"id":"makruk-thai-chess","name":"Makruk (Thai Chess)","category":["checkmate"],"variants":0}
+{"zrfID":2832,"id":"makruk-variant-vs-janggi","name":"Makruk variant vs Janggi","category":["checkmate"],"variants":0}
+{"zrfID":2831,"id":"makruk-variant-vs-xiangqi","name":"Makruk variant vs Xiangqi","category":["checkmate"],"variants":0}
+{"zrfID":2830,"id":"makruk-vs-janggi","name":"Makruk vs Janggi","category":["checkmate"],"variants":0}
+{"zrfID":2829,"id":"makruk-vs-xiangqi","name":"Makruk vs Xiangqi","category":["checkmate"],"variants":0}
+{"zrfID":1217,"id":"mammoth-chess","name":"Mammoth Chess","category":["checkmate"],"variants":0}
+{"zrfID":1221,"id":"mammoth-chess-8x10","name":"Mammoth Chess (8x10)","category":["checkmate"],"variants":0}
+{"zrfID":2462,"id":"mana","name":"Mana","category":["checkmate"],"variants":0}
+{"zrfID":1341,"id":"mangonel-chess","name":"Mangonel Chess","category":["checkmate"],"variants":0}
+{"zrfID":1276,"id":"mapped-chess","name":"Mapped Chess","category":["checkmate"],"variants":0}
+{"zrfID":622,"id":"martian-chess","name":"Martian Chess","category":["checkmate"],"variants":0}
+{"zrfID":2745,"id":"maskedking-shogi","name":"MaskedKing Shogi","category":["checkmate"],"variants":0}
+{"zrfID":623,"id":"masque","name":"Masque","category":["checkmate"],"variants":0}
+{"zrfID":1216,"id":"mastodon-chess","name":"Mastodon Chess","category":["checkmate"],"variants":0}
+{"zrfID":1222,"id":"mastodon-chess-8x10","name":"Mastodon Chess (8x10)","category":["checkmate"],"variants":0}
+{"zrfID":1849,"id":"matrix-chess-121","name":"Matrix Chess 121","category":["checkmate"],"variants":0}
+{"zrfID":1850,"id":"matrix-chess-196","name":"Matrix Chess 196","category":["checkmate"],"variants":0}
+{"zrfID":1537,"id":"matron-chess","name":"Matron Chess","category":["checkmate"],"variants":0}
+{"zrfID":2372,"id":"me-kosova-trkiye-dropes-dma","name":"Me [KosovA \u0026 T�rkiye Dropes] D�mA","category":["checkmate"],"variants":0}
+{"zrfID":2389,"id":"me-kosova-trkiye-dropes-dma-misre","name":"Me [KosovA \u0026 T�rkiye Dropes] D�mA Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":2373,"id":"me-kosova-trkiye-zones-dma","name":"Me [KosovA \u0026 T�rkiye Zones] D�mA","category":["checkmate"],"variants":0}
+{"zrfID":2390,"id":"me-kosova-trkiye-zones-dma-misre","name":"Me [KosovA \u0026 T�rkiye Zones] D�mA Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":2374,"id":"me-kosovas-turkish-dropes-dma","name":"Me [KosovAs \u0026 Turkish Dropes] D�mA","category":["checkmate"],"variants":0}
+{"zrfID":2391,"id":"me-kosovas-turkish-dropes-dma-misre","name":"Me [KosovAs \u0026 Turkish Dropes] D�mA Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":2375,"id":"me-kosovas-turkish-zones-dma","name":"Me [KosovAs \u0026 Turkish Zones] D�mA","category":["checkmate"],"variants":0}
+{"zrfID":2392,"id":"me-kosovas-turkish-zones-dma-misre","name":"Me [KosovAs \u0026 Turkish Zones] D�mA Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":1418,"id":"medieval-chess","name":"Medieval Chess","category":["checkmate"],"variants":0}
+{"zrfID":1176,"id":"medusa-shogi","name":"Medusa Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2681,"id":"medusa-oh-shogi","name":"Medusa-Oh Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2394,"id":"mega-kosova-trkiye-dropes-dma","name":"MeGa [KosovA \u0026 T�rkiye Dropes] D�mA","category":["checkmate"],"variants":0}
+{"zrfID":2404,"id":"mega-kosova-trkiye-dropes-dma-misre","name":"MeGa [KosovA \u0026 T�rkiye Dropes] D�mA Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":2395,"id":"mega-kosova-trkiye-zones-dma","name":"MeGa [KosovA \u0026 T�rkiye Zones] D�mA","category":["checkmate"],"variants":0}
+{"zrfID":2405,"id":"mega-kosova-trkiye-zones-dma-misre","name":"MeGa [KosovA \u0026 T�rkiye Zones] D�mA Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":2396,"id":"mega-kosovas-turkish-dropes-dma","name":"MeGa [KosovAs \u0026 Turkish Dropes] D�mA","category":["checkmate"],"variants":0}
+{"zrfID":2406,"id":"mega-kosovas-turkish-dropes-dma-misre","name":"MeGa [KosovAs \u0026 Turkish Dropes] D�mA Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":2397,"id":"mega-kosovas-turkish-zones-dma","name":"MeGa [KosovAs \u0026 Turkish Zones] D�mA","category":["checkmate"],"variants":0}
+{"zrfID":2407,"id":"mega-kosovas-turkish-zones-dma-misre","name":"MeGa [KosovAs \u0026 Turkish Zones] D�mA Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":626,"id":"melissa","name":"Melissa","category":["checkmate"],"variants":0}
+{"zrfID":1523,"id":"mendim-chess","name":"Mendim Chess","category":["checkmate"],"variants":0}
+{"zrfID":627,"id":"mephisto","name":"Mephisto","category":["checkmate"],"variants":0}
+{"zrfID":1333,"id":"meridian-chess","name":"Meridian Chess","category":["checkmate"],"variants":0}
+{"zrfID":628,"id":"metamorph-chess","name":"Metamorph Chess","category":["checkmate"],"variants":0}
+{"zrfID":629,"id":"metamorphin-assimilation-chess","name":"Metamorphin' Assimilation Chess","category":["checkmate"],"variants":0}
+{"zrfID":630,"id":"metamorphin-fusion-chess","name":"Metamorphin' Fusion Chess","category":["checkmate"],"variants":0}
+{"zrfID":631,"id":"metamorphosis-chess","name":"Metamorphosis Chess","category":["checkmate"],"variants":0}
+{"zrfID":1370,"id":"meteoric-chess","name":"Meteoric Chess","category":["checkmate"],"variants":0}
+{"zrfID":47,"id":"micro-shogi-kyoto-shogi","name":"Micro Shogi \u0026 Kyoto Shogi","category":["checkmate"],"variants":0}
+{"zrfID":633,"id":"military-latrunculi","name":"Military Latrunculi","category":["checkmate"],"variants":0}
+{"zrfID":634,"id":"millennium-3d-chess","name":"Millennium 3D Chess","category":["checkmate"],"variants":0}
+{"zrfID":1503,"id":"millennium-chess","name":"Millennium Chess","category":["checkmate"],"variants":0}
+{"zrfID":2573,"id":"mimic-chess","name":"Mimic Chess","category":["checkmate"],"variants":0}
+{"zrfID":2993,"id":"mini-janggi-koma-janggi","name":"Mini Janggi (Koma-Janggi)","category":["checkmate"],"variants":0}
+{"zrfID":2810,"id":"mini-kyo-shogi","name":"Mini Kyo Shogi","category":["checkmate"],"variants":0}
+{"zrfID":1598,"id":"mini-near-chess","name":"Mini-Near Chess","category":["checkmate"],"variants":0}
+{"zrfID":1749,"id":"minimal-chess","name":"Minimal Chess","category":["checkmate"],"variants":0}
+{"zrfID":1628,"id":"minixiang","name":"MiniXiang","category":["checkmate"],"variants":0}
+{"zrfID":1905,"id":"minixiangqi","name":"MiniXiangqi","category":["checkmate"],"variants":0}
+{"zrfID":1437,"id":"mirror-east-chess-8h-x-10w","name":"Mirror East Chess 8H x 10W","category":["checkmate"],"variants":0}
+{"zrfID":1429,"id":"mirror-west-chess-8h-x-10w","name":"Mirror West Chess 8H x 10W","category":["checkmate"],"variants":0}
+{"zrfID":1964,"id":"misre-chess","name":"Mis�re Chess","category":["checkmate"],"variants":0}
+{"zrfID":1957,"id":"misre-twins-chess","name":"Mis�re [Twins] Chess","category":["checkmate"],"variants":0}
+{"zrfID":1477,"id":"missile-chess","name":"Missile Chess","category":["checkmate"],"variants":0}
+{"zrfID":3046,"id":"mitsugumi-shogi-mod","name":"Mitsugumi Shogi mod","category":["checkmate"],"variants":0}
+{"zrfID":2584,"id":"modern-100-chess","name":"Modern 100 Chess","category":["checkmate"],"variants":0}
+{"zrfID":2685,"id":"modern-courier-chess","name":"Modern Courier Chess","category":["checkmate"],"variants":0}
+{"zrfID":1099,"id":"modern-shatranj","name":"Modern Shatranj","category":["checkmate"],"variants":0}
+{"zrfID":1830,"id":"modern-shogi","name":"Modern Shogi","category":["checkmate"],"variants":0}
+{"zrfID":1915,"id":"monkey-queen","name":"Monkey Queen","category":["checkmate"],"variants":0}
+{"zrfID":635,"id":"monotypes","name":"Monotypes","category":["checkmate"],"variants":0}
+{"zrfID":636,"id":"monster-3d-chess","name":"Monster 3D Chess","category":["checkmate"],"variants":0}
+{"zrfID":1753,"id":"monster-kings","name":"Monster Kings","category":["checkmate"],"variants":0}
+{"zrfID":1044,"id":"moqi","name":"MoQi","category":["checkmate"],"variants":0}
+{"zrfID":637,"id":"morph-chess","name":"Morph Chess","category":["checkmate"],"variants":0}
+{"zrfID":50,"id":"mortal-chessgi","name":"Mortal Chessgi","category":["checkmate"],"variants":0}
+{"zrfID":1314,"id":"mortar-chess","name":"Mortar Chess","category":["checkmate"],"variants":0}
+{"zrfID":999,"id":"motherking-and-her-frogs","name":"MotherKing and her Frogs","category":["checkmate"],"variants":0}
+{"zrfID":1744,"id":"mulatte-bishop-chess","name":"Mulatte Bishop Chess","category":["checkmate"],"variants":0}
+{"zrfID":1807,"id":"multi-chess","name":"Multi-chess","category":["checkmate"],"variants":0}
+{"zrfID":1321,"id":"murmillo-chess","name":"Murmillo Chess","category":["checkmate"],"variants":0}
+{"zrfID":638,"id":"must-capture-chess","name":"Must Capture Chess","category":["checkmate"],"variants":0}
+{"zrfID":639,"id":"mutation-chess","name":"Mutation Chess","category":["checkmate"],"variants":0}
+{"zrfID":2850,"id":"mystery-shogi","name":"Mystery Shogi","category":["checkmate"],"variants":0}
+{"zrfID":640,"id":"n-relay-chess","name":"N-Relay Chess","category":["checkmate"],"variants":0}
+{"zrfID":1346,"id":"naiad-chess","name":"Naiad Chess","category":["checkmate"],"variants":0}
+{"zrfID":2077,"id":"nam-dinh","name":"Nam Dinh","category":["checkmate"],"variants":0}
+{"zrfID":641,"id":"nana-shogi","name":"Nana Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2660,"id":"narazu-shogi","name":"Narazu Shogi","category":["checkmate"],"variants":0}
+{"zrfID":642,"id":"nardeshir-3d-chess","name":"Nardeshir 3D Chess","category":["checkmate"],"variants":0}
+{"zrfID":1683,"id":"narnia-chess","name":"Narnia Chess","category":["checkmate"],"variants":0}
+{"zrfID":986,"id":"narrassetch","name":"Narrassetch","category":["checkmate"],"variants":0}
+{"zrfID":1577,"id":"near-chess","name":"Near Chess","category":["checkmate"],"variants":0}
+{"zrfID":1580,"id":"near-chess-drops-shuffle","name":"Near Chess Drops-Shuffle","category":["checkmate"],"variants":0}
+{"zrfID":1584,"id":"near-chess-on-a-large-board","name":"Near Chess on a Large Board","category":["checkmate"],"variants":0}
+{"zrfID":1579,"id":"near-vs-normal-chess","name":"Near vs Normal Chess","category":["checkmate"],"variants":0}
+{"zrfID":2414,"id":"neda-kosova-trkiye-dropes-dma","name":"NeDa [KosovA \u0026 T�rkiye Dropes] D�mA","category":["checkmate"],"variants":0}
+{"zrfID":2428,"id":"neda-kosova-trkiye-dropes-dma-misre","name":"NeDa [KosovA \u0026 T�rkiye Dropes] D�mA Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":2415,"id":"neda-kosova-trkiye-zones-dma","name":"NeDa [KosovA \u0026 T�rkiye Zones] D�mA","category":["checkmate"],"variants":0}
+{"zrfID":2429,"id":"neda-kosova-trkiye-zones-dma-misre","name":"NeDa [KosovA \u0026 T�rkiye Zones] D�mA Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":2416,"id":"neda-kosovas-turkish-dropes-dma","name":"NeDa [KosovAs \u0026 Turkish Dropes] D�mA","category":["checkmate"],"variants":0}
+{"zrfID":2430,"id":"neda-kosovas-turkish-dropes-dma-misre","name":"NeDa [KosovAs \u0026 Turkish Dropes] D�mA Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":2417,"id":"neda-kosovas-turkish-zones-dma","name":"NeDa [KosovAs \u0026 Turkish Zones] D�mA","category":["checkmate"],"variants":0}
+{"zrfID":2431,"id":"neda-kosovas-turkish-zones-dma-misre","name":"NeDa [KosovAs \u0026 Turkish Zones] D�mA Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":1425,"id":"neoorthodox-chess","name":"Neoorthodox Chess","category":["checkmate"],"variants":0}
+{"zrfID":1897,"id":"neoteric-chess","name":"Neoteric Chess","category":["checkmate"],"variants":0}
+{"zrfID":1482,"id":"net-chess","name":"Net Chess","category":["checkmate"],"variants":0}
+{"zrfID":1254,"id":"new-chess","name":"New Chess","category":["checkmate"],"variants":0}
+{"zrfID":2053,"id":"new-chinese-chess","name":"New Chinese Chess","category":["checkmate"],"variants":0}
+{"zrfID":2697,"id":"new-komaochi23-shogi","name":"New KomaOchi23 Shogi","category":["checkmate"],"variants":0}
+{"zrfID":1002,"id":"nextchess","name":"NextChess","category":["checkmate"],"variants":0}
+{"zrfID":2491,"id":"nine-tile-cyvasse","name":"Nine-Tile Cyvasse","category":["checkmate"],"variants":0}
+{"zrfID":1104,"id":"ninth-century-indian-chess","name":"Ninth Century Indian Chess","category":["checkmate"],"variants":0}
+{"zrfID":2687,"id":"no-pawn-shogi","name":"No Pawn Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2731,"id":"non-reusable-shogi","name":"Non Reusable Shogi","category":["checkmate"],"variants":0}
+{"zrfID":1435,"id":"non-standard-chess-8h-x-8w","name":"Non-Standard Chess 8H x 8W","category":["checkmate"],"variants":0}
+{"zrfID":1013,"id":"norrkrog","name":"Norrkrog","category":["checkmate"],"variants":0}
+{"zrfID":659,"id":"nosferatu","name":"Nosferatu","category":["checkmate"],"variants":0}
+{"zrfID":2735,"id":"not-capture-first-shogi","name":"Not Capture First Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2738,"id":"not-capture-shogi-torazu-shogi","name":"Not Capture Shogi (Torazu Shogi)","category":["checkmate"],"variants":0}
+{"zrfID":1504,"id":"nova-chess","name":"Nova Chess","category":["checkmate"],"variants":0}
+{"zrfID":2994,"id":"nutty-shogi","name":"Nutty Shogi","category":["checkmate"],"variants":0}
+{"zrfID":643,"id":"nwap-chess","name":"Nwap Chess","category":["checkmate"],"variants":0}
+{"zrfID":695,"id":"oblique","name":"Oblique","category":["checkmate"],"variants":0}
+{"zrfID":1188,"id":"oblong-shatranj-with-die","name":"Oblong Shatranj with die","category":["checkmate"],"variants":0}
+{"zrfID":696,"id":"octa-ashtapada","name":"Octa-Ashtapada","category":["checkmate"],"variants":0}
+{"zrfID":1936,"id":"octachess","name":"OctaChess","category":["checkmate"],"variants":0}
+{"zrfID":1725,"id":"octopus-chess","name":"Octopus Chess","category":["checkmate"],"variants":0}
+{"zrfID":697,"id":"odds-chess","name":"Odds Chess","category":["checkmate"],"variants":0}
+{"zrfID":1630,"id":"olympia-chess","name":"OlympiA Chess","category":["checkmate"],"variants":0}
+{"zrfID":1636,"id":"olympias-chess","name":"OlympiAs Chess","category":["checkmate"],"variants":0}
+{"zrfID":1619,"id":"olympics-chess","name":"Olympics Chess","category":["checkmate"],"variants":0}
+{"zrfID":1614,"id":"olympycs-chess","name":"Olympycs Chess","category":["checkmate"],"variants":0}
+{"zrfID":158,"id":"omega-chess","name":"Omega Chess","category":["checkmate"],"variants":0}
+{"zrfID":1754,"id":"omega-chess-advanced","name":"Omega Chess Advanced","category":["checkmate"],"variants":0}
+{"zrfID":1755,"id":"omega-chess-updated","name":"Omega Chess Updated","category":["checkmate"],"variants":0}
+{"zrfID":1606,"id":"omega-transplant","name":"Omega Transplant","category":["checkmate"],"variants":0}
+{"zrfID":1700,"id":"omnigon","name":"Omnigon","category":["checkmate"],"variants":0}
+{"zrfID":698,"id":"one-ring-chess","name":"One Ring Chess","category":["checkmate"],"variants":0}
+{"zrfID":1061,"id":"one-sided-freebeat-chess","name":"One-Sided FreeBeat Chess","category":["checkmate"],"variants":0}
+{"zrfID":699,"id":"one-two-chess","name":"One-Two Chess","category":["checkmate"],"variants":0}
+{"zrfID":700,"id":"onwards-chess","name":"Onwards Chess","category":["checkmate"],"variants":0}
+{"zrfID":1182,"id":"operational-chess-3-land-sea-chess","name":"Operational Chess 3: Land-Sea Chess","category":["checkmate"],"variants":0}
+{"zrfID":701,"id":"optima","name":"Optima","category":["checkmate"],"variants":0}
+{"zrfID":1395,"id":"optimized-chess-8h-x-10w","name":"Optimized Chess 8H x 10W","category":["checkmate"],"variants":0}
+{"zrfID":1255,"id":"orphic-chess","name":"Orphic Chess","category":["checkmate"],"variants":0}
+{"zrfID":2777,"id":"othello-shogi-type-a","name":"Othello Shogi (Type A)","category":["checkmate"],"variants":0}
+{"zrfID":2778,"id":"othello-shogi-type-b","name":"Othello Shogi (Type B)","category":["checkmate"],"variants":0}
+{"zrfID":2776,"id":"othello-shogi-type-c","name":"Othello Shogi (Type C)","category":["checkmate"],"variants":0}
+{"zrfID":1342,"id":"oxybeles-chess","name":"Oxybeles Chess","category":["checkmate"],"variants":0}
+{"zrfID":702,"id":"pacman-chess","name":"Pacman Chess","category":["checkmate"],"variants":0}
+{"zrfID":1483,"id":"palace-ninja-guards-chess","name":"Palace Ninja Guards Chess","category":["checkmate"],"variants":0}
+{"zrfID":2804,"id":"panthera-chess","name":"PantherA Chess","category":["checkmate"],"variants":0}
+{"zrfID":2805,"id":"panthera-chess-misre","name":"PantherA Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":2881,"id":"pantheras-chess","name":"PantherAs Chess","category":["checkmate"],"variants":0}
+{"zrfID":2880,"id":"pantheras-chess-misre","name":"PantherAs Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":2497,"id":"pon-by-aepasa","name":"P�on by AepasA","category":["checkmate"],"variants":0}
+{"zrfID":1315,"id":"parade-of-the-stars","name":"Parade of the Stars","category":["checkmate"],"variants":0}
+{"zrfID":703,"id":"pass-chess","name":"Pass Chess","category":["checkmate"],"variants":0}
+{"zrfID":704,"id":"passive-aggressive-chess","name":"Passive Aggressive Chess","category":["checkmate"],"variants":0}
+{"zrfID":1412,"id":"paulovitss-game","name":"Paulovits's Game","category":["checkmate"],"variants":0}
+{"zrfID":2938,"id":"paulowich-whale-shogi","name":"Paulowich Whale Shogi","category":["checkmate"],"variants":0}
+{"zrfID":705,"id":"paulowichs-chancellor-chess","name":"Paulowich's Chancellor Chess","category":["checkmate"],"variants":0}
+{"zrfID":2007,"id":"peasants-revolt-chess","name":"Peasants Revolt Chess","category":["checkmate"],"variants":0}
+{"zrfID":1325,"id":"pegniar-chess","name":"Pegniar Chess","category":["checkmate"],"variants":0}
+{"zrfID":706,"id":"penalty-chess","name":"Penalty Chess","category":["checkmate"],"variants":0}
+{"zrfID":707,"id":"pent-ashtapada-chess","name":"Pent-Ashtapada Chess","category":["checkmate"],"variants":0}
+{"zrfID":709,"id":"pentaplane","name":"Pentaplane","category":["checkmate"],"variants":0}
+{"zrfID":2499,"id":"peon-by-aepasa","name":"Peon by AepasA","category":["checkmate"],"variants":0}
+{"zrfID":1650,"id":"perier-chess","name":"Perier Chess","category":["checkmate"],"variants":0}
+{"zrfID":1511,"id":"petrit-chess","name":"Petrit Chess","category":["checkmate"],"variants":0}
+{"zrfID":2493,"id":"petrit-dma","name":"Petrit D�mA","category":["checkmate"],"variants":0}
+{"zrfID":2445,"id":"pe~pi-kosova-trkiye-dropes-dma","name":"Pe~Pi [KosovA \u0026 T�rkiye Dropes] D�mA","category":["checkmate"],"variants":0}
+{"zrfID":2458,"id":"pe~pi-kosova-trkiye-dropes-dma-misre","name":"Pe~Pi [KosovA \u0026 T�rkiye Dropes] D�mA Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":2446,"id":"pe~pi-kosova-trkiye-zones-dma","name":"Pe~Pi [KosovA \u0026 T�rkiye Zones] D�mA","category":["checkmate"],"variants":0}
+{"zrfID":2459,"id":"pe~pi-kosova-trkiye-zones-dma-misre","name":"Pe~Pi [KosovA \u0026 T�rkiye Zones] D�mA Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":2447,"id":"pe~pi-kosovas-turkish-dropes-dma","name":"Pe~Pi [KosovAs \u0026 Turkish Dropes] D�mA","category":["checkmate"],"variants":0}
+{"zrfID":2460,"id":"pe~pi-kosovas-turkish-dropes-dma-misre","name":"Pe~Pi [KosovAs \u0026 Turkish Dropes] D�mA Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":2448,"id":"pe~pi-kosovas-turkish-zones-dma","name":"Pe~Pi [KosovAs \u0026 Turkish Zones] D�mA","category":["checkmate"],"variants":0}
+{"zrfID":2461,"id":"pe~pi-kosovas-turkish-zones-dma-misre","name":"Pe~Pi [KosovAs \u0026 Turkish Zones] D�mA Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":1459,"id":"phalanx-chess","name":"Phalanx Chess","category":["checkmate"],"variants":0}
+{"zrfID":2349,"id":"philosophy-shogi-checkers","name":"Philosophy Shogi Checkers","category":["checkmate"],"variants":0}
+{"zrfID":1647,"id":"pick-the-piece-big-chess","name":"Pick the Piece Big Chess","category":["checkmate"],"variants":0}
+{"zrfID":1113,"id":"piece-promotion-games","name":"Piece Promotion Games","category":["checkmate"],"variants":0}
+{"zrfID":1189,"id":"piece-promotion-games-2","name":"Piece Promotion Games 2","category":["checkmate"],"variants":0}
+{"zrfID":1696,"id":"pilgrim-chess","name":"Pilgrim Chess","category":["checkmate"],"variants":0}
+{"zrfID":1818,"id":"pillage","name":"Pillage","category":["checkmate"],"variants":0}
+{"zrfID":710,"id":"pillars-of-medusa","name":"Pillars Of Medusa","category":["checkmate"],"variants":0}
+{"zrfID":1697,"id":"pioneer-chess","name":"Pioneer Chess","category":["checkmate"],"variants":0}
+{"zrfID":1571,"id":"pitcher-chess","name":"Pitcher Chess","category":["checkmate"],"variants":0}
+{"zrfID":2438,"id":"pi~pe-kosova-trkiye-dropes-dma","name":"Pi~Pe [KosovA \u0026 T�rkiye Dropes] D�mA","category":["checkmate"],"variants":0}
+{"zrfID":2451,"id":"pi~pe-kosova-trkiye-dropes-dma-misre","name":"Pi~Pe [KosovA \u0026 T�rkiye Dropes] D�mA Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":2439,"id":"pi~pe-kosova-trkiye-zones-dma","name":"Pi~Pe [KosovA \u0026 T�rkiye Zones] D�mA","category":["checkmate"],"variants":0}
+{"zrfID":2453,"id":"pi~pe-kosova-trkiye-zones-dma-misre","name":"Pi~Pe [KosovA \u0026 T�rkiye Zones] D�mA Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":2440,"id":"pi~pe-kosovas-turkish-dropes-dma","name":"Pi~Pe [KosovAs \u0026 Turkish Dropes] D�mA","category":["checkmate"],"variants":0}
+{"zrfID":2454,"id":"pi~pe-kosovas-turkish-dropes-dma-misre","name":"Pi~Pe [KosovAs \u0026 Turkish Dropes] D�mA Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":2441,"id":"pi~pe-kosovas-turkish-zones-dma","name":"Pi~Pe [KosovAs \u0026 Turkish Zones] D�mA","category":["checkmate"],"variants":0}
+{"zrfID":2455,"id":"pi~pe-kosovas-turkish-zones-dma-misre","name":"Pi~Pe [KosovAs \u0026 Turkish Zones] D�mA Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":1711,"id":"placement-chess","name":"Placement Chess","category":["checkmate"],"variants":0}
+{"zrfID":711,"id":"planar-4x4x4-chess","name":"Planar 4x4x4 Chess","category":["checkmate"],"variants":0}
+{"zrfID":712,"id":"platform-chess","name":"Platform Chess","category":["checkmate"],"variants":0}
+{"zrfID":3140,"id":"platonic-chess","name":"Platonic Chess","category":["checkmate"],"variants":0}
+{"zrfID":3052,"id":"platzwechsel-circe-chess","name":"Platzwechsel Circe Chess","category":["checkmate"],"variants":0}
+{"zrfID":2725,"id":"platzwechselcirce-pwc-shogi","name":"PlatzWechselCirce (PWC) Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2798,"id":"ploy","name":"Ploy","category":["checkmate"],"variants":0}
+{"zrfID":1163,"id":"pointer-chess","name":"Pointer Chess","category":["checkmate"],"variants":0}
+{"zrfID":2596,"id":"pole-chess","name":"Pole Chess","category":["checkmate"],"variants":0}
+{"zrfID":1822,"id":"polgar-superstar-chess-starchess","name":"Polgar Superstar Chess (Starchess)","category":["checkmate"],"variants":0}
+{"zrfID":713,"id":"polish-chess","name":"Polish Chess","category":["checkmate"],"variants":0}
+{"zrfID":714,"id":"polyhedron-chess","name":"Polyhedron Chess","category":["checkmate"],"variants":0}
+{"zrfID":715,"id":"power-shift-chess","name":"Power Shift Chess","category":["checkmate"],"variants":0}
+{"zrfID":1426,"id":"powerful-pawns-chess","name":"Powerful Pawns Chess","category":["checkmate"],"variants":0}
+{"zrfID":1114,"id":"presiding-chess","name":"Presiding Chess","category":["checkmate"],"variants":0}
+{"zrfID":994,"id":"prince-3d-chess","name":"Prince 3D Chess","category":["checkmate"],"variants":0}
+{"zrfID":1624,"id":"prince-chess","name":"Prince Chess","category":["checkmate"],"variants":0}
+{"zrfID":2627,"id":"princess-empress-chess","name":"Princess \u0026 Empress Chess","category":["checkmate"],"variants":0}
+{"zrfID":2628,"id":"princess-empress-chess-misre","name":"Princess \u0026 Empress Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":2941,"id":"princess-and-empress-shogi","name":"Princess and Empress Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2942,"id":"princess-and-empress-shogi-variant","name":"Princess and Empress Shogi Variant","category":["checkmate"],"variants":0}
+{"zrfID":2614,"id":"princess-chess","name":"Princess Chess","category":["checkmate"],"variants":0}
+{"zrfID":2615,"id":"princess-chess-misre","name":"Princess Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":2620,"id":"princess-^-empress-chess","name":"Princess ^ Empress Chess","category":["checkmate"],"variants":0}
+{"zrfID":2621,"id":"princess-^-empress-chess-misre","name":"Princess ^ Empress Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":3243,"id":"prison-break","name":"Prison Break","category":["checkmate"],"variants":0}
+{"zrfID":1107,"id":"procycle-chess","name":"ProCycle Chess","category":["checkmate"],"variants":0}
+{"zrfID":717,"id":"promotion-chess","name":"Promotion Chess","category":["checkmate"],"variants":0}
+{"zrfID":2906,"id":"promotion-first-shogi","name":"Promotion First Shogi","category":["checkmate"],"variants":0}
+{"zrfID":716,"id":"promotions-and-demotions","name":"Promotions and Demotions","category":["checkmate"],"variants":0}
+{"zrfID":1648,"id":"promotions-chess","name":"Promotions Chess","category":["checkmate"],"variants":0}
+{"zrfID":1371,"id":"provocator-chess","name":"Provocator Chess","category":["checkmate"],"variants":0}
+{"zrfID":2780,"id":"puma-chess","name":"PumA Chess","category":["checkmate"],"variants":0}
+{"zrfID":2781,"id":"puma-chess-misre","name":"PumA Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":2890,"id":"pumas-chess","name":"PumAs Chess","category":["checkmate"],"variants":0}
+{"zrfID":2889,"id":"pumas-chess-misre","name":"PumAs Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":3100,"id":"pushpawn-chess","name":"Pushpawn Chess","category":["checkmate"],"variants":0}
+{"zrfID":718,"id":"pyramid-chess","name":"Pyramid Chess","category":["checkmate"],"variants":0}
+{"zrfID":1413,"id":"pyrrhus-chess","name":"Pyrrhus Chess","category":["checkmate"],"variants":0}
+{"zrfID":2487,"id":"qiguo-xiangqi","name":"Qiguo Xiangqi","category":["checkmate"],"variants":0}
+{"zrfID":758,"id":"quadlevel-3d-chess","name":"Quadlevel 3D Chess","category":["checkmate"],"variants":0}
+{"zrfID":759,"id":"quadrangle-chess","name":"Quadrangle Chess","category":["checkmate"],"variants":0}
+{"zrfID":2057,"id":"quangtrung1","name":"Quangtrung1","category":["checkmate"],"variants":0}
+{"zrfID":2047,"id":"quangtrungki","name":"Quangtrungki","category":["checkmate"],"variants":0}
+{"zrfID":2935,"id":"quantum-chess","name":"Quantum Chess","category":["checkmate"],"variants":0}
+{"zrfID":2764,"id":"queen-shogi-okisaki-shogi","name":"Queen Shogi (Okisaki Shogi)","category":["checkmate"],"variants":0}
+{"zrfID":1968,"id":"queen-checkmate-chess","name":"Queen [CheckMate] Chess","category":["checkmate"],"variants":0}
+{"zrfID":1995,"id":"queen-chessmate-chess","name":"Queen [ChessMate] Chess","category":["checkmate"],"variants":0}
+{"zrfID":1361,"id":"queen-and-pawnless-chess","name":"Queen- and Pawnless Chess","category":["checkmate"],"variants":0}
+{"zrfID":2688,"id":"queen-king-shogi","name":"Queen-King Shogi","category":["checkmate"],"variants":0}
+{"zrfID":1147,"id":"queens-or-castles","name":"Queens or Castles","category":["checkmate"],"variants":0}
+{"zrfID":1967,"id":"queens-checkmate-chess","name":"Queens [CheckMate] Chess","category":["checkmate"],"variants":0}
+{"zrfID":1990,"id":"queens-chessmate-chess","name":"Queens [ChessMate] Chess","category":["checkmate"],"variants":0}
+{"zrfID":762,"id":"r-chess","name":"R-Chess","category":["checkmate"],"variants":0}
+{"zrfID":3024,"id":"racing-chess","name":"Racing Chess","category":["checkmate"],"variants":0}
+{"zrfID":763,"id":"rack-and-runes","name":"Rack and Runes","category":["checkmate"],"variants":0}
+{"zrfID":2554,"id":"ragnarok","name":"Ragnarok","category":["checkmate"],"variants":0}
+{"zrfID":2689,"id":"rainleaking-shogi","name":"RainLeaking Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2098,"id":"raj-chess","name":"RAJ Chess","category":["checkmate"],"variants":0}
+{"zrfID":764,"id":"rajah","name":"Rajah","category":["checkmate"],"variants":0}
+{"zrfID":1401,"id":"random-drop-chess","name":"Random Drop Chess","category":["checkmate"],"variants":0}
+{"zrfID":1609,"id":"raptor-chess","name":"Raptor Chess","category":["checkmate"],"variants":0}
+{"zrfID":708,"id":"raumschach","name":"Raumschach","category":["checkmate"],"variants":0}
+{"zrfID":2838,"id":"razor-chess","name":"Razor Chess","category":["checkmate"],"variants":0}
+{"zrfID":765,"id":"recognized-variants-of-the-month","name":"Recognized Variants of the Month","category":["checkmate"],"variants":0}
+{"zrfID":767,"id":"reduced-endgame-chess","name":"Reduced Endgame Chess","category":["checkmate"],"variants":0}
+{"zrfID":1478,"id":"reformed-chess","name":"Reformed Chess","category":["checkmate"],"variants":0}
+{"zrfID":1716,"id":"regiment-chess","name":"Regiment Chess","category":["checkmate"],"variants":0}
+{"zrfID":1717,"id":"regroupment-chess","name":"Regroupment Chess","category":["checkmate"],"variants":0}
+{"zrfID":768,"id":"relativistic-chess","name":"Relativistic Chess","category":["checkmate"],"variants":0}
+{"zrfID":1704,"id":"relocation-chess","name":"Relocation Chess","category":["checkmate"],"variants":0}
+{"zrfID":3083,"id":"relocation-chess-variants","name":"Relocation Chess Variants","category":["checkmate"],"variants":0}
+{"zrfID":2852,"id":"remain-promotion-shogi","name":"Remain Promotion Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2564,"id":"ren-shogi","name":"REN Shogi","category":["checkmate"],"variants":0}
+{"zrfID":769,"id":"renaissance-chess","name":"Renaissance Chess","category":["checkmate"],"variants":0}
+{"zrfID":2755,"id":"replacementking-shogi","name":"ReplacementKing Shogi","category":["checkmate"],"variants":0}
+{"zrfID":1898,"id":"reserve-chess","name":"Reserve Chess","category":["checkmate"],"variants":0}
+{"zrfID":2412,"id":"resurrection-chess","name":"Resurrection Chess","category":["checkmate"],"variants":0}
+{"zrfID":1326,"id":"retiar-chess","name":"Retiar Chess","category":["checkmate"],"variants":0}
+{"zrfID":2991,"id":"reusable-chess","name":"Reusable Chess","category":["checkmate"],"variants":0}
+{"zrfID":2958,"id":"reusable-chu-shogi","name":"Reusable Chu Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2960,"id":"reusable-chu-shogi-variant","name":"Reusable Chu Shogi Variant","category":["checkmate"],"variants":0}
+{"zrfID":2959,"id":"reusable-dai-shogi","name":"Reusable Dai Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2961,"id":"reusable-dai-shogi-variant","name":"Reusable Dai Shogi Variant","category":["checkmate"],"variants":0}
+{"zrfID":2768,"id":"reusable-heian-shogi","name":"Reusable Heian Shogi","category":["checkmate"],"variants":0}
+{"zrfID":3001,"id":"reusable-janggi","name":"Reusable Janggi","category":["checkmate"],"variants":0}
+{"zrfID":2988,"id":"reusable-makruk","name":"Reusable Makruk","category":["checkmate"],"variants":0}
+{"zrfID":2989,"id":"reusable-makruk-variant","name":"Reusable Makruk Variant","category":["checkmate"],"variants":0}
+{"zrfID":2882,"id":"reusable-sho-shogi","name":"Reusable Sho Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2886,"id":"reusable-sho-shogi-variant","name":"Reusable Sho Shogi Variant","category":["checkmate"],"variants":0}
+{"zrfID":2947,"id":"reusable-wa-shogi-11x11","name":"Reusable Wa Shogi 11x11","category":["checkmate"],"variants":0}
+{"zrfID":3000,"id":"reusable-xiangqi","name":"Reusable Xiangqi","category":["checkmate"],"variants":0}
+{"zrfID":2700,"id":"reverse-promotion-shogi","name":"Reverse Promotion Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2845,"id":"reversi-shogi-type-a","name":"Reversi Shogi (Type A)","category":["checkmate"],"variants":0}
+{"zrfID":2846,"id":"reversi-shogi-type-b","name":"Reversi Shogi (Type B)","category":["checkmate"],"variants":0}
+{"zrfID":2848,"id":"reversi-shogi-type-c","name":"Reversi Shogi (Type C)","category":["checkmate"],"variants":0}
+{"zrfID":2756,"id":"reversiblepromotion-shogi","name":"ReversiblePromotion Shogi","category":["checkmate"],"variants":0}
+{"zrfID":1727,"id":"revised-chess","name":"Revised Chess","category":["checkmate"],"variants":0}
+{"zrfID":1965,"id":"rvolution-chess","name":"r�volution Chess","category":["checkmate"],"variants":0}
+{"zrfID":1572,"id":"rhino-chess","name":"Rhino Chess","category":["checkmate"],"variants":0}
+{"zrfID":1552,"id":"rhinos-chess","name":"RhinOs Chess","category":["checkmate"],"variants":0}
+{"zrfID":3039,"id":"rifle-chess","name":"Rifle Chess","category":["checkmate"],"variants":0}
+{"zrfID":2678,"id":"rifle-shogi","name":"Rifle Shogi","category":["checkmate"],"variants":0}
+{"zrfID":771,"id":"rigellan-sii-od","name":"Rigellan Sii-od","category":["checkmate"],"variants":0}
+{"zrfID":773,"id":"rococo","name":"Rococo","category":["checkmate"],"variants":0}
+{"zrfID":774,"id":"rollerball-chess","name":"Rollerball Chess","category":["checkmate"],"variants":0}
+{"zrfID":2763,"id":"rook-shogi-bishop-shogi","name":"Rook Shogi \u0026 Bishop Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2757,"id":"rook-vs-bishop-shogi","name":"Rook vs. Bishop Shogi","category":["checkmate"],"variants":0}
+{"zrfID":775,"id":"rooksquare-chess","name":"Rooksquare Chess","category":["checkmate"],"variants":0}
+{"zrfID":776,"id":"rotary","name":"Rotary","category":["checkmate"],"variants":0}
+{"zrfID":1867,"id":"rotorblades-chess","name":"Rotorblades Chess","category":["checkmate"],"variants":0}
+{"zrfID":1875,"id":"rotorblades-fusion-chess","name":"Rotorblades Fusion Chess","category":["checkmate"],"variants":0}
+{"zrfID":1815,"id":"round-honeycomb-chess","name":"Round Honeycomb Chess","category":["checkmate"],"variants":0}
+{"zrfID":1814,"id":"round-table-chess-96","name":"Round Table Chess 96","category":["checkmate"],"variants":0}
+{"zrfID":1282,"id":"royal-cannonchess","name":"Royal CannonChess","category":["checkmate"],"variants":0}
+{"zrfID":1045,"id":"royal-fury","name":"Royal Fury","category":["checkmate"],"variants":0}
+{"zrfID":1263,"id":"royal-pawn-chess","name":"Royal Pawn Chess","category":["checkmate"],"variants":0}
+{"zrfID":3027,"id":"royal-queen-chess","name":"Royal Queen Chess","category":["checkmate"],"variants":0}
+{"zrfID":777,"id":"rubik-chess","name":"Rubik Chess","category":["checkmate"],"variants":0}
+{"zrfID":778,"id":"ruddigore-chess","name":"Ruddigore Chess","category":["checkmate"],"variants":0}
+{"zrfID":991,"id":"rutherfords-1-dimensional-shogi","name":"Rutherford's 1-dimensional Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2041,"id":"safari","name":"Safari","category":["checkmate"],"variants":0}
+{"zrfID":1327,"id":"sagittar-chess","name":"Sagittar Chess","category":["checkmate"],"variants":0}
+{"zrfID":2066,"id":"sahara-chess","name":"Sahara Chess","category":["checkmate"],"variants":0}
+{"zrfID":1235,"id":"samhain-chess","name":"Samhain Chess","category":["checkmate"],"variants":0}
+{"zrfID":1334,"id":"samnis-chess","name":"Samnis Chess","category":["checkmate"],"variants":0}
+{"zrfID":1,"id":"sankaku-shogi","name":"Sankaku Shogi","category":["checkmate"],"variants":0}
+{"zrfID":1928,"id":"savannah","name":"Savannah","category":["checkmate"],"variants":0}
+{"zrfID":1223,"id":"scandinavian-chess","name":"Scandinavian Chess","category":["checkmate"],"variants":0}
+{"zrfID":1194,"id":"schoolbook","name":"Schoolbook","category":["checkmate"],"variants":0}
+{"zrfID":848,"id":"scirocco","name":"Scirocco","category":["checkmate"],"variants":0}
+{"zrfID":2028,"id":"scope","name":"Scope","category":["checkmate"],"variants":0}
+{"zrfID":1236,"id":"scorpion-chess","name":"Scorpion Chess","category":["checkmate"],"variants":0}
+{"zrfID":1328,"id":"scot-chess","name":"Scot Chess","category":["checkmate"],"variants":0}
+{"zrfID":1385,"id":"scout-chess","name":"Scout Chess","category":["checkmate"],"variants":0}
+{"zrfID":2036,"id":"sea-chess","name":"Sea Chess","category":["checkmate"],"variants":0}
+{"zrfID":2223,"id":"sea-stories","name":"Sea Stories","category":["checkmate"],"variants":0}
+{"zrfID":849,"id":"secret-service-chess","name":"Secret Service Chess","category":["checkmate"],"variants":0}
+{"zrfID":1322,"id":"secutor-chess","name":"Secutor Chess","category":["checkmate"],"variants":0}
+{"zrfID":1896,"id":"seirawan-chess","name":"Seirawan Chess","category":["checkmate"],"variants":0}
+{"zrfID":850,"id":"selfeliminator","name":"Selfeliminator","category":["checkmate"],"variants":0}
+{"zrfID":2591,"id":"sentry-chess","name":"Sentry Chess","category":["checkmate"],"variants":0}
+{"zrfID":851,"id":"separate-chess","name":"Separate Chess","category":["checkmate"],"variants":0}
+{"zrfID":1228,"id":"setup-chess","name":"Setup-Chess","category":["checkmate"],"variants":0}
+{"zrfID":3025,"id":"shahmot","name":"Shahmot","category":["checkmate"],"variants":0}
+{"zrfID":1171,"id":"shamanic-chess","name":"Shamanic Chess","category":["checkmate"],"variants":0}
+{"zrfID":988,"id":"shanghai-palace-chess","name":"Shanghai Palace Chess","category":["checkmate"],"variants":0}
+{"zrfID":2910,"id":"shared-piece-shogi","name":"Shared Piece Shogi","category":["checkmate"],"variants":0}
+{"zrfID":99,"id":"shatranj","name":"Shatranj","category":["checkmate"],"variants":0}
+{"zrfID":1108,"id":"shatranj-elephants","name":"Shatranj Elephants","category":["checkmate"],"variants":0}
+{"zrfID":1140,"id":"shatranj-of-troy","name":"Shatranj of Troy","category":["checkmate"],"variants":0}
+{"zrfID":852,"id":"shatranj-plus","name":"Shatranj Plus","category":["checkmate"],"variants":0}
+{"zrfID":1690,"id":"shields-swords","name":"Shields \u0026 Swords","category":["checkmate"],"variants":0}
+{"zrfID":2766,"id":"sho-shogi","name":"Sho Shogi","category":["checkmate"],"variants":0}
+{"zrfID":1761,"id":"shock-troops","name":"Shock Troops","category":["checkmate"],"variants":0}
+{"zrfID":2858,"id":"shogi-corrected-for-pawn-drop","name":"Shogi (Corrected for 'Pawn drop')","category":["checkmate"],"variants":0}
+{"zrfID":2854,"id":"shogi-renewal","name":"Shogi (Renewal)","category":["checkmate"],"variants":0}
+{"zrfID":2936,"id":"shogi-modified","name":"Shogi Modified","category":["checkmate"],"variants":0}
+{"zrfID":3108,"id":"shogi-plus","name":"Shogi Plus","category":["checkmate"],"variants":0}
+{"zrfID":854,"id":"shogi-super-chess","name":"Shogi Super Chess","category":["checkmate"],"variants":0}
+{"zrfID":2836,"id":"shogi-variant-vs-chess","name":"Shogi variant vs Chess","category":["checkmate"],"variants":0}
+{"zrfID":2835,"id":"shogi-variant-vs-makruk","name":"Shogi variant vs Makruk","category":["checkmate"],"variants":0}
+{"zrfID":2811,"id":"shogi-vs-chess","name":"Shogi vs Chess","category":["checkmate"],"variants":0}
+{"zrfID":2815,"id":"shogi-vs-chess-center-split-version","name":"Shogi vs Chess (Center Split version)","category":["checkmate"],"variants":0}
+{"zrfID":2821,"id":"shogi-vs-janggi","name":"Shogi vs Janggi","category":["checkmate"],"variants":0}
+{"zrfID":2822,"id":"shogi-vs-makruk","name":"Shogi vs Makruk","category":["checkmate"],"variants":0}
+{"zrfID":2824,"id":"shogi-vs-makruk-variant","name":"Shogi vs Makruk Variant","category":["checkmate"],"variants":0}
+{"zrfID":2814,"id":"shogi-vs-makruk-vs-chess","name":"Shogi vs Makruk vs Chess","category":["checkmate"],"variants":0}
+{"zrfID":2816,"id":"shogi-vs-xiangqi","name":"Shogi vs Xiangqi","category":["checkmate"],"variants":0}
+{"zrfID":853,"id":"shogi-with-handicaps","name":"Shogi with Handicaps","category":["checkmate"],"variants":0}
+{"zrfID":46,"id":"shogi-mortal-shogi-kamikaze-mortal-shogi","name":"Shogi, Mortal Shogi, Kamikaze Mortal Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2653,"id":"shogi-checkfirst","name":"Shogi-CheckFirst","category":["checkmate"],"variants":0}
+{"zrfID":2708,"id":"shogi-expandedprison","name":"Shogi-ExpandedPrison","category":["checkmate"],"variants":0}
+{"zrfID":2652,"id":"shogi-falconking","name":"Shogi-FalconKing","category":["checkmate"],"variants":0}
+{"zrfID":2667,"id":"shogi-hybrid","name":"Shogi-Hybrid","category":["checkmate"],"variants":0}
+{"zrfID":2647,"id":"shogi-immortalsilver","name":"Shogi-ImmortalSilver","category":["checkmate"],"variants":0}
+{"zrfID":2644,"id":"shogi-knight8","name":"Shogi-Knight8","category":["checkmate"],"variants":0}
+{"zrfID":2643,"id":"shogi-komaochi25","name":"Shogi-Komaochi25","category":["checkmate"],"variants":0}
+{"zrfID":2654,"id":"shogi-reflectionbishop","name":"Shogi-ReflectionBishop","category":["checkmate"],"variants":0}
+{"zrfID":2736,"id":"shogi-shrinkedprison","name":"Shogi-ShrinkedPrison","category":["checkmate"],"variants":0}
+{"zrfID":2940,"id":"shosu-shogi","name":"Shosu Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2721,"id":"side-position-shogi","name":"Side Position Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2907,"id":"silver-promotion-shogi","name":"Silver Promotion Shogi","category":["checkmate"],"variants":0}
+{"zrfID":855,"id":"simple-chess","name":"Simple Chess","category":["checkmate"],"variants":0}
+{"zrfID":1590,"id":"simpletons-and-henry-the-viii-chess","name":"Simpleton's and Henry the VIII Chess","category":["checkmate"],"variants":0}
+{"zrfID":1756,"id":"simplex-chess","name":"SimpleX Chess","category":["checkmate"],"variants":0}
+{"zrfID":1591,"id":"simplified-chess","name":"Simplified Chess","category":["checkmate"],"variants":0}
+{"zrfID":3037,"id":"single-check-chess","name":"Single Check Chess","category":["checkmate"],"variants":0}
+{"zrfID":2330,"id":"sino-chess","name":"Sino Chess","category":["checkmate"],"variants":0}
+{"zrfID":1242,"id":"sino-european-chess","name":"Sino-European Chess","category":["checkmate"],"variants":0}
+{"zrfID":856,"id":"sissa","name":"Sissa","category":["checkmate"],"variants":0}
+{"zrfID":1259,"id":"skandaran-chess","name":"Skandaran Chess","category":["checkmate"],"variants":0}
+{"zrfID":2701,"id":"skate-shogi","name":"Skate Shogi","category":["checkmate"],"variants":0}
+{"zrfID":3091,"id":"skate-shogi-variant","name":"Skate Shogi Variant","category":["checkmate"],"variants":0}
+{"zrfID":1159,"id":"sky","name":"Sky","category":["checkmate"],"variants":0}
+{"zrfID":2791,"id":"small-kyo-shogi","name":"Small Kyo Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2792,"id":"small-kyo-shogi-variant","name":"Small Kyo Shogi Variant","category":["checkmate"],"variants":0}
+{"zrfID":2793,"id":"small-kyosho-vs-knight-shogi","name":"Small KyoSho Vs Knight Shogi","category":["checkmate"],"variants":0}
+{"zrfID":1521,"id":"spartan-skaki","name":"Spartan Skaki","category":["checkmate"],"variants":0}
+{"zrfID":2837,"id":"speed-shogi","name":"Speed Shogi","category":["checkmate"],"variants":0}
+{"zrfID":1751,"id":"spherical-chess-400","name":"Spherical Chess 400","category":["checkmate"],"variants":0}
+{"zrfID":860,"id":"sphinx-chess","name":"Sphinx Chess","category":["checkmate"],"variants":0}
+{"zrfID":861,"id":"spiral-staircase-chess","name":"Spiral Staircase Chess","category":["checkmate"],"variants":0}
+{"zrfID":2631,"id":"spock","name":"Spock","category":["checkmate"],"variants":0}
+{"zrfID":625,"id":"squadron-chess","name":"Squadron Chess","category":["checkmate"],"variants":0}
+{"zrfID":102,"id":"st3d-chess--borg-queen-variant","name":"ST3D Chess - 'Borg Queen' variant","category":["checkmate"],"variants":0}
+{"zrfID":103,"id":"st3d-chess--first-contact-variant","name":"ST3D Chess - 'First Contact' variant","category":["checkmate"],"variants":0}
+{"zrfID":104,"id":"st3d-chess--neutral-zone-variant","name":"ST3D Chess - 'Neutral Zone' variant","category":["checkmate"],"variants":0}
+{"zrfID":105,"id":"st3d-chess--transporter-pad-variant","name":"ST3D Chess - 'Transporter Pad' variant","category":["checkmate"],"variants":0}
+{"zrfID":106,"id":"st3d-chess--warp-factor-variant","name":"ST3D Chess - 'Warp Factor' variant","category":["checkmate"],"variants":0}
+{"zrfID":91,"id":"st3d-chess--kobayashi-maru-variant","name":"ST3d Chess - Kobayashi Maru variant","category":["checkmate"],"variants":0}
+{"zrfID":862,"id":"stability-chess","name":"Stability Chess","category":["checkmate"],"variants":0}
+{"zrfID":1414,"id":"stahlberg-chess","name":"Stahlberg Chess","category":["checkmate"],"variants":0}
+{"zrfID":2331,"id":"stalemate-chess","name":"Stalemate Chess","category":["checkmate"],"variants":0}
+{"zrfID":863,"id":"star-pool-chess","name":"Star Pool Chess","category":["checkmate"],"variants":0}
+{"zrfID":2037,"id":"star-trek-chess","name":"Star Trek Chess","category":["checkmate"],"variants":0}
+{"zrfID":865,"id":"stations","name":"Stations","category":["checkmate"],"variants":0}
+{"zrfID":866,"id":"statues-chess","name":"Statues Chess","category":["checkmate"],"variants":0}
+{"zrfID":2917,"id":"steal-shogi","name":"Steal Shogi","category":["checkmate"],"variants":0}
+{"zrfID":1626,"id":"stealth-ninja-chess","name":"Stealth Ninja Chess","category":["checkmate"],"variants":0}
+{"zrfID":2920,"id":"stealth-shogi","name":"Stealth Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2922,"id":"stealth-shogi-variant","name":"Stealth Shogi Variant","category":["checkmate"],"variants":0}
+{"zrfID":990,"id":"stegeborg","name":"Stegeborg","category":["checkmate"],"variants":0}
+{"zrfID":1338,"id":"stheno-chess","name":"Stheno Chess","category":["checkmate"],"variants":0}
+{"zrfID":867,"id":"sticky-chess","name":"Sticky Chess","category":["checkmate"],"variants":0}
+{"zrfID":868,"id":"sting-chess","name":"Sting Chess","category":["checkmate"],"variants":0}
+{"zrfID":1415,"id":"stoltz-chess","name":"Stoltz Chess","category":["checkmate"],"variants":0}
+{"zrfID":869,"id":"storm-the-ivory-tower","name":"Storm the Ivory Tower","category":["checkmate"],"variants":0}
+{"zrfID":871,"id":"string-chess","name":"String Chess","category":["checkmate"],"variants":0}
+{"zrfID":872,"id":"stroebeck-crisis-chess","name":"Stroebeck Crisis Chess","category":["checkmate"],"variants":0}
+{"zrfID":2772,"id":"stun-shogi","name":"Stun Shogi","category":["checkmate"],"variants":0}
+{"zrfID":1605,"id":"succhess","name":"SUCCHESS","category":["checkmate"],"variants":0}
+{"zrfID":873,"id":"sudden-death-chess","name":"Sudden Death Chess","category":["checkmate"],"variants":0}
+{"zrfID":1195,"id":"sudoku-chess","name":"Sudoku Chess","category":["checkmate"],"variants":0}
+{"zrfID":1920,"id":"sultan-checkers","name":"Sultan Checkers","category":["checkmate"],"variants":0}
+{"zrfID":874,"id":"super-chess","name":"Super Chess","category":["checkmate"],"variants":0}
+{"zrfID":1640,"id":"super-knights-grand-chess","name":"Super Knights Grand Chess","category":["checkmate"],"variants":0}
+{"zrfID":2083,"id":"super-shogi","name":"Super Shogi","category":["checkmate"],"variants":0}
+{"zrfID":1439,"id":"super-stars-chess","name":"Super Stars Chess","category":["checkmate"],"variants":0}
+{"zrfID":3019,"id":"super-x-chess","name":"Super X Chess","category":["checkmate"],"variants":0}
+{"zrfID":875,"id":"swapchess","name":"SwapChess","category":["checkmate"],"variants":0}
+{"zrfID":2665,"id":"swappergold-shogi","name":"SwapperGold  Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2680,"id":"swapping-shogi","name":"Swapping Shogi","category":["checkmate"],"variants":0}
+{"zrfID":1399,"id":"swedish-cannon-chess","name":"Swedish Cannon Chess","category":["checkmate"],"variants":0}
+{"zrfID":1214,"id":"swedish-chess","name":"Swedish Chess","category":["checkmate"],"variants":0}
+{"zrfID":857,"id":"symmetric-sissa","name":"Symmetric Sissa","category":["checkmate"],"variants":0}
+{"zrfID":792,"id":"symmetrical-chess-collection","name":"Symmetrical Chess Collection","category":["checkmate"],"variants":0}
+{"zrfID":1530,"id":"synergy-chess","name":"Synergy Chess","category":["checkmate"],"variants":0}
+{"zrfID":1210,"id":"tablut","name":"Tablut","category":["checkmate"],"variants":0}
+{"zrfID":976,"id":"tactics","name":"Tactics","category":["checkmate"],"variants":0}
+{"zrfID":3009,"id":"tai-shogi-25x25-system-a","name":"Tai Shogi (25x25) System A","category":["checkmate"],"variants":0}
+{"zrfID":3010,"id":"tai-shogi-25x25-system-b","name":"Tai Shogi (25x25) System B","category":["checkmate"],"variants":0}
+{"zrfID":3011,"id":"tai-shogi-25x25-system-c","name":"Tai Shogi (25x25) System C","category":["checkmate"],"variants":0}
+{"zrfID":2690,"id":"taiko-shogi","name":"Taiko Shogi","category":["checkmate"],"variants":0}
+{"zrfID":3007,"id":"taikyoku-shogi-36x36","name":"Taikyoku Shogi (36x36)","category":["checkmate"],"variants":0}
+{"zrfID":870,"id":"take-the-brain","name":"Take The Brain","category":["checkmate"],"variants":0}
+{"zrfID":3093,"id":"tamerlane-chess","name":"Tamerlane Chess","category":["checkmate"],"variants":0}
+{"zrfID":1879,"id":"target-chess","name":"TargeT Chess","category":["checkmate"],"variants":0}
+{"zrfID":913,"id":"tauschach","name":"Tauschach","category":["checkmate"],"variants":0}
+{"zrfID":2682,"id":"tavreli","name":"Tavreli","category":["checkmate"],"variants":0}
+{"zrfID":3098,"id":"teleportation-king-shogi","name":"Teleportation King Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2918,"id":"tenjiku-dai-shogi-16x16","name":"Tenjiku Dai Shogi 16x16","category":["checkmate"],"variants":0}
+{"zrfID":2921,"id":"tenjiku-dai-shogi-16x16-variant","name":"Tenjiku Dai Shogi 16x16 variant","category":["checkmate"],"variants":0}
+{"zrfID":2602,"id":"tenjiku-shogi-for-2-players","name":"Tenjiku Shogi (for 2 players)","category":["checkmate"],"variants":0}
+{"zrfID":2711,"id":"tenjiku-anhoku-shogi","name":"Tenjiku-AnHoku Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2716,"id":"tenjiku-anki-shogi","name":"Tenjiku-AnKi Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2704,"id":"tenjiku-annan-shogi","name":"Tenjiku-AnNan Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2709,"id":"tenjiku-antozai-shogi","name":"Tenjiku-AnToZai Shogi","category":["checkmate"],"variants":0}
+{"zrfID":914,"id":"terrace","name":"Terrace","category":["checkmate"],"variants":0}
+{"zrfID":915,"id":"terrain-chess","name":"Terrain Chess","category":["checkmate"],"variants":0}
+{"zrfID":916,"id":"terror-chess","name":"Terror Chess","category":["checkmate"],"variants":0}
+{"zrfID":1887,"id":"teutonic-chess","name":"Teutonic Chess","category":["checkmate"],"variants":0}
+{"zrfID":1774,"id":"thanksgiving-delight","name":"ThanksGiving Delight","category":["checkmate"],"variants":0}
+{"zrfID":1229,"id":"the-demon-game","name":"The Demon Game","category":["checkmate"],"variants":0}
+{"zrfID":2969,"id":"the-duke","name":"The Duke","category":["checkmate"],"variants":0}
+{"zrfID":571,"id":"the-epic","name":"The Epic","category":["checkmate"],"variants":0}
+{"zrfID":1397,"id":"the-invisible-man--chess","name":"The Invisible Man - Chess","category":["checkmate"],"variants":0}
+{"zrfID":1368,"id":"the-pattern-game","name":"The Pattern Game","category":["checkmate"],"variants":0}
+{"zrfID":2640,"id":"the-real-chess","name":"The Real Chess","category":["checkmate"],"variants":0}
+{"zrfID":2641,"id":"the-real-chess-misre","name":"The Real Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":2160,"id":"the-royal-chess","name":"The Royal Chess","category":["checkmate"],"variants":0}
+{"zrfID":1348,"id":"the-shortrange-project","name":"The ShortRange Project","category":["checkmate"],"variants":0}
+{"zrfID":2218,"id":"the-three-musketeers","name":"The Three Musketeers","category":["checkmate"],"variants":0}
+{"zrfID":3146,"id":"the-three-musketeers-rz","name":"The Three Musketeers (RZ)","category":["checkmate"],"variants":0}
+{"zrfID":2213,"id":"the-universal-and-capablanca-chess","name":"The Universal and Capablanca chess","category":["checkmate"],"variants":0}
+{"zrfID":2035,"id":"thoth","name":"Thoth","category":["checkmate"],"variants":0}
+{"zrfID":1335,"id":"thraex-chess","name":"Thraex Chess","category":["checkmate"],"variants":0}
+{"zrfID":917,"id":"three-checks-chess","name":"Three Checks Chess","category":["checkmate"],"variants":0}
+{"zrfID":2691,"id":"threepawns-shogi","name":"ThreePawns Shogi","category":["checkmate"],"variants":0}
+{"zrfID":1874,"id":"throne-chess","name":"Throne Chess","category":["checkmate"],"variants":0}
+{"zrfID":3131,"id":"tigard-chess","name":"Tigard Chess","category":["checkmate"],"variants":0}
+{"zrfID":3132,"id":"tigard-chess-misre","name":"Tigard Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":3279,"id":"tigardess-chess","name":"Tigardess Chess","category":["checkmate"],"variants":0}
+{"zrfID":3280,"id":"tigardess-chess-misre","name":"Tigardess Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":3284,"id":"tigardesses-chess","name":"Tigardesses Chess","category":["checkmate"],"variants":0}
+{"zrfID":3285,"id":"tigardesses-chess-misre","name":"Tigardesses Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":2668,"id":"tiger-chess","name":"Tiger Chess","category":["checkmate"],"variants":0}
+{"zrfID":2669,"id":"tiger-chess-misre","name":"Tiger Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":2931,"id":"tigers-chess","name":"Tigers Chess","category":["checkmate"],"variants":0}
+{"zrfID":2932,"id":"tigers-chess-misre","name":"Tigers Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":3122,"id":"tigon-chess","name":"Tigon Chess","category":["checkmate"],"variants":0}
+{"zrfID":3123,"id":"tigon-chess-misre","name":"Tigon Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":3266,"id":"tigoness-chess","name":"Tigoness Chess","category":["checkmate"],"variants":0}
+{"zrfID":3267,"id":"tigoness-chess-misre","name":"Tigoness Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":3270,"id":"tigonesses-chess","name":"Tigonesses Chess","category":["checkmate"],"variants":0}
+{"zrfID":3271,"id":"tigonesses-chess-misre","name":"Tigonesses Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":3135,"id":"tigress-chess","name":"Tigress Chess","category":["checkmate"],"variants":0}
+{"zrfID":3136,"id":"tigress-chess-misre","name":"Tigress Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":3127,"id":"tiguar-chess","name":"Tiguar Chess","category":["checkmate"],"variants":0}
+{"zrfID":3128,"id":"tiguar-chess-misre","name":"Tiguar Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":3261,"id":"tiguaress-chess","name":"Tiguaress Chess","category":["checkmate"],"variants":0}
+{"zrfID":3262,"id":"tiguaress-chess-misre","name":"Tiguaress Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":3275,"id":"tiguaresses-chess","name":"Tiguaresses Chess","category":["checkmate"],"variants":0}
+{"zrfID":3276,"id":"tiguaresses-chess-misre","name":"Tiguaresses Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":921,"id":"tims-3d-chess","name":"Tim's 3D Chess","category":["checkmate"],"variants":0}
+{"zrfID":922,"id":"tims-4x8x4-3d-chess","name":"Tim's 4x8x4 3D Chess","category":["checkmate"],"variants":0}
+{"zrfID":977,"id":"tims-6x6x6-3d-chess","name":"Tim's 6x6x6 3D Chess","category":["checkmate"],"variants":0}
+{"zrfID":3257,"id":"tipardess-chess","name":"Tipardess Chess","category":["checkmate"],"variants":0}
+{"zrfID":3258,"id":"tipardess-chess-misre","name":"Tipardess Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":923,"id":"tishai","name":"Tishai","category":["checkmate"],"variants":0}
+{"zrfID":924,"id":"toe-to-toe-chess","name":"Toe-to-Toe Chess","category":["checkmate"],"variants":0}
+{"zrfID":2662,"id":"tokin-first-shogi","name":"Tokin First Shogi","category":["checkmate"],"variants":0}
+{"zrfID":1777,"id":"too-much-chess","name":"Too Much Chess","category":["checkmate"],"variants":0}
+{"zrfID":1463,"id":"tori-shogi","name":"Tori Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2939,"id":"tori-shogi-7x7","name":"Tori Shogi 7x7","category":["checkmate"],"variants":0}
+{"zrfID":925,"id":"toroidal-byzantine-chess","name":"Toroidal Byzantine Chess","category":["checkmate"],"variants":0}
+{"zrfID":926,"id":"toroidal-byzantine-chess-rectangular","name":"Toroidal Byzantine Chess Rectangular","category":["checkmate"],"variants":0}
+{"zrfID":3111,"id":"toroidal-chess","name":"Toroidal Chess","category":["checkmate"],"variants":0}
+{"zrfID":3059,"id":"torpedo-chess","name":"Torpedo Chess","category":["checkmate"],"variants":0}
+{"zrfID":927,"id":"torus-chess","name":"Torus Chess","category":["checkmate"],"variants":0}
+{"zrfID":2760,"id":"torus-shogi","name":"Torus Shogi","category":["checkmate"],"variants":0}
+{"zrfID":1758,"id":"toruschess-8x8","name":"TorusChess 8x8","category":["checkmate"],"variants":0}
+{"zrfID":1420,"id":"toruschess-jw","name":"TorusChess-JW","category":["checkmate"],"variants":0}
+{"zrfID":1396,"id":"toruschess10x10","name":"TorusChess10x10","category":["checkmate"],"variants":0}
+{"zrfID":928,"id":"towers","name":"Towers","category":["checkmate"],"variants":0}
+{"zrfID":1251,"id":"traded-places-chess","name":"Traded Places Chess","category":["checkmate"],"variants":0}
+{"zrfID":929,"id":"trans-dimensional-chess","name":"Trans-Dimensional Chess","category":["checkmate"],"variants":0}
+{"zrfID":930,"id":"transfer-chess","name":"Transfer Chess","category":["checkmate"],"variants":0}
+{"zrfID":931,"id":"transparent-chess","name":"Transparent Chess","category":["checkmate"],"variants":0}
+{"zrfID":2252,"id":"transport-chess","name":"Transport Chess","category":["checkmate"],"variants":0}
+{"zrfID":932,"id":"transpose-chess","name":"Transpose Chess","category":["checkmate"],"variants":0}
+{"zrfID":1386,"id":"trebuchet-chess","name":"Trebuchet Chess","category":["checkmate"],"variants":0}
+{"zrfID":933,"id":"trek71-chess","name":"Trek71 Chess","category":["checkmate"],"variants":0}
+{"zrfID":934,"id":"tri-ashtapada-chess","name":"Tri-Ashtapada Chess","category":["checkmate"],"variants":0}
+{"zrfID":1451,"id":"tribochess","name":"TriBoChess","category":["checkmate"],"variants":0}
+{"zrfID":1747,"id":"trichess","name":"TriChess","category":["checkmate"],"variants":0}
+{"zrfID":1975,"id":"trichess-for-2","name":"TriChess for 2","category":["checkmate"],"variants":0}
+{"zrfID":2692,"id":"triple-move-shogi","name":"Triple Move Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2677,"id":"triplemove-shogi-with-different-pieces","name":"TripleMove Shogi with different pieces","category":["checkmate"],"variants":0}
+{"zrfID":935,"id":"triplets-chess","name":"Triplets Chess","category":["checkmate"],"variants":0}
+{"zrfID":1706,"id":"troitzky-chess","name":"Troitzky Chess","category":["checkmate"],"variants":0}
+{"zrfID":936,"id":"trophy-chess","name":"Trophy Chess","category":["checkmate"],"variants":0}
+{"zrfID":2744,"id":"true-anticirce-shogi","name":"True AntiCirce Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2769,"id":"true-checkers-shogi-true-diamond-shogi","name":"True Checkers Shogi (True Diamond Shogi)","category":["checkmate"],"variants":0}
+{"zrfID":2865,"id":"true-chu-shogi","name":"True Chu Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2870,"id":"true-chu-shogi-variant","name":"True Chu Shogi Variant","category":["checkmate"],"variants":0}
+{"zrfID":2742,"id":"true-circe-shogi","name":"True Circe Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2864,"id":"true-dai-shogi","name":"True Dai Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2754,"id":"true-forced-capture-shogi","name":"True Forced Capture Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2717,"id":"true-isardam-type-a-shogi","name":"True Isardam (type A) Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2743,"id":"true-platzwechselcirce-pwc-shogi","name":"True PlatzWechselCirce (PWC) Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2856,"id":"true-speed-shogi","name":"True Speed Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2775,"id":"true-stun-shogi","name":"True Stun Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2748,"id":"true-tokin-first-shogi","name":"True Tokin First Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2718,"id":"true-isardam-type-b-shogi","name":"True-Isardam (type B) Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2661,"id":"try-shogi","name":"Try Shogi","category":["checkmate"],"variants":0}
+{"zrfID":892,"id":"tunneler","name":"Tunneler","category":["checkmate"],"variants":0}
+{"zrfID":1355,"id":"turret-chess","name":"Turret Chess","category":["checkmate"],"variants":0}
+{"zrfID":3184,"id":"turtle-shell-chess","name":"Turtle Shell Chess","category":["checkmate"],"variants":0}
+{"zrfID":937,"id":"tutti-frutti-chess","name":"Tutti Frutti Chess","category":["checkmate"],"variants":0}
+{"zrfID":938,"id":"twin-chess","name":"Twin Chess","category":["checkmate"],"variants":0}
+{"zrfID":1868,"id":"twin-chess-by-aepasa","name":"Twin Chess by AepasA","category":["checkmate"],"variants":0}
+{"zrfID":1232,"id":"twinmove-chess","name":"Twinmove Chess","category":["checkmate"],"variants":0}
+{"zrfID":1956,"id":"twins-chess","name":"Twins Chess","category":["checkmate"],"variants":0}
+{"zrfID":2484,"id":"two-birds-cram-chess","name":"Two Birds Cram Chess","category":["checkmate"],"variants":0}
+{"zrfID":939,"id":"two-pipe-chess","name":"Two Pipe Chess","category":["checkmate"],"variants":0}
+{"zrfID":2749,"id":"two-stage-move-shogi","name":"Two Stage Move Shogi","category":["checkmate"],"variants":0}
+{"zrfID":1669,"id":"typhoon","name":"Typhoon","category":["checkmate"],"variants":0}
+{"zrfID":1729,"id":"tyrannos","name":"Tyrannos","category":["checkmate"],"variants":0}
+{"zrfID":766,"id":"ultima-alt","name":"Ultima Alt","category":["checkmate"],"variants":0}
+{"zrfID":2031,"id":"ultimate-chess","name":"Ultimate Chess","category":["checkmate"],"variants":0}
+{"zrfID":940,"id":"ultra-chess","name":"Ultra Chess","category":["checkmate"],"variants":0}
+{"zrfID":941,"id":"unirexal-chess","name":"Unirexal Chess","category":["checkmate"],"variants":0}
+{"zrfID":2650,"id":"unreal-chess","name":"unReal Chess","category":["checkmate"],"variants":0}
+{"zrfID":2651,"id":"unreal-chess-misre","name":"unReal Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":1467,"id":"urschach","name":"Urschach","category":["checkmate"],"variants":0}
+{"zrfID":2021,"id":"valiant-chess","name":"Valiant Chess","category":["checkmate"],"variants":0}
+{"zrfID":489,"id":"van-gennips-hexagonal-chess","name":"van Gennip's Hexagonal Chess","category":["checkmate"],"variants":0}
+{"zrfID":2054,"id":"variable-chess","name":"Variable Chess","category":["checkmate"],"variants":0}
+{"zrfID":2853,"id":"variable-promotion-shogi","name":"Variable Promotion Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2937,"id":"vector-shogi","name":"Vector Shogi","category":["checkmate"],"variants":0}
+{"zrfID":1866,"id":"veles-chess","name":"Veles Chess","category":["checkmate"],"variants":0}
+{"zrfID":1329,"id":"venator-chess","name":"Venator Chess","category":["checkmate"],"variants":0}
+{"zrfID":1748,"id":"venomous","name":"Venomous","category":["checkmate"],"variants":0}
+{"zrfID":1514,"id":"vera-chess","name":"VerA Chess","category":["checkmate"],"variants":0}
+{"zrfID":2488,"id":"vera-dma","name":"VerA D�mA","category":["checkmate"],"variants":0}
+{"zrfID":2770,"id":"vertical-neko-shogi","name":"Vertical-Neko Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2771,"id":"vertical-nekoneko-shogi","name":"Vertical-NekoNeko Shogi","category":["checkmate"],"variants":0}
+{"zrfID":1500,"id":"vesa-chess","name":"VesA Chess","category":["checkmate"],"variants":0}
+{"zrfID":2489,"id":"vesa-dma","name":"VesA D�mA","category":["checkmate"],"variants":0}
+{"zrfID":942,"id":"vortex-chess","name":"Vortex Chess","category":["checkmate"],"variants":0}
+{"zrfID":1473,"id":"wa-shogi","name":"Wa Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2908,"id":"wa-shogi-11x11","name":"Wa Shogi 11x11","category":["checkmate"],"variants":0}
+{"zrfID":3145,"id":"wa-shogi-fantasy-mod","name":"Wa Shogi Fantasy Mod","category":["checkmate"],"variants":0}
+{"zrfID":2899,"id":"wa-shogi-variants-with-mnemonic-set-of-pieces","name":"Wa Shogi variants (with mnemonic set of pieces)","category":["checkmate"],"variants":0}
+{"zrfID":1402,"id":"war-of-the-worlds-warriors","name":"War of the World's Warriors","category":["checkmate"],"variants":0}
+{"zrfID":1032,"id":"warchess1","name":"WarChess1","category":["checkmate"],"variants":0}
+{"zrfID":1034,"id":"warchess2","name":"warchess2","category":["checkmate"],"variants":0}
+{"zrfID":1516,"id":"warlock-chess","name":"Warlock Chess","category":["checkmate"],"variants":0}
+{"zrfID":943,"id":"weak","name":"Weak!","category":["checkmate"],"variants":0}
+{"zrfID":944,"id":"weave-dungeon","name":"Weave \u0026 Dungeon","category":["checkmate"],"variants":0}
+{"zrfID":1468,"id":"whale-shogi","name":"Whale Shogi","category":["checkmate"],"variants":0}
+{"zrfID":1479,"id":"wildebeest-chess","name":"Wildebeest Chess","category":["checkmate"],"variants":0}
+{"zrfID":2187,"id":"windows-chess","name":"Windows Chess","category":["checkmate"],"variants":0}
+{"zrfID":1637,"id":"winthers-chess","name":"Winther's Chess","category":["checkmate"],"variants":0}
+{"zrfID":3174,"id":"wojiaoqi","name":"WojiaoQi","category":["checkmate"],"variants":0}
+{"zrfID":3029,"id":"wolf-chess","name":"Wolf Chess","category":["checkmate"],"variants":0}
+{"zrfID":3030,"id":"wolf-chess-misre","name":"Wolf Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":3118,"id":"wolves-chess","name":"Wolves Chess","category":["checkmate"],"variants":0}
+{"zrfID":3119,"id":"wolves-chess-misre","name":"Wolves Chess Mis�re","category":["checkmate"],"variants":0}
+{"zrfID":1641,"id":"wreckage","name":"Wreckage!","category":["checkmate"],"variants":0}
+{"zrfID":945,"id":"wuss","name":"Wuss","category":["checkmate"],"variants":0}
+{"zrfID":1884,"id":"x-chess","name":"X-Chess","category":["checkmate"],"variants":0}
+{"zrfID":1105,"id":"xhatranj","name":"Xhatranj","category":["checkmate"],"variants":0}
+{"zrfID":1645,"id":"xiang-hex","name":"Xiang Hex","category":["checkmate"],"variants":0}
+{"zrfID":2813,"id":"xiangqi-vs-janggi","name":"Xiangqi vs Janggi","category":["checkmate"],"variants":0}
+{"zrfID":370,"id":"yaacute;ng-qiacute;","name":"Y\u0026aacute;ng Q\u0026iacute;","category":["checkmate"],"variants":0}
+{"zrfID":2726,"id":"yari-shogi","name":"Yari Shogi","category":["checkmate"],"variants":0}
+{"zrfID":946,"id":"yitong","name":"YiTong","category":["checkmate"],"variants":0}
+{"zrfID":2273,"id":"yonin-shogi","name":"Yonin Shogi","category":["checkmate"],"variants":0}
+{"zrfID":947,"id":"z-axial-chess","name":"Z-Axial Chess","category":["checkmate"],"variants":0}
+{"zrfID":948,"id":"z-chess","name":"Z-Chess","category":["checkmate"],"variants":0}
+{"zrfID":1037,"id":"zcherryz","name":"zcherryz","category":["checkmate"],"variants":0}
+{"zrfID":1421,"id":"zeppelin-chess","name":"Zeppelin Chess","category":["checkmate"],"variants":0}
+{"zrfID":1109,"id":"zhou-xia","name":"Zhou Xia","category":["checkmate"],"variants":0}
+{"zrfID":1655,"id":"zigzag-madness","name":"ZigZag Madness","category":["checkmate"],"variants":0}
+{"zrfID":2093,"id":"zot-chess","name":"ZOT Chess","category":["checkmate"],"variants":0}
+{"zrfID":1789,"id":"10-directional-chess","name":"10-Directional Chess","category":["checkmate"],"variants":0}
+{"zrfID":2893,"id":"10x10-heisei-shogi","name":"10x10 Heisei Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2894,"id":"10x10-heisei-shogi-variant","name":"10x10 Heisei Shogi Variant","category":["checkmate"],"variants":0}
+{"zrfID":2787,"id":"11x11-shogi-wide-shogi","name":"11x11 Shogi (Wide Shogi)","category":["checkmate"],"variants":0}
+{"zrfID":1974,"id":"3-kings-chess","name":"3 Kings Chess","category":["checkmate"],"variants":0}
+{"zrfID":3036,"id":"3d-arimaa","name":"3D Arimaa","category":["checkmate"],"variants":0}
+{"zrfID":381,"id":"3d-chess","name":"3D Chess","category":["checkmate"],"variants":0}
+{"zrfID":918,"id":"3d-hexagonal-chess","name":"3D Hexagonal Chess","category":["checkmate"],"variants":0}
+{"zrfID":1120,"id":"3d-hook-move-chess","name":"3D Hook-Move Chess","category":["checkmate"],"variants":0}
+{"zrfID":919,"id":"3d-shogi","name":"3D Shogi","category":["checkmate"],"variants":0}
+{"zrfID":920,"id":"3d-xiang-qi","name":"3D Xiang Qi","category":["checkmate"],"variants":0}
+{"zrfID":2873,"id":"3x5-tresureshogi","name":"3x5 TresureSHOGI","category":["checkmate"],"variants":0}
+{"zrfID":2876,"id":"3x5-true-tresureshogi","name":"3x5 True TresureSHOGI","category":["checkmate"],"variants":0}
+{"zrfID":1191,"id":"4-handed-chaturanga-with-dice","name":"4-handed Chaturanga with dice","category":["checkmate"],"variants":0}
+{"zrfID":1202,"id":"4-handed-shatranj","name":"4-handed Shatranj","category":["checkmate"],"variants":0}
+{"zrfID":2485,"id":"4-player-chess","name":"4-Player Chess","category":["checkmate"],"variants":0}
+{"zrfID":380,"id":"4d-chess","name":"4D Chess","category":["checkmate"],"variants":0}
+{"zrfID":2871,"id":"4x6-leshogi","name":"4x6 LeSHOGI","category":["checkmate"],"variants":0}
+{"zrfID":2874,"id":"4x6-true-leshogi","name":"4x6 True LeSHOGI","category":["checkmate"],"variants":0}
+{"zrfID":2872,"id":"4x7-leshogi7","name":"4x7 LeSHOGI7","category":["checkmate"],"variants":0}
+{"zrfID":2875,"id":"4x7-true-leshogi7","name":"4x7 True LeSHOGI7","category":["checkmate"],"variants":0}
+{"zrfID":379,"id":"5d-chess","name":"5D Chess","category":["checkmate"],"variants":0}
+{"zrfID":2779,"id":"5x6-shogi","name":"5x6 Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2900,"id":"5x7-shogi","name":"5x7 Shogi","category":["checkmate"],"variants":0}
+{"zrfID":2901,"id":"5x8-shogi","name":"5x8 Shogi","category":["checkmate"],"variants":0}
+{"zrfID":858,"id":"6d-chess","name":"6D Chess","category":["checkmate"],"variants":0}
+{"zrfID":2784,"id":"6x6-shogi-judkins-shogi","name":"6x6 Shogi (Judkins shogi)","category":["checkmate"],"variants":0}
+{"zrfID":2785,"id":"7x7-shogi-very-narrow-shogi","name":"7x7 Shogi (Very Narrow Shogi)","category":["checkmate"],"variants":0}
+{"zrfID":2786,"id":"9x7-shogi-narrow-shogi","name":"9x7 Shogi (Narrow Shogi)","category":["checkmate"],"variants":0}
+{"zrfID":2058,"id":"1-2-1---amazon-chess","name":"[1-2-1 ... ] Amazon Chess","category":["checkmate"],"variants":0}
+{"zrfID":2056,"id":"1-2-1---amazons-chess","name":"[1-2-1 ... ] Amazons Chess","category":["checkmate"],"variants":0}
+{"zrfID":2055,"id":"1-2-1---amazons-dma","name":"[1-2-1 ... ] Amazons D�mA","category":["checkmate"],"variants":0}
+{"zrfID":2059,"id":"1-2-1---chess","name":"[1-2-1 ... ] Chess","category":["checkmate"],"variants":0}
+{"zrfID":1838,"id":"10x10-chess","name":"[10x10] Chess","category":["checkmate"],"variants":0}
+{"zrfID":1862,"id":"4x4-chess","name":"[4x4] Chess","category":["checkmate"],"variants":0}
+{"zrfID":1858,"id":"5x5-chess","name":"[5x5] Chess","category":["checkmate"],"variants":0}
+{"zrfID":1853,"id":"6x6-chess","name":"[6x6] Chess","category":["checkmate"],"variants":0}
+{"zrfID":1848,"id":"7x7-chess","name":"[7x7] Chess","category":["checkmate"],"variants":0}
+{"zrfID":1831,"id":"8x8-chess","name":"[8x8] Chess","category":["checkmate"],"variants":0}
+{"zrfID":1833,"id":"9x9-chess","name":"[9x9] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2105,"id":"bishopless-chess","name":"[Bishopless] Chess","category":["checkmate"],"variants":0}
+{"zrfID":1889,"id":"blue-river-chess","name":"[Blue] RiveR Chess","category":["checkmate"],"variants":0}
+{"zrfID":2068,"id":"fearless-bishops-chess","name":"[Fearless Bishops] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2076,"id":"fearless-king-chess","name":"[Fearless King] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2067,"id":"fearless-knights-chess","name":"[Fearless Knights] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2061,"id":"fearless-pawns-chess","name":"[Fearless Pawns] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2075,"id":"fearless-queen-chess","name":"[Fearless Queen] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2071,"id":"fearless-rooks-chess","name":"[Fearless Rooks] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2069,"id":"fearless-vs-chess","name":"[Fearless vs] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2082,"id":"fearless-chess","name":"[Fearless] Chess","category":["checkmate"],"variants":0}
+{"zrfID":1508,"id":"invisible-aepasas","name":"[InVisible] AepasAs","category":["checkmate"],"variants":0}
+{"zrfID":2102,"id":"kingless-chess","name":"[Kingless] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2104,"id":"knightless-chess","name":"[Knightless] Chess","category":["checkmate"],"variants":0}
+{"zrfID":1865,"id":"nxn-chess","name":"[nxn] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2108,"id":"pawnless-chess","name":"[Pawnless] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2109,"id":"pieceless-chess","name":"[Pieceless] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2103,"id":"queenless-chess","name":"[Queenless] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2107,"id":"rookless-chess","name":"[Rookless] Chess","category":["checkmate"],"variants":0}
+{"zrfID":2112,"id":"royalless-chess","name":"[Royalless] Chess","category":["checkmate"],"variants":0}

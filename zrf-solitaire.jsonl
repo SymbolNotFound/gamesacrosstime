@@ -1,0 +1,582 @@
+{"zrfID":62,"id":"a-maze","name":"A-Maze","category":["solitaire"],"variants":0}
+{"zrfID":64,"id":"a-maze-4","name":"A-Maze 4","category":["solitaire"],"variants":0}
+{"zrfID":1677,"id":"a-maze-4-random","name":"A-Maze 4 Random","category":["solitaire"],"variants":0}
+{"zrfID":29,"id":"a-maze-5","name":"A-Maze 5","category":["solitaire"],"variants":0}
+{"zrfID":65,"id":"a-maze-6","name":"A-Maze 6","category":["solitaire"],"variants":0}
+{"zrfID":63,"id":"a-maze-ii","name":"A-Maze II","category":["solitaire"],"variants":0}
+{"zrfID":19,"id":"a-maze-iii","name":"A-Maze III","category":["solitaire"],"variants":0}
+{"zrfID":1173,"id":"a-maze-run","name":"A-Maze Run","category":["solitaire"],"variants":0}
+{"zrfID":1208,"id":"a-maze-run-ii","name":"A-Maze Run II","category":["solitaire"],"variants":0}
+{"zrfID":66,"id":"a-to-z","name":"A-to-Z","category":["solitaire"],"variants":0}
+{"zrfID":1675,"id":"adding-machine","name":"Adding machine","category":["solitaire"],"variants":0}
+{"zrfID":1049,"id":"adec","name":"Adec","category":["solitaire"],"variants":0}
+{"zrfID":1141,"id":"adec-del","name":"Adec-Del","category":["solitaire"],"variants":0}
+{"zrfID":1050,"id":"adec-dia","name":"Adec-dia","category":["solitaire"],"variants":0}
+{"zrfID":1797,"id":"aepasa-chess","name":"AepasA Chess","category":["solitaire"],"variants":0}
+{"zrfID":67,"id":"african-tour","name":"African Tour","category":["solitaire"],"variants":0}
+{"zrfID":3,"id":"alive","name":"Alive","category":["solitaire"],"variants":0}
+{"zrfID":6,"id":"alive-auto","name":"Alive Auto","category":["solitaire"],"variants":0}
+{"zrfID":4,"id":"alive-ii","name":"Alive II","category":["solitaire"],"variants":0}
+{"zrfID":68,"id":"all-setris","name":"All Setris","category":["solitaire"],"variants":0}
+{"zrfID":73,"id":"alternate","name":"Alternate","category":["solitaire"],"variants":0}
+{"zrfID":1869,"id":"anagram-crosswords","name":"Anagram Crosswords","category":["solitaire"],"variants":0}
+{"zrfID":74,"id":"angel-maze","name":"Angel Maze","category":["solitaire"],"variants":0}
+{"zrfID":76,"id":"ant","name":"Ant","category":["solitaire"],"variants":0}
+{"zrfID":77,"id":"ant-ii","name":"Ant II","category":["solitaire"],"variants":0}
+{"zrfID":1080,"id":"aperiodic-tilings","name":"Aperiodic Tilings","category":["solitaire"],"variants":0}
+{"zrfID":1132,"id":"area-solo","name":"Area Solo","category":["solitaire"],"variants":0}
+{"zrfID":1343,"id":"area-solver","name":"Area Solver","category":["solitaire"],"variants":0}
+{"zrfID":1715,"id":"arrowway","name":"Arrowway","category":["solitaire"],"variants":0}
+{"zrfID":1485,"id":"asian-tour","name":"Asian Tour","category":["solitaire"],"variants":0}
+{"zrfID":78,"id":"atomic-puzzle","name":"Atomic Puzzle","category":["solitaire"],"variants":0}
+{"zrfID":1452,"id":"axiom-development-kit","name":"Axiom Development Kit","category":["solitaire"],"variants":0}
+{"zrfID":1502,"id":"axiom-made-easy","name":"Axiom Made Easy","category":["solitaire"],"variants":0}
+{"zrfID":1741,"id":"axiomatic-bauhaus","name":"Axiomatic Bauhaus","category":["solitaire"],"variants":0}
+{"zrfID":1517,"id":"axiomatic-esp","name":"Axiomatic ESP","category":["solitaire"],"variants":0}
+{"zrfID":1512,"id":"axiomatic-metronome","name":"Axiomatic Metronome","category":["solitaire"],"variants":0}
+{"zrfID":1509,"id":"axiomatic-timer","name":"Axiomatic Timer","category":["solitaire"],"variants":0}
+{"zrfID":139,"id":"b-pento","name":"B-Pento","category":["solitaire"],"variants":0}
+{"zrfID":21,"id":"backtrack","name":"Backtrack","category":["solitaire"],"variants":0}
+{"zrfID":140,"id":"bad-neighbors","name":"Bad Neighbors","category":["solitaire"],"variants":0}
+{"zrfID":1241,"id":"balloon-mania","name":"Balloon Mania","category":["solitaire"],"variants":0}
+{"zrfID":1233,"id":"balloons","name":"Balloons","category":["solitaire"],"variants":0}
+{"zrfID":1238,"id":"balloons-ii","name":"Balloons II","category":["solitaire"],"variants":0}
+{"zrfID":1119,"id":"ballwalk","name":"Ballwalk","category":["solitaire"],"variants":0}
+{"zrfID":141,"id":"banded-cube","name":"Banded Cube","category":["solitaire"],"variants":0}
+{"zrfID":1856,"id":"barramba","name":"Barramba","category":["solitaire"],"variants":0}
+{"zrfID":1857,"id":"barramba-ii","name":"Barramba II","category":["solitaire"],"variants":0}
+{"zrfID":1123,"id":"barrot","name":"Barrot","category":["solitaire"],"variants":0}
+{"zrfID":142,"id":"bauhaus","name":"Bauhaus","category":["solitaire"],"variants":0}
+{"zrfID":1038,"id":"big-mazes","name":"Big Mazes","category":["solitaire"],"variants":0}
+{"zrfID":1293,"id":"big-mazes-ii","name":"Big Mazes II","category":["solitaire"],"variants":0}
+{"zrfID":1317,"id":"big-mazes-iii","name":"Big Mazes III","category":["solitaire"],"variants":0}
+{"zrfID":20,"id":"billiard-balls","name":"Billiard Balls","category":["solitaire"],"variants":0}
+{"zrfID":143,"id":"billiard-puzzle","name":"Billiard Puzzle","category":["solitaire"],"variants":0}
+{"zrfID":144,"id":"binette","name":"Binette","category":["solitaire"],"variants":0}
+{"zrfID":1739,"id":"bishops-puzzle","name":"Bishop's puzzle","category":["solitaire"],"variants":0}
+{"zrfID":982,"id":"botany","name":"Botany","category":["solitaire"],"variants":0}
+{"zrfID":145,"id":"bowls","name":"Bowls","category":["solitaire"],"variants":0}
+{"zrfID":2011,"id":"boxhex","name":"BoxHex","category":["solitaire"],"variants":0}
+{"zrfID":2094,"id":"boxoff","name":"BoxOff","category":["solitaire"],"variants":0}
+{"zrfID":1989,"id":"boxup","name":"BoxUp","category":["solitaire"],"variants":0}
+{"zrfID":2015,"id":"boxup2","name":"BoxUp2","category":["solitaire"],"variants":0}
+{"zrfID":1124,"id":"braiding","name":"Braiding","category":["solitaire"],"variants":0}
+{"zrfID":1025,"id":"branches","name":"Branches","category":["solitaire"],"variants":0}
+{"zrfID":146,"id":"bubbles","name":"Bubbles","category":["solitaire"],"variants":0}
+{"zrfID":147,"id":"bubbles-ii","name":"Bubbles II","category":["solitaire"],"variants":0}
+{"zrfID":131,"id":"bump","name":"Bump","category":["solitaire"],"variants":0}
+{"zrfID":1839,"id":"bump-ii","name":"Bump II","category":["solitaire"],"variants":0}
+{"zrfID":149,"id":"butterflies","name":"Butterflies","category":["solitaire"],"variants":0}
+{"zrfID":244,"id":"calculator","name":"Calculator","category":["solitaire"],"variants":0}
+{"zrfID":243,"id":"calendar","name":"Calendar","category":["solitaire"],"variants":0}
+{"zrfID":1824,"id":"camel-chess","name":"Camel Chess","category":["solitaire"],"variants":0}
+{"zrfID":1821,"id":"camelot-chess","name":"Camelot Chess","category":["solitaire"],"variants":0}
+{"zrfID":245,"id":"capetown","name":"Capetown","category":["solitaire"],"variants":0}
+{"zrfID":1027,"id":"captour","name":"Captour","category":["solitaire"],"variants":0}
+{"zrfID":246,"id":"capture-nineteen-solitaire","name":"Capture-Nineteen Solitaire","category":["solitaire"],"variants":0}
+{"zrfID":1883,"id":"card-accordion","name":"Card-Accordion","category":["solitaire"],"variants":0}
+{"zrfID":247,"id":"card-pairs","name":"Card-Pairs","category":["solitaire"],"variants":0}
+{"zrfID":1843,"id":"carramba","name":"Carramba","category":["solitaire"],"variants":0}
+{"zrfID":1844,"id":"carramba-ii","name":"Carramba II","category":["solitaire"],"variants":0}
+{"zrfID":1826,"id":"carrera-chess","name":"CarrerA Chess","category":["solitaire"],"variants":0}
+{"zrfID":1828,"id":"carreras-chess","name":"CarrerAs Chess","category":["solitaire"],"variants":0}
+{"zrfID":1536,"id":"castle-squares","name":"Castle Squares","category":["solitaire"],"variants":0}
+{"zrfID":249,"id":"cat-mouse","name":"Cat \u0026 Mouse","category":["solitaire"],"variants":0}
+{"zrfID":1299,"id":"cat-mouse-5","name":"Cat \u0026 Mouse 5","category":["solitaire"],"variants":0}
+{"zrfID":250,"id":"cat-mouse-ii","name":"Cat \u0026 Mouse II","category":["solitaire"],"variants":0}
+{"zrfID":251,"id":"cat-mouse-iii","name":"Cat \u0026 Mouse III","category":["solitaire"],"variants":0}
+{"zrfID":252,"id":"cat-mouse-iv","name":"Cat \u0026 Mouse IV","category":["solitaire"],"variants":0}
+{"zrfID":253,"id":"catch","name":"Catch","category":["solitaire"],"variants":0}
+{"zrfID":254,"id":"cave","name":"Cave","category":["solitaire"],"variants":0}
+{"zrfID":256,"id":"cave-critters","name":"Cave Critters","category":["solitaire"],"variants":0}
+{"zrfID":255,"id":"cave-ii","name":"Cave II","category":["solitaire"],"variants":0}
+{"zrfID":1685,"id":"cellus","name":"Cellus","category":["solitaire"],"variants":0}
+{"zrfID":1981,"id":"celtic-designs","name":"Celtic Designs","category":["solitaire"],"variants":0}
+{"zrfID":1121,"id":"chain-reaction","name":"Chain Reaction","category":["solitaire"],"variants":0}
+{"zrfID":1035,"id":"chains","name":"Chains","category":["solitaire"],"variants":0}
+{"zrfID":1742,"id":"chameleon-chess-puzzles","name":"Chameleon Chess Puzzles","category":["solitaire"],"variants":0}
+{"zrfID":257,"id":"chess-maze","name":"Chess-Maze","category":["solitaire"],"variants":0}
+{"zrfID":258,"id":"chess-maze-ii","name":"Chess-Maze II","category":["solitaire"],"variants":0}
+{"zrfID":1958,"id":"chivalry-puzzle","name":"Chivalry Puzzle","category":["solitaire"],"variants":0}
+{"zrfID":1204,"id":"city-tour","name":"City Tour","category":["solitaire"],"variants":0}
+{"zrfID":259,"id":"cleanup","name":"Cleanup","category":["solitaire"],"variants":0}
+{"zrfID":260,"id":"cleanup-ii","name":"Cleanup II","category":["solitaire"],"variants":0}
+{"zrfID":261,"id":"cleanup-iii","name":"Cleanup III","category":["solitaire"],"variants":0}
+{"zrfID":262,"id":"clingon","name":"Clingon","category":["solitaire"],"variants":0}
+{"zrfID":263,"id":"clingon-ii","name":"Clingon II","category":["solitaire"],"variants":0}
+{"zrfID":264,"id":"clingon-iii","name":"Clingon III","category":["solitaire"],"variants":0}
+{"zrfID":975,"id":"code-cracker","name":"Code Cracker","category":["solitaire"],"variants":0}
+{"zrfID":1574,"id":"codebreaker","name":"Codebreaker","category":["solitaire"],"variants":0}
+{"zrfID":265,"id":"coin-hexagon","name":"Coin Hexagon","category":["solitaire"],"variants":0}
+{"zrfID":1781,"id":"coldice","name":"Coldice","category":["solitaire"],"variants":0}
+{"zrfID":1782,"id":"coldice-ii","name":"Coldice II","category":["solitaire"],"variants":0}
+{"zrfID":1095,"id":"colorit","name":"Colorit","category":["solitaire"],"variants":0}
+{"zrfID":1852,"id":"colorit-forced","name":"Colorit-Forced","category":["solitaire"],"variants":0}
+{"zrfID":1017,"id":"coloured-doors","name":"Coloured Doors","category":["solitaire"],"variants":0}
+{"zrfID":266,"id":"comacube","name":"Comacube","category":["solitaire"],"variants":0}
+{"zrfID":1020,"id":"confix","name":"Confix","category":["solitaire"],"variants":0}
+{"zrfID":1019,"id":"connect-dots","name":"Connect Dots","category":["solitaire"],"variants":0}
+{"zrfID":2111,"id":"contact","name":"ConTact","category":["solitaire"],"variants":0}
+{"zrfID":2122,"id":"contact1","name":"ConTact1","category":["solitaire"],"variants":0}
+{"zrfID":2116,"id":"contact2","name":"ConTact2","category":["solitaire"],"variants":0}
+{"zrfID":2123,"id":"contact3","name":"ConTact3","category":["solitaire"],"variants":0}
+{"zrfID":1786,"id":"coverage","name":"Coverage","category":["solitaire"],"variants":0}
+{"zrfID":267,"id":"crisscross","name":"Crisscross","category":["solitaire"],"variants":0}
+{"zrfID":268,"id":"crossword","name":"Crossword","category":["solitaire"],"variants":0}
+{"zrfID":1791,"id":"crossword-code-cracker","name":"Crossword Code Cracker","category":["solitaire"],"variants":0}
+{"zrfID":269,"id":"cryptic-crosswords","name":"Cryptic Crosswords","category":["solitaire"],"variants":0}
+{"zrfID":1634,"id":"cryptic-hymn","name":"Cryptic Hymn","category":["solitaire"],"variants":0}
+{"zrfID":1375,"id":"crypto-utility","name":"Crypto Utility","category":["solitaire"],"variants":0}
+{"zrfID":1475,"id":"crystal","name":"Crystal","category":["solitaire"],"variants":0}
+{"zrfID":270,"id":"cube-tube","name":"Cube Tube","category":["solitaire"],"variants":0}
+{"zrfID":271,"id":"cubewalk","name":"Cubewalk","category":["solitaire"],"variants":0}
+{"zrfID":276,"id":"cubewalk-ii","name":"Cubewalk II","category":["solitaire"],"variants":0}
+{"zrfID":1666,"id":"curves","name":"Curves","category":["solitaire"],"variants":0}
+{"zrfID":322,"id":"decomino","name":"Decomino","category":["solitaire"],"variants":0}
+{"zrfID":1834,"id":"decomino-solver","name":"Decomino Solver","category":["solitaire"],"variants":0}
+{"zrfID":1115,"id":"dialbug","name":"Dialbug","category":["solitaire"],"variants":0}
+{"zrfID":1433,"id":"diball","name":"Diball","category":["solitaire"],"variants":0}
+{"zrfID":1693,"id":"dice-shuffle","name":"Dice-Shuffle","category":["solitaire"],"variants":0}
+{"zrfID":1694,"id":"dice-shuffle-ii","name":"Dice-Shuffle II","category":["solitaire"],"variants":0}
+{"zrfID":1792,"id":"dice-trace","name":"Dice-Trace","category":["solitaire"],"variants":0}
+{"zrfID":1558,"id":"dicewalk","name":"Dicewalk","category":["solitaire"],"variants":0}
+{"zrfID":1559,"id":"dicube","name":"Dicube","category":["solitaire"],"variants":0}
+{"zrfID":1622,"id":"dicubes","name":"Dicubes","category":["solitaire"],"variants":0}
+{"zrfID":323,"id":"digirot","name":"Digirot","category":["solitaire"],"variants":0}
+{"zrfID":132,"id":"domina-4","name":"Domina 4","category":["solitaire"],"variants":0}
+{"zrfID":326,"id":"domina-5","name":"Domina 5","category":["solitaire"],"variants":0}
+{"zrfID":324,"id":"domina-ii","name":"Domina II","category":["solitaire"],"variants":0}
+{"zrfID":325,"id":"domina-iii","name":"Domina III","category":["solitaire"],"variants":0}
+{"zrfID":327,"id":"domina-max","name":"Domina Max","category":["solitaire"],"variants":0}
+{"zrfID":328,"id":"domino-puzzles","name":"Domino Puzzles","category":["solitaire"],"variants":0}
+{"zrfID":329,"id":"doors","name":"Doors","category":["solitaire"],"variants":0}
+{"zrfID":330,"id":"doors-ii","name":"Doors II","category":["solitaire"],"variants":0}
+{"zrfID":331,"id":"doors-iii","name":"Doors III","category":["solitaire"],"variants":0}
+{"zrfID":1409,"id":"doshu-double-shuffle","name":"Doshu (Double Shuffle)","category":["solitaire"],"variants":0}
+{"zrfID":1410,"id":"doshu-ii","name":"Doshu II","category":["solitaire"],"variants":0}
+{"zrfID":1423,"id":"doshu-iii","name":"Doshu III","category":["solitaire"],"variants":0}
+{"zrfID":1069,"id":"double","name":"Double","category":["solitaire"],"variants":0}
+{"zrfID":1835,"id":"double-decker-puzzles","name":"Double-Decker Puzzles","category":["solitaire"],"variants":0}
+{"zrfID":1836,"id":"double-decker-puzzles-ii","name":"Double-Decker Puzzles II","category":["solitaire"],"variants":0}
+{"zrfID":332,"id":"doughnuts","name":"Doughnuts","category":["solitaire"],"variants":0}
+{"zrfID":1813,"id":"dragon-chess","name":"Dragon Chess","category":["solitaire"],"variants":0}
+{"zrfID":1803,"id":"dragon-horse-chess","name":"Dragon [Horse] Chess","category":["solitaire"],"variants":0}
+{"zrfID":1808,"id":"dragon-kentaur-chess","name":"Dragon [KenTaur] Chess","category":["solitaire"],"variants":0}
+{"zrfID":1804,"id":"dragon-king-chess","name":"Dragon [King] Chess","category":["solitaire"],"variants":0}
+{"zrfID":1809,"id":"dragon-prince-chess","name":"Dragon [Prince] Chess","category":["solitaire"],"variants":0}
+{"zrfID":333,"id":"draw","name":"Draw","category":["solitaire"],"variants":0}
+{"zrfID":1071,"id":"drop","name":"Drop","category":["solitaire"],"variants":0}
+{"zrfID":1074,"id":"dropmania","name":"Dropmania","category":["solitaire"],"variants":0}
+{"zrfID":334,"id":"duck-solo","name":"Duck Solo","category":["solitaire"],"variants":0}
+{"zrfID":1817,"id":"dungeon-chess","name":"Dungeon Chess","category":["solitaire"],"variants":0}
+{"zrfID":1820,"id":"dungeons-dragons-chess","name":"Dungeons \u0026 Dragons Chess","category":["solitaire"],"variants":0}
+{"zrfID":337,"id":"easy-cubes","name":"Easy Cubes","category":["solitaire"],"variants":0}
+{"zrfID":340,"id":"ecosystem","name":"Ecosystem","category":["solitaire"],"variants":0}
+{"zrfID":1046,"id":"elcrypt","name":"Elcrypt","category":["solitaire"],"variants":0}
+{"zrfID":1067,"id":"elcrypt-ii","name":"Elcrypt II","category":["solitaire"],"variants":0}
+{"zrfID":1273,"id":"eliminator","name":"Eliminator","category":["solitaire"],"variants":0}
+{"zrfID":1278,"id":"eliminator-ii","name":"Eliminator II","category":["solitaire"],"variants":0}
+{"zrfID":1285,"id":"eliminator-iii","name":"Eliminator III","category":["solitaire"],"variants":0}
+{"zrfID":1783,"id":"eller","name":"Eller","category":["solitaire"],"variants":0}
+{"zrfID":1960,"id":"entrap","name":"Entrap","category":["solitaire"],"variants":0}
+{"zrfID":335,"id":"entropy-cross","name":"Entropy Cross","category":["solitaire"],"variants":0}
+{"zrfID":341,"id":"entropy-ii","name":"Entropy II","category":["solitaire"],"variants":0}
+{"zrfID":336,"id":"entropy-puzzle","name":"Entropy Puzzle","category":["solitaire"],"variants":0}
+{"zrfID":342,"id":"escher","name":"Escher","category":["solitaire"],"variants":0}
+{"zrfID":1980,"id":"escher-10--celtic-designs","name":"Escher 10 - Celtic designs","category":["solitaire"],"variants":0}
+{"zrfID":345,"id":"escher-4","name":"Escher 4","category":["solitaire"],"variants":0}
+{"zrfID":346,"id":"escher-5","name":"Escher 5","category":["solitaire"],"variants":0}
+{"zrfID":347,"id":"escher-6","name":"Escher 6","category":["solitaire"],"variants":0}
+{"zrfID":348,"id":"escher-7","name":"Escher 7","category":["solitaire"],"variants":0}
+{"zrfID":349,"id":"escher-8","name":"Escher 8","category":["solitaire"],"variants":0}
+{"zrfID":1979,"id":"escher-9--celtic-designs","name":"Escher 9 - Celtic designs","category":["solitaire"],"variants":0}
+{"zrfID":343,"id":"escher-ii","name":"Escher II","category":["solitaire"],"variants":0}
+{"zrfID":344,"id":"escher-iii","name":"Escher III","category":["solitaire"],"variants":0}
+{"zrfID":2065,"id":"expert-codebreaker","name":"Expert Codebreaker","category":["solitaire"],"variants":0}
+{"zrfID":350,"id":"extraction","name":"Extraction","category":["solitaire"],"variants":0}
+{"zrfID":1150,"id":"fado-solo","name":"Fado Solo","category":["solitaire"],"variants":0}
+{"zrfID":1207,"id":"febu","name":"Febu","category":["solitaire"],"variants":0}
+{"zrfID":1245,"id":"febu-ii","name":"Febu II","category":["solitaire"],"variants":0}
+{"zrfID":394,"id":"first","name":"First","category":["solitaire"],"variants":0}
+{"zrfID":396,"id":"first-do-it-yourself","name":"First Do it Yourself","category":["solitaire"],"variants":0}
+{"zrfID":397,"id":"first-exchange","name":"First Exchange","category":["solitaire"],"variants":0}
+{"zrfID":395,"id":"first-ii","name":"First II","category":["solitaire"],"variants":0}
+{"zrfID":1219,"id":"fishing","name":"Fishing","category":["solitaire"],"variants":0}
+{"zrfID":398,"id":"fit","name":"Fit","category":["solitaire"],"variants":0}
+{"zrfID":1274,"id":"five-letters","name":"Five Letters","category":["solitaire"],"variants":0}
+{"zrfID":1043,"id":"fivethousand-vs-robot","name":"Fivethousand vs Robot","category":["solitaire"],"variants":0}
+{"zrfID":1996,"id":"flames-high","name":"Flames High","category":["solitaire"],"variants":0}
+{"zrfID":399,"id":"flamingos","name":"Flamingos","category":["solitaire"],"variants":0}
+{"zrfID":1058,"id":"flim","name":"Flim","category":["solitaire"],"variants":0}
+{"zrfID":1376,"id":"flim-ii","name":"Flim II","category":["solitaire"],"variants":0}
+{"zrfID":1381,"id":"flim-iii","name":"Flim III","category":["solitaire"],"variants":0}
+{"zrfID":1387,"id":"flim-large","name":"Flim Large","category":["solitaire"],"variants":0}
+{"zrfID":1063,"id":"flim-e","name":"Flim-E","category":["solitaire"],"variants":0}
+{"zrfID":1078,"id":"floor-tilings","name":"Floor Tilings","category":["solitaire"],"variants":0}
+{"zrfID":1393,"id":"floor-tilings-ii","name":"Floor Tilings II","category":["solitaire"],"variants":0}
+{"zrfID":1840,"id":"forced-chess","name":"Forced Chess","category":["solitaire"],"variants":0}
+{"zrfID":2233,"id":"forks","name":"Forks","category":["solitaire"],"variants":0}
+{"zrfID":1434,"id":"fourball","name":"Fourball","category":["solitaire"],"variants":0}
+{"zrfID":400,"id":"fourcube","name":"Fourcube","category":["solitaire"],"variants":0}
+{"zrfID":2456,"id":"fox-hunting","name":"Fox Hunting","category":["solitaire"],"variants":0}
+{"zrfID":1454,"id":"fractal-sampler","name":"Fractal Sampler","category":["solitaire"],"variants":0}
+{"zrfID":401,"id":"fractalmaze","name":"Fractalmaze","category":["solitaire"],"variants":0}
+{"zrfID":402,"id":"freecell","name":"FreeCell","category":["solitaire"],"variants":0}
+{"zrfID":403,"id":"fruit","name":"Fruit","category":["solitaire"],"variants":0}
+{"zrfID":404,"id":"fruit-ii","name":"Fruit II","category":["solitaire"],"variants":0}
+{"zrfID":405,"id":"fruitbasket","name":"Fruitbasket","category":["solitaire"],"variants":0}
+{"zrfID":440,"id":"g-backtrack","name":"G-Backtrack","category":["solitaire"],"variants":0}
+{"zrfID":442,"id":"g-primes","name":"G-Primes","category":["solitaire"],"variants":0}
+{"zrfID":5,"id":"game-of-life","name":"Game of Life","category":["solitaire"],"variants":0}
+{"zrfID":443,"id":"given-legs","name":"Given Legs","category":["solitaire"],"variants":0}
+{"zrfID":444,"id":"globetrotter","name":"Globetrotter","category":["solitaire"],"variants":0}
+{"zrfID":445,"id":"goodknight","name":"Goodknight","category":["solitaire"],"variants":0}
+{"zrfID":448,"id":"goodknight-4","name":"Goodknight 4","category":["solitaire"],"variants":0}
+{"zrfID":446,"id":"goodknight-ii","name":"Goodknight II","category":["solitaire"],"variants":0}
+{"zrfID":447,"id":"goodknight-iii","name":"Goodknight III","category":["solitaire"],"variants":0}
+{"zrfID":1554,"id":"graph-puzzles","name":"Graph-Puzzles","category":["solitaire"],"variants":0}
+{"zrfID":1618,"id":"groops","name":"Groops","category":["solitaire"],"variants":0}
+{"zrfID":2346,"id":"groovy-marbles","name":"Groovy Marbles","category":["solitaire"],"variants":0}
+{"zrfID":2347,"id":"groovy-marbles-ii","name":"Groovy Marbles II","category":["solitaire"],"variants":0}
+{"zrfID":1681,"id":"growth","name":"Growth","category":["solitaire"],"variants":0}
+{"zrfID":1137,"id":"halloween","name":"Halloween","category":["solitaire"],"variants":0}
+{"zrfID":1143,"id":"halloween-mania","name":"Halloween Mania","category":["solitaire"],"variants":0}
+{"zrfID":475,"id":"hangover","name":"Hangover","category":["solitaire"],"variants":0}
+{"zrfID":1039,"id":"harry","name":"Harry","category":["solitaire"],"variants":0}
+{"zrfID":1047,"id":"harvest","name":"Harvest","category":["solitaire"],"variants":0}
+{"zrfID":476,"id":"hearts","name":"Hearts","category":["solitaire"],"variants":0}
+{"zrfID":479,"id":"hex-twist","name":"Hex Twist","category":["solitaire"],"variants":0}
+{"zrfID":3239,"id":"hex1life","name":"Hex1Life","category":["solitaire"],"variants":0}
+{"zrfID":3240,"id":"hex2life","name":"Hex2Life","category":["solitaire"],"variants":0}
+{"zrfID":1993,"id":"hexbox","name":"HexBox","category":["solitaire"],"variants":0}
+{"zrfID":478,"id":"hexed-marbles","name":"Hexed Marbles","category":["solitaire"],"variants":0}
+{"zrfID":3241,"id":"hexlife","name":"HexLife","category":["solitaire"],"variants":0}
+{"zrfID":1873,"id":"hexlightsoff","name":"HexLightsoff","category":["solitaire"],"variants":0}
+{"zrfID":1971,"id":"hexwriggle","name":"HexWriggle","category":["solitaire"],"variants":0}
+{"zrfID":2308,"id":"hidato-predrawn","name":"Hidato-predrawn","category":["solitaire"],"variants":0}
+{"zrfID":480,"id":"hippodrome","name":"Hippodrome","category":["solitaire"],"variants":0}
+{"zrfID":1060,"id":"hiroi","name":"Hiroi","category":["solitaire"],"variants":0}
+{"zrfID":481,"id":"hiroimono","name":"Hiroimono","category":["solitaire"],"variants":0}
+{"zrfID":1212,"id":"hooked","name":"Hooked","category":["solitaire"],"variants":0}
+{"zrfID":482,"id":"hop-solo","name":"Hop Solo","category":["solitaire"],"variants":0}
+{"zrfID":484,"id":"hop-solo-ii","name":"Hop Solo II","category":["solitaire"],"variants":0}
+{"zrfID":483,"id":"hop-solo-random","name":"Hop Solo Random","category":["solitaire"],"variants":0}
+{"zrfID":1196,"id":"hungry-snakes","name":"Hungry Snakes","category":["solitaire"],"variants":0}
+{"zrfID":2597,"id":"hungry-snakes-mw","name":"Hungry Snakes (MW)","category":["solitaire"],"variants":0}
+{"zrfID":1198,"id":"i-ching","name":"I Ching","category":["solitaire"],"variants":0}
+{"zrfID":1568,"id":"infini","name":"Infini","category":["solitaire"],"variants":0}
+{"zrfID":507,"id":"in_chess","name":"In_Chess","category":["solitaire"],"variants":0}
+{"zrfID":508,"id":"iq","name":"IQ","category":["solitaire"],"variants":0}
+{"zrfID":983,"id":"isolattice","name":"Isolattice","category":["solitaire"],"variants":0}
+{"zrfID":509,"id":"itchi","name":"Itchi","category":["solitaire"],"variants":0}
+{"zrfID":510,"id":"itchi-ii","name":"Itchi II","category":["solitaire"],"variants":0}
+{"zrfID":511,"id":"jenazon-schedules","name":"Jenazon Schedules","category":["solitaire"],"variants":0}
+{"zrfID":1145,"id":"jewels","name":"Jewels","category":["solitaire"],"variants":0}
+{"zrfID":1064,"id":"jigsaw","name":"Jigsaw","category":["solitaire"],"variants":0}
+{"zrfID":1547,"id":"jointz","name":"Jointz","category":["solitaire"],"variants":0}
+{"zrfID":512,"id":"jugs","name":"Jugs","category":["solitaire"],"variants":0}
+{"zrfID":513,"id":"jugs-ii","name":"Jugs II","category":["solitaire"],"variants":0}
+{"zrfID":1021,"id":"jumbled","name":"Jumbled","category":["solitaire"],"variants":0}
+{"zrfID":514,"id":"jump-flip","name":"Jump \u0026 Flip","category":["solitaire"],"variants":0}
+{"zrfID":2165,"id":"jumping-numbers-change-maze","name":"Jumping Numbers-Change Maze","category":["solitaire"],"variants":0}
+{"zrfID":1313,"id":"kaleidoscope","name":"Kaleidoscope","category":["solitaire"],"variants":0}
+{"zrfID":338,"id":"karls-cubes","name":"Karl's Cubes","category":["solitaire"],"variants":0}
+{"zrfID":1658,"id":"knights-minimax-problems","name":"Knight's minimax problems","category":["solitaire"],"variants":0}
+{"zrfID":535,"id":"knights-tour","name":"Knight's Tour","category":["solitaire"],"variants":0}
+{"zrfID":536,"id":"knots","name":"Knots","category":["solitaire"],"variants":0}
+{"zrfID":539,"id":"knots-4","name":"Knots 4","category":["solitaire"],"variants":0}
+{"zrfID":537,"id":"knots-ii","name":"Knots II","category":["solitaire"],"variants":0}
+{"zrfID":538,"id":"knots-iii","name":"Knots III","category":["solitaire"],"variants":0}
+{"zrfID":1522,"id":"komino","name":"Komino","category":["solitaire"],"variants":0}
+{"zrfID":576,"id":"labirintus","name":"Labirintus","category":["solitaire"],"variants":0}
+{"zrfID":577,"id":"labrat","name":"Labrat","category":["solitaire"],"variants":0}
+{"zrfID":1001,"id":"langtons-ant","name":"Langton's Ant","category":["solitaire"],"variants":0}
+{"zrfID":578,"id":"laser","name":"Laser","category":["solitaire"],"variants":0}
+{"zrfID":581,"id":"laser-4","name":"Laser 4","category":["solitaire"],"variants":0}
+{"zrfID":2008,"id":"laser-coverage","name":"Laser Coverage","category":["solitaire"],"variants":0}
+{"zrfID":579,"id":"laser-ii","name":"Laser II","category":["solitaire"],"variants":0}
+{"zrfID":580,"id":"laser-iii","name":"Laser III","category":["solitaire"],"variants":0}
+{"zrfID":1048,"id":"laser-maze","name":"Laser Maze","category":["solitaire"],"variants":0}
+{"zrfID":1860,"id":"latris","name":"Latris","category":["solitaire"],"variants":0}
+{"zrfID":980,"id":"lattice","name":"Lattice","category":["solitaire"],"variants":0}
+{"zrfID":1165,"id":"leftturn","name":"Leftturn","category":["solitaire"],"variants":0}
+{"zrfID":1775,"id":"letterdrop","name":"Letterdrop","category":["solitaire"],"variants":0}
+{"zrfID":1065,"id":"liars","name":"Liars","category":["solitaire"],"variants":0}
+{"zrfID":582,"id":"lights-out-maze","name":"Lights Out Maze","category":["solitaire"],"variants":0}
+{"zrfID":1100,"id":"lightshow","name":"Lightshow","category":["solitaire"],"variants":0}
+{"zrfID":1093,"id":"linear","name":"Linear","category":["solitaire"],"variants":0}
+{"zrfID":1487,"id":"linedraw","name":"Linedraw","category":["solitaire"],"variants":0}
+{"zrfID":8,"id":"logic-gates","name":"Logic Gates","category":["solitaire"],"variants":0}
+{"zrfID":583,"id":"loop","name":"Loop","category":["solitaire"],"variants":0}
+{"zrfID":1162,"id":"lost-in-the-city","name":"Lost In The City","category":["solitaire"],"variants":0}
+{"zrfID":1969,"id":"magnets","name":"Magnets","category":["solitaire"],"variants":0}
+{"zrfID":2051,"id":"mahjong-solitaire","name":"Mahjong Solitaire","category":["solitaire"],"variants":0}
+{"zrfID":1736,"id":"man-of-laws","name":"Man Of Law's","category":["solitaire"],"variants":0}
+{"zrfID":597,"id":"marbles","name":"Marbles","category":["solitaire"],"variants":0}
+{"zrfID":598,"id":"marbles-ii","name":"Marbles II","category":["solitaire"],"variants":0}
+{"zrfID":599,"id":"marbles-iii","name":"Marbles III","category":["solitaire"],"variants":0}
+{"zrfID":1519,"id":"marquand-logic-machine","name":"Marquand Logic Machine","category":["solitaire"],"variants":0}
+{"zrfID":1854,"id":"marramba","name":"Marramba","category":["solitaire"],"variants":0}
+{"zrfID":1855,"id":"marramba-ii","name":"Marramba II","category":["solitaire"],"variants":0}
+{"zrfID":586,"id":"match","name":"Match","category":["solitaire"],"variants":0}
+{"zrfID":600,"id":"matchsticks","name":"Matchsticks","category":["solitaire"],"variants":0}
+{"zrfID":601,"id":"matchsticks-ii","name":"Matchsticks II","category":["solitaire"],"variants":0}
+{"zrfID":1098,"id":"math-tables","name":"Math Tables","category":["solitaire"],"variants":0}
+{"zrfID":602,"id":"maths-addition","name":"Maths: Addition","category":["solitaire"],"variants":0}
+{"zrfID":603,"id":"maths-multiplication","name":"Maths: Multiplication","category":["solitaire"],"variants":0}
+{"zrfID":604,"id":"maths-subtraction","name":"Maths: Subtraction","category":["solitaire"],"variants":0}
+{"zrfID":605,"id":"max","name":"Max","category":["solitaire"],"variants":0}
+{"zrfID":606,"id":"max-solver","name":"Max-Solver","category":["solitaire"],"variants":0}
+{"zrfID":1864,"id":"maxchecks","name":"Maxchecks","category":["solitaire"],"variants":0}
+{"zrfID":1193,"id":"maxicol","name":"Maxicol","category":["solitaire"],"variants":0}
+{"zrfID":624,"id":"maximal-squadron","name":"Maximal Squadron","category":["solitaire"],"variants":0}
+{"zrfID":610,"id":"maze-haven","name":"Maze Haven","category":["solitaire"],"variants":0}
+{"zrfID":611,"id":"maze-maven","name":"Maze Maven","category":["solitaire"],"variants":0}
+{"zrfID":612,"id":"mem","name":"Mem","category":["solitaire"],"variants":0}
+{"zrfID":613,"id":"mem-ii","name":"Mem II","category":["solitaire"],"variants":0}
+{"zrfID":614,"id":"mem-iii","name":"Mem III","category":["solitaire"],"variants":0}
+{"zrfID":1543,"id":"mine-finder","name":"Mine Finder","category":["solitaire"],"variants":0}
+{"zrfID":1520,"id":"mine-stalker","name":"Mine Stalker","category":["solitaire"],"variants":0}
+{"zrfID":2613,"id":"misdirection","name":"Misdirection","category":["solitaire"],"variants":0}
+{"zrfID":570,"id":"missing-link","name":"Missing Link","category":["solitaire"],"variants":0}
+{"zrfID":615,"id":"moebius","name":"Moebius","category":["solitaire"],"variants":0}
+{"zrfID":1544,"id":"moku","name":"Moku","category":["solitaire"],"variants":0}
+{"zrfID":1030,"id":"mondrian","name":"Mondrian","category":["solitaire"],"variants":0}
+{"zrfID":75,"id":"monster-maze","name":"Monster Maze","category":["solitaire"],"variants":0}
+{"zrfID":616,"id":"morpion-solitaire","name":"Morpion solitaire","category":["solitaire"],"variants":0}
+{"zrfID":1200,"id":"motti","name":"Motti","category":["solitaire"],"variants":0}
+{"zrfID":1111,"id":"napiers-abacus","name":"Napier's Abacus","category":["solitaire"],"variants":0}
+{"zrfID":1481,"id":"nature-walk","name":"Nature-Walk","category":["solitaire"],"variants":0}
+{"zrfID":1674,"id":"nightmare-quilt","name":"Nightmare Quilt","category":["solitaire"],"variants":0}
+{"zrfID":644,"id":"nine-clocks","name":"Nine Clocks","category":["solitaire"],"variants":0}
+{"zrfID":645,"id":"noscope","name":"Noscope","category":["solitaire"],"variants":0}
+{"zrfID":1678,"id":"nosquare","name":"Nosquare","category":["solitaire"],"variants":0}
+{"zrfID":1374,"id":"number-crisscross","name":"Number-Crisscross","category":["solitaire"],"variants":0}
+{"zrfID":648,"id":"numberwheel","name":"Numberwheel","category":["solitaire"],"variants":0}
+{"zrfID":649,"id":"nutts","name":"Nutts","category":["solitaire"],"variants":0}
+{"zrfID":650,"id":"nutts-solver","name":"Nutts-Solver","category":["solitaire"],"variants":0}
+{"zrfID":1072,"id":"odd-ones","name":"Odd Ones","category":["solitaire"],"variants":0}
+{"zrfID":651,"id":"oneway-loop","name":"Oneway Loop","category":["solitaire"],"variants":0}
+{"zrfID":1954,"id":"op-art","name":"Op-Art","category":["solitaire"],"variants":0}
+{"zrfID":607,"id":"p-backtrack","name":"P-Backtrack","category":["solitaire"],"variants":0}
+{"zrfID":609,"id":"p-primes","name":"P-Primes","category":["solitaire"],"variants":0}
+{"zrfID":1112,"id":"pa-o-si","name":"Pa-o-si","category":["solitaire"],"variants":0}
+{"zrfID":248,"id":"pairs","name":"Pairs","category":["solitaire"],"variants":0}
+{"zrfID":688,"id":"pancakes","name":"Pancakes","category":["solitaire"],"variants":0}
+{"zrfID":1966,"id":"passages","name":"Passages","category":["solitaire"],"variants":0}
+{"zrfID":1551,"id":"pathways","name":"Pathways","category":["solitaire"],"variants":0}
+{"zrfID":3160,"id":"patriarchs","name":"Patriarchs","category":["solitaire"],"variants":0}
+{"zrfID":689,"id":"pearl-puzzle","name":"Pearl Puzzle","category":["solitaire"],"variants":0}
+{"zrfID":690,"id":"pearl-puzzle-ii","name":"Pearl Puzzle II","category":["solitaire"],"variants":0}
+{"zrfID":27,"id":"pento","name":"Pento","category":["solitaire"],"variants":0}
+{"zrfID":608,"id":"pento-solver","name":"Pento-Solver","category":["solitaire"],"variants":0}
+{"zrfID":1722,"id":"phone-iii","name":"Phone III","category":["solitaire"],"variants":0}
+{"zrfID":1003,"id":"photonworld","name":"Photonworld","category":["solitaire"],"variants":0}
+{"zrfID":1795,"id":"pic16","name":"Pic16","category":["solitaire"],"variants":0}
+{"zrfID":691,"id":"picador","name":"Picador","category":["solitaire"],"variants":0}
+{"zrfID":1794,"id":"picturo","name":"Picturo","category":["solitaire"],"variants":0}
+{"zrfID":2245,"id":"pillow-cube","name":"Pillow Cube","category":["solitaire"],"variants":0}
+{"zrfID":1982,"id":"pipe-mazes","name":"Pipe Mazes","category":["solitaire"],"variants":0}
+{"zrfID":692,"id":"placements","name":"Placements","category":["solitaire"],"variants":0}
+{"zrfID":693,"id":"planes","name":"Planes","category":["solitaire"],"variants":0}
+{"zrfID":694,"id":"plinko","name":"Plinko","category":["solitaire"],"variants":0}
+{"zrfID":1158,"id":"podo","name":"Podo","category":["solitaire"],"variants":0}
+{"zrfID":1384,"id":"podomania","name":"Podomania","category":["solitaire"],"variants":0}
+{"zrfID":1378,"id":"podomax","name":"Podomax","category":["solitaire"],"variants":0}
+{"zrfID":1083,"id":"polyhexes","name":"Polyhexes","category":["solitaire"],"variants":0}
+{"zrfID":1087,"id":"polyhexes-ii","name":"Polyhexes II","category":["solitaire"],"variants":0}
+{"zrfID":1430,"id":"powerball","name":"Powerball","category":["solitaire"],"variants":0}
+{"zrfID":1018,"id":"powerlines","name":"Powerlines","category":["solitaire"],"variants":0}
+{"zrfID":1663,"id":"preprocessor-for-zrf","name":"Preprocessor for ZRF","category":["solitaire"],"variants":0}
+{"zrfID":1620,"id":"proon","name":"Proon","category":["solitaire"],"variants":0}
+{"zrfID":1876,"id":"pum-easy","name":"Pum-Easy","category":["solitaire"],"variants":0}
+{"zrfID":1469,"id":"pum-num","name":"Pum-Num","category":["solitaire"],"variants":0}
+{"zrfID":1460,"id":"pum-pum","name":"Pum-Pum","category":["solitaire"],"variants":0}
+{"zrfID":1474,"id":"pum-pum-large","name":"Pum-Pum Large","category":["solitaire"],"variants":0}
+{"zrfID":1023,"id":"pyramid","name":"Pyramid","category":["solitaire"],"variants":0}
+{"zrfID":742,"id":"quad-city-air","name":"Quad City Air","category":["solitaire"],"variants":0}
+{"zrfID":743,"id":"quadrilles","name":"Quadrilles","category":["solitaire"],"variants":0}
+{"zrfID":744,"id":"quantum-maze","name":"Quantum Maze","category":["solitaire"],"variants":0}
+{"zrfID":2110,"id":"quartet","name":"QuarTet","category":["solitaire"],"variants":0}
+{"zrfID":1101,"id":"queens-and-pawns","name":"Queens and Pawns","category":["solitaire"],"variants":0}
+{"zrfID":745,"id":"quilt","name":"Quilt","category":["solitaire"],"variants":0}
+{"zrfID":746,"id":"rabbit","name":"Rabbit","category":["solitaire"],"variants":0}
+{"zrfID":747,"id":"rabbits","name":"Rabbits","category":["solitaire"],"variants":0}
+{"zrfID":1615,"id":"racetrack","name":"Racetrack","category":["solitaire"],"variants":0}
+{"zrfID":1352,"id":"random-cave","name":"Random Cave","category":["solitaire"],"variants":0}
+{"zrfID":1357,"id":"random-cave-critters","name":"Random Cave Critters","category":["solitaire"],"variants":0}
+{"zrfID":1353,"id":"random-cave-ii","name":"Random Cave II","category":["solitaire"],"variants":0}
+{"zrfID":1062,"id":"random-walk","name":"Random Walk","category":["solitaire"],"variants":0}
+{"zrfID":1845,"id":"rec-tangles","name":"Rec-Tangles","category":["solitaire"],"variants":0}
+{"zrfID":1846,"id":"rec-tangles-ii","name":"Rec-Tangles II","category":["solitaire"],"variants":0}
+{"zrfID":1978,"id":"recwriggle","name":"RecWriggle","category":["solitaire"],"variants":0}
+{"zrfID":22,"id":"reptiles","name":"Reptiles","category":["solitaire"],"variants":0}
+{"zrfID":24,"id":"reptiles-ii","name":"Reptiles II","category":["solitaire"],"variants":0}
+{"zrfID":23,"id":"reptiles-iii","name":"Reptiles III","category":["solitaire"],"variants":0}
+{"zrfID":1961,"id":"revolt-of-the-robots","name":"Revolt Of The Robots","category":["solitaire"],"variants":0}
+{"zrfID":748,"id":"rhamses","name":"Rhamses","category":["solitaire"],"variants":0}
+{"zrfID":749,"id":"rhamses-ii","name":"Rhamses II","category":["solitaire"],"variants":0}
+{"zrfID":750,"id":"rhamses-iii","name":"Rhamses III","category":["solitaire"],"variants":0}
+{"zrfID":1052,"id":"rightrightleft","name":"Rightrightleft","category":["solitaire"],"variants":0}
+{"zrfID":1250,"id":"rightrightleft--across","name":"Rightrightleft - Across","category":["solitaire"],"variants":0}
+{"zrfID":751,"id":"river-crossing","name":"River Crossing","category":["solitaire"],"variants":0}
+{"zrfID":311,"id":"rna-puzzle","name":"RNA-Puzzle","category":["solitaire"],"variants":0}
+{"zrfID":1562,"id":"roadmaps","name":"Roadmaps","category":["solitaire"],"variants":0}
+{"zrfID":2009,"id":"roaming-robots","name":"Roaming Robots","category":["solitaire"],"variants":0}
+{"zrfID":1102,"id":"robo","name":"Robo","category":["solitaire"],"variants":0}
+{"zrfID":1987,"id":"robo-walk","name":"Robo Walk","category":["solitaire"],"variants":0}
+{"zrfID":752,"id":"robot","name":"Robot","category":["solitaire"],"variants":0}
+{"zrfID":753,"id":"roll-cubes","name":"Roll Cubes","category":["solitaire"],"variants":0}
+{"zrfID":754,"id":"rooks-tour","name":"Rook's Tour","category":["solitaire"],"variants":0}
+{"zrfID":755,"id":"rose","name":"Rose","category":["solitaire"],"variants":0}
+{"zrfID":1154,"id":"rotation-squares","name":"Rotation Squares","category":["solitaire"],"variants":0}
+{"zrfID":646,"id":"rotoscope","name":"Rotoscope","category":["solitaire"],"variants":0}
+{"zrfID":1705,"id":"rotoscope-ii","name":"Rotoscope II","category":["solitaire"],"variants":0}
+{"zrfID":738,"id":"roulette","name":"Roulette","category":["solitaire"],"variants":0}
+{"zrfID":2246,"id":"roundkey-cube","name":"RoundKey Cube","category":["solitaire"],"variants":0}
+{"zrfID":756,"id":"row","name":"Row","category":["solitaire"],"variants":0}
+{"zrfID":741,"id":"royal-turnoff","name":"Royal Turnoff","category":["solitaire"],"variants":0}
+{"zrfID":1529,"id":"rubiks-4x4x4-cube","name":"Rubik's 4x4x4 Cube","category":["solitaire"],"variants":0}
+{"zrfID":1565,"id":"rubiks-5x5x5-cube","name":"Rubik's 5x5x5 Cube","category":["solitaire"],"variants":0}
+{"zrfID":339,"id":"rubiks-cube","name":"Rubik's Cube","category":["solitaire"],"variants":0}
+{"zrfID":7,"id":"rule-110","name":"Rule 110","category":["solitaire"],"variants":0}
+{"zrfID":1125,"id":"rungs","name":"Rungs","category":["solitaire"],"variants":0}
+{"zrfID":781,"id":"sailing","name":"Sailing","category":["solitaire"],"variants":0}
+{"zrfID":782,"id":"sailing-ii","name":"Sailing II","category":["solitaire"],"variants":0}
+{"zrfID":783,"id":"sailing-iii","name":"Sailing III","category":["solitaire"],"variants":0}
+{"zrfID":823,"id":"saltwater","name":"Saltwater","category":["solitaire"],"variants":0}
+{"zrfID":1718,"id":"scale","name":"Scale","category":["solitaire"],"variants":0}
+{"zrfID":2012,"id":"scrabble-demonstration-board","name":"Scrabble Demonstration Board","category":["solitaire"],"variants":0}
+{"zrfID":2019,"id":"scrabl-puzzles","name":"Scrabl Puzzles","category":["solitaire"],"variants":0}
+{"zrfID":1534,"id":"scrabwalk-solo","name":"Scrabwalk Solo","category":["solitaire"],"variants":0}
+{"zrfID":1726,"id":"secret-keys","name":"Secret Keys","category":["solitaire"],"variants":0}
+{"zrfID":1444,"id":"select-crc-analysis-tool","name":"Select CRC Analysis Tool","category":["solitaire"],"variants":0}
+{"zrfID":824,"id":"semblo","name":"Semblo","category":["solitaire"],"variants":0}
+{"zrfID":1939,"id":"semblo-easy","name":"Semblo Easy","category":["solitaire"],"variants":0}
+{"zrfID":825,"id":"serviettes","name":"Serviettes","category":["solitaire"],"variants":0}
+{"zrfID":69,"id":"setris","name":"Setris","category":["solitaire"],"variants":0}
+{"zrfID":72,"id":"setris-4","name":"Setris 4","category":["solitaire"],"variants":0}
+{"zrfID":70,"id":"setris-ii","name":"Setris II","category":["solitaire"],"variants":0}
+{"zrfID":71,"id":"setris-iii","name":"Setris III","category":["solitaire"],"variants":0}
+{"zrfID":826,"id":"sheepdog","name":"Sheepdog","category":["solitaire"],"variants":0}
+{"zrfID":1075,"id":"shortcut","name":"Shortcut","category":["solitaire"],"variants":0}
+{"zrfID":1970,"id":"shuff","name":"Shuff","category":["solitaire"],"variants":0}
+{"zrfID":1178,"id":"sieve","name":"Sieve","category":["solitaire"],"variants":0}
+{"zrfID":2244,"id":"simpler-pillow-cube","name":"Simpler Pillow Cube","category":["solitaire"],"variants":0}
+{"zrfID":827,"id":"sisyphus","name":"Sisyphus","category":["solitaire"],"variants":0}
+{"zrfID":1213,"id":"skewers","name":"Skewers","category":["solitaire"],"variants":0}
+{"zrfID":1026,"id":"slide-in","name":"Slide-in","category":["solitaire"],"variants":0}
+{"zrfID":828,"id":"slidefour","name":"SlideFour","category":["solitaire"],"variants":0}
+{"zrfID":829,"id":"slidethree","name":"SlideThree","category":["solitaire"],"variants":0}
+{"zrfID":830,"id":"sliding-blocks","name":"Sliding Blocks","category":["solitaire"],"variants":0}
+{"zrfID":831,"id":"sliding-puzzle","name":"Sliding Puzzle","category":["solitaire"],"variants":0}
+{"zrfID":1632,"id":"smiling-faces","name":"Smiling Faces","category":["solitaire"],"variants":0}
+{"zrfID":1880,"id":"smiling-faces-easy","name":"Smiling Faces Easy","category":["solitaire"],"variants":0}
+{"zrfID":912,"id":"snake-catcher","name":"Snake Catcher","category":["solitaire"],"variants":0}
+{"zrfID":832,"id":"snakepit","name":"Snakepit","category":["solitaire"],"variants":0}
+{"zrfID":2427,"id":"sokoban","name":"Sokoban","category":["solitaire"],"variants":0}
+{"zrfID":833,"id":"solihex","name":"SoliHex","category":["solitaire"],"variants":0}
+{"zrfID":1181,"id":"solitaire-freeplay-and-solver","name":"Solitaire Freeplay and Solver","category":["solitaire"],"variants":0}
+{"zrfID":1776,"id":"solitaire-tree","name":"Solitaire Tree","category":["solitaire"],"variants":0}
+{"zrfID":834,"id":"solitours","name":"SoliTours","category":["solitaire"],"variants":0}
+{"zrfID":835,"id":"spaghetti","name":"Spaghetti","category":["solitaire"],"variants":0}
+{"zrfID":836,"id":"spaghetti-ii","name":"Spaghetti II","category":["solitaire"],"variants":0}
+{"zrfID":1933,"id":"sparky","name":"Sparky","category":["solitaire"],"variants":0}
+{"zrfID":1935,"id":"sparky-ii","name":"Sparky II","category":["solitaire"],"variants":0}
+{"zrfID":971,"id":"spot-the-difference","name":"Spot the Difference","category":["solitaire"],"variants":0}
+{"zrfID":974,"id":"spot-the-difference-ii","name":"Spot the Difference II","category":["solitaire"],"variants":0}
+{"zrfID":837,"id":"squabble-solo","name":"Squabble Solo","category":["solitaire"],"variants":0}
+{"zrfID":1205,"id":"square-fit","name":"Square Fit","category":["solitaire"],"variants":0}
+{"zrfID":1224,"id":"square-fit-ii","name":"Square Fit II","category":["solitaire"],"variants":0}
+{"zrfID":1225,"id":"square-fit-iii","name":"Square Fit III","category":["solitaire"],"variants":0}
+{"zrfID":1773,"id":"square-peg-solitaire","name":"Square Peg Solitaire","category":["solitaire"],"variants":0}
+{"zrfID":1354,"id":"square-the-rectangle","name":"Square The Rectangle","category":["solitaire"],"variants":0}
+{"zrfID":838,"id":"square-the-square","name":"Square The Square","category":["solitaire"],"variants":0}
+{"zrfID":839,"id":"square-the-square-ii","name":"Square The Square II","category":["solitaire"],"variants":0}
+{"zrfID":1041,"id":"square-the-square-solver","name":"Square The Square Solver","category":["solitaire"],"variants":0}
+{"zrfID":1963,"id":"square-words","name":"Square Words","category":["solitaire"],"variants":0}
+{"zrfID":2426,"id":"squared-chain","name":"Squared Chain","category":["solitaire"],"variants":0}
+{"zrfID":1940,"id":"squaro","name":"Squaro","category":["solitaire"],"variants":0}
+{"zrfID":1419,"id":"squash-square-shuffle","name":"Squash (Square Shuffle)","category":["solitaire"],"variants":0}
+{"zrfID":1495,"id":"stacks","name":"Stacks","category":["solitaire"],"variants":0}
+{"zrfID":1505,"id":"stacksa","name":"Stacksa","category":["solitaire"],"variants":0}
+{"zrfID":1499,"id":"stackso","name":"Stackso","category":["solitaire"],"variants":0}
+{"zrfID":840,"id":"stapler","name":"Stapler","category":["solitaire"],"variants":0}
+{"zrfID":841,"id":"stapler-ii","name":"Stapler II","category":["solitaire"],"variants":0}
+{"zrfID":1498,"id":"staxa","name":"Staxa","category":["solitaire"],"variants":0}
+{"zrfID":1506,"id":"staxo","name":"Staxo","category":["solitaire"],"variants":0}
+{"zrfID":842,"id":"step-mazes","name":"Step-Mazes","category":["solitaire"],"variants":0}
+{"zrfID":1068,"id":"stepping-stones","name":"Stepping Stones","category":["solitaire"],"variants":0}
+{"zrfID":1117,"id":"stick-equations","name":"Stick Equations","category":["solitaire"],"variants":0}
+{"zrfID":815,"id":"sticks","name":"Sticks","category":["solitaire"],"variants":0}
+{"zrfID":843,"id":"sticks-sequence","name":"Sticks Sequence","category":["solitaire"],"variants":0}
+{"zrfID":1053,"id":"straight","name":"Straight","category":["solitaire"],"variants":0}
+{"zrfID":1246,"id":"straight-across","name":"Straight Across","category":["solitaire"],"variants":0}
+{"zrfID":1056,"id":"straight-dia","name":"Straight-dia","category":["solitaire"],"variants":0}
+{"zrfID":1264,"id":"straight-solver","name":"Straight-Solver","category":["solitaire"],"variants":0}
+{"zrfID":1714,"id":"strobot","name":"Strobot","category":["solitaire"],"variants":0}
+{"zrfID":844,"id":"subway","name":"Subway","category":["solitaire"],"variants":0}
+{"zrfID":847,"id":"subway-4","name":"Subway 4","category":["solitaire"],"variants":0}
+{"zrfID":845,"id":"subway-ii","name":"Subway II","category":["solitaire"],"variants":0}
+{"zrfID":846,"id":"subway-iii","name":"Subway III","category":["solitaire"],"variants":0}
+{"zrfID":1538,"id":"sudoku-cube","name":"Sudoku Cube","category":["solitaire"],"variants":0}
+{"zrfID":1237,"id":"sudoku-solver","name":"Sudoku Solver","category":["solitaire"],"variants":0}
+{"zrfID":1665,"id":"sudoku-tool","name":"Sudoku Tool","category":["solitaire"],"variants":0}
+{"zrfID":2317,"id":"sudoku-4thgroups","name":"Sudoku-4thgroups","category":["solitaire"],"variants":0}
+{"zrfID":2309,"id":"sudoku-betweens","name":"Sudoku-betweens","category":["solitaire"],"variants":0}
+{"zrfID":2312,"id":"sudoku-circlesquare","name":"Sudoku-circlesquare","category":["solitaire"],"variants":0}
+{"zrfID":2292,"id":"sudoku-doubled","name":"Sudoku-Doubled","category":["solitaire"],"variants":0}
+{"zrfID":2295,"id":"sudoku-elbow","name":"Sudoku-Elbow","category":["solitaire"],"variants":0}
+{"zrfID":2313,"id":"sudoku-greaterthan","name":"Sudoku-greaterthan","category":["solitaire"],"variants":0}
+{"zrfID":2383,"id":"sudoku-rotations","name":"Sudoku-rotations","category":["solitaire"],"variants":0}
+{"zrfID":2316,"id":"sudoku-sumframe","name":"Sudoku-sumframe","category":["solitaire"],"variants":0}
+{"zrfID":2289,"id":"sudoku-withmargins","name":"Sudoku-withmargins","category":["solitaire"],"variants":0}
+{"zrfID":1539,"id":"sudoxo","name":"Sudoxo","category":["solitaire"],"variants":0}
+{"zrfID":1540,"id":"sudoxu","name":"Sudoxu","category":["solitaire"],"variants":0}
+{"zrfID":1549,"id":"summerwings-puzzle","name":"Summerwings Puzzle","category":["solitaire"],"variants":0}
+{"zrfID":148,"id":"super-bubbles","name":"Super Bubbles","category":["solitaire"],"variants":0}
+{"zrfID":1024,"id":"switch","name":"Switch","category":["solitaire"],"variants":0}
+{"zrfID":895,"id":"tangram","name":"Tangram","category":["solitaire"],"variants":0}
+{"zrfID":896,"id":"telephone","name":"Telephone","category":["solitaire"],"variants":0}
+{"zrfID":1122,"id":"telephone-ii","name":"Telephone II","category":["solitaire"],"variants":0}
+{"zrfID":647,"id":"telescope","name":"Telescope","category":["solitaire"],"variants":0}
+{"zrfID":1088,"id":"tetrads","name":"Tetrads","category":["solitaire"],"variants":0}
+{"zrfID":897,"id":"tetrasticks","name":"Tetrasticks","category":["solitaire"],"variants":0}
+{"zrfID":1740,"id":"the-eight-engines-puzzle","name":"The Eight Engines Puzzle","category":["solitaire"],"variants":0}
+{"zrfID":1827,"id":"the-gingko-tile","name":"The Gingko Tile","category":["solitaire"],"variants":0}
+{"zrfID":1801,"id":"the-hobbit-chess","name":"The Hobbit Chess","category":["solitaire"],"variants":0}
+{"zrfID":898,"id":"three-rings","name":"Three Rings","category":["solitaire"],"variants":0}
+{"zrfID":899,"id":"tile-flips","name":"Tile Flips","category":["solitaire"],"variants":0}
+{"zrfID":885,"id":"tilt","name":"Tilt","category":["solitaire"],"variants":0}
+{"zrfID":1022,"id":"tilt-3","name":"Tilt 3","category":["solitaire"],"variants":0}
+{"zrfID":886,"id":"tilt-ii","name":"Tilt II","category":["solitaire"],"variants":0}
+{"zrfID":1991,"id":"tiltbox","name":"TiltBox","category":["solitaire"],"variants":0}
+{"zrfID":2010,"id":"tilthex","name":"TiltHex","category":["solitaire"],"variants":0}
+{"zrfID":2300,"id":"torontopanam-agrams","name":"TorontoPanAm-agrams","category":["solitaire"],"variants":0}
+{"zrfID":900,"id":"touched-twice","name":"Touched Twice","category":["solitaire"],"variants":0}
+{"zrfID":1719,"id":"towers-of-hanoi-ks","name":"Towers of Hanoi (KS)","category":["solitaire"],"variants":0}
+{"zrfID":901,"id":"towers-of-toronto","name":"Towers of Toronto","category":["solitaire"],"variants":0}
+{"zrfID":477,"id":"traffic-lights","name":"Traffic Lights","category":["solitaire"],"variants":0}
+{"zrfID":902,"id":"train","name":"Train","category":["solitaire"],"variants":0}
+{"zrfID":903,"id":"train-ii","name":"Train II","category":["solitaire"],"variants":0}
+{"zrfID":904,"id":"train-iii","name":"Train III","category":["solitaire"],"variants":0}
+{"zrfID":1008,"id":"train-set","name":"Train Set","category":["solitaire"],"variants":0}
+{"zrfID":905,"id":"transform","name":"Transform","category":["solitaire"],"variants":0}
+{"zrfID":1959,"id":"treasure-hunt","name":"Treasure Hunt","category":["solitaire"],"variants":0}
+{"zrfID":1769,"id":"trespass","name":"Trespass","category":["solitaire"],"variants":0}
+{"zrfID":1994,"id":"tribox","name":"TriBox","category":["solitaire"],"variants":0}
+{"zrfID":906,"id":"triki","name":"Triki","category":["solitaire"],"variants":0}
+{"zrfID":1070,"id":"triple","name":"Triple","category":["solitaire"],"variants":0}
+{"zrfID":1757,"id":"trithello","name":"Trithello","category":["solitaire"],"variants":0}
+{"zrfID":1972,"id":"triwriggle","name":"TriWriggle","category":["solitaire"],"variants":0}
+{"zrfID":9,"id":"turing-machine","name":"Turing Machine","category":["solitaire"],"variants":0}
+{"zrfID":10,"id":"turing-machine-ii","name":"Turing Machine II","category":["solitaire"],"variants":0}
+{"zrfID":1172,"id":"tuzz","name":"Tuzz","category":["solitaire"],"variants":0}
+{"zrfID":1497,"id":"twentysix","name":"Twentysix","category":["solitaire"],"variants":0}
+{"zrfID":1861,"id":"twiki","name":"Twiki","category":["solitaire"],"variants":0}
+{"zrfID":1066,"id":"twin","name":"Twin","category":["solitaire"],"variants":0}
+{"zrfID":907,"id":"twin-maze","name":"Twin Maze","category":["solitaire"],"variants":0}
+{"zrfID":908,"id":"twist","name":"Twist","category":["solitaire"],"variants":0}
+{"zrfID":909,"id":"twist-ii","name":"Twist II","category":["solitaire"],"variants":0}
+{"zrfID":910,"id":"twisted-tour","name":"Twisted Tour","category":["solitaire"],"variants":0}
+{"zrfID":963,"id":"ufo-logic","name":"UFO-Logic","category":["solitaire"],"variants
