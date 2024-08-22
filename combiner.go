@@ -9,6 +9,15 @@ import (
 )
 
 func main() {
+	IndexGames()
+	CrawlPublishers()
+}
+
+func CrawlPublishers() {
+
+}
+
+func IndexGames() {
 	asg := make(map[string]bool)
 	wikia := make(map[string]bool)
 

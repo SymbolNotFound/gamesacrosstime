@@ -1,0 +1,42 @@
+id,name
+0,UNKNOWN
+1,Checkmate
+2,Elimination
+3,Territory
+4,Connection
+5,Race
+6,Labyrinth
+7,Cooperative
+8,Scoring
+9,"Fun (non-competitive)"
+10,Miscellaneous
+11,Single player
+12,2-player
+13,3-player
+14,4-player
+15,Multiplayer
+16,"Chess (Western chess)"
+17,"Shogi (Japanese chess)"
+18,"Xiangqi (Chinese chess)"
+19,"Janggi (Korean chess)"
+20,Draughts/Checkers games
+21,Go games
+22,Othello games
+23,Classic games
+24,Educational
+25,1-D games
+26,2-D games
+27,3-D games
+28,Multidimensional games
+29,Randomized games
+30,Tiling games
+31,Customizable games
+32,Checkmate combo games
+33,Wargames
+34,Piecesets games
+35,Stalemate games
+36,Arrange games
+37,Asymmetric games
+38,custom-engine games
+39,Axiomatic games
+40,Multigame games
