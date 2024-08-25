@@ -1,0 +1,304 @@
+{ "cardgames": [
+{
+  "cardcount": 16,
+  "cards": ["French 4xAQJT"],
+  "games": [
+    { "url": "/wiki/Ba%C5%9Bka", "title": "Baśka", "family": "Schafkopf"},
+    { "url": "/wiki/Kop_(card_game)", "title": "Kop", "family": "Schafkopf"}
+  ]
+},
+{
+  "cardcount": 20,
+  "cards": ["French 4xAKQJT", "German 4xAKOUT"],
+  "games": [
+    { "url": "/wiki/Bauernfangen", "title": "Bauernfangen (G)" },
+    { "url": "/wiki/Bauernschnapsen", "title": "Bauernschnapsen (G)" },
+    { "url": "/wiki/Dreierschnapsen", "title": "Dreierschnapsen (G)" },
+    { "url": "/wiki/Short_Schafkopf", "title": "Short Schafkopf (G)" },
+    { "url": "/wiki/Schnapsen", "title": "Schnapsen (F or G)" }
+  ]
+},
+{
+  "cardcount": 24,
+  "cards": ["German 4xAKOUT9"],
+  "games": [
+    { "url": "/wiki/Bierkopf", "title": "Bierkopf" },
+    { "url": "/wiki/German_Solo", "title": "German Solo (modern Hombre)" },
+    { "url": "/wiki/Mucken", "title": "Mucken (with a shortened pack)" },
+    { "url": "/wiki/Short_Schafkopf", "title": "Short Schafkopf" },
+    { "url": "/wiki/Sixty-Six_(card_game)", "title": "Sixty-Six" }
+  ]
+},
+{
+  "cardcount": 28,
+  "cards": ["French 4xAKQJT97"],
+  "games": [
+    { "url": "/wiki/Sk%C3%A6rvindsel", "title": "Skærvindsel" }
+  ]
+},
+{
+  "cardcount": 32,
+  "cards": ["French 4xAKQJT987", "German 4xAKOUT987"],
+  "games": [
+    { "url": "/wiki/Bassadewitz", "title": "Bassadewitz" },
+    { "url": "/wiki/Belote", "title": "Belote" },
+    { "url": "/wiki/Bezique", "title": "Bezique" },
+    { "url": "/wiki/Bierkopf", "title": "Bierkopf" },
+    { "url": "/wiki/Blattla", "title": "Blattla" },
+    { "url": "/wiki/Bohemian_Schneider", "title": "Bohemian Schneider" },
+    { "url": "/wiki/Br%C3%A4us", "title": "Bräus/Brus" },
+    { "url": "/wiki/Brusquembille", "title": "Brusquembille" },
+    { "url": "/wiki/Coinche", "title": "Coinche" },
+    { "url": "/wiki/%C3%89cart%C3%A9", "title": "Écarté" },
+    { "url": "/wiki/Einwerfen", "title": "Einwerfen" },
+    { "url": "/wiki/Elfern", "title": "Elfern" },
+    { "url": "/wiki/Fingerkloppe", "title": "Fingerkloppe" },
+    { "url": "/wiki/F%C3%BCnfzehnern", "title": "Fünfzehnern" },
+    { "url": "/wiki/German_Schafkopf", "title": "German Schafkopf" },
+    { "url": "/wiki/German_Solo", "title": "German Solo" },
+    { "url": "/wiki/Grasobern", "title": "Grasobern" },
+    { "url": "/wiki/Klaberjass", "title": "Klaberjass" },
+    { "url": "/wiki/Mau_Mau_(card_game)", "title": "Mau Mau" },
+    { "url": "/wiki/Manille", "title": "Manille" },
+    { "url": "/wiki/Mariage_(card_game)", "title": "Mariage" },
+    { "url": "/wiki/Mari%C3%A1%C5%A1", "title": "Mariáš" },
+    { "url": "/wiki/Marjolet", "title": "Marjolet" },
+    { "url": "/wiki/Mucken", "title": "Mucken" },
+    { "url": "/wiki/Officers%27_Skat", "title": "Officers' Skat" },
+    { "url": "/wiki/Oma_Skat", "title": "Oma Skat" },
+    { "url": "/wiki/Pr%C3%A9f%C3%A9rence", "title": "Préférence" },
+    { "url": "/wiki/Piquet", "title": "Piquet" },
+    { "url": "/wiki/Quodlibet_(card_game)", "title": "Quodlibet" },
+    { "url": "/wiki/R%C3%A9union_(card_game)", "title": "Réunion" },
+    { "url": "/wiki/Schafkopf", "title": "Schafkopf (with a long pack)" },
+    { "url": "/wiki/Schwimmen", "title": "Schwimmen" },
+    { "url": "/wiki/Sedma", "title": "Sedma" },
+    { "url": "/wiki/Sheepshead_(card_game)", "title": "Sheepshead" },
+    { "url": "/wiki/Siebenschr%C3%A4m", "title": "Siebenschräm" },
+    { "url": "/wiki/Siebzehn_und_Vier", "title": "Siebzehn und Vier" },
+    { "url": "/wiki/Skat_(card_game)", "title": "Skat" },
+    { "url": "/wiki/Tippen", "title": "Tippen" },
+    { "url": "/wiki/Toepen", "title": "Toepen" },
+    { "url": "/wiki/Ulti", "title": "Ulti" },
+    { "url": "/wiki/Wallachen", "title": "Wallachen" },
+    { "url": "/wiki/Wendish_Schafkopf", "title": "Wendish Schafkopf" }
+  ]
+},
+{
+  "cardcount": 33,
+  "cards": ["German (William Tell or Double German) 4xAKOUT987+W"],
+  "games": [
+    { "url": "/wiki/Bieten", "title": "Bieten" },
+    { "url": "/wiki/Perlaggen", "title": "Perlaggen" },
+    { "url": "/wiki/Watten_(card_game)", "title": "Watten" }
+  ]
+},
+{
+  "cardcount": 36,
+  "cards": ["French (4xAKQJT9876)", "German (4xAKOUT9876)", "Swiss (4xAKOUB9876)"],
+  "games": [
+    { "url": "/wiki/Bauerntarock", "title": "Bauerntarock (G)" },
+    { "url": "/wiki/Bavarian_Tarock", "title": "Bavarian Tarock (G)" },
+    { "url": "/wiki/Br%C3%A4us", "title": "Bräus (F)" },
+    { "url": "/wiki/Brus_(card_game)", "title": "Brus (F)" },
+    { "url": "/wiki/Br%C3%BAs", "title": "Brús (F)" },
+    { "url": "/wiki/Bruus", "title": "Bruus (F)" },
+    { "url": "/wiki/Bura_(card_game)", "title": "Bura (F)" },
+    { "url": "/wiki/Coeur_d%27Alene_Solo", "title": "Coeur d'Alene Solo (F)" },
+    { "url": "/wiki/Denver_Solo", "title": "Denver Solo (F)" },
+    { "url": "/wiki/Dobbm", "title": "Dobbm (G)" },
+    { "url": "/wiki/Durak_(card_game)", "title": "Durak (F)" },
+    { "url": "/wiki/Frog_(American_card_game)", "title": "Frog (F)" },
+    { "url": "/wiki/German_Tarok", "title": "German Tarok (G)" },
+    { "url": "/wiki/Hindersche", "title": "Hindersche (F)" },
+    { "url": "/wiki/Jass", "title": "Schieber (S)" },
+    { "url": "/wiki/Knack_(card_game)", "title": "Knack (F)" },
+    { "url": "/wiki/Marjapussi", "title": "Marjapussi (F)" },
+    { "url": "/wiki/Scharwenzel", "title": "Scharwenzel (F)" },
+    { "url": "/wiki/Six-bid_solo", "title": "Six-bid solo (F)" },
+    { "url": "/wiki/Sk%C3%A6rvindsel", "title": "Skærvindsel (F)" },
+    { "url": "/wiki/Straight_Solo", "title": "Straight Solo (F)" },
+    { "url": "/wiki/Sv%C3%A4ngknack", "title": "Svängknack (F)" },
+    { "url": "/wiki/Tapp_(card_game)", "title": "Tapp (F)" },
+    { "url": "/wiki/Trekort", "title": "Trekort (F)" },
+    { "url": "/wiki/Mau_Mau_(card_game)", "title": "Tschau Sepp (S)" },
+    { "url": "/wiki/Viersche", "title": "Viersche (F)" },
+    { "url": "/wiki/Voormsi", "title": "Voormsi (F)" }
+  ]
+},
+{
+  "cardcount": 40,
+  "cards": ["Italian (4xRCF765432A)", "Spanish (4xA3RCF76542)", "shortened Tarock"],
+  "games": [
+    { "url": "/wiki/Bestia_(game)", "title": "Bestia (I)" },
+    { "url": "/wiki/Briscola", "title": "Briscola (I)" },
+    { "url": "/wiki/Landsknecht_(card_game)", "title": "Lansquenet (I)" },
+    { "url": "/wiki/L%27Hombre", "title": "L'Hombre (Sp)" },
+    { "url": "/wiki/Mus_(card_game)", "title": "Mus (Sp)" },
+    { "title": "Primero (I or Sp)" },
+    { "url": "/wiki/Quadrille_(card_game)", "title": "Quadrille (Sp)" },
+    { "url": "/wiki/Scopa_(card_game)", "title": "Scopa (I)" },
+    { "url": "/wiki/Sette_e_mezzo", "title": "Sette e mezzo (I)" },
+    { "url": "/wiki/Tressette", "title": "Tressette (I)" },
+    { "url": "/wiki/Zwanzigerrufen", "title": "Zwanzigerrufen (T)" }
+  ]
+},
+{
+  "cardcount": 42,
+  "cards": ["shortened Tarock"],
+  "games": [
+    { "url": "/wiki/Hungarian_Tarock", "title": "Hungarian Tarock" }
+  ]
+},
+{
+  "cardcount": 48,
+  "cards": ["French (4xAKQJ98765432)", "Swiss (4xKOUB98765432)"],
+  "games": [
+    { "url": "/wiki/Kaiserspiel", "title": "Kaiserspiel (S)" },
+    { "url": "/wiki/Kn%C3%BCffeln", "title": "Knüffeln (F)" },
+    { "url": "/wiki/Styrivolt", "title": "Styrivolt (F)" }
+  ]
+},
+{
+  "cardcount": 48,
+  "cards": ["French (2x4xAKOUT7)", "German (2x4xAKOUT7)"],
+  "games": [
+    { "url": "/wiki/Binokel", "title": "Binokel (G)" },
+    { "url": "/wiki/Doppelkopf", "title": "Doppelkopf (F or G)" },
+    { "url": "/wiki/Gaigel", "title": "Gaigel (G)" },
+    { "url": "/wiki/Penuchle", "title": "Penuchle (Pinochle) (F)" }
+  ]
+},
+{
+  "cardcount": 52,
+  "cards": ["French (4xAKQJT98765432)"],
+  "games": [
+    { "url": "/wiki/3-2-5", "title": "3-2-5" },
+    { "url": "/wiki/3-5-8", "title": "3-5-8" },
+    { "url": "/wiki/500_Rum", "title": "500 Rum" },
+    { "url": "/wiki/All_fours_(card_game)", "title": "All fours" },
+    { "url": "/wiki/Auction_bridge", "title": "Auction bridge" },
+    { "url": "/wiki/Badugi", "title": "Badugi" },
+    { "url": "/wiki/Barbu_(card_game)", "title": "Barbu" },
+    { "url": "/wiki/Battle_(card_game)", "title": "Battle or battle royal" },
+    { "url": "/wiki/Belle,_Fluss_and_Einunddrei%C3%9Fig", "title": "Belle, Fluss and Einunddreißig" },
+    { "url": "/wiki/Bingo_(card_game)", "title": "Bingo" },
+    { "url": "/wiki/Black_lady", "title": "Black lady" },
+    { "url": "/wiki/Black_Maria_(card_game)", "title": "Black Maria" },
+    { "url": "/wiki/Blackjack", "title": "Blackjack" },
+    { "url": "/wiki/Bluke", "title": "Bluke" },
+    { "url": "/wiki/Bonken", "title": "Bonken" },
+    { "url": "/wiki/Boston_(card_game)", "title": "Boston" },
+    { "url": "/wiki/Botifarra_(card_game)", "title": "Botifarra" },
+    { "url": "/wiki/Bourr%C3%A9", "title": "Bourré" },
+    { "url": "/wiki/Bridge_(card_game)", "title": "Bridge" },
+    { "url": "/wiki/Cassino_(card_game)", "title": "Cassino" },
+    { "url": "/wiki/Cheat_(card_game)", "title": "Cheat" },
+    { "url": "/wiki/Clag_(card_game)", "title": "Clag" },
+    { "url": "/wiki/Colonel_(card_game)", "title": "Colonel" },
+    { "url": "/wiki/Conquian", "title": "Conquian" },
+    { "url": "/wiki/Costly_colours", "title": "Costly colours" },
+    { "url": "/wiki/Court_piece", "title": "Court piece" },
+    { "url": "/wiki/Cribbage", "title": "Cribbage" },
+    { "url": "/wiki/Cucumber_(card_game)", "title": "Cucumber" },
+    { "url": "/wiki/Cuttle", "title": "Cuttle" },
+    { "url": "/wiki/Egyptian_Ratscrew", "title": "Egyptian Ratscrew" },
+    { "url": "/wiki/Femkort", "title": "Femkort" },
+    { "url": "/wiki/Forty-fives", "title": "Forty-fives" },
+    { "url": "/wiki/German_whist", "title": "German whist" },
+    { "url": "/wiki/Gin_rummy", "title": "Gin rummy" },
+    { "url": "/wiki/Golf_(card_game)", "title": "Golf" },
+    { "url": "/wiki/Gong_Zhu", "title": "Gong Zhu" },
+    { "url": "/wiki/Hearts_(card_game)", "title": "Hearts" },
+    { "url": "/wiki/Hucklebuck", "title": "Hucklebuck" },
+    { "url": "/wiki/Indian_rummy", "title": "Indian rummy" },
+    { "url": "/wiki/Kachufool", "title": "Kachufool" },
+    { "url": "/wiki/King_(card_game)", "title": "King" },
+    { "url": "/wiki/Knockout_whist", "title": "Knockout whist" },
+    { "url": "/wiki/K%C3%B6pknack", "title": "Köpknack" },
+    { "url": "/wiki/Lanterloo", "title": "Lanterloo" },
+    { "url": "/wiki/Liverpool_rummy", "title": "Liverpool rummy" },
+    { "url": "/wiki/Mizerka_(card_game)", "title": "Mizerka" },
+    { "url": "/wiki/My_ship_sails", "title": "My ship sails" },
+    { "url": "/wiki/Napoleon_(card_game)", "title": "Napoleon" },
+    { "url": "/wiki/Ninety-nine_(trick-taking_card_game)", "title": "Ninety-nine" },
+    { "url": "/wiki/Norseman%27s_knock", "title": "Norseman's knock" },
+    { "url": "/wiki/Oh_hell", "title": "Oh hell" },
+    { "url": "/wiki/Pedro_(card_game)", "title": "Pedro" },
+    { "url": "/wiki/Phat_(card_game)", "title": "Phat" },
+    { "url": "/wiki/Pitch_(card_game)", "title": "Pitch" },
+    { "url": "/wiki/Poker", "title": "Poker" },
+    { "url": "/wiki/Put_(card_game)", "title": "Put" },
+    { "url": "/wiki/Ristikontra", "title": "Ristikontra" },
+    { "url": "/wiki/R%C3%B6dsk%C3%A4gg", "title": "Rödskägg" },
+    { "url": "/wiki/Rummy", "title": "Rummy" },
+    { "url": "/wiki/Shelem", "title": "Shelem" },
+    { "url": "/wiki/Sheng_ji", "title": "Sheng ji" },
+    { "url": "/wiki/Sixty-three_(card_game)", "title": "Sixty-three" },
+    { "url": "/wiki/Smear_(card_game)", "title": "Smear" },
+    { "url": "/wiki/Spades_(card_game)", "title": "Spades" },
+    { "url": "/wiki/Tarneeb", "title": "Tarneeb" },
+    { "url": "/wiki/Treppenromm%C3%A9", "title": "Staircase rummy" },
+    { "url": "/wiki/Texas_hold_%27em", "title": "Texas hold 'em" },
+    { "url": "/wiki/Turkish_king", "title": "Turkish king" },
+    { "url": "/wiki/Vira_(card_game)", "title": "Vira" },
+    { "url": "/wiki/Whist", "title": "Whist" }
+  ]
+},
+{
+  "cardcount": 54,
+  "cards": ["shortened Tarot/Tarock"],
+  "games": [
+    { "url": "/wiki/Cego", "title": "Cego" },
+    { "url": "/wiki/Dreierles", "title": "Dreierles" },
+    { "url": "/wiki/Dreiertarock", "title": "Dreiertarock" },
+    { "url": "/wiki/Husarln", "title": "Husarln" },
+    { "url": "/wiki/Illustrated_Tarock", "title": "Illustrated Tarock" },
+    { "url": "/wiki/K%C3%B6nigrufen", "title": "Königrufen" },
+    { "url": "/wiki/Kosakeln", "title": "Kosakeln" },
+    { "url": "/wiki/Neunzehnerrufen", "title": "Neunzehnerrufen" },
+    { "url": "/wiki/Point_Tarock", "title": "Point Tarock" },
+    { "url": "/wiki/Strohmandeln", "title": "Strohmandeln" },
+    { "url": "/wiki/Tapp_Tarock", "title": "Tapp Tarock" }
+  ]
+},
+{
+  "cardcount": 58,
+  "cards": ["French (Zwicker) (4xAKQJT98765432+6xJ)"],
+  "games": [
+    { "url": "/wiki/Zwicker_(card_game)", "title": "Zwicker" }
+  ]
+},
+{
+  "cardcount": 62,
+  "cards": ["78-card Swiss 1JJ Tarot pack minus the 1-4 of Swords and Batons and 7-10 of Cups and Coins"],
+  "games": [
+    { "url": "/wiki/Troggu", "title": "Troggu" }
+  ]
+},
+{
+  "cardcount": 62,
+  "cards": ["62-card Tarocco Bolognese pack"],
+  "games": [
+    { "url": "/wiki/Tarocchini", "title": "Tarocchini" }
+  ]
+},
+{
+  "cards": ["more than 64"],
+  "games": [
+    { "url": "/wiki/Droggn", "title": "Droggn" },
+    { "url": "/wiki/Danish_Tarok", "title": "Danish Tarok" },
+    { "url": "/wiki/French_Tarot", "title": "French Tarot" },
+    { "url": "/wiki/Gro%C3%9Ftarock", "title": "Großtarock" },
+    { "url": "/wiki/Scarto", "title": "Scarto" },
+    { "url": "/wiki/Troccas", "title": "Troccas" },
+    { "url": "/wiki/Minchiate", "title": "Minchiate" },
+    { "url": "/wiki/Zank-Patience", "title": "Spite and Malice" },
+    { "url": "/wiki/Canasta", "title": "Canasta" },
+    { "url": "/wiki/Armchair_cricket", "title": "Armchair cricket" },
+    { "url": "/wiki/Romm%C3%A9", "title": "Rommé" },
+    { "url": "/wiki/Baccara_(gambling_game)", "title": "Baccara" },
+    { "url": "/wiki/Blackjack", "title": "Blackjack" }
+  ]
+}
+]}
