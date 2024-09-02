@@ -1,0 +1,64 @@
+{"id":"big-forty","name":"Big Forty","equipment":[{"id":"d-Fr","name":"French suited cards","select":["2x52"]}],"category":"patience","url":"big-forty.html"}
+{"name":"Napoleon at St. Helena","alias":"big-forty"}
+{"name":"Forty Thieves Solitaire","alias":"big-forty"}
+{"name":"Le Cadran","disamb":"The Dial","alias":"big-forty"}
+{"name":"Roosevelt at San Juan","alias":"big-forty"}
+{"id":"ali-baba","name":"Ali Baba Solitaire","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"patience","variant":"big-forty","url":"ali-baba.html"}
+{"id":"indian","name":"Indian Solitaire","equipment":[{"id":"d-Fr","name":"French suited cards","select":["2x52"]}],"category":"patience","variant":"big-forty","url":"indian.html"}
+{"id":"limited","name":"Limited Solitaire","equipment":[{"id":"d-Fr","name":"French suited cards","select":["2x52"]}],"category":"patience","variant":"big-forty","url":"limited.html"}
+{"id":"little-forty","name":"Little Forty Solitaire","equipment":[{"id":"d-Fr","name":"French suited cards","select":["2x52"]}],"category":"patience","variant":"big-forty","url":"little-forty.html"}
+{"id":"lucas","name":"Lucas Solitaire","equipment":[{"id":"d-Fr","name":"French suited cards","select":["2x52"]}],"category":"patience","variant":"big-forty","url":"lucas.html"}
+{"id":"maria","name":"Maria Solitaire","equipment":[{"id":"d-Fr","name":"French suited cards","select":["2x52"]}],"category":"patience","variant":"big-forty","url":"maria.html"}
+{"id":"number-ten","name":"Number Ten Solitaire","equipment":[{"id":"d-Fr","name":"French suited cards","select":["2x52"]}],"category":"patience","variant":"big-forty","url":"number-ten.html"}
+{"id":"rank-file","name":"Rank and File","equipment":[{"id":"d-Fr","name":"French suited cards","select":["2x52"]}],"category":"patience","variant":"big-forty","url":"rank-file.html"}
+{"name":"Dress Parade","alias":"rank-file"}
+{"id":"streets","name":"Streets Solitaire","equipment":[{"id":"d-Fr","name":"French suited cards","select":["2x52"]}],"category":"patience","variant":"big-forty","url":"streets.html"}
+{"id":"freecell","name":"FreeCell Solitaire","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"patience","variant":"eight-off","url":"freecell.html"}
+{"id":"eight-off","name":"Eight Off","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"patience"}
+{"name":"Baker's Game","alias":"eight-off"}
+{"id":"relaxed-freecell","name":"Relaxed FreeCell","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"patience","variant":"freecell","url":"freecell.html#relaxed"}
+{"id":"golf","name":"Golf Solitaire","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"patience","url":"golf.html"}
+{"name":"Fan Tan","alias":"golf"}
+{"name":"One Foundation","alias":"golf"}
+{"id":"black-hole","name":"Black Hole Solitaire","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"patience","variant":"golf","url":"black-hole.html"}
+{"id":"golf-rush","name":"Golf Rush Solitaire","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"patience","varaint":["golf","klondike"],"url":"golf-rush.html"}
+{"id":"kings-way","name":"King's Way Solitaire","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"patience","variant":"golf","url":"kings-way.html"}
+{"id":"putt-putt","name":"Putt Putt Solitaire","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"patience","variant":"golf","url":"putt-putt.html"}
+{"name":"Hole in One","alias":"putt-putt"}
+{"id":"tri-peaks","name":"TriPeaks Solitaire","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"patience","variant":["golf","pyramid"],"url":"tri-peaks.html"}
+{"name":"Tri-Peaks","alias":"tri-peaks"}
+{"name":"Tri Peaks","alias":"tri-peaks"}
+{"id":"pyramid","name":"Pyramid Solitaire","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"patience","url":"pyramid.html"}
+{"name":"Pile of Twenty-Eight","alias":"pyramid"}
+{"name":"Triangle Solitaire","alias":"pyramid"}
+{"id":"klondike","name":"Klondike Solitaire","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"patience","url":"klondike.html"}
+{"name":"Canfield","alias":"klondike"}
+{"name":"Chinaman","alias":"klondike"}
+{"name":"Demon","alias":"klondike"}
+{"name":"Fascination","alias":"klondike"}
+{"name":"Microsoft Solitaire","alias":"klondike"}
+{"id":"relaxed-klondike","name":"Relaxed Klondike Solitare","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"patience","variant":"klondike","url":"klondike.html#relaxed"}
+{"id":"agnes-bernauer","name":"Agnes Bernauer":"disamb":"Solitaire","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"patience","variant":"klondike","url":"agnes-bernauer.html"}
+{"id":"agnes-sorel","name":"Agnes Sorel Solitaire","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"patience","variant":"klondike","url":"agnes-sorel.html"}
+{"id":"yukon","name":"Yukon Solitaire","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"patience","variant":"klondike","url":"yukon.html"}
+{"id":"alaska","name":"Alaska Solitaire","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"patience","variant":"yukon","url":"alaska.html"}
+{"id":"double-klondike","name":"Double Klondike Solitaire","equipment":[{"id":"d-Fr","name":"French suited cards","select":["2x52"]}],"category":"patience","variant":"klondike","url":"double-klondike.html"}
+{"id":"steps","name":"Steps Solitaire","equipment":[{"id":"d-Fr","name":"French suited cards","select":["2x52"]}],"category":"patience","variant":"klondike","url":"steps.html"}
+{"id":"thumb-pouch","name":"Thumb and Pouch Solitaire","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"patience","variant":"klondike","url":"thumb-pouch.html"}
+{"id":"whitehead","name":"Whitehead Solitaire","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"patience","variant":"klondike","url":"whitehead.html"}
+{"id":"spider","name":"Spider Solitaire","equipment":[{"id":"d-Fr","name":"French suited cards","select":["2x52"]}],"category":"patience","url":"spider.html"}
+{"id":"antares","name":"Antares","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"patience","variant":["spider", "scorpion", "freecell"],"url":"antares.html"}
+{"id":"beetle","name":"Beetle","equipment":[{"id":"d-Fr","name":"French suited cards","select":["2x52"]}],"category":"patience","variant":"spider","url":"beetle.html"}
+{"id":"black-widow","name":"Black Widow Solitaire","equipment":[{"id":"d-Fr","name":"French suited cards","select":["2x52"]}],"category":"patience","variant":"spider","url":"black-widow.html"}
+{"id":"curds-whey","name":"Curds and Whey","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"patience","variant":"spider","url":"curds-whey.html"}
+{"id":"double-scorpion","name":"Double Scorpion","equipment":[{"id":"d-Fr","name":"French suited cards","select":["2x52"]}],"category":"patience","variant":"spider","url":"double-scorpion.html"}
+{"id":"lady-cadogan","name":"Lady Cadogan","equipment":[{"id":"d-Fr","name":"French suited cards","select":["2x52"]}],"category":"patience","variant":"rouge-noir","url":"lady-cadogan.html"}
+{"id":"miss-milligan","name":"Miss Milligan","equipment":[{"id":"d-Fr","name":"French suited cards","select":["2x52"]}],"category":"patience","variant":"spider","url":"miss-milligan.html"}
+{"id":"miss-muffet","name":"Miss Muffet","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"patience","variant":"curds-whey","url":"miss-muffet.html"}
+{"id":"rouge-noir","name":"Rouge et Noir","disamb":"Red and Black","equipment":[{"id":"d-Fr","name":"French suited cards","select":["2x52"]}],"category":"patience","variant":"spider","url":"rouge-noir.html"}
+{"id":"scorpion","name":"Scorpion Solitaire","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"patience","variant":"spider","url":"scorpion.html"}
+{"id":"simple-simon","name":"Simple Simon","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"patience","variant":"spider","url":"simple-simon.html"}
+{"id":"spider-web","name":"Spider Web","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"patience","variant":"spider","url":"spider-web.html"}
+{"id":"spiderette","name":"Spiderette","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"patience","variant":"spider","url":"spiderette.html"}
+{"id":"spidike","name":"Spidike","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"patience","variant":"spider","url":"spidike.html"}
+{"id":"ukrainian","name":"Ukrainian Solitaire","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"patience","variant":"spider","url":"ukrainian.html"}
