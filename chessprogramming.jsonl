@@ -1,0 +1,46 @@
+{"id":"antichess","disamb":"Losing Chess","url":"https://www.chessprogramming.org/Losing_Chess","variant":"chess","name":"Antichess (Losing Chess)"}
+{"name":"Losing Chess","alias":"antichess"}
+{"name":"Suicide Chess","alias":"antichess"}
+{"id":"atomic-chess","url":"https://www.chessprogramming.org/Atomic_Chess","variant":"chess","name":"Atomic Chess"}
+{"id":"capablanca-chess","url":"https://en.wikipedia.org/wiki/Capablanca_chess","variant":"chess","name":"Capablanca Chess"}
+{"id":"chess-960","url":"https://www.chessprogramming.org/Chess960","variant":"shuffle-chess","name":"Chess960 or Fischer Random Chess (FRC)"}
+{"id":"chinese-chess","url":"https://www.chessprogramming.org/Chinese_Chess","variant":"chess","name":"Chinese Chess (Xiangqi)"}
+{"id":"crazyhouse","url":"https://www.chessprogramming.org/Crazyhouse","variant":"chess","name":"Crazyhouse"}
+{"id":"gothic-chess","url":"https://en.wikipedia.org/wiki/Capablanca_chess#Postdating_Capablanca_chess","variant":"chess","name":"Gothic Chess"}
+{"id":"kinglet","url":"https://www.chessvariants.com/winning.dir/kinglet.html","variant":"chess","name":"Kinglet"}
+{"id":"knightmate-chess","url":"https://www.chessprogramming.org/Knightmate_Chess","variant":"chess","name":"Knightmate Chess"}
+{"id":"nightrider-chess","name":"Nightrider Chess","variant":"chess","url":"https://en.wikipedia.org/wiki/Nightrider_(chess)"}
+{"id":"seirawan-chess","name":"Seirawan Chess","variant":"chess","url":"https://en.wikipedia.org/wiki/Capablanca_chess#Seirawan_chess"}
+{"id":"shatranj","url":"https://www.chessprogramming.org/Shatranj","variant":"chess","name":"Shatranj"}
+{"id":"shogi","url":"https://www.chessprogramming.org/Shogi","variant":"chess","name":"Shogi (Japanese Chess)"}
+{"id":"shuffle-chess","name":"Shuffle Chess","variant":"chess","url":"https://en.wikipedia.org/wiki/Fischer_random_chess"}
+{"id":"xiangqi","name":"Xiangqi","disamb":"(Chinese Chess)","url":"https://www.chessprogramming.org/Chinese_Chess","variant":"chess"}
+
+Abstract Board Games
+{"id":"amazons","name":"Amazons","url":"https://chessprogramming.org/Amazons","category":"board"}
+{"id":"arimaa","name":"Arimaa","url":"https://chessprogramming.org/Arimaa","category":"board"}
+{"id":"breakthrough","name":"Breakthrough","url":"https://chessprogramming.org/Breakthrough_(Game)","category":"board"}
+{"id":"checkers","name":"Checkers","url":"https://chessprogramming.org/Checkers","category":"board"}
+{"id":"clobber","name":"Clobber","url":"https://chessprogramming.org/Clobber","category":"board"}
+{"id":"connect-four","name":"Connect Four","url":"https://chessprogramming.org/Connect_Four","category":"board"}
+{"id":"connect-six","name":"Connect6","url":"https://chessprogramming.org/Connect6","category":"board"}
+{"id":"draughts","name":"Draughts","url":"https://chessprogramming.org/Draughts","category":"board"}
+{"id":"go","name":"Go","url":"https://chessprogramming.org/Go","category":"board"}
+{"id":"havannah","name":"Havannah","url":"https://chessprogramming.org/Havannah","category":"board"}
+{"id":"hex","name":"Hex","url":"https://chessprogramming.org/Hex","category":"board"}
+{"id":"lines-of-action","name":"Lines of Action","url":"https://chessprogramming.org/Lines_of_Action","category":"board"}
+{"id":"nine-mens-morris","name":"Nine Men's Morris","url":"https://chessprogramming.org/Nine_Men%E2%80%99s_Morris","category":"board"}
+{"id":"Othello","name":"Othello","url":"https://chessprogramming.org/Othello","category":"board"}
+{"id":"abalone","name":"Abalone","category":"board"}
+{"id":"ataxx","name":"Ataxx","category":"board"}
+{"id":"gomoku","name":"Gomoku","variant":"tic-tac-toe"}
+{"id":"renju","name":"Renju","variant":"gomoku"}
+{"id":"mancala-awari","url":"https://chessprogramming.org/Awari","name":"Awari","variant":"mancala"}
+{"id":"mancala-bao","url":"https://chessprogramming.org/Bao","name":"Bao","variant":"mancala"}
+{"id":"mancala-kalah","url":"https://chessprogramming.org/Kalah","name":"Kalah","variant":"mancala"}
+{"id":"backgammon","url":"https://chessprogramming.org/Backgammon","name":"Backgammon","category":"race"}
+{"id":"einstein-wurfelt-nicht","url":"https://chessprogramming.org/EinStein_w%C3%BCrfelt_nicht!","name":"EinStein würfelt nicht!"}
+{"id":"chinese-dark-chess","url":"https://chessprogramming.org/Chinese_Dark_Chess","name":"Chinese Dark Chess"}
+{"id":"kriegspiel","url":"https://chessprogramming.org/KriegSpiel","name":"KriegSpiel"}
+{"id":"jeiqi","url":"https://chessprogramming.org/Jeiqi","name":"Jeiqi"}
+{"id":"phantom-go","url":"https://chessprogramming.org/Phantom_Go","name":"Phantom Go"}
