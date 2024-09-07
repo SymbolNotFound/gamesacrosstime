@@ -45,3 +45,15 @@
 {"id":"amazons","name":"Amazons Solitaire","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52-2-3-4-5-6-K"]}],"category":"patience","url":"cardgameheaven.com/single-player-games/amazons-solitaire.html"}
 {"id":"beehive","name":"Beehive Solitaire","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"patience","url":"cardgameheaven.com/single-player-games/beehive-solitaire.html"}
 {"id":"bowling","name":"Bowling Solitaire","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52-K-Q-J"]}],"category":"patience","url":"cardgameheaven.com/single-player-games/bowling-solitaire.html"}
+{"id":"calculation","name":"Calculation","disamb":"Solitaire","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"patience","url":"cardgameheaven.com/single-player-games/calculation-solitaire.html"}
+{"id":"canfield","name":"Canfield","disamb":"Solitaire","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"patience","url":"cardgameheaven.com/single-player-games/canfield.html"}
+{"name":"Klondike","alias":"canfield","note":"yes, both names got mixed up with each other.. they are not the same but they are."}
+{"id":"big-forty","name":"Big Forty","disamb":"Solitaire","equipment":[{"id":"d-Fr","name":"French suited cards","select":["2x52"]}],"category":"patience","url":"cardgameheaven.com/single-player-games/fourty-thieves.html"}
+{"name":"Fourty Thieves","alias":"big-forty"}
+{"id":"golf","name":"Golf","disamb":"Solitaire","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"patience","url":"cardgameheaven.com/single-player-games/golf-solitaire.html"}
+{"id":"klondike","name":"Klondike","disamb":"Solitaire","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"patience","url":"cardgameheaven.com/single-player-games/klondike-solitaire.html"}
+{"name":"Canfield","alias":"klondike"}
+{"id":"la-belle-lucie","name":"La Belle Lucie","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"patience","url":"cardgameheaven.com/single-player-games/la-belle-lucie.html"}
+{"id":"pyramid","name":"Pyramid","disamb":"Solitaire","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"patience","url":"cardgameheaven.com/single-player-games/pyramid-solitaire.html"}
+{"id":"spider","name":"Spider Solitaire","equipment":[{"id":"d-Fr","name":"French suited cards","select":["2x52"]}],"category":"patience","url":"cardgameheaven.com/single-player-games/spider-solitaire.html"}
+{"id":"tripeaks","name":"TriPeaks Solitaire","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"patience","url":"cardgameheaven.com/single-player-games/tripeaks-solitaire/"}
