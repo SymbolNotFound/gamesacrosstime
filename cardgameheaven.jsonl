@@ -1,0 +1,47 @@
+{"id":"asshole","name":"Asshole","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"drinking","url":"cardgameheaven.com/drinking-card-games/asshole.html","author":"spencergregory","updated":"2018/04/15"}
+{"id":"beer-99","name":"Beer 99","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"drinking","url":"cardgameheaven.com/drinking-card-games/beer-99.html","author":"spencergregory","updated":"2017/01/28"}
+{"id":"beeramid","name":"Beeramid","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"drinking","url":"cardgameheaven.com/drinking-card-games/beeramid.html","author":"spencergregory","note":"similar to Fire Square","updated":"2017/01/28"}
+{"id":"black-or-red","name":"Black or Red","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"drinking","url":"cardgameheaven.com/drinking-card-games/black-or-red.html","author":"spencergregory","note":"very easy rules"}
+{"id":"brain-damage","name":"Brain Damage","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52-8-9-10H-10D"]}],"category":"drinking","url":"cardgameheaven.com/drinking-card-games/brain-damage.html","author":"spencergregory"}
+{"id":"bus-driver","name":"Bus Driver","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"drinking","url":"cardgameheaven.com/drinking-card-games/bus-driver.html","author":"spencergregory"}
+{"id":"cheat","name":"Cheat","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"drinking","url":"cardgameheaven.com/drinking-card-games/cheat.html","author":"spencergregory"}
+{"id":"fire-square","name":"Fire Square","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"drinking","url":"cardgameheaven.com/drinking-card-games/fire-square.html","author":"spencergregory"}
+{"id":"forehead-idiot","name":"Forehead Idiot","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"drinking","url":"cardgameheaven.com/drinking-card-games/forehead-idiot.html","author":"spencergregory","updated":"2018/04/25"}
+{"id":"give-one-take-one","name":"Give One, Take One","equipment":[{"id":"d-Fr","name":"French suited cards","select":["2x52"]}],"category":"drinking","url":"cardgameheaven.com/drinking-card-games/give-one-take-one.html","author":"spencergregory"}
+{"id":"jail-break","name":"Jail Break","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"drinking","url":"cardgameheaven.com/drinking-card-games/jail-break.html","author":"spencergregory"}
+{"id":"killer","name":"Killer","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"drinking","url":"cardgameheaven.com/drinking-card-games/killer.html","author":"spencergregory"}
+{"id":"kings","name":"Kings","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"drinking","url":"cardgameheaven.com/drinking-card-games/kings.html","author":"spencergregory"}
+{"id":"queens","name":"Queens","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"drinking","url":"cardgameheaven.com/drinking-card-games/queens.html","author":"spencergregory"}
+{"id":"ring-of-fire","name":"Ring of Fire","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"drinking","url":"cardgameheaven.com/drinking-card-games/ring-of-fire","author":"spencergregory"}
+{"id":"screw-your-neighbor","name":"Screw Your Neighbor","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"drinking","url":"cardgameheaven.com/drinking-card-games/screw-your-neighbor.html","author":"spencergregory"}
+{"id":"spoons","name":"Spoons","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"drinking","url":"cardgameheaven.com/drinking-card-games/spoons.html","author":"spencergregory"}
+{"id":"thumb-master","name":"ThumbMaster","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"drinking","url":"cardgameheaven.com/drinking-card-games/thumbmaster.html","author":"spencergregory"}
+{"id":"ultimate-loser","name":"Ultimate Loser","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"drinking","url":"cardgameheaven.com/drinking-card-games/ultimate-loser/","author":"spencergregory"}
+{"id":"bezique","name":"Bezique","equipment":[{"id":"d-Fr","name":"French suited cards","select":["2x32"]}],"category":"card-game","url":"cardgameheaven.com/bezique/"}
+{"id":"bridge","name":"Bridge","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"card-game","url":"cardgameheaven.com/bridge/"}
+{"id":"canasta","name":"Canasta","disamb":"Basket","equipment":[{"id":"d-Fr","name":"French suited cards","select":["2x52+4xJoker"]}],"category":"card-game","url":"cardgameheaven.com/canasta/"}
+{"id":"cribbage","name":"Cribbage","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"card-game","url":"cardgameheaven.com/cribbage/"}
+{"id":"double-solitaire","name":"Double Solitaire","equipment":[{"id":"d-Fr","name":"French suited cards","select":["2x52"]}],"category":"card-game","url":"cardgameheaven.com/double/"}
+{"id":"eights","name":"Eights","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"card-game","url":"cardgameheaven.com/eights/"}
+{"name":"Crazy Eights","alias":"eights"}
+{"id":"euchre","name":"Euchre","equipment":[{"id":"d-Fr","name":"French suited cards","select":["24"]}],"category":"card-game","url":"cardgameheaven.com/euchre/"}
+{"id":"fan-tan","name":"Fan Tan","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"card-game","url":"cardgameheaven.com/fan-tan/"}
+{"id":"five-hundred","name":"Five Hundred","equipment":[{"id":"d-Fr","name":"French suited cards","select":["32+Joker"]}],"category":"card-game","url":"cardgameheaven.com/five-hundred/"}
+{"id":"gin-rummy","name":"Gin Rummy","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"card-game","url":"cardgameheaven.com/gin-rummy/"}
+{"id":"hearts","name":"Hearts","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"card-game","url":"cardgameheaven.com/hearts"}
+{"id":"knock-rummy","name":"Knock Rummy","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"card-game","url":"cardgameheaven.com/knock-rummy/"}
+{"id":"napoleon","name":"Napoleon","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"card-game","url":"cardgameheaven.com/napoleon/"}
+{"id":"oh-hell","name":"Oh Hell!","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"card-game","url":"cardgameheaven.com/oh-hell/"}
+{"id":"old-maid","name":"Old Maid","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52-QH","32-QH"]}],"category":"card-game","url":"cardgameheaven.com/old-maid/"}
+{"id":"old-bachelor","name":"Old Bachelor","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52-JC","32-JC"]}],"category":"card-game","variant":"old-maid"}
+{"name":"Black Peter","alias":"old-bachelor"}
+{"id":"piquet","name":"Piquet","equipment":[{"id":"d-Fr","name":"French suited cards","select":["32"]}],"category":"card-game","url":"cardgameheaven.com/piquet/"}
+{"id":"poker","name":"Poker","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"card-game","url":"cardgameheaven.com/poker/"}
+{"id":"pontoon","name":"Pontoon","disamb":"21","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"card-game","url":"cardgameheaven.com/pontoon-21/"}
+{"id":"president","name":"President","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52","2x52"]}],"category":"card-game","url":"cardgameheaven.com/president/"}
+{"id":"solo-whist","name":"Solo Whist","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"card-game","url":"cardgameheaven.com/solo-whist/"}
+{"id":"texas-hold-em","name":"Texas Hold 'Em","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"card-game","url":"cardgameheaven.com/texas-hold-em/"}
+{"id":"whist","name":"Whist","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"card-game","url":"cardgameheaven.com/whist/"}
+{"id":"amazons","name":"Amazons Solitaire","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52-2-3-4-5-6-K"]}],"category":"patience","url":"cardgameheaven.com/single-player-games/amazons-solitaire.html"}
+{"id":"beehive","name":"Beehive Solitaire","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52"]}],"category":"patience","url":"cardgameheaven.com/single-player-games/beehive-solitaire.html"}
+{"id":"bowling","name":"Bowling Solitaire","equipment":[{"id":"d-Fr","name":"French suited cards","select":["52-K-Q-J"]}],"category":"patience","url":"cardgameheaven.com/single-player-games/bowling-solitaire.html"}
