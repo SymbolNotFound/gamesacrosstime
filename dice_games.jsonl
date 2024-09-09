@@ -59,6 +59,21 @@
 {"id":"staircase","name":"Staircase","category":"dice","url":"/2024/08/17/eskalero/"}
 {"id":"eliminator","name":"Eliminator","category":"dice","url":"/2024/08/17/eliminatka/"}
 {"id":"ten-thousand","name":"Ten Thousand","category":"dice","url":"/2024/08/17/dziesiec-tysiecy/"}
+{"name":"Dice 10,000","alias":"ten-thousand"}
+{"name":"10000","alias":"ten-thousand"}
+{"name":"Greed","alias":"ten-thousand"}
+{"name":"Dix Mille","alias":"ten-thousand"}
+{"name":"Reload","alias":"ten-thousand"}
+{"name":"5-Dice","alias":"ten-thousand"}
+{"name":"Cargoose","alias":"ten-thousand"}
+{"name":"Foo","alias":"ten-thousand"}
+{"name":"Boxcar","alias":"ten-thousand"}
+{"name":"Bogus","alias":"ten-thousand"}
+{"name":"Lewis' Dice","alias":"ten-thousand"}
+{"name":"Crap Out","alias":"ten-thousand"}
+{"name":"Zap","alias":"ten-thousand"}
+{"name":"Zilch","alias":"ten-thousand"}
+{"name":"Zilchers","alias":"ten-thousand"}
 {"id":"tender","name":"Tender","category":"dice","url":"/2024/08/17/dycha-talus/"}
 {"id":"twenty-one","name":"Twenty One","category":"dice","url":"/2024/08/17/dwadziescia-jeden/"}
 {"id":"decathlon","name":"Decathlon","category":"dice","url":"/2024/08/17/decathlon/"}
