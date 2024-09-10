@@ -1,9 +1,9 @@
 {"id":"rugby","name":"Rugby","category":"dice","url":"/2024/08/24/rugby/"}
 {"id":"points","name":"Points","category":"dice","url":"/2024/08/24/punkciki/"}
 {"id":"help-neighbor","name":"Help Your Neighbor","category":"dice","url":"/2024/08/24/pomoz-sasiadowi/"}
-{"id":"wild-two-poker","name":"Wild Two Poker","category":"dice","url":"/2024/08/24/poker-dzikie-dwojki/"}
-{"id":"classic-poker","name":"Classic Poker","category":"dice","url":"/2024/08/24/poker-klasyczny/"}
-{"id":"indian-poker","name":"Indian Poker","category":"dice","url":"/2024/08/24/poker-indianski/"}
+{"id":"wild-two-poker-dice","name":"Wild Two Poker","disamb":"with Dice","category":"dice","url":"/2024/08/24/poker-dzikie-dwojki/"}
+{"id":"classic-poker-dice","name":"Classic Poker","disamb":"with Dice","category":"dice","url":"/2024/08/24/poker-klasyczny/"}
+{"id":"indian-poker-dice","name":"Indian Poker","disamb":"with Dice","category":"dice","url":"/2024/08/24/poker-indianski/"}
 {"id":"going-boston","name":"Going to Boston","category":"dice","url":"/2024/08/24/podroz-do-bostonu-going-to-boston/"}
 {"id":"pirate-thousand","name":"Pirate Thousand","category":"dice","url":"/2024/08/24/piracki-tysiac/"}
 {"id":"football","name":"Football","category":"dice","url":"/2024/08/23/pilkarzyki/"}
@@ -16,7 +16,7 @@
 {"id":"passage","name":"Passage","category":"dice","url":"/2024/08/23/pasaz/"}
 {"id":"couples","name":"Couples","category":"dice","url":"/2024/08/23/pary/"}
 {"id":"pair-with-ace","name":"Pair with Ace","category":"dice","url":"/2024/08/23/para-z-asem/"}
-{"id":"poker-cheat","name":"Poker Cheat","category":"dice","url":"/2024/08/23/oszust/"}
+{"id":"cheat-poker-dice","name":"Cheat Poker","disamb":"with Dice","category":"dice","url":"/2024/08/23/oszust/"}
 {"id":"countdown","name":"Countdown","category":"dice","url":"/2024/08/23/odliczanie/"}
 {"id":"mesh","name":"Mesh","category":"dice","url":"/2024/08/23/oczko/"}
 {"id":"heaven-hell","name":"Heaven and Hell","category":"dice","url":"/2024/08/23/niebo-i-pieklo/"}
@@ -35,9 +35,9 @@
 {"id":"a-dot","name":"A Dot","category":"dice","url":"/2024/08/19/kropeczka/"}
 {"id":"bowling","name":"Bowling","category":"dice","url":"/2024/08/19/kregle/"}
 {"id":"crown-anchor","name":"Crown and Anchor","category":"dice","url":"/2024/08/19/korona-i-kotwica/"}
-{"id":"poker-with-school","name":"Poker with School","category":"dice","url":"/2024/08/19/poker-ze-szkolka/"}
+{"id":"school-poker-dice","name":"School Poker","disamb":"with Dice","category":"dice","url":"/2024/08/19/poker-ze-szkolka/"}
 {"id":"search-sheep","name":"Search for Sheep","category":"dice","url":"/kon-min-yeung-poszukiwanie-owiec/"}
-{"id":"klondike-poker","name":"Klondike Poker","category":"dice","url":"/2024/08/19/klondike-3/"}
+{"id":"klondike-poker","name":"Klondike Poker","disamb":"with Dice","category":"dice","url":"/2024/08/19/klondike-3/"}
 {"id":"eleven","name":"Eleven","category":"dice","url":"/2024/08/19/jedenastka/"}
 {"id":"jasir","name":"Jasir","category":"dice","url":"/2024/08/19/jasyr/"}
 {"id":"jackpot","name":"Jackpot","category":"dice","url":"/2024/08/19/jackpot/"}
@@ -57,6 +57,7 @@
 {"id":"farkelek","name":"Farkelek","category":"dice","url":"/2024/08/17/farkelek/"}
 {"id":"everest","name":"Everest","category":"dice","url":"/2024/08/17/everest/"}
 {"id":"staircase","name":"Staircase","category":"dice","url":"/2024/08/17/eskalero/"}
+{"name":"Eskalero","alias":"staircase"}
 {"id":"eliminator","name":"Eliminator","category":"dice","url":"/2024/08/17/eliminatka/"}
 {"id":"ten-thousand","name":"Ten Thousand","category":"dice","url":"/2024/08/17/dziesiec-tysiecy/"}
 {"name":"Dice 10,000","alias":"ten-thousand"}
