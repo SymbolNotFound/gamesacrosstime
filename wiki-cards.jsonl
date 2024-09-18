@@ -1,0 +1,194 @@
+{"id":"einwerfen","name":"Einwerfen","url":"wikipedia.org/wiki/Einwerfen","year":"1811"}
+{"id":"skat","name":"Skat","disamb":"card game","url":"wikipedia.org/wiki/Skat_(card_game)","year":"1810"}
+{"id":"calabresella","name":"Calabresella","url":"wikipedia.org/wiki/Calabresella","year":"1822"}
+{"id":"grasobern","name":"Grasobern","url":"wikipedia.org/wiki/Grasobern","year":"1826"}
+{"id":"klaberjass","name":"Klaberjass","url":"wikipedia.org/wiki/Klaberjass","year":"1730"}
+{"name":"Bela","alias":"klaberjass"}
+{"name":"Klaverjassen","alias":"klaberjass"}
+{"id":"strohmandeln","name":"Strohmandeln","url":"wikipedia.org/wiki/Strohmandeln"}
+{"name":"Strohmandel","alias":"strohmandeln"}
+{"name":"Strohmanntarock","alias":"strohmandeln"}
+{"name":"Strohmanntarok","alias":"strohmandeln"}
+{"name":"Zweiertarock","alias":"strohmandeln"}
+{"name":"Strawman Tarock","alias":"strohmandeln"}
+{"name":"Straw Man Tarock","alias":"strohmandeln"}
+{"id":"officers-skat","name":"Officers' Skat","url":"wikipedia.org/wiki/Officers%27_Skat"}
+{"name":"Offiziers-Skat","alias":"officers-skat"}
+{"name":"Two-hand Skat","alias":"officers-skat"}
+{"name":"Zweimann-Skat","alias":"officers-skat"}
+{"name":"Skat zu zweit","alias":"officers-skat"}
+{"name":"Sailors' Skat","alias":"officers-skat"}
+{"name":"Seemannsskat","alias":"officers-skat"}
+{"name":"Farmers' Skat","alias":"officers-skat"}
+{"name":"Bauernskat","alias":"officers-skat"}
+{"name":"Robbers' Skat","alias":"officers-skat"}
+{"name":"Räuberskat","alias":"officers-skat"}
+{"name":"Coachmen's Skat","alias":"officers-skat"}
+{"name":"Kutscherskat","alias":"officers-skat"}
+{"id":"harlequin-skat","name":"Harlequin Skat","url":"wikipedia.org/wiki/Officers%27_Skat#Harlequin_Skat","variant":"officers-skat"}
+{"id":"admirals-skat","name":"Admirals' Skat","url":"wikipedia.org/wiki/Officers%27_Skat#Admirals'_Skat","variant":"officers-skat"}
+{"id":"officers-schafkopf","name":"Officers' Schafkopf","url":"wikipedia.org/wiki/Officers%27_Schafkopf","year":"1835"}
+{"name":"Open Schafkopf","alias":"officers-schafkopf"}
+{"name":"Aufgelegter Schafkopf","alias":"officers-schafkopf"}
+{"name":"Aafglegta Schafkopf","alias":"officers-schafkopf"}
+{"name":"Two-Hand Schafkopf","alias":"officers-schafkopf"}
+{"name":"Zweier Schafkopf","alias":"officers-schafkopf"}
+{"name":"Schafkopf zu zweit","alias":"officers-schafkopf"}
+{"name":"Two-Hand Wendish Schafkopf","alias":"officers-schafkopf"}
+{"name":"Wendischer Schafkopf zu zweit","alias":"officers-schafkopf"}
+{"name":"Farmer's Schafkopf","alias":"officers-schafkopf"}
+{"name":"Bauernschafkopf","alias":"officers-schafkopf"}
+{"name":"Robbers' Schafkopf","alias":"officers-schafkopf"}
+{"name":"Räuber-Schafkopf","alias":"officers-schafkopf"}
+{"name":"Officers' Regalia","alias":"officers-schafkopf"}
+{"name":"Offiziersschmuck","alias":"officers-schafkopf"}
+{"name":"Ölkopf","alias":"officers-schafkopf"}
+{"name":"Oil Head","alias":"officers-schafkopf"}
+{"id":"french-tarot","name":"French Tarot","url":"wikipedia.org/wiki/French_Tarot","players":"4","year":"14??"}
+{"id":"droggn","name":"Droggn","variant":"french-tarot"}
+{"id":"perlaggen","name":"Perlaggen","players":{"allow":["2","4","6"]},"url":"wikipedia.org/wiki/Perlaggen"}
+{"id":"vieux-garcon","name":"Vieux Garçon","url":"wikipedia.org/wiki/Vieux_garçon"}
+{"id":"bezique","name":"Bezique","url":"wikipedia.org/wiki/Bezique"}
+{"id":"binokel","name":"Binokel","url":"wikipedia.org/wiki/Binokel"}
+{"id":"pollack-cards","name":"Pollack","disamb":"card game","url":"wikipedia.org/wiki/Pollack_(card_game)"}
+{"id":"schafkopf","name":"Schafkopf","url":"wikipedia.org/wiki/Schafkopf"}
+{"id":"authors-cards","name":"Authors","disamb":"card game","url":"wikipedia.org/wiki/Authors_(card_game)"}
+{"id":"beggar-my-neighbour","name":"Beggar-my-neighbour","url":"wikipedia.org/wiki/Beggar-my-neighbour"}
+{"id":"five-card-stud","name":"Five-card Stud","url":"wikipedia.org/wiki/Five-card_stud"}
+{"id":"thunee","name":"Thunee","url":"wikipedia.org/wiki/Thunee"}
+{"id":"cinch-cards","name":"Cinch","disamb":"card game","url":"wikipedia.org/wiki/Cinch_(card_game)"}
+{"id":"jubilee","name":"Jubilee","disamb":"solitaire","url":"wikipedia.org/wiki/Jubilee_(solitaire)"}
+{"id":"alice-in-wonderland-cards","name":"The Game of Alice in Wonderland","url":"wikipedia.org/wiki/The_Game_of_Alice_in_Wonderland"}
+{"id":"hearts","name":"Hearts","disamb":"card game","url":"wikipedia.org/wiki/Hearts_(card_game)"}
+{"id":"old-maid","name":"Old Maid","disamb":"card game","url":"wikipedia.org/wiki/Old_maid_(card_game)"}
+{"id":"pedro","name":"Pedro","disamb":"card game","url":"wikipedia.org/wiki/Pedro_(card_game)"}
+{"id":"auction-hearts","name":"Auction Hearts","url":"wikipedia.org/wiki/Hearts_(card_game)#Auction_Hearts"}
+{"id":"canfield","name":"Canfield","disamb":"solitaire","url":"wikipedia.org/wiki/Canfield_(solitaire)","year":"1891","locale":"en_GB"}
+{"name":"Demon","alias":"canfield"}
+{"name":"Demon Patience","alias":"canfield"}
+{"name":"Klondike","alias":"canfield","locale":"en_US"}
+{"id":"auction-bridge","name":"Auction Bridge","url":"wikipedia.org/wiki/Auction_bridge"}
+{"id":"pit-cards","name":"Pit","url":"wikipedia.org/wiki/Pit_(game)"}
+{"id":"rook-cards","name":"Rook","url":"wikipedia.org/wiki/Rook_(card_game)"}
+{"id":"touring-cards","name":"Touring","url":"wikipedia.org/wiki/Touring_(card_game)"}
+{"id":"black-lady","name":"Black Lady","url":"wikipedia.org/wiki/Black_Lady"}
+{"id":"gin-rummy","name":"Gin Rummy","url":"wikipedia.org/wiki/Gin_rummy"}
+{"id":"panko-votes-for-Women","name":"Panko, or Votes for Women","url":"wikipedia.org/wiki/Panko_or_Votes_for_Women"}
+{"id":"texas-hold-em","name":"Texas hold 'em","url":"wikipedia.org/wiki/Texas_hold_%27em"}
+{"id":"lizzie-magie","name":"Lizzie Magie","url":"wikipedia.org/wiki/Lizzie_Magie"}
+{"id":"strip-game","name":"Strip Game","url":"wikipedia.org/wiki/Strip_game"}
+{"id":"zodiac","name":"Zodiac","disamb":"solitaire","url":"wikipedia.org/wiki/Zodiac_(solitaire)"}
+{"id":"contract-bridge","name":"Contract Bridge","url":"wikipedia.org/wiki/Contract_bridge"}
+{"id":"bakers-game","name":"Baker's Game","url":"wikipedia.org/wiki/Baker%27s_Game"}
+{"id":"belot","name":"Belot","url":"wikipedia.org/wiki/Belote","variant":"belote"}
+{"name":"Bela","alias":"belot"}
+{"id":"belote","name":"Belote","url":"wikipedia.org/wiki/Belote#Belot"}
+{"id":"black-peter","name":"Black Peter","url":"wikipedia.org/wiki/Black_Peter_(card_game)"}
+{"id":"svoyi-koziri","name":"Svoyi Koziri","url":"wikipedia.org/wiki/Svoyi_Koziri"}
+{"id":"ulti","name":"Ulti","url":"wikipedia.org/wiki/Ulti"}
+{"id":"towie-cards","name":"Towie","disamb":"card game","url":"wikipedia.org/wiki/Towie_(card_game)"}
+{"id":"lexicon-cards","name":"Lexicon","disamb":"card game","url":"wikipedia.org/wiki/Lexicon_(card_game)"}
+{"id":"make-a-million","name":"Make-A-Million","url":"wikipedia.org/wiki/Make-A-Million"}
+{"id":"whot","name":"Whot!","url":"wikipedia.org/wiki/Whot!"}
+{"id":"canasta","name":"Canasta","url":"wikipedia.org/wiki/Canasta"}
+{"id":"black-maria","name":"Black_Maria","disamb":"card_game","url":"wikipedia.org/wiki/Black_Maria_(card_game)"}
+{"id":"five-suit-bridge","name":"Five-suit Bridge","url":"wikipedia.org/wiki/Five-suit_bridge"}
+{"id":"goofspiel","name":"Goofspiel","url":"wikipedia.org/wiki/Goofspiel"}
+{"id":"mau-mau","name":"Mau-Mau","disamb":"card game","url":"wikipedia.org/wiki/Mau-Mau_(card_game)"}
+{"id":"oh-hell","name":"Oh Hell","url":"wikipedia.org/wiki/Oh_hell"}
+{"id":"spades","name":"Spades","url":"wikipedia.org/wiki/Spades_(card_game)"}
+{"id":"pig","name":"Pig","url":"wikipedia.org/wiki/Pig_(card_game)"}
+{"id":"crazy-eights","name":"Crazy Eights","url":"wikipedia.org/wiki/Crazy_Eights"}
+{"id":"machiavelli","name":"Machiavelli","url":"wikipedia.org/wiki/Machiavelli_(Italian_card_game)"}
+{"id":"rumino","name":"Rumino","url":"wikipedia.org/wiki/Rumino"}
+{"id":"mille-bornes","name":"Mille Bornes","url":"wikipedia.org/wiki/Mille_Bornes"}
+{"id":"eleusis","name":"Eleusis","url":"wikipedia.org/wiki/Eleusis_(card_game)"}
+{"id":"rack-o","name":"Rack-O","url":"wikipedia.org/wiki/Rack-O"}
+{"id":"baseball-cards","name":"Baseball","disamb":"card game","url":"wikipedia.org/wiki/Baseball_(card_game)"}
+{"id":"husarln","name":"Husarln","url":"wikipedia.org/wiki/Husarln"}
+{"id":"illustrated-tarock","name":"Illustrated Tarock","url":"wikipedia.org/wiki/Illustrated_Tarock"}
+{"id":"kosakeln","name":"Kosakeln","url":"wikipedia.org/wiki/Kosakeln"}
+{"id":"point-tarock","name":"Point Tarock","url":"wikipedia.org/wiki/Point_Tarock"}
+{"id":"viennese-grosstarock","name":"Viennese Grosstarock","url":"wikipedia.org/wiki/Viennese_Grosstarock"}
+{"id":"dutch-blitz","name":"Dutch Blitz","url":"wikipedia.org/wiki/Dutch_Blitz"}
+{"id":"woodland-snap","name":"Woodland Snap","url":"wikipedia.org/wiki/Woodland_Snap"}
+{"id":"krypto","name":"Krypto","url":"wikipedia.org/wiki/Krypto_(game)"}
+{"id":"nuclear-war","name":"Nuclear War","url":"wikipedia.org/wiki/Nuclear_War_(card_game)"}
+{"id":"ninety-nine","name":"Ninety-nine","url":"wikipedia.org/wiki/Ninety-nine_(trick-taking_card_game)"}
+{"id":"skip-bo","name":"Skip-Bo","url":"wikipedia.org/wiki/Skip-Bo"}
+{"id":"24","name":"24","disamb":"puzzle","url":"wikipedia.org/wiki/24_(puzzle)"}
+{"id":"chicago","name":"Chicago","disamb":"bridge card game","url":"wikipedia.org/wiki/Chicago_(bridge_card_game)"}
+{"id":"quartets-cards","name":"Quartets","disamb":"card game","url":"wikipedia.org/wiki/Quartets_(card_game)"}
+{"id":"sleuth","name":"Sleuth","url":"wikipedia.org/wiki/Sleuth_(game)"}
+{"id":"uno","name":"Uno","url":"wikipedia.org/wiki/Uno_(card_game)"}
+{"id":"waterworks-cards","name":"Waterworks","disamb":"card game","url":"wikipedia.org/wiki/Waterworks_(card_game)"}
+{"id":"top-trumps","name":"Top Trumps","url":"wikipedia.org/wiki/Top_Trumps"}
+{"id":"grass-cards","name":"Grass","disamb":"card game","url":"wikipedia.org/wiki/Grass_(card_game)"}
+{"id":"mad-magazine-cards","name":"The Mad Magazine Card Game","url":"wikipedia.org/wiki/The_Mad_Magazine_Card_Game"}
+{"id":"minden-cards","name":"Minden, Playing Card Cricket","url":"wikipedia.org/wiki/Minden_Playing_Card_Cricket"}
+{"id":"sqwurm","name":"Sqwurm","url":"boardgamegeek.com/boardgame/12328/sqwurm","year":"1979"}
+{"id":"craits","name":"Craits","url":"wikipedia.org/wiki/Craits"}
+{"id":"sequence","name":"Sequence","players":{"allow":["2","3","4","6","8","9","10","12"]},"url":"wikipedia.org/wiki/Sequence_(game)"}
+{"id":"o-k-corral","name":"O.K. Corral","disamb":"card game","url":"wikipedia.org/wiki/O.K._Corral_(card_game)"}
+{"id":"ono-99","name":"ONO 99","url":"wikipedia.org/wiki/ONO_99"}
+{"id":"warlock-cards","name":"Warlock","disamb":"card game","url":"wikipedia.org/wiki/Warlock_(card_game)"}
+{"id":"down-with-the-king","name":"Down with the King","url":"wikipedia.org/wiki/Down_with_the_King_(game)"}
+{"id":"dragonmaster-cards","name":"Dragonmaster","disamb":"card game","url":"wikipedia.org/wiki/Dragonmaster_(card_game)"}
+{"id":"enemy-in-sight","name":"Enemy in Sight","disamb":"card game","url":"wikipedia.org/wiki/Enemy_in_Sight_(card_game)"}
+{"id":"grand-master-martial-arts","name":"Grand Master of the Martial Arts","url":"wikipedia.org/wiki/Grand_Master_of_the_Martial_Arts"}
+{"id":"caribbean-stud-poker","name":"Caribbean stud poker","url":"wikipedia.org/wiki/Caribbean_stud_poker"}
+{"id":"family-business","name":"Family Business","url":"wikipedia.org/wiki/Family_Business_(game)"}
+{"id":"illuminati","name":"Illuminati","url":"wikipedia.org/wiki/Illuminati_(game)"}
+{"id":"jasmine-battle-for-mid-realm","name":"Jasmine: The Battle for the Mid-Realm","url":"wikipedia.org/wiki/Jasmine:_The_Battle_for_the_Mid-Realm"}
+{"id":"mhing","name":"Mhing","url":"wikipedia.org/wiki/Mhing"}
+{"id":"phase-10","name":"Phase 10","url":"wikipedia.org/wiki/Phase_10"}
+{"id":"dark-cults","name":"Dark Cults","url":"wikipedia.org/wiki/Dark_Cults"}
+{"id":"nuclear-escalation-cards","name":"Nuclear Escalation","disamb":"card game","url":"wikipedia.org/wiki/Nuclear_Escalation_(card_game)"}
+{"id":"rage","name":"Rage","disamb":"trick-taking card game","url":"wikipedia.org/wiki/Rage_(trick-taking_card_game)"}
+{"id":"star-commander","name":"Star Commander","url":"wikipedia.org/wiki/Star_Commander"}
+{"id":"taki","name":"Taki","disamb":"card game","url":"wikipedia.org/wiki/Taki_(card_game)"}
+{"id":"up-front","name":"Up Front","url":"wikipedia.org/wiki/Up_Front_(game)"}
+{"id":"scruples","name":"Scruples","url":"wikipedia.org/wiki/Scruples_(game)"}
+{"id":"wizard-cards","name":"Wizard","disamb":"card game","url":"wikipedia.org/wiki/Wizard_(card_game)"}
+{"id":"scan-cards","name":"Scan","disamb":"card game","url":"wikipedia.org/wiki/Scan_(card_game)"}
+{"id":"make-my-day-cards","name":"The Make My Day Card Game","url":"wikipedia.org/wiki/The_Make_My_Day_Card_Game"}
+{"id":"clue-quest","name":"Clue Quest","url":"wikipedia.org/wiki/Clue_Quest"}
+{"id":"ligretto","name":"Ligretto","url":"wikipedia.org/wiki/Ligretto"}
+{"id":"free-parking","name":"Free Parking","url":"wikipedia.org/wiki/Free_Parking"}
+{"id":"career-poker","name":"Career Poker","url":"wikipedia.org/wiki/Career_Poker"}
+{"id":"black-monday-cards","name":"Black Monday","disamb":"card game","url":"wikipedia.org/wiki/Black_Monday_(card_game)"}
+{"id":"what-the-heck","name":"What the Heck?","url":"wikipedia.org/wiki/What_the_Heck%3F"}
+{"name":"Hol's der Geier","disamb":"The Vulture Gets It","alias":"what-the-heck"}
+{"id":"tri-peaks","name":"Tri Peaks","url":"wikipedia.org/wiki/Tri_Peaks_(game)"}
+{"id":"israeli-whist","name":"Israeli Whist","url":"wikipedia.org/wiki/Israeli_whist"}
+{"id":"cash-cards","name":"Cash","disamb":"card game","url":"wikipedia.org/wiki/Cash_(card_game)"}
+{"id":"goldrausch","name":"Goldrausch","url":"wikipedia.org/wiki/Goldrausch"}
+{"id":"rettet-die-umwelt","name":"Rettet Die Umwelt","url":"wikipedia.org/wiki/Rettet_Die_Umwelt"}
+{"id":"romer","name":"Römer","url":"wikipedia.org/wiki/R%C3%B6mer_(card_game)"}
+{"id":"wer-hat-mehr","name":"Wer Hat Mehr?","url":"wikipedia.org/wiki/Wer_Hat_Mehr%3F"}
+{"id":"car-wars","name":"Car Wars, The Card Game","url":"wikipedia.org/wiki/Car_Wars_The_Card_Game"}
+{"id":"jungle-speed","name":"Jungle Speed","url":"wikipedia.org/wiki/Jungle_Speed"}
+{"id":"set-cards","name":"Set","disamb":"card game","url":"wikipedia.org/wiki/Set_(card_game)"}
+{"id":"tichu","name":"Tichu","url":"wikipedia.org/wiki/Tichu"}
+{"id":"eurohit","name":"EuroHit","url":"wikipedia.org/wiki/EuroHit"}
+{"id":"modern-art","name":"Modern Art","url":"wikipedia.org/wiki/Modern_Art_(game)"}
+{"id":"nuclear-proliferation-cards","name":"Nuclear Proliferation","disamb":"card game","url":"wikipedia.org/wiki/Nuclear_Proliferation_(card_game)"}
+{"id":"magic-the-gathering","name":"Magic: The Gathering","url":"wikipedia.org/wiki/Limited_Edition_(Magic:_The_Gathering)"}
+{"id":"battlecards","name":"BattleCards","url":"wikipedia.org/wiki/BattleCards"}
+{"id":"creatures-and-cultists","name":"Creatures & Cultists","url":"wikipedia.org/wiki/Creatures_%26_Cultists"}
+{"id":"credo-cards","name":"Credo","disamb":"card game","url":"wikipedia.org/wiki/Credo_(card_game)"}
+{"id":"titan-the-arena","name":"Titan: The Arena","url":"wikipedia.org/wiki/Titan:_The_Arena"}
+{"id":"six-nimmt","name":"6 nimmt!","url":"wikipedia.org/wiki/6_nimmt!"}
+{"id":"dixie-cards","name":"Dixie","disamb":"card game","url":"wikipedia.org/wiki/Dixie_(card_game)"}
+{"id":"doomtrooper","name":"Doomtrooper","url":"wikipedia.org/wiki/Doomtrooper"}
+{"id":"flights-fantasy","name":"Flights of Fantasy","url":"wikipedia.org/wiki/Flights_of_Fantasy"}
+{"id":"galactic-empires","name":"Galactic Empires","url":"wikipedia.org/wiki/Galactic_Empires"}
+{"id":"heavy-gear-fighter","name":"Heavy Gear Fighter","url":"wikipedia.org/wiki/Heavy_Gear_Fighter"}
+{"id":"illuminati-new-world-order","name":"Illuminati: New World Order","url":"wikipedia.org/wiki/Illuminati:_New_World_Order"}
+{"id":"on-the-edge","name":"On the Edge","url":"wikipedia.org/wiki/On_the_Edge_(game)"}
+{"id":"once-upon-a-time","name":"Once Upon a Time","url":"wikipedia.org/wiki/Once_Upon_a_Time_(game)"}
+{"id":"spellfire","name":"Spellfire","url":"wikipedia.org/wiki/Spellfire"}
+{"id":"star-trek-ccg","name":"Star Trek Customizable Card Game","url":"wikipedia.org/wiki/Star_Trek_Customizable_Card_Game"}
+{"id":"super-deck","name":"Super Deck!","url":"wikipedia.org/wiki/Super_Deck!"}
+{"id":"vampire-eternal-struggle","name":"Vampire: The Eternal Struggle","url":"wikipedia.org/wiki/Vampire:_The_Eternal_Struggle"}
+{"id":"wyvern-cards","name":"Wyvern","disamb":"card game","url":"wikipedia.org/wiki/Wyvern_(card_game)"}
