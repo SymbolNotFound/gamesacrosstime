@@ -57,7 +57,7 @@
 {"id":"five-card-stud","name":"Five-card Stud","url":"wikipedia.org/wiki/Five-card_stud"}
 {"id":"thunee","name":"Thunee","url":"wikipedia.org/wiki/Thunee"}
 {"id":"cinch-cards","name":"Cinch","disamb":"card game","url":"wikipedia.org/wiki/Cinch_(card_game)"}
-{"id":"jubilee","name":"Jubilee","disamb":"solitaire","url":"wikipedia.org/wiki/Jubilee_(solitaire)"}
+{"id":"jubilee","name":"Jubilee","disamb":"solitaire","url":"wikipedia.org/wiki/Jubilee_(solitaire)","year":"1887"}
 {"id":"alice-in-wonderland-cards","name":"The Game of Alice in Wonderland","url":"wikipedia.org/wiki/The_Game_of_Alice_in_Wonderland"}
 {"id":"hearts","name":"Hearts","disamb":"card game","url":"wikipedia.org/wiki/Hearts_(card_game)"}
 {"id":"old-maid","name":"Old Maid","disamb":"card game","url":"wikipedia.org/wiki/Old_maid_(card_game)"}
@@ -67,18 +67,19 @@
 {"name":"Demon","alias":"canfield"}
 {"name":"Demon Patience","alias":"canfield"}
 {"name":"Klondike","alias":"canfield","locale":"en_US"}
-{"id":"auction-bridge","name":"Auction Bridge","url":"wikipedia.org/wiki/Auction_bridge"}
-{"id":"pit-cards","name":"Pit","url":"wikipedia.org/wiki/Pit_(game)"}
-{"id":"rook-cards","name":"Rook","url":"wikipedia.org/wiki/Rook_(card_game)"}
-{"id":"touring-cards","name":"Touring","url":"wikipedia.org/wiki/Touring_(card_game)"}
-{"id":"black-lady","name":"Black Lady","url":"wikipedia.org/wiki/Black_Lady"}
-{"id":"gin-rummy","name":"Gin Rummy","url":"wikipedia.org/wiki/Gin_rummy"}
-{"id":"panko-votes-for-Women","name":"Panko, or Votes for Women","url":"wikipedia.org/wiki/Panko_or_Votes_for_Women"}
+{"id":"auction-bridge","name":"Auction Bridge","url":"wikipedia.org/wiki/Auction_bridge","year":"1904"}
+{"id":"pit-cards","name":"Pit","url":"wikipedia.org/wiki/Pit_(game)","year":"1904"}
+{"id":"rook-cards","name":"Rook","url":"wikipedia.org/wiki/Rook_(card_game)","year":"1906"}
+{"id":"touring-cards","name":"Touring","url":"wikipedia.org/wiki/Touring_(card_game)","year":"1906"}
+{"id":"black-lady","name":"Black Lady","url":"wikipedia.org/wiki/Black_Lady","year":"1909"}
+{"id":"gin-rummy","name":"Gin Rummy","url":"wikipedia.org/wiki/Gin_rummy","year":"1909"}
+{"id":"panko-votes-for-Women","name":"Panko, or Votes for Women","url":"wikipedia.org/wiki/Panko_or_Votes_for_Women","year":"1909"}
+{"id":"mock-trial","name":"Mock Trial","url":"wikipedia.org/wiki/Mock_Trial_(card_game)","author":"Lizzie Magie","publisher":"Parker Brothers","year":"1910"}
 {"id":"texas-hold-em","name":"Texas hold 'em","url":"wikipedia.org/wiki/Texas_hold_%27em"}
 {"id":"lizzie-magie","name":"Lizzie Magie","url":"wikipedia.org/wiki/Lizzie_Magie"}
-{"id":"strip-game","name":"Strip Game","url":"wikipedia.org/wiki/Strip_game"}
-{"id":"zodiac","name":"Zodiac","disamb":"solitaire","url":"wikipedia.org/wiki/Zodiac_(solitaire)"}
-{"id":"contract-bridge","name":"Contract Bridge","url":"wikipedia.org/wiki/Contract_bridge"}
+{"id":"zodiac","name":"Zodiac","disamb":"solitaire","url":"wikipedia.org/wiki/Zodiac_(solitaire)","year":"1914"}
+{"id":"strip-game","name":"Strip Game","url":"wikipedia.org/wiki/Strip_game","year":"1916"}
+{"id":"contract-bridge","name":"Contract Bridge","url":"wikipedia.org/wiki/Contract_bridge","year":"1925"}
 {"id":"bakers-game","name":"Baker's Game","url":"wikipedia.org/wiki/Baker%27s_Game"}
 {"id":"belot","name":"Belot","url":"wikipedia.org/wiki/Belote","variant":"belote"}
 {"name":"Bela","alias":"belot"}
@@ -86,474 +87,473 @@
 {"id":"black-peter","name":"Black Peter","url":"wikipedia.org/wiki/Black_Peter_(card_game)"}
 {"id":"svoyi-koziri","name":"Svoyi Koziri","url":"wikipedia.org/wiki/Svoyi_Koziri"}
 {"id":"ulti","name":"Ulti","url":"wikipedia.org/wiki/Ulti"}
-{"id":"towie-cards","name":"Towie","disamb":"card game","url":"wikipedia.org/wiki/Towie_(card_game)"}
-{"id":"lexicon-cards","name":"Lexicon","disamb":"card game","url":"wikipedia.org/wiki/Lexicon_(card_game)"}
-{"id":"make-a-million","name":"Make-A-Million","url":"wikipedia.org/wiki/Make-A-Million"}
-{"id":"whot","name":"Whot!","url":"wikipedia.org/wiki/Whot!"}
-{"id":"canasta","name":"Canasta","url":"wikipedia.org/wiki/Canasta"}
-{"id":"black-maria","name":"Black_Maria","disamb":"card_game","url":"wikipedia.org/wiki/Black_Maria_(card_game)"}
+{"id":"towie-cards","name":"Towie","disamb":"card game","url":"wikipedia.org/wiki/Towie_(card_game)","year":"1931"}
+{"id":"lexicon-cards","name":"Lexicon","disamb":"card game","url":"wikipedia.org/wiki/Lexicon_(card_game)","year":"1933"}
+{"id":"make-a-million","name":"Make-A-Million","url":"wikipedia.org/wiki/Make-A-Million","year":"1935"}
+{"id":"whot","name":"Whot!","url":"wikipedia.org/wiki/Whot!","year":"1935"}
+{"id":"canasta","name":"Canasta","url":"wikipedia.org/wiki/Canasta","year":"1939"}
+{"id":"black-maria","name":"Black Maria","disamb":"card_game","url":"wikipedia.org/wiki/Black_Maria_(card_game)"}
 {"id":"five-suit-bridge","name":"Five-suit Bridge","url":"wikipedia.org/wiki/Five-suit_bridge"}
 {"id":"goofspiel","name":"Goofspiel","url":"wikipedia.org/wiki/Goofspiel"}
 {"id":"mau-mau","name":"Mau-Mau","disamb":"card game","url":"wikipedia.org/wiki/Mau-Mau_(card_game)"}
 {"id":"oh-hell","name":"Oh Hell","url":"wikipedia.org/wiki/Oh_hell"}
 {"id":"spades","name":"Spades","url":"wikipedia.org/wiki/Spades_(card_game)"}
-{"id":"pig","name":"Pig","url":"wikipedia.org/wiki/Pig_(card_game)"}
+{"id":"pig","name":"Pig","url":"wikipedia.org/wiki/Pig_(card_game)","year":"1947"}
 {"id":"crazy-eights","name":"Crazy Eights","url":"wikipedia.org/wiki/Crazy_Eights"}
 {"id":"machiavelli","name":"Machiavelli","url":"wikipedia.org/wiki/Machiavelli_(Italian_card_game)"}
 {"id":"rumino","name":"Rumino","url":"wikipedia.org/wiki/Rumino"}
-{"id":"mille-bornes","name":"Mille Bornes","url":"wikipedia.org/wiki/Mille_Bornes"}
-{"id":"eleusis","name":"Eleusis","url":"wikipedia.org/wiki/Eleusis_(card_game)"}
-{"id":"rack-o","name":"Rack-O","url":"wikipedia.org/wiki/Rack-O"}
-{"id":"baseball-cards","name":"Baseball","disamb":"card game","url":"wikipedia.org/wiki/Baseball_(card_game)"}
+{"id":"mille-bornes","name":"Mille Bornes","url":"wikipedia.org/wiki/Mille_Bornes","year":"1954"}
+{"id":"eleusis","name":"Eleusis","url":"wikipedia.org/wiki/Eleusis_(card_game)","year":"1956"}
+{"id":"rack-o","name":"Rack-O","url":"wikipedia.org/wiki/Rack-O","year":"1956"}
+{"id":"baseball-cards","name":"Baseball","disamb":"card game","url":"wikipedia.org/wiki/Baseball_(card_game)","year":"1957"}
 {"id":"husarln","name":"Husarln","url":"wikipedia.org/wiki/Husarln"}
 {"id":"illustrated-tarock","name":"Illustrated Tarock","url":"wikipedia.org/wiki/Illustrated_Tarock"}
 {"id":"kosakeln","name":"Kosakeln","url":"wikipedia.org/wiki/Kosakeln"}
 {"id":"point-tarock","name":"Point Tarock","url":"wikipedia.org/wiki/Point_Tarock"}
 {"id":"viennese-grosstarock","name":"Viennese Grosstarock","url":"wikipedia.org/wiki/Viennese_Grosstarock"}
-{"id":"dutch-blitz","name":"Dutch Blitz","url":"wikipedia.org/wiki/Dutch_Blitz"}
-{"id":"woodland-snap","name":"Woodland Snap","url":"wikipedia.org/wiki/Woodland_Snap"}
-{"id":"krypto","name":"Krypto","url":"wikipedia.org/wiki/Krypto_(game)"}
-{"id":"nuclear-war","name":"Nuclear War","url":"wikipedia.org/wiki/Nuclear_War_(card_game)"}
-{"id":"ninety-nine","name":"Ninety-nine","url":"wikipedia.org/wiki/Ninety-nine_(trick-taking_card_game)"}
-{"id":"skip-bo","name":"Skip-Bo","url":"wikipedia.org/wiki/Skip-Bo"}
+{"id":"dutch-blitz","name":"Dutch Blitz","url":"wikipedia.org/wiki/Dutch_Blitz","year":"1960"}
+{"id":"woodland-snap","name":"Woodland Snap","url":"wikipedia.org/wiki/Woodland_Snap","year":"1960"}
+{"id":"krypto","name":"Krypto","url":"wikipedia.org/wiki/Krypto_(game)","year":"1963"}
+{"id":"nuclear-war","name":"Nuclear War","url":"wikipedia.org/wiki/Nuclear_War_(card_game)","year":"1965"}
+{"id":"ninety-nine","name":"Ninety-nine","url":"wikipedia.org/wiki/Ninety-nine_(trick-taking_card_game)","year":"1967"}
+{"id":"skip-bo","name":"Skip-Bo","url":"wikipedia.org/wiki/Skip-Bo","year":"1967"}
 {"id":"24","name":"24","disamb":"puzzle","url":"wikipedia.org/wiki/24_(puzzle)"}
 {"id":"chicago","name":"Chicago","disamb":"bridge card game","url":"wikipedia.org/wiki/Chicago_(bridge_card_game)"}
 {"id":"quartets-cards","name":"Quartets","disamb":"card game","url":"wikipedia.org/wiki/Quartets_(card_game)"}
-{"id":"sleuth","name":"Sleuth","url":"wikipedia.org/wiki/Sleuth_(game)"}
-{"id":"uno","name":"Uno","url":"wikipedia.org/wiki/Uno_(card_game)"}
-{"id":"waterworks-cards","name":"Waterworks","disamb":"card game","url":"wikipedia.org/wiki/Waterworks_(card_game)"}
-{"id":"top-trumps","name":"Top Trumps","url":"wikipedia.org/wiki/Top_Trumps"}
-{"id":"grass-cards","name":"Grass","disamb":"card game","url":"wikipedia.org/wiki/Grass_(card_game)"}
-{"id":"mad-magazine-cards","name":"The Mad Magazine Card Game","url":"wikipedia.org/wiki/The_Mad_Magazine_Card_Game"}
-{"id":"minden-cards","name":"Minden, Playing Card Cricket","url":"wikipedia.org/wiki/Minden_Playing_Card_Cricket"}
+{"id":"sleuth","name":"Sleuth","url":"wikipedia.org/wiki/Sleuth_(game)","year":"1971"}
+{"id":"uno","name":"Uno","url":"wikipedia.org/wiki/Uno_(card_game)","year":"1971"}
+{"id":"waterworks-cards","name":"Waterworks","disamb":"card game","url":"wikipedia.org/wiki/Waterworks_(card_game)","year":"1972"}
+{"id":"top-trumps","name":"Top Trumps","url":"wikipedia.org/wiki/Top_Trumps","year":"1978"}
+{"id":"grass-cards","name":"Grass","disamb":"card game","url":"wikipedia.org/wiki/Grass_(card_game)","year":"1979"}
+{"id":"mad-magazine-cards","name":"The Mad Magazine Card Game","url":"wikipedia.org/wiki/The_Mad_Magazine_Card_Game","year":"1979"}
+{"id":"minden-cards","name":"Minden, Playing Card Cricket","url":"wikipedia.org/wiki/Minden_Playing_Card_Cricket","year":"1979"}
 {"id":"sqwurm","name":"Sqwurm","url":"boardgamegeek.com/boardgame/12328/sqwurm","year":"1979"}
 {"id":"craits","name":"Craits","url":"wikipedia.org/wiki/Craits"}
 {"id":"sequence","name":"Sequence","players":{"allow":["2","3","4","6","8","9","10","12"]},"url":"wikipedia.org/wiki/Sequence_(game)"}
-{"id":"o-k-corral","name":"O.K. Corral","disamb":"card game","url":"wikipedia.org/wiki/O.K._Corral_(card_game)"}
-{"id":"ono-99","name":"ONO 99","url":"wikipedia.org/wiki/ONO_99"}
-{"id":"warlock-cards","name":"Warlock","disamb":"card game","url":"wikipedia.org/wiki/Warlock_(card_game)"}
-{"id":"down-with-the-king","name":"Down with the King","url":"wikipedia.org/wiki/Down_with_the_King_(game)"}
-{"id":"dragonmaster-cards","name":"Dragonmaster","disamb":"card game","url":"wikipedia.org/wiki/Dragonmaster_(card_game)"}
-{"id":"enemy-in-sight","name":"Enemy in Sight","disamb":"card game","url":"wikipedia.org/wiki/Enemy_in_Sight_(card_game)"}
-{"id":"grand-master-martial-arts","name":"Grand Master of the Martial Arts","url":"wikipedia.org/wiki/Grand_Master_of_the_Martial_Arts"}
-{"id":"caribbean-stud-poker","name":"Caribbean stud poker","url":"wikipedia.org/wiki/Caribbean_stud_poker"}
-{"id":"family-business","name":"Family Business","url":"wikipedia.org/wiki/Family_Business_(game)"}
-{"id":"illuminati","name":"Illuminati","url":"wikipedia.org/wiki/Illuminati_(game)"}
-{"id":"jasmine-battle-for-mid-realm","name":"Jasmine: The Battle for the Mid-Realm","url":"wikipedia.org/wiki/Jasmine:_The_Battle_for_the_Mid-Realm"}
-{"id":"mhing","name":"Mhing","url":"wikipedia.org/wiki/Mhing"}
-{"id":"phase-10","name":"Phase 10","url":"wikipedia.org/wiki/Phase_10"}
-{"id":"dark-cults","name":"Dark Cults","url":"wikipedia.org/wiki/Dark_Cults"}
-{"id":"nuclear-escalation-cards","name":"Nuclear Escalation","disamb":"card game","url":"wikipedia.org/wiki/Nuclear_Escalation_(card_game)"}
-{"id":"rage","name":"Rage","disamb":"trick-taking card game","url":"wikipedia.org/wiki/Rage_(trick-taking_card_game)"}
-{"id":"star-commander","name":"Star Commander","url":"wikipedia.org/wiki/Star_Commander"}
-{"id":"taki","name":"Taki","disamb":"card game","url":"wikipedia.org/wiki/Taki_(card_game)"}
-{"id":"up-front","name":"Up Front","url":"wikipedia.org/wiki/Up_Front_(game)"}
-{"id":"scruples","name":"Scruples","url":"wikipedia.org/wiki/Scruples_(game)"}
-{"id":"wizard-cards","name":"Wizard","disamb":"card game","url":"wikipedia.org/wiki/Wizard_(card_game)"}
-{"id":"scan-cards","name":"Scan","disamb":"card game","url":"wikipedia.org/wiki/Scan_(card_game)"}
-{"id":"make-my-day-cards","name":"The Make My Day Card Game","url":"wikipedia.org/wiki/The_Make_My_Day_Card_Game"}
-{"id":"clue-quest","name":"Clue Quest","url":"wikipedia.org/wiki/Clue_Quest"}
-{"id":"ligretto","name":"Ligretto","url":"wikipedia.org/wiki/Ligretto"}
-{"id":"free-parking","name":"Free Parking","url":"wikipedia.org/wiki/Free_Parking"}
-{"id":"career-poker","name":"Career Poker","url":"wikipedia.org/wiki/Career_Poker"}
-{"id":"black-monday-cards","name":"Black Monday","disamb":"card game","url":"wikipedia.org/wiki/Black_Monday_(card_game)"}
-{"id":"what-the-heck","name":"What the Heck?","url":"wikipedia.org/wiki/What_the_Heck%3F"}
+{"id":"o-k-corral","name":"O.K. Corral","disamb":"card game","url":"wikipedia.org/wiki/O.K._Corral_(card_game)","year":"1980"}
+{"id":"ono-99","name":"ONO 99","url":"wikipedia.org/wiki/ONO_99","year":"1980"}
+{"id":"warlock-cards","name":"Warlock","disamb":"card game","url":"wikipedia.org/wiki/Warlock_(card_game)","year":"1980"}
+{"id":"down-with-the-king","name":"Down with the King","url":"wikipedia.org/wiki/Down_with_the_King_(game)","year":"1981"}
+{"id":"dragonmaster-cards","name":"Dragonmaster","disamb":"card game","url":"wikipedia.org/wiki/Dragonmaster_(card_game)","year":"1981"}
+{"id":"enemy-in-sight","name":"Enemy in Sight","disamb":"card game","url":"wikipedia.org/wiki/Enemy_in_Sight_(card_game)","year":"1981"}
+{"id":"grand-master-martial-arts","name":"Grand Master of the Martial Arts","url":"wikipedia.org/wiki/Grand_Master_of_the_Martial_Arts","year":"1981"}
+{"id":"caribbean-stud-poker","name":"Caribbean stud poker","url":"wikipedia.org/wiki/Caribbean_stud_poker","year":"1982"}
+{"id":"family-business","name":"Family Business","url":"wikipedia.org/wiki/Family_Business_(game)","year":"1982"}
+{"id":"illuminati","name":"Illuminati","url":"wikipedia.org/wiki/Illuminati_(game)","year":"1982"}
+{"id":"jasmine-battle-for-mid-realm","name":"Jasmine: The Battle for the Mid-Realm","url":"wikipedia.org/wiki/Jasmine:_The_Battle_for_the_Mid-Realm","year":"1982"}
+{"id":"mhing","name":"Mhing","url":"wikipedia.org/wiki/Mhing","year":"1982"}
+{"id":"phase-10","name":"Phase 10","url":"wikipedia.org/wiki/Phase_10","year":"1982"}
+{"id":"dark-cults","name":"Dark Cults","url":"wikipedia.org/wiki/Dark_Cults","year":"1983"}
+{"id":"nuclear-escalation-cards","name":"Nuclear Escalation","disamb":"card game","url":"wikipedia.org/wiki/Nuclear_Escalation_(card_game)","year":"1983"}
+{"id":"rage","name":"Rage","disamb":"trick-taking card game","url":"wikipedia.org/wiki/Rage_(trick-taking_card_game)","year":"1983"}
+{"id":"star-commander","name":"Star Commander","url":"wikipedia.org/wiki/Star_Commander","year":"1983"}
+{"id":"taki","name":"Taki","disamb":"card game","url":"wikipedia.org/wiki/Taki_(card_game)","year":"1983"}
+{"id":"up-front","name":"Up Front","url":"wikipedia.org/wiki/Up_Front_(game)","year":"1983"}
+{"id":"scruples","name":"Scruples","url":"wikipedia.org/wiki/Scruples_(game)","year":"1984"}
+{"id":"wizard-cards","name":"Wizard","disamb":"card game","url":"wikipedia.org/wiki/Wizard_(card_game)","year":"1986"}
+{"id":"scan-cards","name":"Scan","disamb":"card game","url":"wikipedia.org/wiki/Scan_(card_game)","year":"1987"}
+{"id":"make-my-day-cards","name":"The Make My Day Card Game","url":"wikipedia.org/wiki/The_Make_My_Day_Card_Game","year":"1987"}
+{"id":"clue-quest","name":"Clue Quest","url":"wikipedia.org/wiki/Clue_Quest","year":"1987"}
+{"id":"ligretto","name":"Ligretto","url":"wikipedia.org/wiki/Ligretto","year":"1988"}
+{"id":"free-parking","name":"Free Parking","url":"wikipedia.org/wiki/Free_Parking","year":"1988"}
+{"id":"career-poker","name":"Career Poker","url":"wikipedia.org/wiki/Career_Poker","year":"1988"}
+{"id":"black-monday-cards","name":"Black Monday","disamb":"card game","url":"wikipedia.org/wiki/Black_Monday_(card_game)","year":"1988"}
+{"id":"what-the-heck","name":"What the Heck?","url":"wikipedia.org/wiki/What_the_Heck%3F","year":"1988"}
 {"name":"Hol's der Geier","disamb":"The Vulture Gets It","alias":"what-the-heck"}
-{"id":"tri-peaks","name":"Tri Peaks","url":"wikipedia.org/wiki/Tri_Peaks_(game)"}
+{"id":"tri-peaks","name":"Tri Peaks","url":"wikipedia.org/wiki/Tri_Peaks_(game)","year":"1989"}
 {"id":"israeli-whist","name":"Israeli Whist","url":"wikipedia.org/wiki/Israeli_whist"}
-{"id":"cash-cards","name":"Cash","disamb":"card game","url":"wikipedia.org/wiki/Cash_(card_game)"}
-{"id":"goldrausch","name":"Goldrausch","url":"wikipedia.org/wiki/Goldrausch"}
-{"id":"rettet-die-umwelt","name":"Rettet Die Umwelt","url":"wikipedia.org/wiki/Rettet_Die_Umwelt"}
-{"id":"romer","name":"Römer","url":"wikipedia.org/wiki/R%C3%B6mer_(card_game)"}
-{"id":"wer-hat-mehr","name":"Wer Hat Mehr?","url":"wikipedia.org/wiki/Wer_Hat_Mehr%3F"}
-{"id":"car-wars","name":"Car Wars, The Card Game","url":"wikipedia.org/wiki/Car_Wars_The_Card_Game"}
-{"id":"jungle-speed","name":"Jungle Speed","url":"wikipedia.org/wiki/Jungle_Speed"}
-{"id":"set-cards","name":"Set","disamb":"card game","url":"wikipedia.org/wiki/Set_(card_game)"}
-{"id":"tichu","name":"Tichu","url":"wikipedia.org/wiki/Tichu"}
-{"id":"eurohit","name":"EuroHit","url":"wikipedia.org/wiki/EuroHit"}
-{"id":"modern-art","name":"Modern Art","url":"wikipedia.org/wiki/Modern_Art_(game)"}
-{"id":"nuclear-proliferation-cards","name":"Nuclear Proliferation","disamb":"card game","url":"wikipedia.org/wiki/Nuclear_Proliferation_(card_game)"}
-{"id":"magic-the-gathering","name":"Magic: The Gathering","url":"wikipedia.org/wiki/Limited_Edition_(Magic:_The_Gathering)"}
-{"id":"battlecards","name":"BattleCards","url":"wikipedia.org/wiki/BattleCards"}
-{"id":"creatures-and-cultists","name":"Creatures & Cultists","url":"wikipedia.org/wiki/Creatures_%26_Cultists"}
-{"id":"credo-cards","name":"Credo","disamb":"card game","url":"wikipedia.org/wiki/Credo_(card_game)"}
-{"id":"titan-the-arena","name":"Titan: The Arena","url":"wikipedia.org/wiki/Titan:_The_Arena"}
-{"id":"six-nimmt","name":"6 nimmt!","url":"wikipedia.org/wiki/6_nimmt!"}
-{"id":"dixie-cards","name":"Dixie","disamb":"card game","url":"wikipedia.org/wiki/Dixie_(card_game)"}
-{"id":"doomtrooper","name":"Doomtrooper","url":"wikipedia.org/wiki/Doomtrooper"}
-{"id":"flights-fantasy","name":"Flights of Fantasy","url":"wikipedia.org/wiki/Flights_of_Fantasy"}
-{"id":"galactic-empires","name":"Galactic Empires","url":"wikipedia.org/wiki/Galactic_Empires"}
-{"id":"heavy-gear-fighter","name":"Heavy Gear Fighter","url":"wikipedia.org/wiki/Heavy_Gear_Fighter"}
-{"id":"illuminati-new-world-order","name":"Illuminati: New World Order","url":"wikipedia.org/wiki/Illuminati:_New_World_Order"}
-{"id":"on-the-edge","name":"On the Edge","url":"wikipedia.org/wiki/On_the_Edge_(game)"}
-{"id":"once-upon-a-time","name":"Once Upon a Time","url":"wikipedia.org/wiki/Once_Upon_a_Time_(game)"}
-{"id":"spellfire","name":"Spellfire","url":"wikipedia.org/wiki/Spellfire"}
-{"id":"star-trek-ccg","name":"Star Trek Customizable Card Game","url":"wikipedia.org/wiki/Star_Trek_Customizable_Card_Game"}
-{"id":"super-deck","name":"Super Deck!","url":"wikipedia.org/wiki/Super_Deck!"}
-{"id":"vampire-eternal-struggle","name":"Vampire: The Eternal Struggle","url":"wikipedia.org/wiki/Vampire:_The_Eternal_Struggle"}
-{"id":"wyvern-cards","name":"Wyvern","disamb":"card game","url":"wikipedia.org/wiki/Wyvern_(card_game)"}
-{"id":"banemaster","name":"Banemaster: The Adventure","url":"wikipedia.org/wiki/Banemaster:_The_Adventure"}
-{"id":"battlelords","name":"Battlelords","url":"wikipedia.org/wiki/Battlelords"}
-{"id":"blood-wars","name":"Blood Wars","disamb":"card game","url":"wikipedia.org/wiki/Blood_Wars_(card_game)"}
-{"id":"the-crow-cards","name":"The Crow","disamb":"card game","url":"wikipedia.org/wiki/The_Crow_(card_game)"}
-{"id":"dragons-wrath","name":"The Dragon's Wrath","url":"wikipedia.org/wiki/The_Dragon%27s_Wrath"}
-{"id":"eagles-cards","name":"Eagles","disamb":"card game","url":"wikipedia.org/wiki/Eagles_(card_game)"}
-{"id":"echelons-of-fire","name":"Echelons of Fire","url":"wikipedia.org/wiki/Echelons_of_Fire"}
-{"id":"echelons-of-fury","name":"Echelons of fury","url":"wikipedia.org/wiki/Echelons_of_Fury"}
-{"id":"frog-juice","name":"Frog Juice","url":"wikipedia.org/wiki/Frog_Juice"}
-{"id":"great-dalmuti","name":"The Great Dalmuti","url":"wikipedia.org/wiki/The_Great_Dalmuti"}
-{"id":"gridiron-fantasy-football","name":"Gridiron Fantasy Football","url":"wikipedia.org/wiki/Gridiron_Fantasy_Football"}
-{"id":"guardians","name":"Guardians","disamb":"card game","url":"wikipedia.org/wiki/Guardians_(card_game)"}
-{"id":"heresy-kingdom-come","name":"Heresy: Kingdom Come","url":"wikipedia.org/wiki/Heresy:_Kingdom_Come"}
-{"id":"high-society","name":"High Society","disamb":"card game","url":"wikipedia.org/wiki/High_Society_(card_game)"}
-{"id":"hyborian-gates","name":"Hyborian Gates","url":"wikipedia.org/wiki/Hyborian_Gates"}
-{"id":"james-bond-007-cards","name":"James Bond 007","disamb":"card game","url":"wikipedia.org/wiki/James_Bond_007_(card_game)"}
-{"id":"kult","name":"Kult","disamb":"card game","url":"wikipedia.org/wiki/Kult_(card_game)"}
-{"id":"last-crusade","name":"The Last Crusade","url":"wikipedia.org/wiki/The_Last_Crusade"}
-{"id":"legend-five-rings","name":"Legend of the Five Rings","disamb":"collectible card game","url":"wikipedia.org/wiki/Legend_of_the_Five_Rings_(collectible_card_game)"}
-{"id":"middle-earth-ccg","name":"Middle-Earth","disamb":"collectible card game","url":"wikipedia.org/wiki/Middle-earth_Collectible_Card_Game"}
-{"id":"monster-magic","name":"Monster Magic","url":"wikipedia.org/wiki/Monster_Magic"}
-{"id":"over-power","name":"OverPower","url":"wikipedia.org/wiki/OverPower"}
-{"id":"power-cardz","name":"PowerCardz","url":"wikipedia.org/wiki/PowerCardz"}
-{"id":"quest-grail","name":"Quest for the Grail","url":"wikipedia.org/wiki/Quest_for_the_Grail"}
-{"id":"rage-ccg","name":"Rage","disamb":"collectible card game","url":"wikipedia.org/wiki/Rage_(collectible_card_game)"}
-{"id":"rat-a-tat-cat","name":"Rat-a-Tat Cat","url":"wikipedia.org/wiki/Rat-a-Tat_Cat"}
-{"id":"red-zone","name":"Red Zone","disamb":"card game","url":"wikipedia.org/wiki/Red_Zone_(card_game)"}
-{"id":"redemption-cards","name":"Redemption","disamb":"card game","url":"wikipedia.org/wiki/Redemption_(card_game)"}
-{"id":"ruins-world","name":"RuinsWorld","url":"wikipedia.org/wiki/RuinsWorld"}
-{"id":"shadowfist","name":"Shadowfist","url":"wikipedia.org/wiki/Shadowfist"}
-{"id":"sim-city-cards","name":"Sim City: The Card Game","url":"wikipedia.org/wiki/Sim_City:_The_Card_Game"}
-{"id":"star-guardians-ccg","name":"Star of the Guardians","disamb":"collectible card game","url":"wikipedia.org/wiki/Star_of_the_Guardians_(collectible_card_game)"}
-{"id":"star-quest-cards","name":"Star Quest","disamb":"card game","url":"wikipedia.org/wiki/Star_Quest_(card_game)"}
-{"id":"star-wars-ccg","name":"Star Wars","disamb":"customizable card game","url":"wikipedia.org/wiki/Star_Wars_Customizable_Card_Game"}
-{"id":"tempest-gods","name":"Tempest of the Gods","url":"wikipedia.org/wiki/Tempest_of_the_Gods"}
-{"id":"top-order","name":"Top of the Order","url":"wikipedia.org/wiki/Top_of_the_Order"}
-{"id":"towers-in-time","name":"Towers in Time","url":"wikipedia.org/wiki/Towers_in_Time"}
-{"id":"ultimate-combat","name":"Ultimate Combat!","url":"wikipedia.org/wiki/Ultimate_Combat!"}
-{"id":"wild-storms","name":"WildStorms: The Expandable Super-Hero Card Game","url":"wikipedia.org/wiki/WildStorms:_The_Expandable_Super-Hero_Card_Game"}
-{"id":"wing-commander-ctcg","name":"Wing Commander","disamb":"collectible trading card game","url":"wikipedia.org/wiki/Wing_Commander_Collectible_Trading_Card_Game"}
-{"id":"1000-blank-white-cards","name":"1000 Blank White Cards","url":"wikipedia.org/wiki/1000_Blank_White_Cards"}
-{"id":"ani-mayhem","name":"Ani-Mayhem","url":"wikipedia.org/wiki/Ani-Mayhem"}
-{"id":"arcadia","name":"Arcadia_(card_game)","url":"wikipedia.org/wiki/Arcadia_(card_game)"}
-{"id":"battle-tech-cards","name":"BattleTech","disamb":"trading card game","url":"wikipedia.org/wiki/BattleTech_Trading_Card_Game"}
-{"id":"before-i-kill-you-mr-bond","name":"Before I Kill You, Mr. Bond","url":"wikipedia.org/wiki/Before_I_Kill_You,_Mr._Bond"}
-{"id":"catan-cards","name":"Catan Card Game","url":"wikipedia.org/wiki/Catan_Card_Game"}
-{"id":"dark-age-cards","name":"Dark Age","disamb":"card game","url":"wikipedia.org/wiki/Dark_Age_(card_game)"}
-{"id":"doctor-who-ccg","name":"The Doctor Who Collectible Card Game","url":"wikipedia.org/wiki/The_Doctor_Who_Collectible_Card_Game"}
-{"id":"dragon-storm","name":"Dragon Storm","url":"wikipedia.org/wiki/Dragon_Storm_(game)"}
-{"id":"fantasy-adventures","name":"Fantasy Adventures","url":"wikipedia.org/wiki/Fantasy_Adventures"}
-{"id":"five-crowns","name":"Five Crowns","disamb":"card game","url":"wikipedia.org/wiki/Five_Crowns_(card_game)"}
-{"id":"fluxx","name":"Fluxx","url":"wikipedia.org/wiki/Fluxx"}
-{"id":"give-me-brain","name":"Give Me the Brain","url":"wikipedia.org/wiki/Give_Me_the_Brain"}
-{"id":"highlander-cards","name":"Highlander: The Card Game","url":"wikipedia.org/wiki/Highlander:_The_Card_Game"}
-{"id":"honor-samurai","name":"Honor of the Samurai","url":"wikipedia.org/wiki/Honor_of_the_Samurai"}
-{"id":"lunch-money","name":"Lunch Money","url":"wikipedia.org/wiki/Lunch_Money_(game)"}
-{"id":"monty-python-holy-grail-ccg","name":"Monty Python and the Holy Grail","disamb":"collectible card game","url":"wikipedia.org/wiki/Monty_Python_and_the_Holy_Grail_Collectible_Card_Game"}
-{"id":"mythos-cards","name":"Mythos","disamb":"card game","url":"wikipedia.org/wiki/Mythos_(card_game)"}
-{"id":"netrunner","name":"Netrunner","url":"wikipedia.org/wiki/Netrunner"}
-{"id":"pokemon-tcg","name":"Pokémon Trading Card Game","url":"wikipedia.org/wiki/Pok%C3%A9mon_Trading_Card_Game"}
-{"id":"star-trek-cards","name":"Star Trek: The Card Game","url":"wikipedia.org/wiki/Star_Trek:_The_Card_Game"}
-{"id":"very-clever-pipe-game","name":"The Very Clever Pipe Game","url":"wikipedia.org/wiki/The_Very_Clever_Pipe_Game"}
-{"id":"x-files-ccg","name":"The X-Files Collectible Card Game","url":"wikipedia.org/wiki/The_X-Files_Collectible_Card_Game"}
-{"id":"xxxenophile-ccg","name":"XXXenophile","disamb":"collectible card game","url":"wikipedia.org/wiki/XXXenophile_(collectible_card_game)"}
-{"id":"aliens-predator-ccg","name":"Aliens vs. Predator","disamb":"customizable card game","url":"wikipedia.org/wiki/Aliens_Predator_Customizable_Card_Game"}
-{"id":"babylon-5-ccg","name":"Babylon 5","disamb":"collectible card game","url":"wikipedia.org/wiki/Babylon_5_Collectible_Card_Game"}
-{"id":"bohnanza","name":"Bohnanza","url":"wikipedia.org/wiki/Bohnanza"}
-{"id":"dark-eden","name":"Dark Eden","url":"wikipedia.org/wiki/Dark_Eden"}
-{"id":"digimon-cards","name":"Digimon Card Game","url":"wikipedia.org/wiki/Digimon#Card_game"}
-{"id":"dune-cards","name":"Dune","disamb":"card game","url":"wikipedia.org/wiki/Dune_(card_game)"}
-{"id":"groo-game","name":"Groo: The Game","url":"wikipedia.org/wiki/Groo:_The_Game"}
-{"id":"imajica-cards","name":"Imajica","disamb":"card game","url":"wikipedia.org/wiki/Imajica_(card_game)"}
-{"id":"monster-collection","name":"Monster Collection","url":"wikipedia.org/wiki/Monster_Collection"}
-{"id":"shadowrun-tcg","name":"Shadowrun: The Trading Card Game","url":"wikipedia.org/wiki/Shadowrun:_The_Trading_Card_Game"}
-{"id":"survival-witless","name":"Survival of the Witless","url":"wikipedia.org/wiki/Survival_of_the_Witless"}
-{"id":"warlords-cards","name":"Warlords","disamb":"card game","url":"wikipedia.org/wiki/Warlords_(card_game)"}
-{"id":"abduction-cards","name":"Abduction","disamb":"card game","url":"wikipedia.org/wiki/Abduction_(card_game)"}
-{"id":"aquarius","name":"Aquarius","url":"wikipedia.org/wiki/Aquarius_(game)"}
-{"id":"c-23","name":"C-23","url":"wikipedia.org/wiki/C-23_(card_game)"}
-{"id":"doomtown","name":"Doomtown","url":"wikipedia.org/wiki/Doomtown"}
-{"id":"falling","name":"Falling","url":"wikipedia.org/wiki/Falling_(game)"}
-{"id":"filthy-rich","name":"Filthy Rich","url":"wikipedia.org/wiki/Filthy_Rich_(game)"}
-{"id":"g-i-joe-tcg","name":"G.I. Joe Trading Card Game","url":"wikipedia.org/wiki/G.I._Joe_Trading_Card_Game"}
-{"id":"guillotine","name":"Guillotine","url":"wikipedia.org/wiki/Guillotine_(game)"}
-{"id":"havic-bothering","name":"Havic: The Bothering","url":"wikipedia.org/wiki/Havic:_The_Bothering"}
-{"id":"hercules-cards","name":"Hercules: The Legendary Journeys","disamb":"card game","url":"wikipedia.org/wiki/Hercules:_The_Legendary_Journeys_(card_game)"}
-{"id":"legend-burning-sands","name":"Legend of the Burning Sands","url":"wikipedia.org/wiki/Legend_of_the_Burning_Sands"}
-{"id":"lord-fries","name":"Lord of the Fries","disamb":"card game","url":"wikipedia.org/wiki/Lord_of_the_Fries_(card_game)"}
-{"id":"mag-blast","name":"Mag Blast","url":"wikipedia.org/wiki/Mag_Blast"}
-{"id":"pivot-cards","name":"Pivot","disamb":"card game","url":"wikipedia.org/wiki/Pivot_(card_game)"}
-{"id":"quiddler","name":"Quiddler","url":"wikipedia.org/wiki/Quiddler"}
-{"id":"spammers","name":"Spammers","disamb":"card game","url":"wikipedia.org/wiki/Spammers_(card_game)"}
-{"id":"unglued","name":"Unglued","url":"wikipedia.org/wiki/Unglued"}
-{"id":"uno-attack","name":"Uno Attack","url":"wikipedia.org/wiki/Uno_Attack"}
-{"id":"xena-cards","name":"Xena: Warrior Princess","disamb":"card game","url":"wikipedia.org/wiki/Xena:_Warrior_Princess_(card_game)"}
-{"id":"7th-sea-ccg","name":"7th Sea","disamb":"collectible card game","url":"wikipedia.org/wiki/7th_Sea_(collectible_card_game)"}
-{"id":"apples-apples","name":"Apples to Apples","url":"wikipedia.org/wiki/Apples_to_Apples"}
-{"id":"arcomage","name":"Arcomage","url":"wikipedia.org/wiki/Arcomage"}
-{"id":"brawl","name":"Brawl","url":"wikipedia.org/wiki/Brawl_(game)"}
-{"id":"chez-geek","name":"Chez Geek","url":"wikipedia.org/wiki/Chez_Geek"}
-{"id":"gundam-war-ccg","name":"Gundam War","disamb":"collectible card game","url":"wikipedia.org/wiki/Gundam_War_Collectible_Card_Game"}
-{"id":"lost-cities","name":"Lost Cities","url":"wikipedia.org/wiki/Lost_Cities"}
-{"id":"schotten-totten","name":"Schotten Totten","url":"wikipedia.org/wiki/Schotten_Totten"}
-{"id":"tomb-raider-ccg","name":"Tomb Raider","disamb":"collectible card game","url":"wikipedia.org/wiki/Tomb_Raider_Collectible_Card_Game"}
-{"id":"wheel-time-ccg","name":"The Wheel of Time","disamb":"collectible card game","url":"wikipedia.org/wiki/The_Wheel_of_Time_Collectible_Card_Game"}
-{"id":"young-jedi-ccg","name":"Young Jedi","disamb":"collectible card game","url":"wikipedia.org/wiki/Young_Jedi_Collectible_Card_Game"}
-{"id":"yu-gi-oh-tcg","name":"Yu-Gi-Oh! Trading Card Game","url":"wikipedia.org/wiki/Yu-Gi-Oh!_Trading_Card_Game"}
+{"id":"cash-cards","name":"Cash","disamb":"card game","url":"wikipedia.org/wiki/Cash_(card_game)","year":"1990"}
+{"id":"goldrausch","name":"Goldrausch","url":"wikipedia.org/wiki/Goldrausch","year":"1990"}
+{"id":"rettet-die-umwelt","name":"Rettet Die Umwelt","url":"wikipedia.org/wiki/Rettet_Die_Umwelt","year":"1990"}
+{"id":"romer","name":"Römer","url":"wikipedia.org/wiki/R%C3%B6mer_(card_game)","year":"1990"}
+{"id":"wer-hat-mehr","name":"Wer Hat Mehr?","url":"wikipedia.org/wiki/Wer_Hat_Mehr%3F","year":"1990"}
+{"id":"car-wars","name":"Car Wars, The Card Game","url":"wikipedia.org/wiki/Car_Wars_The_Card_Game","year":"1991"}
+{"id":"jungle-speed","name":"Jungle Speed","url":"wikipedia.org/wiki/Jungle_Speed","year":"1991"}
+{"id":"set-cards","name":"Set","disamb":"card game","url":"wikipedia.org/wiki/Set_(card_game)","year":"1991"}
+{"id":"tichu","name":"Tichu","url":"wikipedia.org/wiki/Tichu","year":"1991"}
+{"id":"eurohit","name":"EuroHit","url":"wikipedia.org/wiki/EuroHit","year":"1992"}
+{"id":"modern-art","name":"Modern Art","url":"wikipedia.org/wiki/Modern_Art_(game)","year":"1992"}
+{"id":"nuclear-proliferation-cards","name":"Nuclear Proliferation","disamb":"card game","url":"wikipedia.org/wiki/Nuclear_Proliferation_(card_game)","year":"1992"}
+{"id":"magic-the-gathering","name":"Magic: The Gathering","url":"wikipedia.org/wiki/Limited_Edition_(Magic:_The_Gathering)","year":"1993"}
+{"id":"battlecards","name":"BattleCards","url":"wikipedia.org/wiki/BattleCards","year":"1993"}
+{"id":"creatures-and-cultists","name":"Creatures & Cultists","url":"wikipedia.org/wiki/Creatures_%26_Cultists","year":"1993"}
+{"id":"credo-cards","name":"Credo","disamb":"card game","url":"wikipedia.org/wiki/Credo_(card_game)","year":"1993"}
+{"id":"titan-the-arena","name":"Titan: The Arena","url":"wikipedia.org/wiki/Titan:_The_Arena","year":"1993"}
+{"id":"six-nimmt","name":"6 nimmt!","url":"wikipedia.org/wiki/6_nimmt!","year":"1994"}
+{"id":"dixie-cards","name":"Dixie","disamb":"card game","url":"wikipedia.org/wiki/Dixie_(card_game)","year":"1994"}
+{"id":"doomtrooper","name":"Doomtrooper","url":"wikipedia.org/wiki/Doomtrooper","year":"1994"}
+{"id":"flights-fantasy","name":"Flights of Fantasy","url":"wikipedia.org/wiki/Flights_of_Fantasy","year":"1994"}
+{"id":"galactic-empires","name":"Galactic Empires","url":"wikipedia.org/wiki/Galactic_Empires","year":"1994"}
+{"id":"heavy-gear-fighter","name":"Heavy Gear Fighter","url":"wikipedia.org/wiki/Heavy_Gear_Fighter","year":"1994"}
+{"id":"illuminati-new-world-order","name":"Illuminati: New World Order","url":"wikipedia.org/wiki/Illuminati:_New_World_Order","year":"1994"}
+{"id":"on-the-edge","name":"On the Edge","url":"wikipedia.org/wiki/On_the_Edge_(game)","year":"1994"}
+{"id":"once-upon-a-time","name":"Once Upon a Time","url":"wikipedia.org/wiki/Once_Upon_a_Time_(game)","year":"1994"}
+{"id":"spellfire","name":"Spellfire","url":"wikipedia.org/wiki/Spellfire","year":"1994"}
+{"id":"star-trek-ccg","name":"Star Trek Customizable Card Game","url":"wikipedia.org/wiki/Star_Trek_Customizable_Card_Game","year":"1994"}
+{"id":"super-deck","name":"Super Deck!","url":"wikipedia.org/wiki/Super_Deck!","year":"1994"}
+{"id":"vampire-eternal-struggle","name":"Vampire: The Eternal Struggle","url":"wikipedia.org/wiki/Vampire:_The_Eternal_Struggle","year":"1994"}
+{"id":"wyvern-cards","name":"Wyvern","disamb":"card game","url":"wikipedia.org/wiki/Wyvern_(card_game)","year":"1994"}
+{"id":"banemaster","name":"Banemaster: The Adventure","url":"wikipedia.org/wiki/Banemaster:_The_Adventure","year":"1995"}
+{"id":"battlelords","name":"Battlelords","url":"wikipedia.org/wiki/Battlelords","year":"1995"}
+{"id":"blood-wars","name":"Blood Wars","disamb":"card game","url":"wikipedia.org/wiki/Blood_Wars_(card_game)","year":"1995"}
+{"id":"the-crow-cards","name":"The Crow","disamb":"card game","url":"wikipedia.org/wiki/The_Crow_(card_game)","year":"1995"}
+{"id":"dragons-wrath","name":"The Dragon's Wrath","url":"wikipedia.org/wiki/The_Dragon%27s_Wrath","year":"1995"}
+{"id":"eagles-cards","name":"Eagles","disamb":"card game","url":"wikipedia.org/wiki/Eagles_(card_game)","year":"1995"}
+{"id":"echelons-of-fire","name":"Echelons of Fire","url":"wikipedia.org/wiki/Echelons_of_Fire","year":"1995"}
+{"id":"echelons-of-fury","name":"Echelons of fury","url":"wikipedia.org/wiki/Echelons_of_Fury","year":"1995"}
+{"id":"frog-juice","name":"Frog Juice","url":"wikipedia.org/wiki/Frog_Juice","year":"1995"}
+{"id":"great-dalmuti","name":"The Great Dalmuti","url":"wikipedia.org/wiki/The_Great_Dalmuti","year":"1995"}
+{"id":"gridiron-fantasy-football","name":"Gridiron Fantasy Football","url":"wikipedia.org/wiki/Gridiron_Fantasy_Football","year":"1995"}
+{"id":"guardians","name":"Guardians","disamb":"card game","url":"wikipedia.org/wiki/Guardians_(card_game)","year":"1995"}
+{"id":"heresy-kingdom-come","name":"Heresy: Kingdom Come","url":"wikipedia.org/wiki/Heresy:_Kingdom_Come","year":"1995"}
+{"id":"high-society","name":"High Society","disamb":"card game","url":"wikipedia.org/wiki/High_Society_(card_game)","year":"1995"}
+{"id":"hyborian-gates","name":"Hyborian Gates","url":"wikipedia.org/wiki/Hyborian_Gates","year":"1995"}
+{"id":"james-bond-007-cards","name":"James Bond 007","disamb":"card game","url":"wikipedia.org/wiki/James_Bond_007_(card_game)","year":"1995"}
+{"id":"kult","name":"Kult","disamb":"card game","url":"wikipedia.org/wiki/Kult_(card_game)","year":"1995"}
+{"id":"last-crusade","name":"The Last Crusade","url":"wikipedia.org/wiki/The_Last_Crusade","year":"1995"}
+{"id":"legend-five-rings","name":"Legend of the Five Rings","disamb":"collectible card game","url":"wikipedia.org/wiki/Legend_of_the_Five_Rings_(collectible_card_game)","year":"1995"}
+{"id":"middle-earth-ccg","name":"Middle-Earth","disamb":"collectible card game","url":"wikipedia.org/wiki/Middle-earth_Collectible_Card_Game","year":"1995"}
+{"id":"monster-magic","name":"Monster Magic","url":"wikipedia.org/wiki/Monster_Magic","year":"1995"}
+{"id":"over-power","name":"OverPower","url":"wikipedia.org/wiki/OverPower","year":"1995"}
+{"id":"power-cardz","name":"PowerCardz","url":"wikipedia.org/wiki/PowerCardz","year":"1995"}
+{"id":"quest-grail","name":"Quest for the Grail","url":"wikipedia.org/wiki/Quest_for_the_Grail","year":"1995"}
+{"id":"rage-ccg","name":"Rage","disamb":"collectible card game","url":"wikipedia.org/wiki/Rage_(collectible_card_game)","year":"1995"}
+{"id":"rat-a-tat-cat","name":"Rat-a-Tat Cat","url":"wikipedia.org/wiki/Rat-a-Tat_Cat","year":"1995"}
+{"id":"red-zone","name":"Red Zone","disamb":"card game","url":"wikipedia.org/wiki/Red_Zone_(card_game)","year":"1995"}
+{"id":"redemption-cards","name":"Redemption","disamb":"card game","url":"wikipedia.org/wiki/Redemption_(card_game)","year":"1995"}
+{"id":"ruins-world","name":"RuinsWorld","url":"wikipedia.org/wiki/RuinsWorld","year":"1995"}
+{"id":"shadowfist","name":"Shadowfist","url":"wikipedia.org/wiki/Shadowfist","year":"1995"}
+{"id":"sim-city-cards","name":"Sim City: The Card Game","url":"wikipedia.org/wiki/Sim_City:_The_Card_Game","year":"1995"}
+{"id":"star-guardians-ccg","name":"Star of the Guardians","disamb":"collectible card game","url":"wikipedia.org/wiki/Star_of_the_Guardians_(collectible_card_game)","year":"1995"}
+{"id":"star-quest-cards","name":"Star Quest","disamb":"card game","url":"wikipedia.org/wiki/Star_Quest_(card_game)","year":"1995"}
+{"id":"star-wars-ccg","name":"Star Wars","disamb":"customizable card game","url":"wikipedia.org/wiki/Star_Wars_Customizable_Card_Game","year":"1995"}
+{"id":"tempest-gods","name":"Tempest of the Gods","url":"wikipedia.org/wiki/Tempest_of_the_Gods","year":"1995"}
+{"id":"top-order","name":"Top of the Order","url":"wikipedia.org/wiki/Top_of_the_Order","year":"1995"}
+{"id":"towers-in-time","name":"Towers in Time","url":"wikipedia.org/wiki/Towers_in_Time","year":"1995"}
+{"id":"ultimate-combat","name":"Ultimate Combat!","url":"wikipedia.org/wiki/Ultimate_Combat!","year":"1995"}
+{"id":"wild-storms","name":"WildStorms: The Expandable Super-Hero Card Game","url":"wikipedia.org/wiki/WildStorms:_The_Expandable_Super-Hero_Card_Game","year":"1995"}
+{"id":"wing-commander-ctcg","name":"Wing Commander","disamb":"collectible trading card game","url":"wikipedia.org/wiki/Wing_Commander_Collectible_Trading_Card_Game","year":"1995"}
+{"id":"1000-blank-white-cards","name":"1000 Blank White Cards","url":"wikipedia.org/wiki/1000_Blank_White_Cards","year":"1996"}
+{"id":"ani-mayhem","name":"Ani-Mayhem","url":"wikipedia.org/wiki/Ani-Mayhem","year":"1996"}
+{"id":"arcadia","name":"Arcadia","disamb":"card game","url":"wikipedia.org/wiki/Arcadia_(card_game)","year":"1996"}
+{"id":"battle-tech-cards","name":"BattleTech","disamb":"trading card game","url":"wikipedia.org/wiki/BattleTech_Trading_Card_Game","year":"1996"}
+{"id":"before-i-kill-you-mr-bond","name":"Before I Kill You, Mr. Bond","url":"wikipedia.org/wiki/Before_I_Kill_You,_Mr._Bond","year":"1996"}
+{"id":"catan-cards","name":"Catan Card Game","url":"wikipedia.org/wiki/Catan_Card_Game","year":"1996"}
+{"id":"dark-age-cards","name":"Dark Age","disamb":"card game","url":"wikipedia.org/wiki/Dark_Age_(card_game)","year":"1996"}
+{"id":"doctor-who-ccg","name":"The Doctor Who Collectible Card Game","url":"wikipedia.org/wiki/The_Doctor_Who_Collectible_Card_Game","year":"1996"}
+{"id":"dragon-storm","name":"Dragon Storm","url":"wikipedia.org/wiki/Dragon_Storm_(game)","year":"1996"}
+{"id":"fantasy-adventures","name":"Fantasy Adventures","url":"wikipedia.org/wiki/Fantasy_Adventures","year":"1996"}
+{"id":"five-crowns","name":"Five Crowns","disamb":"card game","url":"wikipedia.org/wiki/Five_Crowns_(card_game)","year":"1996"}
+{"id":"fluxx","name":"Fluxx","url":"wikipedia.org/wiki/Fluxx","year":"1996"}
+{"id":"give-me-brain","name":"Give Me the Brain","url":"wikipedia.org/wiki/Give_Me_the_Brain","year":"1996"}
+{"id":"highlander-cards","name":"Highlander: The Card Game","url":"wikipedia.org/wiki/Highlander:_The_Card_Game","year":"1996"}
+{"id":"honor-samurai","name":"Honor of the Samurai","url":"wikipedia.org/wiki/Honor_of_the_Samurai","year":"1996"}
+{"id":"lunch-money","name":"Lunch Money","url":"wikipedia.org/wiki/Lunch_Money_(game)","year":"1996"}
+{"id":"monty-python-holy-grail-ccg","name":"Monty Python and the Holy Grail","disamb":"collectible card game","url":"wikipedia.org/wiki/Monty_Python_and_the_Holy_Grail_Collectible_Card_Game","year":"1996"}
+{"id":"mythos-cards","name":"Mythos","disamb":"card game","url":"wikipedia.org/wiki/Mythos_(card_game)","year":"1996"}
+{"id":"netrunner","name":"Netrunner","url":"wikipedia.org/wiki/Netrunner","year":"1996"}
+{"id":"pokemon-tcg","name":"Pokémon Trading Card Game","url":"wikipedia.org/wiki/Pok%C3%A9mon_Trading_Card_Game","year":"1996"}
+{"id":"star-trek-cards","name":"Star Trek: The Card Game","url":"wikipedia.org/wiki/Star_Trek:_The_Card_Game","year":"1996"}
+{"id":"very-clever-pipe-game","name":"The Very Clever Pipe Game","url":"wikipedia.org/wiki/The_Very_Clever_Pipe_Game","year":"1996"}
+{"id":"x-files-ccg","name":"The X-Files Collectible Card Game","url":"wikipedia.org/wiki/The_X-Files_Collectible_Card_Game","year":"1996"}
+{"id":"xxxenophile-ccg","name":"XXXenophile","disamb":"collectible card game","url":"wikipedia.org/wiki/XXXenophile_(collectible_card_game)","year":"1996"}
+{"id":"aliens-predator-ccg","name":"Aliens vs. Predator","disamb":"customizable card game","url":"wikipedia.org/wiki/Aliens_Predator_Customizable_Card_Game","year":"1997"}
+{"id":"babylon-5-ccg","name":"Babylon 5","disamb":"collectible card game","url":"wikipedia.org/wiki/Babylon_5_Collectible_Card_Game","year":"1997"}
+{"id":"bohnanza","name":"Bohnanza","url":"wikipedia.org/wiki/Bohnanza","year":"1997"}
+{"id":"dark-eden","name":"Dark Eden","url":"wikipedia.org/wiki/Dark_Eden","year":"1997"}
+{"id":"digimon-cards","name":"Digimon Card Game","url":"wikipedia.org/wiki/Digimon#Card_game","year":"1997"}
+{"id":"dune-cards","name":"Dune","disamb":"card game","url":"wikipedia.org/wiki/Dune_(card_game)","year":"1997"}
+{"id":"groo-game","name":"Groo: The Game","url":"wikipedia.org/wiki/Groo:_The_Game","year":"1997"}
+{"id":"imajica-cards","name":"Imajica","disamb":"card game","url":"wikipedia.org/wiki/Imajica_(card_game)","year":"1997"}
+{"id":"monster-collection","name":"Monster Collection","url":"wikipedia.org/wiki/Monster_Collection","year":"1997"}
+{"id":"shadowrun-tcg","name":"Shadowrun: The Trading Card Game","url":"wikipedia.org/wiki/Shadowrun:_The_Trading_Card_Game","year":"1997"}
+{"id":"survival-witless","name":"Survival of the Witless","url":"wikipedia.org/wiki/Survival_of_the_Witless","year":"1997"}
+{"id":"warlords-cards","name":"Warlords","disamb":"card game","url":"wikipedia.org/wiki/Warlords_(card_game)","year":"1997"}
+{"id":"abduction-cards","name":"Abduction","disamb":"card game","url":"wikipedia.org/wiki/Abduction_(card_game)","year":"1998"}
+{"id":"aquarius","name":"Aquarius","url":"wikipedia.org/wiki/Aquarius_(game)","year":"1998"}
+{"id":"c-23","name":"C-23","url":"wikipedia.org/wiki/C-23_(card_game)","year":"1998"}
+{"id":"doomtown","name":"Doomtown","url":"wikipedia.org/wiki/Doomtown","year":"1998"}
+{"id":"falling","name":"Falling","url":"wikipedia.org/wiki/Falling_(game)","year":"1998"}
+{"id":"filthy-rich","name":"Filthy Rich","url":"wikipedia.org/wiki/Filthy_Rich_(game)","year":"1998"}
+{"id":"g-i-joe-tcg","name":"G.I. Joe Trading Card Game","url":"wikipedia.org/wiki/G.I._Joe_Trading_Card_Game","year":"1998"}
+{"id":"guillotine","name":"Guillotine","url":"wikipedia.org/wiki/Guillotine_(game)","year":"1998"}
+{"id":"havic-bothering","name":"Havic: The Bothering","url":"wikipedia.org/wiki/Havic:_The_Bothering","year":"1998"}
+{"id":"hercules-cards","name":"Hercules: The Legendary Journeys","disamb":"card game","url":"wikipedia.org/wiki/Hercules:_The_Legendary_Journeys_(card_game)","year":"1998"}
+{"id":"legend-burning-sands","name":"Legend of the Burning Sands","url":"wikipedia.org/wiki/Legend_of_the_Burning_Sands","year":"1998"}
+{"id":"lord-fries","name":"Lord of the Fries","disamb":"card game","url":"wikipedia.org/wiki/Lord_of_the_Fries_(card_game)","year":"1998"}
+{"id":"mag-blast","name":"Mag Blast","url":"wikipedia.org/wiki/Mag_Blast","year":"1998"}
+{"id":"pivot-cards","name":"Pivot","disamb":"card game","url":"wikipedia.org/wiki/Pivot_(card_game)","year":"1998"}
+{"id":"quiddler","name":"Quiddler","url":"wikipedia.org/wiki/Quiddler","year":"1998"}
+{"id":"spammers","name":"Spammers","disamb":"card game","url":"wikipedia.org/wiki/Spammers_(card_game)","year":"1998"}
+{"id":"unglued","name":"Unglued","url":"wikipedia.org/wiki/Unglued","year":"1998"}
+{"id":"uno-attack","name":"Uno Attack","url":"wikipedia.org/wiki/Uno_Attack","year":"1998"}
+{"id":"xena-cards","name":"Xena: Warrior Princess","disamb":"card game","url":"wikipedia.org/wiki/Xena:_Warrior_Princess_(card_game)","year":"1998"}
+{"id":"7th-sea-ccg","name":"7th Sea","disamb":"collectible card game","url":"wikipedia.org/wiki/7th_Sea_(collectible_card_game)","year":"1999"}
+{"id":"apples-apples","name":"Apples to Apples","url":"wikipedia.org/wiki/Apples_to_Apples","year":"1999"}
+{"id":"arcomage","name":"Arcomage","url":"wikipedia.org/wiki/Arcomage","year":"1999"}
+{"id":"brawl","name":"Brawl","url":"wikipedia.org/wiki/Brawl_(game)","year":"1999"}
+{"id":"chez-geek","name":"Chez Geek","url":"wikipedia.org/wiki/Chez_Geek","year":"1999"}
+{"id":"gundam-war-ccg","name":"Gundam War","disamb":"collectible card game","url":"wikipedia.org/wiki/Gundam_War_Collectible_Card_Game","year":"1999"}
+{"id":"lost-cities","name":"Lost Cities","url":"wikipedia.org/wiki/Lost_Cities","year":"1999"}
+{"id":"schotten-totten","name":"Schotten Totten","url":"wikipedia.org/wiki/Schotten_Totten","year":"1999"}
+{"id":"tomb-raider-ccg","name":"Tomb Raider","disamb":"collectible card game","url":"wikipedia.org/wiki/Tomb_Raider_Collectible_Card_Game","year":"1999"}
+{"id":"wheel-time-ccg","name":"The Wheel of Time","disamb":"collectible card game","url":"wikipedia.org/wiki/The_Wheel_of_Time_Collectible_Card_Game","year":"1999"}
+{"id":"young-jedi-ccg","name":"Young Jedi","disamb":"collectible card game","url":"wikipedia.org/wiki/Young_Jedi_Collectible_Card_Game","year":"1999"}
+{"id":"yu-gi-oh-tcg","name":"Yu-Gi-Oh! Trading Card Game","url":"wikipedia.org/wiki/Yu-Gi-Oh!_Trading_Card_Game","year":"1999"}
 {"id":"open-face-chinese-poker","name":"Open-face Chinese Poker","url":"wikipedia.org/wiki/Open-face_Chinese_poker"}
 {"id":"terminator-ccg","name":"The Terminator Collectible Card Game","url":"wikipedia.org/wiki/The_Terminator_Collectible_Card_Game"}
-{"id":"aquarian-age","name":"Aquarian Age","url":"wikipedia.org/wiki/Aquarian_Age"}
-{"id":"casino-hold-em","name":"Casino hold 'em","url":"wikipedia.org/wiki/Casino_hold_%27em"}
-{"id":"castle-cards","name":"Castle","disamb":"card game","url":"wikipedia.org/wiki/Castle_(card_game)"}
-{"id":"chrononauts","name":"Chrononauts","url":"wikipedia.org/wiki/Chrononauts"}
-{"id":"citadels","name":"Citadels","disamb":"card game","url":"wikipedia.org/wiki/Citadels_(card_game)"}
-{"id":"digi-battle","name":"Digi-Battle","url":"wikipedia.org/wiki/Digi-Battle"}
-{"id":"dragon-ball-z-ccg","name":"Dragon Ball Z Collectible Card Game","url":"wikipedia.org/wiki/Dragon_Ball_Z_Collectible_Card_Game"}
-{"id":"dvorak","name":"Dvorak","url":"wikipedia.org/wiki/Dvorak_(game)"}
-{"id":"gother-than-thou","name":"Gother Than Thou","url":"wikipedia.org/wiki/Gother_Than_Thou"}
-{"id":"labyrinth","name":"Labyrinth","disamb":"board game","url":"wikipedia.org/wiki/Labyrinth_(board_game)"}
-{"id":"magi-nation-duel","name":"Magi-Nation Duel","url":"wikipedia.org/wiki/Magi-Nation_Duel"}
-{"id":"mlb-showdown","name":"MLB Showdown","url":"wikipedia.org/wiki/MLB_Showdown"}
-{"id":"monopoly-cards","name":"Monopoly: The Card Game","url":"wikipedia.org/wiki/Monopoly:_The_Card_Game"}
-{"id":"myths-legends","name":"Myths and Legends","url":"wikipedia.org/wiki/Myths_and_Legends"}
-{"id":"sailor-moon-ccg","name":"Sailor Moon Collectible Card Game","url":"wikipedia.org/wiki/Sailor_Moon_Collectible_Card_Game"}
-{"id":"trade-battle-card-hero","name":"Trade & Battle: Card Hero","url":"wikipedia.org/wiki/Trade_%26_Battle:_Card_Hero"}
-{"id":"x-men-tcg","name":"X-Men","disamb":"trading card game","url":"wikipedia.org/wiki/X-Men_Trading_Card_Game"}
-{"id":"battle-cattle","name":"Battle Cattle: The Card Game","url":"wikipedia.org/wiki/Battle_Cattle:_The_Card_Game"}
-{"id":"buffy-cards","name":"Buffy the Vampire Slayer","disamb":"collectible card game","url":"wikipedia.org/wiki/Buffy_the_Vampire_Slayer_Collectible_Card_Game"}
-{"id":"firestorm-tactical","name":"Firestorm Tactical Card Game","url":"wikipedia.org/wiki/Firestorm_Tactical_Card_Game"}
-{"id":"girl-genius:_The_Works","name":"Girl_Genius:_The_Works","url":"wikipedia.org/wiki/Girl_Genius:_The_Works"}
-{"id":"grave-robbers-outer-space","name":"Grave Robbers from Outer Space","url":"wikipedia.org/wiki/Grave_Robbers_from_Outer_Space"}
-{"id":"harry-potter-tcg","name":"Harry Potter Trading Card Game","url":"wikipedia.org/wiki/Harry_Potter_Trading_Card_Game"}
-{"id":"jedi-knights-tcg","name":"Jedi Knights Trading Card Game","url":"wikipedia.org/wiki/Jedi_Knights_Trading_Card_Game"}
-{"id":"koto-battle-rpg","name":"Koto Battle: Tengai no Moribito","url":"wikipedia.org/wiki/Koto_Battle:_Tengai_no_Moribito"}
-{"id":"lord-rings-tcg","name":"The Lord of the Rings Trading Card Game","url":"wikipedia.org/wiki/The_Lord_of_the_Rings_Trading_Card_Game"}
-{"id":"munchkin","name":"Munchkin","disamb":"card game","url":"wikipedia.org/wiki/Munchkin_(card_game)"}
-{"id":"nba-showdown","name":"NBA Showdown","url":"wikipedia.org/wiki/NBA_Showdown"}
-{"id":"nfl-showdown","name":"NFL Showdown","url":"wikipedia.org/wiki/NFL_Showdown"}
-{"id":"marvel-recharge-ccg","name":"Marvel ReCharge","disamb":"collectible card game","url":"wikipedia.org/wiki/ReCharge_Collectible_Card_Game"}
-{"id":"rifts-rpg","name":"Rifts","disamb":"role-playing game","url":"wikipedia.org/wiki/Rifts_(role-playing_game)"}
-{"id":"star-fleet-battle-force","name":"Star Fleet Battle Force","url":"wikipedia.org/wiki/Star_Fleet_Battle_Force"}
-{"id":"starship-catan","name":"Starship Catan","url":"wikipedia.org/wiki/Starship_Catan"}
-{"id":"unexploded-cow","name":"Unexploded Cow","url":"wikipedia.org/wiki/Unexploded_Cow"}
-{"id":"warhammer-40k-ccg","name":"Warhammer 40,000 Collectible Card Game","url":"wikipedia.org/wiki/Warhammer_40,000_Collectible_Card_Game"}
-{"id":"warlord-ccg","name":"Warlord: Saga of the Storm CCG","disamb":"collectible card game","url":"wikipedia.org/wiki/Warlord:_Saga_of_the_Storm_CCG"}
-{"id":"with-authority","name":"With Authority!","url":"wikipedia.org/wiki/With_Authority!"}
-{"id":"wyatt-earp-cards","name":"Wyatt Earp","disamb":"card game","url":"wikipedia.org/wiki/Wyatt_Earp_(card_game)"}
-{"id":"bang-cards","name":"Bang!","disamb":"card game","url":"wikipedia.org/wiki/Bang!_(card_game)"}
-{"id":"duel-masters-tcg","name":"Duel Masters Trading Card Game","url":"wikipedia.org/wiki/Duel_Masters_Trading_Card_Game"}
-{"id":"fightball","name":"Fightball","url":"wikipedia.org/wiki/Fightball"}
-{"id":"froop","name":"Froop!","url":"wikipedia.org/wiki/Froop!"}
-{"id":"game-life-cards","name":"The Game of Life: Card Game","url":"wikipedia.org/wiki/The_Game_of_Life:_Card_Game"}
-{"id":"game-thrones-cards","name":"A Game of Thrones","disamb":"card game","url":"wikipedia.org/wiki/A_Game_of_Thrones_(card_game)"}
-{"id":"killer-bunnies","name":"Killer Bunnies and the Quest for the Magic Carrot","url":"wikipedia.org/wiki/Killer_Bunnies_and_the_Quest_for_the_Magic_Carrot"}
-{"id":"settlers-canaan","name":"The Settlers of Canaan","url":"wikipedia.org/wiki/The_Settlers_of_Canaan"}
-{"id":"star-wars-tcg","name":"Star Wars Trading Card Game","url":"wikipedia.org/wiki/Star_Wars_Trading_Card_Game"}
-{"id":"table-topics","name":"TableTopics","url":"wikipedia.org/wiki/TableTopics"}
-{"id":"world-club-champion-football","name":"World Club Champion Football","url":"wikipedia.org/wiki/World_Club_Champion_Football"}
-{"id":"xactika","name":"Xactika","url":"wikipedia.org/wiki/Xactika"}
-{"id":"balloon-cup","name":"Balloon Cup","url":"wikipedia.org/wiki/Balloon_Cup"}
-{"id":"beyblade-tcg","name":"Beyblade Trading Card Game","url":"wikipedia.org/wiki/Beyblade_Trading_Card_Game"}
-{"id":"coloretto","name":"Coloretto","url":"wikipedia.org/wiki/Coloretto"}
-{"id":"dungeoneer","name":"Dungeoneer","url":"wikipedia.org/wiki/Dungeoneer_(game)"}
-{"id":"horus-heresy-cards","name":"Horus Heresy","disamb":"card game","url":"wikipedia.org/wiki/Horus_Heresy_(card_game)"}
-{"id":"mirrodin","name":"Mirrodin","url":"wikipedia.org/wiki/Mirrodin"}
-{"id":"naruto-ccg","name":"Naruto","disamb":"collectible card game","url":"wikipedia.org/wiki/Naruto#Collectible_card_game"}
-{"id":"neopets-tcg","name":"Neopets Trading Card Game","url":"wikipedia.org/wiki/Neopets_Trading_Card_Game"}
-{"id":"ninja-burger","name":"Ninja Burger","url":"wikipedia.org/wiki/Ninja_Burger"}
-{"id":"ophidian-2350","name":"Ophidian 2350","url":"wikipedia.org/wiki/Ophidian_2350"}
-{"id":"spank-monkey","name":"Spank the Monkey","url":"wikipedia.org/wiki/Spank_the_monkey"}
-{"id":"spongebob-squarepants-tcg","name":"SpongeBob SquarePants Trading Card Game","url":"wikipedia.org/wiki/SpongeBob_SquarePants_Trading_Card_Game"}
-{"id":"star-chamber-harbinger-saga","name":"Star Chamber: The Harbinger Saga","url":"wikipedia.org/wiki/Star_Chamber:_The_Harbinger_Saga"}
-{"id":"star-sisterz","name":"Star Sisterz","url":"wikipedia.org/wiki/Star_Sisterz"}
-{"id":"strange-synergy","name":"Strange Synergy","url":"wikipedia.org/wiki/Strange_Synergy"}
-{"id":"war-cry","name":"WarCry","url":"wikipedia.org/wiki/WarCry_(game)"}
-{"id":"yu-yu-hakusho-tcg","name":"Yu Yu Hakusho Trading Card Game","url":"wikipedia.org/wiki/Yu_Yu_Hakusho_Trading_Card_Game"}
-{"id":"allegiance-war-factions","name":"Allegiance: War of Factions","url":"wikipedia.org/wiki/Allegiance:_War_of_Factions"}
-{"id":"alteil","name":"Alteil","url":"wikipedia.org/wiki/Alteil"}
-{"id":"blue-moon","name":"Blue Moon","url":"wikipedia.org/wiki/Blue_Moon_(game)"}
-{"id":"call-cthulhu-cards","name":"Call of Cthulhu: The Card Game","url":"wikipedia.org/wiki/Call_of_Cthulhu:_The_Card_Game"}
-{"id":"kamigawa","name":"Kamigawa","url":"wikipedia.org/wiki/Kamigawa"}
-{"id":"cockroach-poker","name":"Cockroach Poker","url":"wikipedia.org/wiki/Cockroach_Poker"}
-{"id":"cthulhu-500","name":"Cthulhu 500","url":"wikipedia.org/wiki/Cthulhu_500"}
-{"id":"mirrodin","name":"Mirrodin","url":"wikipedia.org/wiki/Mirrodin"}
-{"id":"escape-velocity-nova","name":"Escape Velocity Nova","url":"wikipedia.org/wiki/Escape_Velocity_Nova"}
-{"id":"fairy-tale","name":"Fairy Tale","url":"wikipedia.org/wiki/Fairy_Tale_(game)"}
-{"id":"familienbande","name":"Familienbande","url":"wikipedia.org/wiki/Familienbande"}
-{"id":"gloom-cards","name":"Gloom","disamb":"card game","url":"wikipedia.org/wiki/Gloom_(card_game)"}
-{"id":"in-pickle","name":"In a Pickle","disamb":"card game","url":"wikipedia.org/wiki/In_a_Pickle_(card_game)"}
-{"id":"inuyasha-tcg","name":"Inuyasha TCG","disamb":"collectible card game","url":"wikipedia.org/wiki/Inuyasha#Video_games"}
-{"id":"jambo","name":"Jambo","disamb":"card game","url":"wikipedia.org/wiki/Jambo_(card_game)"}
-{"id":"no-thanks","name":"No Thanks!","url":"wikipedia.org/wiki/No_Thanks!_(game)"}
-{"id":"quest-D","name":"Quest of D","url":"wikipedia.org/wiki/Quest_of_D"}
-{"id":"saboteur","name":"Saboteur","disamb":"card game","url":"wikipedia.org/wiki/Saboteur_(card_game)"}
-{"id":"san-juan-cards","name":"San Juan","disamb":"card game","url":"wikipedia.org/wiki/San_Juan_(card_game)"}
-{"id":"tmnt-tcg","name":"Teenage Mutant Ninja Turtles Trading Card Game","url":"wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_Trading_Card_Game"}
-{"id":"uno-h2o","name":"Uno H2O","url":"wikipedia.org/wiki/Uno_(card_game)#Uno_H2O"}
-{"id":"veto-ccg","name":"Veto!","disamb":"collectible card game","url":"wikipedia.org/wiki/Veto_(card_game)"}
-{"id":"vs-system","name":"Vs. System","disamb":"living card system","url":"wikipedia.org/wiki/Vs._System"}
+{"id":"aquarian-age","name":"Aquarian Age","url":"wikipedia.org/wiki/Aquarian_Age","year":"2000"}
+{"id":"casino-hold-em","name":"Casino hold 'em","url":"wikipedia.org/wiki/Casino_hold_%27em","year":"2000"}
+{"id":"castle-cards","name":"Castle","disamb":"card game","url":"wikipedia.org/wiki/Castle_(card_game)","year":"2000"}
+{"id":"chrononauts","name":"Chrononauts","url":"wikipedia.org/wiki/Chrononauts","year":"2000"}
+{"id":"citadels","name":"Citadels","disamb":"card game","url":"wikipedia.org/wiki/Citadels_(card_game)","year":"2000"}
+{"id":"digi-battle","name":"Digi-Battle","url":"wikipedia.org/wiki/Digi-Battle","year":"2000"}
+{"id":"dragon-ball-z-ccg","name":"Dragon Ball Z Collectible Card Game","url":"wikipedia.org/wiki/Dragon_Ball_Z_Collectible_Card_Game","year":"2000"}
+{"id":"dvorak","name":"Dvorak","url":"wikipedia.org/wiki/Dvorak_(game)","year":"2000"}
+{"id":"gother-than-thou","name":"Gother Than Thou","url":"wikipedia.org/wiki/Gother_Than_Thou","year":"2000"}
+{"id":"labyrinth","name":"Labyrinth","disamb":"board game","url":"wikipedia.org/wiki/Labyrinth_(board_game)","year":"2000"}
+{"id":"magi-nation-duel","name":"Magi-Nation Duel","url":"wikipedia.org/wiki/Magi-Nation_Duel","year":"2000"}
+{"id":"mlb-showdown","name":"MLB Showdown","url":"wikipedia.org/wiki/MLB_Showdown","year":"2000"}
+{"id":"monopoly-cards","name":"Monopoly: The Card Game","url":"wikipedia.org/wiki/Monopoly:_The_Card_Game","year":"2000"}
+{"id":"myths-legends","name":"Myths and Legends","url":"wikipedia.org/wiki/Myths_and_Legends","year":"2000"}
+{"id":"sailor-moon-ccg","name":"Sailor Moon Collectible Card Game","url":"wikipedia.org/wiki/Sailor_Moon_Collectible_Card_Game","year":"2000"}
+{"id":"trade-battle-card-hero","name":"Trade & Battle: Card Hero","url":"wikipedia.org/wiki/Trade_%26_Battle:_Card_Hero","year":"2000"}
+{"id":"tribbles-ccg","name":"Tribbles","variant":"star-trek-ccg","url":"wikipedia.org/wiki/Star_Trek_Customizable_Card_Game#Tribbles","year":"2000"}
+{"id":"x-men-tcg","name":"X-Men","disamb":"trading card game","url":"wikipedia.org/wiki/X-Men_Trading_Card_Game","year":"2000"}
+{"id":"battle-cattle","name":"Battle Cattle: The Card Game","url":"wikipedia.org/wiki/Battle_Cattle:_The_Card_Game","year":"2001"}
+{"id":"buffy-cards","name":"Buffy the Vampire Slayer","disamb":"collectible card game","url":"wikipedia.org/wiki/Buffy_the_Vampire_Slayer_Collectible_Card_Game","year":"2001"}
+{"id":"firestorm-tactical","name":"Firestorm Tactical Card Game","url":"wikipedia.org/wiki/Firestorm_Tactical_Card_Game","year":"2001"}
+{"id":"girl-genius:_The_Works","name":"Girl Genius: The Works","url":"wikipedia.org/wiki/Girl_Genius:_The_Works","year":"2001"}
+{"id":"grave-robbers-outer-space","name":"Grave Robbers from Outer Space","url":"wikipedia.org/wiki/Grave_Robbers_from_Outer_Space","year":"2001"}
+{"id":"harry-potter-tcg","name":"Harry Potter Trading Card Game","url":"wikipedia.org/wiki/Harry_Potter_Trading_Card_Game","year":"2001"}
+{"id":"jedi-knights-tcg","name":"Jedi Knights Trading Card Game","url":"wikipedia.org/wiki/Jedi_Knights_Trading_Card_Game","year":"2001"}
+{"id":"koto-battle-rpg","name":"Koto Battle: Tengai no Moribito","url":"wikipedia.org/wiki/Koto_Battle:_Tengai_no_Moribito","year":"2001"}
+{"id":"lord-rings-tcg","name":"The Lord of the Rings Trading Card Game","url":"wikipedia.org/wiki/The_Lord_of_the_Rings_Trading_Card_Game","year":"2001"}
+{"id":"munchkin","name":"Munchkin","disamb":"card game","url":"wikipedia.org/wiki/Munchkin_(card_game)","year":"2001"}
+{"id":"nba-showdown","name":"NBA Showdown","url":"wikipedia.org/wiki/NBA_Showdown","year":"2001"}
+{"id":"nfl-showdown","name":"NFL Showdown","url":"wikipedia.org/wiki/NFL_Showdown","year":"2001"}
+{"id":"marvel-recharge-ccg","name":"Marvel ReCharge","disamb":"collectible card game","url":"wikipedia.org/wiki/ReCharge_Collectible_Card_Game","year":"2001"}
+{"id":"rifts-rpg","name":"Rifts","disamb":"role-playing game","url":"wikipedia.org/wiki/Rifts_(role-playing_game)","year":"2001"}
+{"id":"star-fleet-battle-force","name":"Star Fleet Battle Force","url":"wikipedia.org/wiki/Star_Fleet_Battle_Force","year":"2001"}
+{"id":"starship-catan","name":"Starship Catan","url":"wikipedia.org/wiki/Starship_Catan","year":"2001"}
+{"id":"unexploded-cow","name":"Unexploded Cow","url":"wikipedia.org/wiki/Unexploded_Cow","year":"2001"}
+{"id":"warhammer-40k-ccg","name":"Warhammer 40,000 Collectible Card Game","url":"wikipedia.org/wiki/Warhammer_40,000_Collectible_Card_Game","year":"2001"}
+{"id":"warlord-ccg","name":"Warlord: Saga of the Storm CCG","disamb":"collectible card game","url":"wikipedia.org/wiki/Warlord:_Saga_of_the_Storm_CCG","year":"2001"}
+{"id":"with-authority-cards","name":"With Authority!","url":"wikipedia.org/wiki/With_Authority!","year":"2001"}
+{"id":"wyatt-earp-cards","name":"Wyatt Earp","disamb":"card game","url":"wikipedia.org/wiki/Wyatt_Earp_(card_game)","year":"2001"}
+{"id":"bang-cards","name":"Bang!","disamb":"card game","url":"wikipedia.org/wiki/Bang!_(card_game)","year":"2002"}
+{"id":"duel-masters-tcg","name":"Duel Masters Trading Card Game","url":"wikipedia.org/wiki/Duel_Masters_Trading_Card_Game","year":"2002"}
+{"id":"fightball","name":"Fightball","url":"wikipedia.org/wiki/Fightball","year":"2002"}
+{"id":"froop","name":"Froop!","url":"wikipedia.org/wiki/Froop!","year":"2002"}
+{"id":"game-life-cards","name":"The Game of Life: Card Game","url":"wikipedia.org/wiki/The_Game_of_Life:_Card_Game","year":"2002"}
+{"id":"game-thrones-cards","name":"A Game of Thrones","disamb":"card game","url":"wikipedia.org/wiki/A_Game_of_Thrones_(card_game)","year":"2002"}
+{"id":"killer-bunnies","name":"Killer Bunnies and the Quest for the Magic Carrot","url":"wikipedia.org/wiki/Killer_Bunnies_and_the_Quest_for_the_Magic_Carrot","year":"2002"}
+{"id":"settlers-canaan","name":"The Settlers of Canaan","url":"wikipedia.org/wiki/The_Settlers_of_Canaan","year":"2002"}
+{"id":"star-wars-tcg","name":"Star Wars Trading Card Game","url":"wikipedia.org/wiki/Star_Wars_Trading_Card_Game","year":"2002"}
+{"id":"table-topics","name":"TableTopics","url":"wikipedia.org/wiki/TableTopics","year":"2002"}
+{"id":"world-club-champion-football","name":"World Club Champion Football","url":"wikipedia.org/wiki/World_Club_Champion_Football","year":"2002"}
+{"id":"xactika","name":"Xactika","url":"wikipedia.org/wiki/Xactika","year":"2002"}
+{"id":"balloon-cup","name":"Balloon Cup","url":"wikipedia.org/wiki/Balloon_Cup","year":"2003"}
+{"id":"beyblade-tcg","name":"Beyblade Trading Card Game","url":"wikipedia.org/wiki/Beyblade_Trading_Card_Game","year":"2003"}
+{"id":"coloretto","name":"Coloretto","url":"wikipedia.org/wiki/Coloretto","year":"2003"}
+{"id":"dungeoneer","name":"Dungeoneer","url":"wikipedia.org/wiki/Dungeoneer_(game)","year":"2003"}
+{"id":"horus-heresy-cards","name":"Horus Heresy","disamb":"card game","url":"wikipedia.org/wiki/Horus_Heresy_(card_game)","year":"2003"}
+{"id":"mirrodin","name":"Mirrodin","url":"wikipedia.org/wiki/Mirrodin","year":"2003"}
+{"id":"naruto-ccg","name":"Naruto","disamb":"collectible card game","url":"wikipedia.org/wiki/Naruto#Collectible_card_game","year":"2003"}
+{"id":"neopets-tcg","name":"Neopets Trading Card Game","url":"wikipedia.org/wiki/Neopets_Trading_Card_Game","year":"2003"}
+{"id":"ninja-burger","name":"Ninja Burger","url":"wikipedia.org/wiki/Ninja_Burger","year":"2003"}
+{"id":"ophidian-2350","name":"Ophidian 2350","url":"wikipedia.org/wiki/Ophidian_2350","year":"2003"}
+{"id":"spank-monkey","name":"Spank the Monkey","url":"wikipedia.org/wiki/Spank_the_monkey","year":"2003"}
+{"id":"spongebob-squarepants-tcg","name":"SpongeBob SquarePants Trading Card Game","url":"wikipedia.org/wiki/SpongeBob_SquarePants_Trading_Card_Game","year":"2003"}
+{"id":"star-chamber-harbinger-saga","name":"Star Chamber: The Harbinger Saga","url":"wikipedia.org/wiki/Star_Chamber:_The_Harbinger_Saga","year":"2003"}
+{"id":"star-sisterz","name":"Star Sisterz","url":"wikipedia.org/wiki/Star_Sisterz","year":"2003"}
+{"id":"strange-synergy","name":"Strange Synergy","url":"wikipedia.org/wiki/Strange_Synergy","year":"2003"}
+{"id":"war-cry","name":"WarCry","url":"wikipedia.org/wiki/WarCry_(game)","year":"2003"}
+{"id":"yu-yu-hakusho-tcg","name":"Yu Yu Hakusho Trading Card Game","url":"wikipedia.org/wiki/Yu_Yu_Hakusho_Trading_Card_Game","year":"2003"}
+{"id":"allegiance-war-factions","name":"Allegiance: War of Factions","url":"wikipedia.org/wiki/Allegiance:_War_of_Factions","year":"2004"}
+{"id":"alteil","name":"Alteil","url":"wikipedia.org/wiki/Alteil","year":"2004"}
+{"id":"blue-moon","name":"Blue Moon","url":"wikipedia.org/wiki/Blue_Moon_(game)","year":"2004"}
+{"id":"call-cthulhu-cards","name":"Call of Cthulhu: The Card Game","url":"wikipedia.org/wiki/Call_of_Cthulhu:_The_Card_Game","year":"2004"}
+{"id":"cockroach-poker","name":"Cockroach Poker","url":"wikipedia.org/wiki/Cockroach_Poker","year":"2004"}
+{"id":"cthulhu-500","name":"Cthulhu 500","url":"wikipedia.org/wiki/Cthulhu_500","year":"2004"}
+{"id":"escape-velocity-nova","name":"Escape Velocity Nova","url":"wikipedia.org/wiki/Escape_Velocity_Nova","year":"2004"}
+{"id":"fairy-tale","name":"Fairy Tale","url":"wikipedia.org/wiki/Fairy_Tale_(game)","year":"2004"}
+{"id":"familienbande","name":"Familienbande","url":"wikipedia.org/wiki/Familienbande","year":"2004"}
+{"id":"gloom-cards","name":"Gloom","disamb":"card game","url":"wikipedia.org/wiki/Gloom_(card_game)","year":"2004"}
+{"id":"in-pickle","name":"In a Pickle","disamb":"card game","url":"wikipedia.org/wiki/In_a_Pickle_(card_game)","year":"2004"}
+{"id":"inuyasha-tcg","name":"Inuyasha TCG","disamb":"collectible card game","url":"wikipedia.org/wiki/Inuyasha#Video_games","year":"2004"}
+{"id":"jambo","name":"Jambo","disamb":"card game","url":"wikipedia.org/wiki/Jambo_(card_game)","year":"2004"}
+{"id":"no-thanks","name":"No Thanks!","url":"wikipedia.org/wiki/No_Thanks!_(game)","year":"2004"}
+{"id":"quest-D","name":"Quest of D","url":"wikipedia.org/wiki/Quest_of_D","year":"2004"}
+{"id":"saboteur","name":"Saboteur","disamb":"card game","url":"wikipedia.org/wiki/Saboteur_(card_game)","year":"2004"}
+{"id":"san-juan-cards","name":"San Juan","disamb":"card game","url":"wikipedia.org/wiki/San_Juan_(card_game)","year":"2004"}
+{"id":"tmnt-tcg","name":"Teenage Mutant Ninja Turtles Trading Card Game","url":"wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_Trading_Card_Game","year":"2004"}
+{"id":"uno-h2o","name":"Uno H2O","url":"wikipedia.org/wiki/Uno_(card_game)#Uno_H2O","year":"2004"}
+{"id":"veto-ccg","name":"Veto!","disamb":"collectible card game","url":"wikipedia.org/wiki/Veto_(card_game)","year":"2004"}
+{"id":"vs-system","name":"Vs. System","disamb":"living card system","url":"wikipedia.org/wiki/Vs._System","year":"2004"}
 {"name":"VS System","alias":"vs-system"}
 {"name":"VS","alias":"vs-system"}
-{"id":"wars-tcg","name":"WARS Trading Card Game","url":"wikipedia.org/wiki/WARS_Trading_Card_Game"}
-{"id":"whos-ass","name":"Who's the Ass?","url":"wikipedia.org/wiki/Who%27s_the_Ass%3F"}
-{"id":"wings-war","name":"Wings of War","url":"wikipedia.org/wiki/Wings_of_War"}
-{"id":"anachronism","name":"Anachronism","url":"wikipedia.org/wiki/Anachronism_(game)"}
-{"id":"aye-dark-overlord","name":"Aye, Dark Overlord!","url":"wikipedia.org/wiki/Aye,_Dark_Overlord!"}
-{"id":"blokus-duo","name":"Blokus Duo","url":"wikipedia.org/wiki/Blokus#Blokus_Duo"}
-{"id":"codename-kids-next-door-tcg","name":"Codename: Kids Next Door Trading Card Game","url":"wikipedia.org/wiki/Codename:_Kids_Next_Door_Trading_Card_Game"}
-{"id":"cranium-whoonu","name":"Cranium Whoonu","url":"wikipedia.org/wiki/Cranium_Whoonu"}
-{"id":"dark-millennium","name":"Dark Millennium","url":"wikipedia.org/wiki/Dark_Millennium"}
-{"id":"incan-gold","name":"Incan Gold","url":"wikipedia.org/wiki/Diamant_(board_game)","year":"2005"}
+{"id":"wars-tcg","name":"WARS Trading Card Game","url":"wikipedia.org/wiki/WARS_Trading_Card_Game","year":"2004"}
+{"id":"whos-ass","name":"Who's the Ass?","url":"wikipedia.org/wiki/Who%27s_the_Ass%3F","year":"2004"}
+{"id":"wings-war","name":"Wings of War","url":"wikipedia.org/wiki/Wings_of_War","year":"2004"}
+{"id":"anachronism","name":"Anachronism","url":"wikipedia.org/wiki/Anachronism_(game)","year":"2005"}
+{"id":"aye-dark-overlord","name":"Aye, Dark Overlord!","url":"wikipedia.org/wiki/Aye,_Dark_Overlord!","year":"2005"}
+{"id":"blokus-duo","name":"Blokus Duo","url":"wikipedia.org/wiki/Blokus#Blokus_Duo","year":"2005"}
+{"id":"codename-kids-next-door-tcg","name":"Codename: Kids Next Door Trading Card Game","url":"wikipedia.org/wiki/Codename:_Kids_Next_Door_Trading_Card_Game","year":"2005"}
+{"id":"cranium-whoonu","name":"Cranium Whoonu","url":"wikipedia.org/wiki/Cranium_Whoonu","year":"2005"}
+{"id":"dark-millennium","name":"Dark Millennium","url":"wikipedia.org/wiki/Dark_Millennium","year":"2005"}
+{"id":"incan-gold","name":"Incan Gold","url":"wikipedia.org/wiki/Diamant_(board_game)","year":"2005","year":"2005"}
 {"name":"Diamant","alias":"incan-gold"}
-{"id":"dragon-booster-tcg","name":"Dragon Booster Trading Card Game","url":"wikipedia.org/wiki/Dragon_Booster_Trading_Card_Game"}
-{"id":"epic-battles","name":"Epic Battles","url":"wikipedia.org/wiki/Epic_Battles"}
-{"id":"hecatomb","name":"Hecatomb","url":"wikipedia.org/wiki/Hecatomb_(card_game)","year":"2005"}
-{"id":"heroes-might-magic-IV","name":"Heroes of Might and Magic IV","url":"wikipedia.org/wiki/Heroes_of_Might_and_Magic_IV_(card_game)"}
-{"id":"infinite-armies","name":"Infinite Armies","url":"wikipedia.org/wiki/Infinite_Armies"}
-{"id":"nascar-race-day","name":"NASCAR Race Day","url":"wikipedia.org/wiki/NASCAR_Race_Day"}
-{"id":"nightmare-before-christmas","name":"The Nightmare Before Christmas","disamb":"card game","url":"wikipedia.org/wiki/The_Nightmare_Before_Christmas#Toys_and_games"}
-{"id":"paranoia-mandatory-bonus-fun","name":"Paranoia Mandatory Bonus Fun!","disamb":"card game","url":"wikipedia.org/wiki/Paranoia_Mandatory_Bonus_Fun!_Card_Game"}
-{"id":"pimp-the-backhanding","name":"Pimp: The Backhanding","url":"wikipedia.org/wiki/Pimp:_The_Backhanding"}
-{"id":"Rocketmen","name":"Rocketmen","disamb":"card game","url":"wikipedia.org/wiki/Rocketmen_(card_game)"}
-{"id":"sangokushi-taisen","name":"Sangokushi Taisen","url":"wikipedia.org/wiki/Sangokushi_Taisen"}
-{"id":"sleeping-queens","name":"Sleeping Queens","url":"wikipedia.org/wiki/Sleeping_Queens"}
-{"id":"snout","name":"Snout!","url":"wikipedia.org/wiki/Snout!"}
-{"id":"three-dragon-ante","name":"Three-Dragon Ante","url":"wikipedia.org/wiki/Three-Dragon_Ante"}
-{"id":"uno-spin","name":"Uno Spin","url":"wikipedia.org/wiki/Uno_Spin"}
-{"id":"xiaolin-showdown-tcg","name":"Xiaolin Showdown Trading Card Game","url":"wikipedia.org/wiki/Xiaolin_Showdown_Trading_Card_Game"}
-{"id":"avatar-last-airbender-tcg","name":"Avatar: The Last Airbender Trading Card Game","url":"wikipedia.org/wiki/Avatar:_The_Last_Airbender_Trading_Card_Game"}
-{"id":"battlestar-galactica-ccg","name":"Battlestar Galactica Collectible Card Game","url":"wikipedia.org/wiki/Battlestar_Galactica_Collectible_Card_Game"}
-{"id":"blokus-trigon","name":"Blokus Trigon","url":"wikipedia.org/wiki/Blokus#Blokus_Trigon"}
-{"id":"city-heroes-ccg","name":"City of Heroes Collectible Card Game","url":"wikipedia.org/wiki/City_of_Heroes_Collectible_Card_Game"}
-{"id":"civilization-cards","name":"Civilization: The Card Game","url":"wikipedia.org/wiki/Civilization:_The_Card_Game"}
-{"id":"conan-ccg","name":"Conan Collectible Card Game","url":"wikipedia.org/wiki/Conan_Collectible_Card_Game"}
-{"id":"doctor-who-battles-time","name":"Doctor Who: Battles in Time","url":"wikipedia.org/wiki/Doctor_Who_%E2%80%93_Battles_in_Time"}
-{"id":"eve-second-genesis","name":"Eve: The Second Genesis","url":"wikipedia.org/wiki/Eve:_The_Second_Genesis"}
-{"id":"experiment","name":"Experiment","disamb":"game","url":"wikipedia.org/wiki/Experiment_(game)"}
-{"id":"fruits-basket","name":"Fruits Basket","disamb":"card game","url":"wikipedia.org/wiki/Fruits_Basket#Other_media"}
-{"id":"pecking-order","name":"Pecking Order","url":"wikipedia.org/wiki/Pecking_Order_(game)"}
-{"id":"rangers-strike","name":"Rangers Strike","url":"wikipedia.org/wiki/Rangers_Strike"}
-{"id":"robotech-ccg","name":"Robotech Collectible Card Game","url":"wikipedia.org/wiki/Robotech_Collectible_Card_Game"}
-{"id":"spoils-cards","name":"The Spoils","disamb":"card game","url":"wikipedia.org/wiki/The_Spoils_(card_game)"}
-{"id":"time-spiral","name":"Time Spiral","url":"wikipedia.org/wiki/Time_Spiral"}
-{"id":"universal-fighting-system","name":"Universal Fighting System","url":"wikipedia.org/wiki/Universal_Fighting_System"}
-{"id":"world-warcraft-tcg","name":"World of Warcraft Trading Card Game","url":"wikipedia.org/wiki/World_of_Warcraft_Trading_Card_Game"}
-{"id":"xeko","name":"Xeko","url":"wikipedia.org/wiki/Xeko"}
-{"id":"24-tcg","name":"24: The Trading Card Game","url":"wikipedia.org/wiki/List_of_24_media#24:_Trading_Card_Game"}
-{"id":"bella-sara","name":"Bella Sara","url":"wikipedia.org/wiki/Bella_Sara"}
-{"id":"bendomino","name":"Bendomino","url":"wikipedia.org/wiki/Bendomino"}
-{"id":"bleach-tcg","name":"Bleach Trading Card Game","url":"wikipedia.org/wiki/Bleach_Trading_Card_Game"}
-{"id":"chaotic-tcg","name":"Chaotic Trading Card Game","url":"wikipedia.org/wiki/Chaotic_Trading_Card_Game"}
-{"id":"hollywood-zombies","name":"Hollywood Zombies","url":"wikipedia.org/wiki/Hollywood_Zombies"}
-{"id":"its-alive-cards","name":"It's Alive!","disamb":"card game","url":"wikipedia.org/wiki/It%27s_Alive!_(card_game)"}
-{"id":"kousoku-card-hero","name":"Kousoku Card Battle: Card Hero","url":"wikipedia.org/wiki/Kousoku_Card_Battle:_Card_Hero"}
-{"id":"lorwyn","name":"Lorwyn","url":"wikipedia.org/wiki/Lorwyn"}
-{"id":"race-galaxy","name":"Race for the Galaxy","url":"wikipedia.org/wiki/Race_for_the_Galaxy"}
-{"id":"sixteen-cards","name":"Sixteen","disamb":"card game","url":"wikipedia.org/wiki/Sixteen_(card_game)"}
-{"id":"stargate-tcg","name":"Stargate: Trading Card Game","url":"wikipedia.org/wiki/List_of_Stargate_games#Stargate_Trading_Card_Game"}
-{"id":"zombie-fluxx","name":"Zombie Fluxx","url":"wikipedia.org/wiki/Zombie_Fluxx"}
-{"id":"battle-spirits","name":"Battle Spirits","url":"wikipedia.org/wiki/Battle_Spirits"}
-{"id":"dixit","name":"Dixit","url":"wikipedia.org/wiki/Dixit_(board_game)"}
-{"id":"dominion","name":"Dominion","url":"wikipedia.org/wiki/Dominion_(card_game)"}
-{"id":"dragon-ball-ccg","name":"Dragon Ball Collectible Card Game","url":"wikipedia.org/wiki/Dragon_Ball_Collectible_Card_Game"}
-{"id":"legends-three-kingdoms","name":"Legends of the Three Kingdoms","url":"wikipedia.org/wiki/Legends_of_the_Three_Kingdoms"}
-{"id":"lord-vermilion","name":"Lord of Vermilion","url":"wikipedia.org/wiki/Lord_of_Vermilion"}
-{"id":"monopoly-deal","name":"Monopoly Deal","url":"wikipedia.org/wiki/Monopoly_Deal"}
-{"id":"scattergories-cards","name":"Scattergories","disamb":"card game","url":"wikipedia.org/wiki/Scattergories#Later_versions"}
-{"id":"straw","name":"Straw","disamb":"card game","url":"wikipedia.org/wiki/Straw_(card_game)"}
-{"id":"weiss-schwarz","name":"Weiß Schwarz","url":"wikipedia.org/wiki/Wei%C3%9F_Schwarz"}
-{"id":"39-clues","name":"The 39 Clues","url":"wikipedia.org/wiki/The_39_Clues"}
-{"id":"adrenalyn-xl","name":"Adrenalyn XL","url":"wikipedia.org/wiki/Adrenalyn_XL"}
-{"id":"aladdins-dragons","name":"Aladdin's Dragons","url":"wikipedia.org/wiki/Aladdin%27s_Dragons"}
-{"id":"anomia","name":"Anomia","url":"wikipedia.org/wiki/Anomia_(game)"}
-{"id":"apples-cards","name":"Apples","disamb":"card game","url":"wikipedia.org/wiki/Apples_(card_game)"}
-{"id":"army-zero","name":"Army of Zero","url":"wikipedia.org/wiki/Army_of_Zero"}
-{"id":"booleo","name":"Booleo","url":"wikipedia.org/wiki/Booleo"}
-{"id":"fight-klub","name":"Fight Klub","url":"wikipedia.org/wiki/Fight_Klub"}
-{"id":"planechase","name":"Planechase","url":"wikipedia.org/wiki/Planechase"}
-{"id":"thunderstone","name":"Thunderstone","disamb":"card game","url":"wikipedia.org/wiki/Thunderstone_(card_game)"}
-{"id":"viewpoint","name":"Viewpoint","disamb":"card game","url":"wikipedia.org/wiki/Viewpoint_(card_game)"}
-{"id":"warhammer-invasion","name":"Warhammer: Invasion","url":"wikipedia.org/wiki/Warhammer:_Invasion"}
-{"id":"x610z","name":"X610Z","url":"wikipedia.org/wiki/X610Z"}
-{"id":"51st-state","name":"51st State","url":"wikipedia.org/wiki/51st_State_(board_game)"}
-{"id":"apron-magic","name":"Apron of Magic","url":"wikipedia.org/wiki/Apron_of_Magic"}
-{"id":"ascension-cards","name":"Ascension: Deckbuilding Game","url":"wikipedia.org/wiki/Ascension:_Deckbuilding_Game"}
-{"id":"cabo","name":"Cabo","url":"wikipedia.org/wiki/Cabo_(game)"}
-{"id":"evolution-origin-species","name":"Evolution: The Origin of Species","url":"wikipedia.org/wiki/Evolution:_The_Origin_of_Species"}
-{"id":"haggis-cards","name":"Haggis","disamb":"card game","url":"wikipedia.org/wiki/Haggis_(card_game)"}
-{"id":"hanabi","name":"Hanabi","url":"wikipedia.org/wiki/Hanabi_(card_game)"}
+{"id":"dragon-booster-tcg","name":"Dragon Booster Trading Card Game","url":"wikipedia.org/wiki/Dragon_Booster_Trading_Card_Game","year":"2005"}
+{"id":"epic-battles","name":"Epic Battles","url":"wikipedia.org/wiki/Epic_Battles","year":"2005"}
+{"id":"hecatomb","name":"Hecatomb","url":"wikipedia.org/wiki/Hecatomb_(card_game)","year":"2005","year":"2005"}
+{"id":"heroes-might-magic-IV","name":"Heroes of Might and Magic IV","url":"wikipedia.org/wiki/Heroes_of_Might_and_Magic_IV_(card_game)","year":"2005"}
+{"id":"infinite-armies","name":"Infinite Armies","url":"wikipedia.org/wiki/Infinite_Armies","year":"2005"}
+{"id":"nascar-race-day","name":"NASCAR Race Day","url":"wikipedia.org/wiki/NASCAR_Race_Day","year":"2005"}
+{"id":"nightmare-before-christmas","name":"The Nightmare Before Christmas","disamb":"card game","url":"wikipedia.org/wiki/The_Nightmare_Before_Christmas#Toys_and_games","year":"2005"}
+{"id":"paranoia-mandatory-bonus-fun","name":"Paranoia Mandatory Bonus Fun!","disamb":"card game","url":"wikipedia.org/wiki/Paranoia_Mandatory_Bonus_Fun!_Card_Game","year":"2005"}
+{"id":"pimp-the-backhanding","name":"Pimp: The Backhanding","url":"wikipedia.org/wiki/Pimp:_The_Backhanding","year":"2005"}
+{"id":"Rocketmen","name":"Rocketmen","disamb":"card game","url":"wikipedia.org/wiki/Rocketmen_(card_game)","year":"2005"}
+{"id":"sangokushi-taisen","name":"Sangokushi Taisen","url":"wikipedia.org/wiki/Sangokushi_Taisen","year":"2005"}
+{"id":"sleeping-queens","name":"Sleeping Queens","url":"wikipedia.org/wiki/Sleeping_Queens","year":"2005"}
+{"id":"snout","name":"Snout!","url":"wikipedia.org/wiki/Snout!","year":"2005"}
+{"id":"three-dragon-ante","name":"Three-Dragon Ante","url":"wikipedia.org/wiki/Three-Dragon_Ante","year":"2005"}
+{"id":"uno-spin","name":"Uno Spin","url":"wikipedia.org/wiki/Uno_Spin","year":"2005"}
+{"id":"xiaolin-showdown-tcg","name":"Xiaolin Showdown Trading Card Game","url":"wikipedia.org/wiki/Xiaolin_Showdown_Trading_Card_Game","year":"2005"}
+{"id":"avatar-last-airbender-tcg","name":"Avatar: The Last Airbender Trading Card Game","url":"wikipedia.org/wiki/Avatar:_The_Last_Airbender_Trading_Card_Game","year":"2006"}
+{"id":"battlestar-galactica-ccg","name":"Battlestar Galactica Collectible Card Game","url":"wikipedia.org/wiki/Battlestar_Galactica_Collectible_Card_Game","year":"2006"}
+{"id":"blokus-trigon","name":"Blokus Trigon","url":"wikipedia.org/wiki/Blokus#Blokus_Trigon","year":"2006"}
+{"id":"city-heroes-ccg","name":"City of Heroes Collectible Card Game","url":"wikipedia.org/wiki/City_of_Heroes_Collectible_Card_Game","year":"2006"}
+{"id":"civilization-cards","name":"Civilization: The Card Game","url":"wikipedia.org/wiki/Civilization:_The_Card_Game","year":"2006"}
+{"id":"conan-ccg","name":"Conan Collectible Card Game","url":"wikipedia.org/wiki/Conan_Collectible_Card_Game","year":"2006"}
+{"id":"doctor-who-battles-time","name":"Doctor Who &#8211; Battles in Time","url":"wikipedia.org/wiki/Doctor_Who_%E2%80%93_Battles_in_Time","year":"2006"}
+{"id":"eve-second-genesis","name":"Eve: The Second Genesis","url":"wikipedia.org/wiki/Eve:_The_Second_Genesis","year":"2006"}
+{"id":"experiment","name":"Experiment","disamb":"game","url":"wikipedia.org/wiki/Experiment_(game)","year":"2006"}
+{"id":"fruits-basket","name":"Fruits Basket","disamb":"card game","url":"wikipedia.org/wiki/Fruits_Basket#Other_media","year":"2006"}
+{"id":"pecking-order","name":"Pecking Order","url":"wikipedia.org/wiki/Pecking_Order_(game)","year":"2006"}
+{"id":"rangers-strike","name":"Rangers Strike","url":"wikipedia.org/wiki/Rangers_Strike","year":"2006"}
+{"id":"robotech-ccg","name":"Robotech Collectible Card Game","url":"wikipedia.org/wiki/Robotech_Collectible_Card_Game","year":"2006"}
+{"id":"spoils-cards","name":"The Spoils","disamb":"card game","url":"wikipedia.org/wiki/The_Spoils_(card_game)","year":"2006"}
+{"id":"time-spiral","name":"Time Spiral","url":"wikipedia.org/wiki/Time_Spiral","year":"2006"}
+{"id":"universal-fighting-system","name":"Universal Fighting System","url":"wikipedia.org/wiki/Universal_Fighting_System","year":"2006"}
+{"id":"world-warcraft-tcg","name":"World of Warcraft Trading Card Game","url":"wikipedia.org/wiki/World_of_Warcraft_Trading_Card_Game","year":"2006"}
+{"id":"xeko","name":"Xeko","url":"wikipedia.org/wiki/Xeko","year":"2006"}
+{"id":"24-tcg","name":"24: The Trading Card Game","url":"wikipedia.org/wiki/List_of_24_media#24:_Trading_Card_Game","year":"2007"}
+{"id":"bella-sara","name":"Bella Sara","url":"wikipedia.org/wiki/Bella_Sara","year":"2007"}
+{"id":"bendomino","name":"Bendomino","url":"wikipedia.org/wiki/Bendomino","year":"2007"}
+{"id":"bleach-tcg","name":"Bleach Trading Card Game","url":"wikipedia.org/wiki/Bleach_Trading_Card_Game","year":"2007"}
+{"id":"chaotic-tcg","name":"Chaotic Trading Card Game","url":"wikipedia.org/wiki/Chaotic_Trading_Card_Game","year":"2007"}
+{"id":"hollywood-zombies","name":"Hollywood Zombies","url":"wikipedia.org/wiki/Hollywood_Zombies","year":"2007"}
+{"id":"its-alive-cards","name":"It's Alive!","disamb":"card game","url":"wikipedia.org/wiki/It%27s_Alive!_(card_game)","year":"2007"}
+{"id":"kousoku-card-hero","name":"Kousoku Card Battle: Card Hero","url":"wikipedia.org/wiki/Kousoku_Card_Battle:_Card_Hero","year":"2007"}
+{"id":"lorwyn","name":"Lorwyn","url":"wikipedia.org/wiki/Lorwyn","year":"2007"}
+{"id":"race-galaxy","name":"Race for the Galaxy","url":"wikipedia.org/wiki/Race_for_the_Galaxy","year":"2007"}
+{"id":"sixteen-cards","name":"Sixteen","disamb":"card game","url":"wikipedia.org/wiki/Sixteen_(card_game)","year":"2007"}
+{"id":"stargate-tcg","name":"Stargate: Trading Card Game","url":"wikipedia.org/wiki/List_of_Stargate_games#Stargate_Trading_Card_Game","year":"2007"}
+{"id":"zombie-fluxx","name":"Zombie Fluxx","url":"wikipedia.org/wiki/Zombie_Fluxx","year":"2007"}
+{"id":"battle-spirits","name":"Battle Spirits","url":"wikipedia.org/wiki/Battle_Spirits","year":"2008"}
+{"id":"dixit","name":"Dixit","url":"wikipedia.org/wiki/Dixit_(board_game)","year":"2008"}
+{"id":"dominion","name":"Dominion","url":"wikipedia.org/wiki/Dominion_(card_game)","year":"2008"}
+{"id":"dragon-ball-ccg","name":"Dragon Ball Collectible Card Game","url":"wikipedia.org/wiki/Dragon_Ball_Collectible_Card_Game","year":"2008"}
+{"id":"legends-three-kingdoms","name":"Legends of the Three Kingdoms","url":"wikipedia.org/wiki/Legends_of_the_Three_Kingdoms","year":"2008"}
+{"id":"lord-vermilion","name":"Lord of Vermilion","url":"wikipedia.org/wiki/Lord_of_Vermilion","year":"2008"}
+{"id":"monopoly-deal","name":"Monopoly Deal","url":"wikipedia.org/wiki/Monopoly_Deal","year":"2008"}
+{"id":"scattergories-cards","name":"Scattergories &#8211; The Card Game","url":"wikipedia.org/wiki/Scattergories#Later_versions","year":"2008"}
+{"id":"straw","name":"Straw","disamb":"card game","url":"wikipedia.org/wiki/Straw_(card_game)","year":"2008"}
+{"id":"weiss-schwarz","name":"Weiß Schwarz","url":"wikipedia.org/wiki/Wei%C3%9F_Schwarz","year":"2008"}
+{"id":"39-clues","name":"The 39 Clues","url":"wikipedia.org/wiki/The_39_Clues","year":"2009"}
+{"id":"adrenalyn-xl","name":"Adrenalyn XL","url":"wikipedia.org/wiki/Adrenalyn_XL","year":"2009"}
+{"id":"aladdins-dragons","name":"Aladdin's Dragons","url":"wikipedia.org/wiki/Aladdin%27s_Dragons","year":"2009"}
+{"id":"anomia","name":"Anomia","url":"wikipedia.org/wiki/Anomia_(game)","year":"2009"}
+{"id":"apples-cards","name":"Apples","disamb":"card game","url":"wikipedia.org/wiki/Apples_(card_game)","year":"2009"}
+{"id":"army-zero","name":"Army of Zero","url":"wikipedia.org/wiki/Army_of_Zero","year":"2009"}
+{"id":"booleo","name":"Booleo","url":"wikipedia.org/wiki/Booleo","year":"2009"}
+{"id":"fight-klub","name":"Fight Klub","url":"wikipedia.org/wiki/Fight_Klub","year":"2009"}
+{"id":"planechase","name":"Planechase","url":"wikipedia.org/wiki/Planechase","year":"2009"}
+{"id":"thunderstone","name":"Thunderstone","disamb":"card game","url":"wikipedia.org/wiki/Thunderstone_(card_game)","year":"2009"}
+{"id":"viewpoint","name":"Viewpoint","disamb":"card game","url":"wikipedia.org/wiki/Viewpoint_(card_game)","year":"2009"}
+{"id":"warhammer-invasion","name":"Warhammer: Invasion","url":"wikipedia.org/wiki/Warhammer:_Invasion","year":"2009"}
+{"id":"x610z","name":"X610Z","url":"wikipedia.org/wiki/X610Z","year":"2009"}
+{"id":"51st-state","name":"51st State","url":"wikipedia.org/wiki/51st_State_(board_game)","year":"2010"}
+{"id":"apron-magic","name":"Apron of Magic","url":"wikipedia.org/wiki/Apron_of_Magic","year":"2010"}
+{"id":"ascension-cards","name":"Ascension: Deckbuilding Game","url":"wikipedia.org/wiki/Ascension:_Deckbuilding_Game","year":"2010"}
+{"id":"cabo","name":"Cabo","url":"wikipedia.org/wiki/Cabo_(game)","year":"2010"}
+{"id":"evolution-origin-species","name":"Evolution: The Origin of Species","url":"wikipedia.org/wiki/Evolution:_The_Origin_of_Species","year":"2010"}
+{"id":"haggis-cards","name":"Haggis","disamb":"card game","url":"wikipedia.org/wiki/Haggis_(card_game)","year":"2010"}
+{"id":"hanabi","name":"Hanabi","url":"wikipedia.org/wiki/Hanabi_(card_game)","year":"2010"}
 {"name":"花火","alias":"hanabi"}
-{"id":"launch-pad","name":"Launch Pad","url":"wikipedia.org/wiki/Launch_Pad_(card_game)"}
-{"id":"marvel-superstars","name":"Marvel Superstars","url":"wikipedia.org/wiki/Marvel_Superstars"}
-{"id":"puzzle-strike-bag-chips","name":"Puzzle Strike: Bag of Chips","url":"wikipedia.org/wiki/Puzzle_Strike:_Bag_of_Chips"}
-{"id":"resistance","name":"The Resistance","url":"wikipedia.org/wiki/The_Resistance_(game)"}
-{"id":"rivals-catan","name":"The Rivals for Catan","url":"wikipedia.org/wiki/The_Rivals_for_Catan"}
-{"id":"super-sentai-battle-dice-o","name":"Super Sentai Battle: Dice-O","url":"wikipedia.org/wiki/Super_Sentai_Battle:_Dice-O"}
-{"id":"cardfight-vanguard","name":"Cardfight!! Vanguard","url":"wikipedia.org/wiki/Cardfight!!_Vanguard"}
-{"id":"cards-against-humanity","name":"Cards Against Humanity","url":"wikipedia.org/wiki/Cards_Against_Humanity"}
-{"id":"elementeo","name":"Elementeo","url":"wikipedia.org/wiki/Elementeo"}
-{"id":"final-fantasy-tcg","name":"Final Fantasy Trading Card Game","url":"wikipedia.org/wiki/Final_Fantasy_Trading_Card_Game"}
-{"id":"genso-suikoden","name":"Gensō Suikoden: Card Stories","url":"wikipedia.org/wiki/Gens%C5%8D_Suikoden_Card_Stories"}
-{"id":"lord-rings-cards","name":"The Lord of the Rings: The Card Game","url":"wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Card_Game"}
-{"id":"redakai-cards","name":"Redakai: Conquer the Kairu","url":"wikipedia.org/wiki/Redakai:_Conquer_the_Kairu"}
-{"id":"saboteur-2","name":"Saboteur 2","url":"wikipedia.org/wiki/Saboteur_(card_game)#Saboteur_2"}
-{"id":"sentinels-multiverse","name":"Sentinels of the Multiverse","url":"wikipedia.org/wiki/Sentinels_of_the_Multiverse"}
-{"id":"skull-cards","name":"Skull","disamb":"card game","url":"wikipedia.org/wiki/Skull_(card_game)"}
-{"id":"yomi","name":"Yomi","disamb":"card game","url":"wikipedia.org/wiki/Yomi_(card_game)"}
-{"id":"aikatsu","name":"Aikatsu!","url":"wikipedia.org/wiki/Aikatsu!"}
-{"id":"android-netrunner","name":"Android: Netrunner","url":"wikipedia.org/wiki/Android:_Netrunner"}
-{"id":"buffalo","name":"Buffalo","disamb":"card game","url":"wikipedia.org/wiki/Buffalo_(card_game)"}
-{"id":"coup-cards","name":"Coup","disamb":"card game","url":"wikipedia.org/wiki/Coup_(card_game)"}
-{"id":"endgame-syria","name":"Endgame: Syria","url":"wikipedia.org/wiki/Endgame:_Syria"}
-{"id":"force-will","name":"Force of Will","url":"wikipedia.org/wiki/Force_of_Will"}
-{"id":"love-letter","name":"Love Letter","disamb":"card game","url":"wikipedia.org/wiki/Love_Letter_(card_game)"}
-{"id":"mage-wars-arena","name":"Mage Wars Arena","url":"wikipedia.org/wiki/Mage_Wars_Arena"}
-{"id":"method-kit","name":"MethodKit","url":"wikipedia.org/wiki/MethodKit"}
-{"id":"oz-fluxx","name":"Oz Fluxx","url":"wikipedia.org/wiki/Oz_Fluxx"}
-{"id":"rage-bahamut","name":"Rage of Bahamut","url":"wikipedia.org/wiki/Rage_of_Bahamut"}
-{"id":"star-wars-tcg","name":"Star Wars: The Card Game","url":"wikipedia.org/wiki/Star_Wars:_The_Card_Game"}
-{"id":"sword-girls","name":"Sword Girls","url":"wikipedia.org/wiki/Sword_Girls"}
-{"id":"uncharted-fight-fortune","name":"Uncharted: Fight for Fortune","url":"wikipedia.org/wiki/Uncharted:_Fight_for_Fortune"}
-{"id":"card-hunter","name":"Card Hunter","url":"wikipedia.org/wiki/Card_Hunter"}
-{"id":"clumsy-thief","name":"Clumsy Thief","url":"wikipedia.org/wiki/Clumsy_Thief"}
-{"id":"enders-game","name":"Ender's Game","disamb":"board game","url":"wikipedia.org/wiki/Ender%27s_Game_(film)#Board_game"}
-{"id":"evolution-random-mutations","name":"Evolution: Random Mutations","url":"wikipedia.org/wiki/Evolution:_Random_Mutations"}
-{"id":"kantai-collection","name":"Kantai Collection","url":"wikipedia.org/wiki/Kantai_Collection"}
-{"id":"my-little-pony-ccg","name":"My Little Pony Collectible Card Game","url":"wikipedia.org/wiki/My_Little_Pony_Collectible_Card_Game"}
-{"id":"future-card-buddyfight","name":"Future Card Buddyfight","url":"wikipedia.org/wiki/Future_Card_Buddyfight"}
-{"id":"havok-hijinks","name":"Havok & Hijinks","url":"wikipedia.org/wiki/Havok_%26_Hijinks"}
-{"id":"hobbit-tales","name":"Hobbit Tales","url":"wikipedia.org/wiki/Hobbit_Tales"}
-{"id":"imperial-settlers","name":"Imperial Settlers","url":"wikipedia.org/wiki/Imperial_Settlers"}
-{"id":"shadowrun","name":"Shadowrun","url":"wikipedia.org/wiki/Shadowrun"}
-{"id":"sheriff-nottingham","name":"Sheriff of Nottingham","url":"wikipedia.org/wiki/Sheriff_of_Nottingham_(board_game)"}
-{"id":"splendor","name":"Splendor","url":"wikipedia.org/wiki/Splendor_(game)"}
-{"id":"star-realms","name":"Star Realms","url":"wikipedia.org/wiki/Star_Realms"}
-{"id":"warhammer-40k-conquest","name":"Warhammer 40,000: Conquest","url":"wikipedia.org/wiki/Warhammer_40,000:_Conquest"}
-{"id":"contender-game-presidential-debate","name":"The Contender: The Game of Presidential Debate","url":"wikipedia.org/wiki/The_Contender:_The_Game_of_Presidential_Debate"}
-{"id":"epic-card-game","name":"Epic Card Game","url":"wikipedia.org/wiki/Epic_Card_Game"}
-{"id":"exploding-kittens","name":"Exploding Kittens","url":"wikipedia.org/wiki/Exploding_Kittens"}
+{"id":"launch-pad","name":"Launch Pad","url":"wikipedia.org/wiki/Launch_Pad_(card_game)","year":"2010"}
+{"id":"marvel-superstars","name":"Marvel Superstars","url":"wikipedia.org/wiki/Marvel_Superstars","year":"2010"}
+{"id":"puzzle-strike-bag-chips","name":"Puzzle Strike: Bag of Chips","url":"wikipedia.org/wiki/Puzzle_Strike:_Bag_of_Chips","year":"2010"}
+{"id":"resistance","name":"The Resistance","url":"wikipedia.org/wiki/The_Resistance_(game)","year":"2010"}
+{"id":"rivals-catan","name":"The Rivals for Catan","url":"wikipedia.org/wiki/The_Rivals_for_Catan","year":"2010"}
+{"id":"super-sentai-battle-dice-o","name":"Super Sentai Battle: Dice-O","url":"wikipedia.org/wiki/Super_Sentai_Battle:_Dice-O","year":"2010"}
+{"id":"cardfight-vanguard","name":"Cardfight!! Vanguard","url":"wikipedia.org/wiki/Cardfight!!_Vanguard","year":"2011"}
+{"id":"cards-against-humanity","name":"Cards Against Humanity","url":"wikipedia.org/wiki/Cards_Against_Humanity","year":"2011"}
+{"id":"elementeo","name":"Elementeo","url":"wikipedia.org/wiki/Elementeo","year":"2011"}
+{"id":"final-fantasy-tcg","name":"Final Fantasy Trading Card Game","url":"wikipedia.org/wiki/Final_Fantasy_Trading_Card_Game","year":"2011"}
+{"id":"genso-suikoden","name":"Gensō Suikoden: Card Stories","url":"wikipedia.org/wiki/Gens%C5%8D_Suikoden_Card_Stories","year":"2011"}
+{"id":"lord-rings-cards","name":"The Lord of the Rings: The Card Game","url":"wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Card_Game","year":"2011"}
+{"id":"redakai-cards","name":"Redakai: Conquer the Kairu","url":"wikipedia.org/wiki/Redakai:_Conquer_the_Kairu","year":"2011"}
+{"id":"saboteur-2","name":"Saboteur 2","url":"wikipedia.org/wiki/Saboteur_(card_game)#Saboteur_2","year":"2011"}
+{"id":"sentinels-multiverse","name":"Sentinels of the Multiverse","url":"wikipedia.org/wiki/Sentinels_of_the_Multiverse","year":"2011"}
+{"id":"skull-cards","name":"Skull","disamb":"card game","url":"wikipedia.org/wiki/Skull_(card_game)","year":"2011"}
+{"id":"yomi","name":"Yomi","disamb":"card game","url":"wikipedia.org/wiki/Yomi_(card_game)","year":"2011"}
+{"id":"aikatsu","name":"Aikatsu!","url":"wikipedia.org/wiki/Aikatsu!","year":"2012"}
+{"id":"android-netrunner","name":"Android: Netrunner","url":"wikipedia.org/wiki/Android:_Netrunner","year":"2012"}
+{"id":"buffalo","name":"Buffalo","disamb":"card game","url":"wikipedia.org/wiki/Buffalo_(card_game)","year":"2012"}
+{"id":"coup-cards","name":"Coup","disamb":"card game","url":"wikipedia.org/wiki/Coup_(card_game)","year":"2012"}
+{"id":"endgame-syria","name":"Endgame: Syria","url":"wikipedia.org/wiki/Endgame:_Syria","year":"2012"}
+{"id":"force-will","name":"Force of Will","url":"wikipedia.org/wiki/Force_of_Will","year":"2012"}
+{"id":"love-letter","name":"Love Letter","disamb":"card game","url":"wikipedia.org/wiki/Love_Letter_(card_game)","year":"2012"}
+{"id":"mage-wars-arena","name":"Mage Wars Arena","url":"wikipedia.org/wiki/Mage_Wars_Arena","year":"2012"}
+{"id":"method-kit","name":"MethodKit","url":"wikipedia.org/wiki/MethodKit","year":"2012"}
+{"id":"oz-fluxx","name":"Oz Fluxx","url":"wikipedia.org/wiki/Oz_Fluxx","year":"2012"}
+{"id":"rage-bahamut","name":"Rage of Bahamut","url":"wikipedia.org/wiki/Rage_of_Bahamut","year":"2012"}
+{"id":"star-wars-tcg","name":"Star Wars: The Card Game","url":"wikipedia.org/wiki/Star_Wars:_The_Card_Game","year":"2012"}
+{"id":"sword-girls","name":"Sword Girls","url":"wikipedia.org/wiki/Sword_Girls","year":"2012"}
+{"id":"uncharted-fight-fortune","name":"Uncharted: Fight for Fortune","url":"wikipedia.org/wiki/Uncharted:_Fight_for_Fortune","year":"2012"}
+{"id":"card-hunter","name":"Card Hunter","url":"wikipedia.org/wiki/Card_Hunter","year":"2013"}
+{"id":"clumsy-thief","name":"Clumsy Thief","url":"wikipedia.org/wiki/Clumsy_Thief","year":"2013"}
+{"id":"enders-game","name":"Ender's Game","disamb":"board game","url":"wikipedia.org/wiki/Ender%27s_Game_(film)#Board_game","year":"2013"}
+{"id":"evolution-random-mutations","name":"Evolution: Random Mutations","url":"wikipedia.org/wiki/Evolution:_Random_Mutations","year":"2013"}
+{"id":"kantai-collection","name":"Kantai Collection","url":"wikipedia.org/wiki/Kantai_Collection","year":"2013"}
+{"id":"my-little-pony-ccg","name":"My Little Pony Collectible Card Game","url":"wikipedia.org/wiki/My_Little_Pony_Collectible_Card_Game","year":"2013"}
+{"id":"future-card-buddyfight","name":"Future Card Buddyfight","url":"wikipedia.org/wiki/Future_Card_Buddyfight","year":"2014"}
+{"id":"havok-hijinks","name":"Havok & Hijinks","url":"wikipedia.org/wiki/Havok_%26_Hijinks","year":"2014"}
+{"id":"hobbit-tales","name":"Hobbit Tales","url":"wikipedia.org/wiki/Hobbit_Tales","year":"2014"}
+{"id":"imperial-settlers","name":"Imperial Settlers","url":"wikipedia.org/wiki/Imperial_Settlers","year":"2014"}
+{"id":"shadowrun","name":"Shadowrun","url":"wikipedia.org/wiki/Shadowrun","year":"2014"}
+{"id":"sheriff-nottingham","name":"Sheriff of Nottingham","url":"wikipedia.org/wiki/Sheriff_of_Nottingham_(board_game)","year":"2014"}
+{"id":"splendor","name":"Splendor","url":"wikipedia.org/wiki/Splendor_(game)","year":"2014"}
+{"id":"star-realms","name":"Star Realms","url":"wikipedia.org/wiki/Star_Realms","year":"2014"}
+{"id":"warhammer-40k-conquest","name":"Warhammer 40,000: Conquest","url":"wikipedia.org/wiki/Warhammer_40,000:_Conquest","year":"2014"}
+{"id":"contender-game-presidential-debate","name":"The Contender: The Game of Presidential Debate","url":"wikipedia.org/wiki/The_Contender:_The_Game_of_Presidential_Debate","year":"2015"}
+{"id":"epic-card-game","name":"Epic Card Game","url":"wikipedia.org/wiki/Epic_Card_Game","year":"2015"}
+{"id":"exploding-kittens","name":"Exploding Kittens","url":"wikipedia.org/wiki/Exploding_Kittens","year":"2015"}
 {"id":"predator-cards","name":"Predator: Card Game","url":"wikipedia.org/wiki/Predator_(franchise)#Card_game"}
-{"id":"broom-service","name":"Broom Service","url":"wikipedia.org/wiki/Broom_Service_(board_game)"}
-{"id":"hero-realms","name":"Hero Realms","url":"wikipedia.org/wiki/Hero_Realms"}
-{"id":"ophidian-2360","name":"Ophidian 2360","url":"wikipedia.org/wiki/Ophidian_2360"}
-{"id":"oregon-trail-cards","name":"The Oregon Trail Card Game","url":"wikipedia.org/wiki/The_Oregon_Trail_(Pressman_Toys_series)#The_Oregon_Trail_Card_Game"}
-{"id":"star-wars-destiny","name":"Star Wars: Destiny","url":"wikipedia.org/wiki/Star_Wars:_Destiny"}
-{"id":"trumped-up-cards","name":"Trumped Up Cards","url":"wikipedia.org/wiki/Trumped_Up_Cards"}
-{"id":"what-do-you-meme","name":"What Do You Meme?","url":"wikipedia.org/wiki/What_Do_You_Meme%3F"}
-{"id":"legend-five-rings-cards","name":"Legend of the Five Rings: The Card Game","url":"wikipedia.org/wiki/Legend_of_the_Five_Rings:_The_Card_Game"}
-{"id":"taco-cat-goat-cheese-pizza","name":"Taco_Cat_Goat_Cheese_Pizza","url":"wikipedia.org/wiki/Taco_Cat_Goat_Cheese_Pizza"}
-{"id":"binding-isaac-four-souls","name":"The Binding of Isaac: Four Souls","url":"wikipedia.org/wiki/The_Binding_of_Isaac:_Four_Souls"}
-{"id":"da-share-z0ne","name":"Da share z0ne","url":"wikipedia.org/wiki/Da_share_z0ne"}
-{"id":"dominaria","name":"Dominaria","url":"wikipedia.org/wiki/Dominaria"}
-{"id":"dos","name":"Dos","url":"https://en.wikipedia.org/wiki/Uno_(card_game)#Variations","variant":"uno"}
-{"id":"key-forge","name":"KeyForge","url":"wikipedia.org/wiki/KeyForge"}
-{"id":"take-galaxy","name":"Take the Galaxy","url":"wikipedia.org/wiki/Take_the_Galaxy"}
-{"id":"flesh-blood-cards","name":"Flesh and Blood","disamb":"card game","url":"wikipedia.org/wiki/Flesh_and_Blood_(card_game)"}
-{"id":"mythgard","name":"Mythgard","url":"wikipedia.org/wiki/Mythgard"}
-{"id":"throw-throw-burrito","name":"Throw Throw Burrito","url":"wikipedia.org/wiki/Throw_Throw_Burrito"}
-{"id":"uno-flip","name":"Uno Flip!","url":"wikipedia.org/wiki/Uno_Flip!"}
-{"id":"meta-zoo","name":"MetaZoo","url":"wikipedia.org/wiki/MetaZoo"}
-{"id":"poetry-neanderthals","name":"Poetry for Neanderthals","url":"wikipedia.org/wiki/Poetry_for_Neanderthals"}
-{"id":"flamecraft","name":"Flamecraft","url":"wikipedia.org/wiki/Flamecraft"}
-{"id":"street-new-capenna","name":"Streets of New Capenna","url":"wikipedia.org/wiki/Streets_of_New_Capenna"}
-{"id":"disney-lorcana","name":"Disney_Lorcana","url":"wikipedia.org/wiki/Disney_Lorcana"}
-{"id":"star-wars-cards","name":"Star Wars: The Deckbuilding Game","url":"wikipedia.org/wiki/Star_Wars:_The_Deckbuilding_Game"}
+{"id":"broom-service","name":"Broom Service","url":"wikipedia.org/wiki/Broom_Service_(board_game)","year":"2016"}
+{"id":"hero-realms","name":"Hero Realms","url":"wikipedia.org/wiki/Hero_Realms","year":"2016"}
+{"id":"ophidian-2360","name":"Ophidian 2360","url":"wikipedia.org/wiki/Ophidian_2360","year":"2016"}
+{"id":"oregon-trail-cards","name":"The Oregon Trail Card Game","url":"wikipedia.org/wiki/The_Oregon_Trail_(Pressman_Toys_series)#The_Oregon_Trail_Card_Game","year":"2016"}
+{"id":"star-wars-destiny","name":"Star Wars: Destiny","url":"wikipedia.org/wiki/Star_Wars:_Destiny","year":"2016"}
+{"id":"trumped-up-cards","name":"Trumped Up Cards","url":"wikipedia.org/wiki/Trumped_Up_Cards","year":"2016"}
+{"id":"what-do-you-meme","name":"What Do You Meme?","url":"wikipedia.org/wiki/What_Do_You_Meme%3F","year":"2016"}
+{"id":"legend-five-rings-cards","name":"Legend of the Five Rings: The Card Game","url":"wikipedia.org/wiki/Legend_of_the_Five_Rings:_The_Card_Game","year":"2017"}
+{"id":"taco-cat-goat-cheese-pizza","name":"Taco Cat Goat Cheese Pizza","url":"wikipedia.org/wiki/Taco_Cat_Goat_Cheese_Pizza","year":"2017"}
+{"id":"binding-isaac-four-souls","name":"The Binding of Isaac: Four Souls","url":"wikipedia.org/wiki/The_Binding_of_Isaac:_Four_Souls","year":"2018"}
+{"id":"da-share-z0ne","name":"Da share z0ne","url":"wikipedia.org/wiki/Da_share_z0ne","year":"2018"}
+{"id":"dominaria","name":"Dominaria","url":"wikipedia.org/wiki/Dominaria","year":"2018"}
+{"id":"dos","name":"Dos","url":"wikipedia.org/wiki/Uno_(card_game)#Variations","variant":"uno","year":"2018"}
+{"id":"key-forge","name":"KeyForge","url":"wikipedia.org/wiki/KeyForge","year":"2018"}
+{"id":"take-galaxy","name":"Take the Galaxy","url":"wikipedia.org/wiki/Take_the_Galaxy","year":"2018"}
+{"id":"flesh-blood-cards","name":"Flesh and Blood","disamb":"card game","url":"wikipedia.org/wiki/Flesh_and_Blood_(card_game)","year":"2019"}
+{"id":"mythgard","name":"Mythgard","url":"wikipedia.org/wiki/Mythgard","year":"2019"}
+{"id":"throw-throw-burrito","name":"Throw Throw Burrito","url":"wikipedia.org/wiki/Throw_Throw_Burrito","year":"2019"}
+{"id":"uno-flip","name":"Uno Flip!","url":"wikipedia.org/wiki/Uno_Flip!","year":"2019"}
+{"id":"meta-zoo","name":"MetaZoo","url":"wikipedia.org/wiki/MetaZoo","year":"2020"}
+{"id":"poetry-neanderthals","name":"Poetry for Neanderthals","url":"wikipedia.org/wiki/Poetry_for_Neanderthals","year":"2020"}
+{"id":"flamecraft","name":"Flamecraft","url":"wikipedia.org/wiki/Flamecraft","year":"2022"}
+{"id":"street-new-capenna","name":"Streets of New Capenna","url":"wikipedia.org/wiki/Streets_of_New_Capenna","year":"2022"}
+{"id":"disney-lorcana","name":"Disney Lorcana","url":"wikipedia.org/wiki/Disney_Lorcana","year":"2023"}
+{"id":"star-wars-cards","name":"Star Wars: The Deckbuilding Game","url":"wikipedia.org/wiki/Star_Wars:_The_Deckbuilding_Game","year":"2023"}
