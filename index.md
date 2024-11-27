@@ -5,13 +5,13 @@ navbar: false
 hero:
   name: "Games Across Time"
   tagline: Shall we play a game?
-#  actions:
-#    - theme: alt
-#      text: Browse Games
-#      link: /g/
-#    - theme: alt
-#      text: Mechanisms
-#      link: /m/
+  actions:
+    - theme: alt
+      text: Browse Games
+      link: /g/
+    - theme: alt
+      text: Mechanisms
+      link: /m/
 #    - theme: brand
 #      text: Subscribe
 #      link: /join
@@ -33,4 +33,4 @@ long term this site can provide a lineage of games by tracking game variants as
 they are forked directly from existing games, and a managed service for game
 designers and game artists to come together to create entirely new games.
 
-Last updated in July 2024, come back soon for more!
+Last updated in October 2024, come back soon for more!
